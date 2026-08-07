@@ -8,10 +8,10 @@ export function computeProportionalBubbleRadius(
   if (voteDiff <= 0 || maxVoteDiffInRace <= 0) return 0;
 
   const isEdLayer = boundaryLayer === 'eds';
-  const minRadius = isEdLayer ? 3.0 : 6.0;
-  const maxRadius = isEdLayer ? 18.0 : 38.0;
+  const minRadius = isEdLayer ? 4.0 : 8.0;
+  const maxRadius = isEdLayer ? 24.0 : 54.0;
 
-  // Square-root area proportionality formula: r = r_min + (r_max - r_min) * sqrt(diff / max_diff)
+  // New York Times Square-root area proportionality formula: r = r_min + (r_max - r_min) * sqrt(diff / max_diff)
   const ratio = Math.sqrt(Math.min(Math.max(voteDiff / maxVoteDiffInRace, 0), 1.0));
   return Number((minRadius + ratio * (maxRadius - minRadius)).toFixed(2));
 }

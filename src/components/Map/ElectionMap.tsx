@@ -156,6 +156,8 @@ export const ElectionMap = React.forwardRef<ElectionMapRefHandle, { innerRef?: a
     lastFittedRaceIdRef.current = null;
   }, [selectedElectionId]);
 
+  const mapViewMode = useElectionStore(s => s.mapViewMode);
+
   useEffect(() => {
     const map = mapRef.current;
     if (!map || !map.getSource('boundary-source')) return;
@@ -170,7 +172,7 @@ export const ElectionMap = React.forwardRef<ElectionMapRefHandle, { innerRef?: a
       currentBoundaryGeoJsonRef,
       currentLabelGeoJsonRef
     );
-  }, [activeBoundaryLayer, electionData, drillDownParentDistrict, selectedElectionId]);
+  }, [activeBoundaryLayer, mapViewMode, electionData, drillDownParentDistrict, selectedElectionId]);
 
   return (
     <div className="relative w-full h-full">

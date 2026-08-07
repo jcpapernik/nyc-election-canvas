@@ -50,9 +50,6 @@ export default function Home() {
 
       {/* 2026 Midterm Election Analytics & Pinned Inspector Card */}
       <ElectionMetricsCard />
-
-      {/* NYT-Style Proportional Lead Bubble Size Legend */}
-      <BubbleLegendCard />
     </main>
   );
 }

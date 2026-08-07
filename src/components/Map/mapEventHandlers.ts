@@ -249,4 +249,50 @@ export function attachMapEventHandlers(
     }
     popupRef.current?.remove();
   });
+
+  // Attach event handlers for NYT Proportional Lead Circles ('proportional-bubbles')
+  map.on('mousemove', 'proportional-bubbles', (e) => {
+    const mapViewMode = useElectionStore.getState().mapViewMode;
+    if (mapViewMode === 'choropleth') return;
+    if (!e.features || e.features.length === 0) return;
+
+    const feature = e.features[0];
+    const props = feature.properties || {};
+    map.getCanvas().style.cursor = 'pointer';
+
+    const currentLayer = useElectionStore.getState().activeBoundaryLayer;
+    const clickPt = turf.point([e.lngLat.lng, e.lngLat.lat]);
+    const popupHtml = createTooltipHtml(props, currentLayer, clickPt, boundaryDatasetsRef.current);
+    popupRef.current?.setLngLat(e.lngLat).setHTML(popupHtml).addTo(map);
+  });
+
+  map.on('mouseleave', 'proportional-bubbles', () => {
+    const mapViewMode = useElectionStore.getState().mapViewMode;
+    if (mapViewMode === 'choropleth') return;
+    map.getCanvas().style.cursor = '';
+    popupRef.current?.remove();
+  });
+
+  map.on('click', 'proportional-bubbles', (e) => {
+    const mapViewMode = useElectionStore.getState().mapViewMode;
+    if (mapViewMode === 'choropleth') return;
+    if (!e.features || e.features.length === 0) return;
+
+    const feature = e.features[0];
+    const props = feature.properties || {};
+    const currentLayer = useElectionStore.getState().activeBoundaryLayer;
+
+    let districtResult = null;
+    if (props.districtResultJson) {
+      try { districtResult = JSON.parse(props.districtResultJson); } catch (err) {}
+    }
+
+    const labelText = String(props.labelText || '');
+    setPinnedDistrict({
+      districtId: labelText,
+      districtName: currentLayer === 'eds' ? `ED ${labelText}` : `${currentLayer.toUpperCase()} ${labelText}`,
+      layerType: currentLayer,
+      result: districtResult
+    });
+  });
 }
