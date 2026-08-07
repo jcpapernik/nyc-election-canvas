@@ -46,12 +46,17 @@ export function initMapSourcesAndLayers(map: maplibregl.Map) {
       type: 'circle',
       source: 'centroid-label-source',
       paint: {
-        'circle-radius': ['case', ['has', 'bubbleRadius'], ['get', 'bubbleRadius'], 0],
+        'circle-radius': [
+          'case',
+          ['boolean', ['feature-state', 'hover'], false],
+          ['+', ['case', ['has', 'bubbleRadius'], ['get', 'bubbleRadius'], 0], 4.0],
+          ['case', ['has', 'bubbleRadius'], ['get', 'bubbleRadius'], 0]
+        ],
         'circle-color': ['case', ['has', 'fillColor'], ['get', 'fillColor'], '#3b82f6'],
-        'circle-opacity': 0.65,
-        'circle-stroke-width': 1.5,
-        'circle-stroke-color': ['case', ['has', 'fillColor'], ['get', 'fillColor'], '#1e3a8a'],
-        'circle-stroke-opacity': 0.90
+        'circle-opacity': ['case', ['boolean', ['feature-state', 'hover'], false], 0.95, 0.65],
+        'circle-stroke-width': ['case', ['boolean', ['feature-state', 'hover'], false], 3.0, 1.5],
+        'circle-stroke-color': ['case', ['boolean', ['feature-state', 'hover'], false], '#0f172a', ['case', ['has', 'fillColor'], ['get', 'fillColor'], '#1e3a8a']],
+        'circle-stroke-opacity': 1.0
       }
     });
   }

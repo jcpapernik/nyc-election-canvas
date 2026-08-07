@@ -68,6 +68,7 @@ export function generateBubbleFeatures(
       const isTie = feature.properties?.isTie || false;
 
       bubbleFeatures.push({
+        id: bubbleFeatures.length + 1,
         type: 'Feature',
         properties: {
           labelText,

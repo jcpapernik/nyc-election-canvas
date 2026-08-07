@@ -4,6 +4,7 @@ import * as turf from '@turf/turf';
 import { useElectionStore, BoundaryLayerType } from '@/store/useElectionStore';
 import { BOUNDARY_PROP_NAMES, getCanonicalBorough, normalizeDistrictKey, normalizeParty } from './mapHelpers';
 import { createTooltipHtml } from './mapTooltip';
+import { attachBubbleEventHandlers } from './mapBubbleHandlers';
 
 export function attachMapEventHandlers(
   map: maplibregl.Map,
@@ -19,10 +20,12 @@ export function attachMapEventHandlers(
   let hoveredStateId: string | number | null = null;
 
   map.on('click', 'boundary-fill', (e) => {
+    const mapViewMode = useElectionStore.getState().mapViewMode;
+    if (mapViewMode === 'bubbles') return;
     if (!e.features || e.features.length === 0) return;
+
     const feature = e.features[0];
     const props = feature.properties || {};
-
     const currentElection = useElectionStore.getState().electionData;
     const currentLayer = useElectionStore.getState().activeBoundaryLayer;
 
@@ -78,43 +81,32 @@ export function attachMapEventHandlers(
 
         if (indexList.length > 0) {
           const targetRace = indexList.find(r =>
-            r.districtType === raceType &&
+            r.officeCategory === currentCategory &&
             normalizeParty(r.party) === normParty &&
-            normalizeDistrictKey(r.districtKey) === normClickedKey &&
-            r.officeCategory === currentCategory
-          ) || indexList.find(r =>
-            r.districtType === raceType &&
-            normalizeParty(r.party) === normParty &&
-            normalizeDistrictKey(r.districtKey) === normClickedKey &&
-            !r.name.toLowerCase().includes('judicial') &&
-            !r.name.toLowerCase().includes('judge') &&
-            !r.name.toLowerCase().includes('delegate')
-          ) || indexList.find(r =>
-            r.districtType === raceType &&
-            normalizeDistrictKey(r.districtKey) === normClickedKey
+            (normalizeDistrictKey(r.districtKey) === normClickedKey || r.districtKey === paddedClickedKey)
           );
-
           if (targetRace) targetRaceId = targetRace.id;
         }
 
         if (!targetRaceId) {
-          if (raceType === 'congressional') {
-            targetRaceId = `democratic_representative_in_congress_${paddedClickedKey}`;
-          } else if (raceType === 'assembly') {
-            targetRaceId = `democratic_member_of_the_assembly_${paddedClickedKey}`;
-          } else if (raceType === 'senate') {
-            targetRaceId = `democratic_state_senator_${paddedClickedKey}`;
-          }
+          const partyPrefix = normParty.toLowerCase();
+          const categorySlugMap: Record<string, string> = {
+            'US House (Congressional)': 'representative_in_congress',
+            'NY State Senate': 'state_senator',
+            'NY State Assembly': 'member_of_the_assembly',
+            'NYC City Council': 'member_of_the_city_council',
+            'NY State Committee': 'state_committee'
+          };
+          const slug = categorySlugMap[currentCategory] || raceType;
+          targetRaceId = `${partyPrefix}_${slug}_${paddedClickedKey}`;
         }
 
         if (targetRaceId) {
           lastFittedRaceIdRef.current = null;
-          setPinnedDistrict(null);
-          setDrillDownParent(clickedDistrictKey, ['Full Map', `${raceType.toUpperCase()} ${clickedDistrictKey}`]);
           setSelectedElectionId(targetRaceId);
+          return;
         }
       }
-      return;
     }
 
     const currentElectionState = useElectionStore.getState().electionData;
@@ -161,6 +153,8 @@ export function attachMapEventHandlers(
   });
 
   map.on('dblclick', 'boundary-fill', (e) => {
+    const mapViewMode = useElectionStore.getState().mapViewMode;
+    if (mapViewMode === 'bubbles') return;
     if (!e.features || e.features.length === 0) return;
     const feature = e.features[0];
     const props = feature.properties || {};
@@ -178,15 +172,6 @@ export function attachMapEventHandlers(
       setDrillDownParent(null, ['Full Map', 'Citywide EDs']);
       setActiveBoundaryLayer('eds');
       try {
-        const bounds: [number, number, number, number] = [-74.26, 40.49, -73.69, 40.91];
-        map.fitBounds(bounds, { padding: { top: 90, bottom: 40, left: 320, right: 440 }, duration: 1200 });
-      } catch (err) {}
-    } else if (currentLayer === 'boroughs' && districtName) {
-      e.originalEvent.stopPropagation();
-      const canonicalBoro = getCanonicalBorough(districtName);
-      setDrillDownParent(canonicalBoro, ['Full Map', canonicalBoro]);
-      setActiveBoundaryLayer('eds');
-      try {
         const bbox = turf.bbox(feature as any);
         map.fitBounds(bbox as [number, number, number, number], { padding: { top: 100, bottom: 40, left: 320, right: 440 }, duration: 1500 });
       } catch (err) {}
@@ -198,6 +183,9 @@ export function attachMapEventHandlers(
   });
 
   map.on('mousemove', 'boundary-fill', (e) => {
+    const mapViewMode = useElectionStore.getState().mapViewMode;
+    if (mapViewMode === 'bubbles') return;
+
     if (!e.features || e.features.length === 0) return;
     const feature = e.features[0];
     const props = feature.properties || {};
@@ -250,49 +238,6 @@ export function attachMapEventHandlers(
     popupRef.current?.remove();
   });
 
-  // Attach event handlers for NYT Proportional Lead Circles ('proportional-bubbles')
-  map.on('mousemove', 'proportional-bubbles', (e) => {
-    const mapViewMode = useElectionStore.getState().mapViewMode;
-    if (mapViewMode === 'choropleth') return;
-    if (!e.features || e.features.length === 0) return;
-
-    const feature = e.features[0];
-    const props = feature.properties || {};
-    map.getCanvas().style.cursor = 'pointer';
-
-    const currentLayer = useElectionStore.getState().activeBoundaryLayer;
-    const clickPt = turf.point([e.lngLat.lng, e.lngLat.lat]);
-    const popupHtml = createTooltipHtml(props, currentLayer, clickPt, boundaryDatasetsRef.current);
-    popupRef.current?.setLngLat(e.lngLat).setHTML(popupHtml).addTo(map);
-  });
-
-  map.on('mouseleave', 'proportional-bubbles', () => {
-    const mapViewMode = useElectionStore.getState().mapViewMode;
-    if (mapViewMode === 'choropleth') return;
-    map.getCanvas().style.cursor = '';
-    popupRef.current?.remove();
-  });
-
-  map.on('click', 'proportional-bubbles', (e) => {
-    const mapViewMode = useElectionStore.getState().mapViewMode;
-    if (mapViewMode === 'choropleth') return;
-    if (!e.features || e.features.length === 0) return;
-
-    const feature = e.features[0];
-    const props = feature.properties || {};
-    const currentLayer = useElectionStore.getState().activeBoundaryLayer;
-
-    let districtResult = null;
-    if (props.districtResultJson) {
-      try { districtResult = JSON.parse(props.districtResultJson); } catch (err) {}
-    }
-
-    const labelText = String(props.labelText || '');
-    setPinnedDistrict({
-      districtId: labelText,
-      districtName: currentLayer === 'eds' ? `ED ${labelText}` : `${currentLayer.toUpperCase()} ${labelText}`,
-      layerType: currentLayer,
-      result: districtResult
-    });
-  });
+  // Attach bubble event handlers
+  attachBubbleEventHandlers(map, popupRef, setPinnedDistrict, boundaryDatasetsRef);
 }
