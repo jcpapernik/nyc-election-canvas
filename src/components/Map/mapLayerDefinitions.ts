@@ -40,6 +40,22 @@ export function initMapSourcesAndLayers(map: maplibregl.Map) {
     });
   }
 
+  if (!map.getLayer('proportional-bubbles')) {
+    map.addLayer({
+      id: 'proportional-bubbles',
+      type: 'circle',
+      source: 'centroid-label-source',
+      paint: {
+        'circle-radius': ['case', ['has', 'bubbleRadius'], ['get', 'bubbleRadius'], 0],
+        'circle-color': ['case', ['has', 'fillColor'], ['get', 'fillColor'], '#3b82f6'],
+        'circle-opacity': 0.65,
+        'circle-stroke-width': 1.5,
+        'circle-stroke-color': ['case', ['has', 'fillColor'], ['get', 'fillColor'], '#1e3a8a'],
+        'circle-stroke-opacity': 0.90
+      }
+    });
+  }
+
   if (!map.getLayer('boundary-labels')) {
     map.addLayer({
       id: 'boundary-labels',

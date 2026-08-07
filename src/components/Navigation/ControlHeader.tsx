@@ -76,6 +76,9 @@ export const ControlHeader: React.FC<ControlHeaderProps> = ({ onSearchSelect }) 
     { value: 'congressional', label: 'US Congressional Districts' },
   ];
 
+  const mapViewMode = useElectionStore(s => s.mapViewMode);
+  const setMapViewMode = useElectionStore(s => s.setMapViewMode);
+
   return (
     <>
       <header className="fixed top-0 left-0 right-0 z-30 border-b border-slate-200 bg-white/95 text-slate-900 px-5 py-3 flex flex-col md:flex-row items-center justify-between gap-3 shadow-sm backdrop-blur-md">
@@ -102,6 +105,32 @@ export const ControlHeader: React.FC<ControlHeaderProps> = ({ onSearchSelect }) 
         <AddressSearchBox onSearchSelect={onSearchSelect} />
 
         <div className="flex items-center space-x-2 shrink-0">
+          {/* Map View Mode Segmented Control (Choropleth vs Bubbles vs Hybrid) */}
+          <div className="flex items-center p-0.5 rounded-xl border border-slate-200 bg-slate-100 text-slate-700 text-xs font-bold">
+            <button
+              onClick={() => setMapViewMode('choropleth')}
+              className={`px-2.5 py-1 rounded-lg transition-all ${mapViewMode === 'choropleth' ? 'bg-white text-blue-700 shadow-sm font-extrabold' : 'hover:text-slate-900'}`}
+              title="Standard Shaded Map"
+            >
+              Choropleth
+            </button>
+            <button
+              onClick={() => setMapViewMode('bubbles')}
+              className={`px-2.5 py-1 rounded-lg transition-all ${mapViewMode === 'bubbles' ? 'bg-white text-blue-700 shadow-sm font-extrabold' : 'hover:text-slate-900'}`}
+              title="NYT-Style Proportional Net Vote Difference Bubbles"
+            >
+              Bubbles
+            </button>
+            <button
+              onClick={() => setMapViewMode('hybrid')}
+              className={`px-2.5 py-1 rounded-lg transition-all ${mapViewMode === 'hybrid' ? 'bg-white text-blue-700 shadow-sm font-extrabold' : 'hover:text-slate-900'}`}
+              title="Soft Shading + Proportional Bubbles Overlay"
+            >
+              Hybrid
+            </button>
+          </div>
+
+          {/* Race Selector Modal Trigger Button */}
           <button
             onClick={() => setIsModalOpen(true)}
             className="flex items-center space-x-2 rounded-xl px-3 py-1.5 border border-blue-300 bg-blue-50 text-blue-950 hover:bg-blue-100 text-xs font-extrabold shadow-sm transition-all"
@@ -111,6 +140,7 @@ export const ControlHeader: React.FC<ControlHeaderProps> = ({ onSearchSelect }) 
             <ChevronDown className="w-3.5 h-3.5 text-blue-600 shrink-0" />
           </button>
 
+          {/* Boundary Layer Dropdown */}
           <div className="flex items-center space-x-1.5 rounded-xl p-1 border border-slate-200 bg-slate-100">
             <div className="pl-2 text-slate-600 flex items-center gap-1">
               <Layers className="w-3.5 h-3.5 text-blue-600" />

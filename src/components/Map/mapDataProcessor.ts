@@ -11,6 +11,8 @@ import {
 } from './mapHelpers';
 import { assembleRenderFeatures } from './featureAssembly';
 import { paintRenderFeatures } from './featurePainter';
+import { generateBubbleFeatures } from './mapBubbleProcessor';
+import { useElectionStore } from '@/store/useElectionStore';
 
 export function processAndRenderBoundaryData(
   map: maplibregl.Map,
@@ -184,21 +186,44 @@ export function processAndRenderBoundaryData(
     } catch (err) {}
   }
 
-  const labelFeatures: GeoJSON.Feature[] = [];
+  const labelFeatures = generateBubbleFeatures(
+    districtLabelMap,
+    boundaryLayer,
+    getPoleOfInaccessibilityFast
+  );
 
-  districtLabelMap.forEach(({ feature, labelKey }, labelText) => {
-    const centerPt = getPoleOfInaccessibilityFast(feature, labelKey);
-    if (centerPt) {
-      labelFeatures.push({
-        type: 'Feature',
-        properties: { labelText },
-        geometry: {
-          type: 'Point',
-          coordinates: centerPt
-        }
-      });
+  const mapViewMode = useElectionStore.getState().mapViewMode;
+
+  // Sync layer opacities based on mapViewMode ('choropleth' | 'bubbles' | 'hybrid')
+  if (map.getLayer('boundary-fill')) {
+    if (mapViewMode === 'bubbles') {
+      map.setPaintProperty('boundary-fill', 'fill-opacity', 0.04);
+    } else if (mapViewMode === 'hybrid') {
+      map.setPaintProperty('boundary-fill', 'fill-opacity', [
+        'case',
+        ['boolean', ['feature-state', 'hover'], false], 0.85,
+        ['has', 'fillOpacity'], ['*', ['get', 'fillOpacity'], 0.45],
+        0.30
+      ]);
+    } else {
+      map.setPaintProperty('boundary-fill', 'fill-opacity', [
+        'case',
+        ['boolean', ['feature-state', 'hover'], false], 0.95,
+        ['has', 'fillOpacity'], ['get', 'fillOpacity'],
+        0.88
+      ]);
     }
-  });
+  }
+
+  if (map.getLayer('proportional-bubbles')) {
+    if (mapViewMode === 'choropleth') {
+      map.setPaintProperty('proportional-bubbles', 'circle-opacity', 0);
+      map.setPaintProperty('proportional-bubbles', 'circle-stroke-opacity', 0);
+    } else {
+      map.setPaintProperty('proportional-bubbles', 'circle-opacity', 0.65);
+      map.setPaintProperty('proportional-bubbles', 'circle-stroke-opacity', 0.90);
+    }
+  }
 
   currentBoundaryGeoJsonRef.current = {
     type: 'FeatureCollection',

@@ -6,6 +6,7 @@ import { ControlHeader } from '@/components/Navigation/ControlHeader';
 import { BreadcrumbBar } from '@/components/Navigation/BreadcrumbBar';
 import { MultiDistrictCard } from '@/components/Cards/MultiDistrictCard';
 import { ElectionMetricsCard } from '@/components/Cards/ElectionMetricsCard';
+import { BubbleLegendCard } from '@/components/Cards/BubbleLegendCard';
 import { ElectionMapRefHandle } from '@/components/Map/ElectionMap';
 
 const ElectionMapClient = dynamic(
@@ -49,6 +50,9 @@ export default function Home() {
 
       {/* 2026 Midterm Election Analytics & Pinned Inspector Card */}
       <ElectionMetricsCard />
+
+      {/* NYT-Style Proportional Lead Bubble Size Legend */}
+      <BubbleLegendCard />
     </main>
   );
 }

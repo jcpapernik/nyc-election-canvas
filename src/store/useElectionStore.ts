@@ -41,6 +41,8 @@ export interface ElectionData {
   edResults?: Record<string, DistrictElectionResult>;
 }
 
+export type MapViewMode = 'choropleth' | 'bubbles' | 'hybrid';
+
 export interface PinnedDistrict {
   districtId: string;
   districtName: string;
@@ -50,6 +52,7 @@ export interface PinnedDistrict {
 
 interface ElectionStoreState {
   activeBoundaryLayer: BoundaryLayerType;
+  mapViewMode: MapViewMode;
   themeMode: ThemeMode;
   selectedLocation: SelectedLocation | null;
   multiDistrictSummary: MultiDistrictSummary | null;
@@ -62,6 +65,7 @@ interface ElectionStoreState {
   pinnedDistrict: PinnedDistrict | null;
 
   setActiveBoundaryLayer: (layer: BoundaryLayerType) => void;
+  setMapViewMode: (mode: MapViewMode) => void;
   setThemeMode: (theme: ThemeMode) => void;
   toggleThemeMode: () => void;
   setSelectedLocation: (loc: SelectedLocation | null, summary?: MultiDistrictSummary | null) => void;
@@ -75,6 +79,7 @@ interface ElectionStoreState {
 
 export const useElectionStore = create<ElectionStoreState>((set) => ({
   activeBoundaryLayer: 'congressional',
+  mapViewMode: 'choropleth',
   themeMode: 'light',
   selectedLocation: null,
   multiDistrictSummary: null,
@@ -86,6 +91,7 @@ export const useElectionStore = create<ElectionStoreState>((set) => ({
   pinnedDistrict: null,
 
   setActiveBoundaryLayer: (layer) => set({ activeBoundaryLayer: layer }),
+  setMapViewMode: (mode) => set({ mapViewMode: mode }),
   setThemeMode: () => set({ themeMode: 'light' }),
   toggleThemeMode: () => set({ themeMode: 'light' }),
   setSelectedLocation: (loc, summary = null) => set({ selectedLocation: loc, multiDistrictSummary: summary }),
@@ -94,7 +100,7 @@ export const useElectionStore = create<ElectionStoreState>((set) => ({
     selectedElectionId: id, 
     drillDownParentDistrict: null, 
     pinnedDistrict: null,
-    electionData: null // Clear stale election data immediately to prevent 1-step race lag
+    electionData: null
   }),
   setElectionData: (data) => set((state) => ({ 
     electionData: data,
