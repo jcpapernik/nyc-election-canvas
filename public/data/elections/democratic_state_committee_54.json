@@ -1,0 +1,5980 @@
+{
+  "id": "democratic_state_committee_54",
+  "name": "2026 Primary - State Committee District 54",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "Judicial & Party Offices",
+  "districtKey": "54",
+  "districtType": "congressional",
+  "isUncontested": false,
+  "candidates": [
+    {
+      "id": "sandy_nurse_(f)",
+      "name": "Sandy Nurse (F)",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#d97706"
+    },
+    {
+      "id": "alan_gamboa_(m)",
+      "name": "Alan Gamboa (M)",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#7c3aed"
+    },
+    {
+      "id": "arleny_alvarado-mccalla_(f)",
+      "name": "Arleny Alvarado-McCalla (F)",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#059669"
+    },
+    {
+      "id": "heriberto_mateo_(m)",
+      "name": "Heriberto Mateo (M)",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#0891b2"
+    },
+    {
+      "id": "scattered",
+      "name": "Scattered",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#4f46e5"
+    }
+  ],
+  "results": {
+    "54": {
+      "votes": {
+        "sandy_nurse_f_": 4975,
+        "alan_gamboa_m_": 2250,
+        "arleny_alvarado_mccalla_f_": 2090,
+        "heriberto_mateo_m_": 1424,
+        "scattered": 50
+      },
+      "total": 10789,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 25.3,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    }
+  },
+  "edResults": {
+    "54001": {
+      "votes": {
+        "sandy_nurse_f_": 10,
+        "alan_gamboa_m_": 4,
+        "arleny_alvarado_mccalla_f_": 4,
+        "heriberto_mateo_m_": 2,
+        "scattered": 0
+      },
+      "total": 20,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 30,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54002": {
+      "votes": {
+        "sandy_nurse_f_": 56,
+        "alan_gamboa_m_": 26,
+        "arleny_alvarado_mccalla_f_": 20,
+        "heriberto_mateo_m_": 11,
+        "scattered": 0
+      },
+      "total": 113,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 26.5,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54003": {
+      "votes": {
+        "sandy_nurse_f_": 40,
+        "alan_gamboa_m_": 21,
+        "arleny_alvarado_mccalla_f_": 15,
+        "heriberto_mateo_m_": 11,
+        "scattered": 0
+      },
+      "total": 87,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 21.8,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54004": {
+      "votes": {
+        "sandy_nurse_f_": 47,
+        "alan_gamboa_m_": 20,
+        "arleny_alvarado_mccalla_f_": 39,
+        "heriberto_mateo_m_": 21,
+        "scattered": 0
+      },
+      "total": 127,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 6.3,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54005": {
+      "votes": {
+        "sandy_nurse_f_": 19,
+        "alan_gamboa_m_": 7,
+        "arleny_alvarado_mccalla_f_": 12,
+        "heriberto_mateo_m_": 10,
+        "scattered": 0
+      },
+      "total": 48,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 14.6,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54006": {
+      "votes": {
+        "sandy_nurse_f_": 36,
+        "alan_gamboa_m_": 15,
+        "arleny_alvarado_mccalla_f_": 21,
+        "heriberto_mateo_m_": 19,
+        "scattered": 2
+      },
+      "total": 93,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 16.1,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54007": {
+      "votes": {
+        "sandy_nurse_f_": 41,
+        "alan_gamboa_m_": 16,
+        "arleny_alvarado_mccalla_f_": 14,
+        "heriberto_mateo_m_": 13,
+        "scattered": 1
+      },
+      "total": 85,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 29.4,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54008": {
+      "votes": {
+        "sandy_nurse_f_": 54,
+        "alan_gamboa_m_": 15,
+        "arleny_alvarado_mccalla_f_": 23,
+        "heriberto_mateo_m_": 20,
+        "scattered": 3
+      },
+      "total": 115,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 27,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54009": {
+      "votes": {
+        "sandy_nurse_f_": 24,
+        "alan_gamboa_m_": 9,
+        "arleny_alvarado_mccalla_f_": 10,
+        "heriberto_mateo_m_": 13,
+        "scattered": 0
+      },
+      "total": 56,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 19.6,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54010": {
+      "votes": {
+        "sandy_nurse_f_": 38,
+        "alan_gamboa_m_": 16,
+        "arleny_alvarado_mccalla_f_": 27,
+        "heriberto_mateo_m_": 17,
+        "scattered": 0
+      },
+      "total": 98,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 11.2,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54011": {
+      "votes": {
+        "sandy_nurse_f_": 29,
+        "alan_gamboa_m_": 11,
+        "arleny_alvarado_mccalla_f_": 29,
+        "heriberto_mateo_m_": 26,
+        "scattered": 0
+      },
+      "total": 95,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54012": {
+      "votes": {
+        "sandy_nurse_f_": 43,
+        "alan_gamboa_m_": 15,
+        "arleny_alvarado_mccalla_f_": 21,
+        "heriberto_mateo_m_": 12,
+        "scattered": 1
+      },
+      "total": 92,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 23.9,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54013": {
+      "votes": {
+        "sandy_nurse_f_": 38,
+        "alan_gamboa_m_": 12,
+        "arleny_alvarado_mccalla_f_": 22,
+        "heriberto_mateo_m_": 11,
+        "scattered": 0
+      },
+      "total": 83,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 19.3,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54014": {
+      "votes": {
+        "sandy_nurse_f_": 33,
+        "alan_gamboa_m_": 10,
+        "arleny_alvarado_mccalla_f_": 27,
+        "heriberto_mateo_m_": 16,
+        "scattered": 1
+      },
+      "total": 87,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 6.9,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54015": {
+      "votes": {
+        "sandy_nurse_f_": 57,
+        "alan_gamboa_m_": 31,
+        "arleny_alvarado_mccalla_f_": 23,
+        "heriberto_mateo_m_": 21,
+        "scattered": 1
+      },
+      "total": 133,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 19.5,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54016": {
+      "votes": {
+        "sandy_nurse_f_": 35,
+        "alan_gamboa_m_": 9,
+        "arleny_alvarado_mccalla_f_": 17,
+        "heriberto_mateo_m_": 16,
+        "scattered": 0
+      },
+      "total": 77,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 23.4,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54017": {
+      "votes": {
+        "sandy_nurse_f_": 39,
+        "alan_gamboa_m_": 10,
+        "arleny_alvarado_mccalla_f_": 12,
+        "heriberto_mateo_m_": 12,
+        "scattered": 0
+      },
+      "total": 73,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 37,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54018": {
+      "votes": {
+        "sandy_nurse_f_": 84,
+        "alan_gamboa_m_": 29,
+        "arleny_alvarado_mccalla_f_": 36,
+        "heriberto_mateo_m_": 42,
+        "scattered": 2
+      },
+      "total": 193,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 21.8,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54019": {
+      "votes": {
+        "sandy_nurse_f_": 44,
+        "alan_gamboa_m_": 11,
+        "arleny_alvarado_mccalla_f_": 21,
+        "heriberto_mateo_m_": 31,
+        "scattered": 0
+      },
+      "total": 107,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 12.1,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54020": {
+      "votes": {
+        "sandy_nurse_f_": 25,
+        "alan_gamboa_m_": 3,
+        "arleny_alvarado_mccalla_f_": 14,
+        "heriberto_mateo_m_": 13,
+        "scattered": 0
+      },
+      "total": 55,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 20,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54021": {
+      "votes": {
+        "sandy_nurse_f_": 19,
+        "alan_gamboa_m_": 8,
+        "arleny_alvarado_mccalla_f_": 13,
+        "heriberto_mateo_m_": 16,
+        "scattered": 0
+      },
+      "total": 56,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 5.4,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54022": {
+      "votes": {
+        "sandy_nurse_f_": 28,
+        "alan_gamboa_m_": 7,
+        "arleny_alvarado_mccalla_f_": 26,
+        "heriberto_mateo_m_": 20,
+        "scattered": 0
+      },
+      "total": 81,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 2.5,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54023": {
+      "votes": {
+        "sandy_nurse_f_": 52,
+        "alan_gamboa_m_": 18,
+        "arleny_alvarado_mccalla_f_": 26,
+        "heriberto_mateo_m_": 39,
+        "scattered": 0
+      },
+      "total": 135,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 9.6,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54024": {
+      "votes": {
+        "sandy_nurse_f_": 39,
+        "alan_gamboa_m_": 10,
+        "arleny_alvarado_mccalla_f_": 13,
+        "heriberto_mateo_m_": 21,
+        "scattered": 0
+      },
+      "total": 83,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 21.7,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54025": {
+      "votes": {
+        "sandy_nurse_f_": 44,
+        "alan_gamboa_m_": 22,
+        "arleny_alvarado_mccalla_f_": 19,
+        "heriberto_mateo_m_": 15,
+        "scattered": 0
+      },
+      "total": 100,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 22,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54026": {
+      "votes": {
+        "sandy_nurse_f_": 39,
+        "alan_gamboa_m_": 18,
+        "arleny_alvarado_mccalla_f_": 16,
+        "heriberto_mateo_m_": 14,
+        "scattered": 0
+      },
+      "total": 87,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 24.1,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54027": {
+      "votes": {
+        "sandy_nurse_f_": 45,
+        "alan_gamboa_m_": 16,
+        "arleny_alvarado_mccalla_f_": 29,
+        "heriberto_mateo_m_": 19,
+        "scattered": 0
+      },
+      "total": 109,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 14.7,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54028": {
+      "votes": {
+        "sandy_nurse_f_": 48,
+        "alan_gamboa_m_": 24,
+        "arleny_alvarado_mccalla_f_": 14,
+        "heriberto_mateo_m_": 21,
+        "scattered": 1
+      },
+      "total": 108,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 22.2,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54029": {
+      "votes": {
+        "sandy_nurse_f_": 67,
+        "alan_gamboa_m_": 29,
+        "arleny_alvarado_mccalla_f_": 30,
+        "heriberto_mateo_m_": 26,
+        "scattered": 2
+      },
+      "total": 154,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 24,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54030": {
+      "votes": {
+        "sandy_nurse_f_": 37,
+        "alan_gamboa_m_": 12,
+        "arleny_alvarado_mccalla_f_": 19,
+        "heriberto_mateo_m_": 31,
+        "scattered": 1
+      },
+      "total": 100,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 6,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54031": {
+      "votes": {
+        "sandy_nurse_f_": 58,
+        "alan_gamboa_m_": 23,
+        "arleny_alvarado_mccalla_f_": 44,
+        "heriberto_mateo_m_": 49,
+        "scattered": 0
+      },
+      "total": 174,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 5.2,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54032": {
+      "votes": {
+        "sandy_nurse_f_": 44,
+        "alan_gamboa_m_": 11,
+        "arleny_alvarado_mccalla_f_": 27,
+        "heriberto_mateo_m_": 28,
+        "scattered": 0
+      },
+      "total": 110,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 14.5,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54033": {
+      "votes": {
+        "sandy_nurse_f_": 56,
+        "alan_gamboa_m_": 18,
+        "arleny_alvarado_mccalla_f_": 43,
+        "heriberto_mateo_m_": 42,
+        "scattered": 0
+      },
+      "total": 159,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 8.2,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54034": {
+      "votes": {
+        "sandy_nurse_f_": 54,
+        "alan_gamboa_m_": 17,
+        "arleny_alvarado_mccalla_f_": 34,
+        "heriberto_mateo_m_": 38,
+        "scattered": 0
+      },
+      "total": 143,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 11.2,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54035": {
+      "votes": {
+        "sandy_nurse_f_": 100,
+        "alan_gamboa_m_": 32,
+        "arleny_alvarado_mccalla_f_": 51,
+        "heriberto_mateo_m_": 40,
+        "scattered": 0
+      },
+      "total": 223,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 22,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54036": {
+      "votes": {
+        "sandy_nurse_f_": 132,
+        "alan_gamboa_m_": 35,
+        "arleny_alvarado_mccalla_f_": 59,
+        "heriberto_mateo_m_": 54,
+        "scattered": 0
+      },
+      "total": 280,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 26.1,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54037": {
+      "votes": {
+        "sandy_nurse_f_": 106,
+        "alan_gamboa_m_": 46,
+        "arleny_alvarado_mccalla_f_": 35,
+        "heriberto_mateo_m_": 16,
+        "scattered": 0
+      },
+      "total": 203,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 29.6,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54038": {
+      "votes": {
+        "sandy_nurse_f_": 209,
+        "alan_gamboa_m_": 95,
+        "arleny_alvarado_mccalla_f_": 75,
+        "heriberto_mateo_m_": 41,
+        "scattered": 0
+      },
+      "total": 420,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 27.1,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54039": {
+      "votes": {
+        "sandy_nurse_f_": 205,
+        "alan_gamboa_m_": 105,
+        "arleny_alvarado_mccalla_f_": 83,
+        "heriberto_mateo_m_": 33,
+        "scattered": 0
+      },
+      "total": 426,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 23.5,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54040": {
+      "votes": {
+        "sandy_nurse_f_": 158,
+        "alan_gamboa_m_": 80,
+        "arleny_alvarado_mccalla_f_": 52,
+        "heriberto_mateo_m_": 20,
+        "scattered": 8
+      },
+      "total": 318,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 24.5,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54041": {
+      "votes": {
+        "sandy_nurse_f_": 178,
+        "alan_gamboa_m_": 87,
+        "arleny_alvarado_mccalla_f_": 62,
+        "heriberto_mateo_m_": 26,
+        "scattered": 1
+      },
+      "total": 354,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 25.7,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54042": {
+      "votes": {
+        "sandy_nurse_f_": 127,
+        "alan_gamboa_m_": 70,
+        "arleny_alvarado_mccalla_f_": 45,
+        "heriberto_mateo_m_": 21,
+        "scattered": 0
+      },
+      "total": 263,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 21.7,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54043": {
+      "votes": {
+        "sandy_nurse_f_": 186,
+        "alan_gamboa_m_": 85,
+        "arleny_alvarado_mccalla_f_": 67,
+        "heriberto_mateo_m_": 31,
+        "scattered": 2
+      },
+      "total": 371,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 27.2,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54044": {
+      "votes": {
+        "sandy_nurse_f_": 196,
+        "alan_gamboa_m_": 95,
+        "arleny_alvarado_mccalla_f_": 69,
+        "heriberto_mateo_m_": 26,
+        "scattered": 1
+      },
+      "total": 387,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 26.1,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54045": {
+      "votes": {
+        "sandy_nurse_f_": 176,
+        "alan_gamboa_m_": 80,
+        "arleny_alvarado_mccalla_f_": 76,
+        "heriberto_mateo_m_": 51,
+        "scattered": 0
+      },
+      "total": 383,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 25.1,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54046": {
+      "votes": {
+        "sandy_nurse_f_": 153,
+        "alan_gamboa_m_": 78,
+        "arleny_alvarado_mccalla_f_": 69,
+        "heriberto_mateo_m_": 16,
+        "scattered": 0
+      },
+      "total": 316,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 23.7,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54047": {
+      "votes": {
+        "sandy_nurse_f_": 187,
+        "alan_gamboa_m_": 87,
+        "arleny_alvarado_mccalla_f_": 79,
+        "heriberto_mateo_m_": 40,
+        "scattered": 3
+      },
+      "total": 396,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 25.3,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54048": {
+      "votes": {
+        "sandy_nurse_f_": 169,
+        "alan_gamboa_m_": 85,
+        "arleny_alvarado_mccalla_f_": 71,
+        "heriberto_mateo_m_": 38,
+        "scattered": 2
+      },
+      "total": 365,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 23,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54049": {
+      "votes": {
+        "sandy_nurse_f_": 153,
+        "alan_gamboa_m_": 79,
+        "arleny_alvarado_mccalla_f_": 68,
+        "heriberto_mateo_m_": 28,
+        "scattered": 5
+      },
+      "total": 333,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 22.2,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54050": {
+      "votes": {
+        "sandy_nurse_f_": 178,
+        "alan_gamboa_m_": 95,
+        "arleny_alvarado_mccalla_f_": 43,
+        "heriberto_mateo_m_": 38,
+        "scattered": 0
+      },
+      "total": 354,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 23.4,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54051": {
+      "votes": {
+        "sandy_nurse_f_": 138,
+        "alan_gamboa_m_": 63,
+        "arleny_alvarado_mccalla_f_": 49,
+        "heriberto_mateo_m_": 27,
+        "scattered": 0
+      },
+      "total": 277,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 27.1,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54052": {
+      "votes": {
+        "sandy_nurse_f_": 123,
+        "alan_gamboa_m_": 65,
+        "arleny_alvarado_mccalla_f_": 42,
+        "heriberto_mateo_m_": 39,
+        "scattered": 1
+      },
+      "total": 270,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 21.5,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54053": {
+      "votes": {
+        "sandy_nurse_f_": 129,
+        "alan_gamboa_m_": 75,
+        "arleny_alvarado_mccalla_f_": 41,
+        "heriberto_mateo_m_": 23,
+        "scattered": 4
+      },
+      "total": 272,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 19.9,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54054": {
+      "votes": {
+        "sandy_nurse_f_": 132,
+        "alan_gamboa_m_": 52,
+        "arleny_alvarado_mccalla_f_": 47,
+        "heriberto_mateo_m_": 10,
+        "scattered": 1
+      },
+      "total": 242,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 33.1,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54055": {
+      "votes": {
+        "sandy_nurse_f_": 101,
+        "alan_gamboa_m_": 47,
+        "arleny_alvarado_mccalla_f_": 43,
+        "heriberto_mateo_m_": 21,
+        "scattered": 4
+      },
+      "total": 216,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 25,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54056": {
+      "votes": {
+        "sandy_nurse_f_": 156,
+        "alan_gamboa_m_": 94,
+        "arleny_alvarado_mccalla_f_": 50,
+        "heriberto_mateo_m_": 24,
+        "scattered": 1
+      },
+      "total": 325,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 19.1,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54057": {
+      "votes": {
+        "sandy_nurse_f_": 142,
+        "alan_gamboa_m_": 88,
+        "arleny_alvarado_mccalla_f_": 49,
+        "heriberto_mateo_m_": 40,
+        "scattered": 1
+      },
+      "total": 320,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 16.9,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54058": {
+      "votes": {
+        "sandy_nurse_f_": 18,
+        "alan_gamboa_m_": 8,
+        "arleny_alvarado_mccalla_f_": 5,
+        "heriberto_mateo_m_": 5,
+        "scattered": 1
+      },
+      "total": 37,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 27,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54059": {
+      "votes": {
+        "sandy_nurse_f_": 1,
+        "alan_gamboa_m_": 1,
+        "arleny_alvarado_mccalla_f_": 0,
+        "heriberto_mateo_m_": 0,
+        "scattered": 0
+      },
+      "total": 2,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54060": {
+      "votes": {
+        "sandy_nurse_f_": 0,
+        "alan_gamboa_m_": 0,
+        "arleny_alvarado_mccalla_f_": 0,
+        "heriberto_mateo_m_": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54/001": {
+      "votes": {
+        "sandy_nurse_f_": 10,
+        "alan_gamboa_m_": 4,
+        "arleny_alvarado_mccalla_f_": 4,
+        "heriberto_mateo_m_": 2,
+        "scattered": 0
+      },
+      "total": 20,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 30,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54/002": {
+      "votes": {
+        "sandy_nurse_f_": 56,
+        "alan_gamboa_m_": 26,
+        "arleny_alvarado_mccalla_f_": 20,
+        "heriberto_mateo_m_": 11,
+        "scattered": 0
+      },
+      "total": 113,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 26.5,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54/003": {
+      "votes": {
+        "sandy_nurse_f_": 40,
+        "alan_gamboa_m_": 21,
+        "arleny_alvarado_mccalla_f_": 15,
+        "heriberto_mateo_m_": 11,
+        "scattered": 0
+      },
+      "total": 87,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 21.8,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54/004": {
+      "votes": {
+        "sandy_nurse_f_": 47,
+        "alan_gamboa_m_": 20,
+        "arleny_alvarado_mccalla_f_": 39,
+        "heriberto_mateo_m_": 21,
+        "scattered": 0
+      },
+      "total": 127,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 6.3,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54/005": {
+      "votes": {
+        "sandy_nurse_f_": 19,
+        "alan_gamboa_m_": 7,
+        "arleny_alvarado_mccalla_f_": 12,
+        "heriberto_mateo_m_": 10,
+        "scattered": 0
+      },
+      "total": 48,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 14.6,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54/006": {
+      "votes": {
+        "sandy_nurse_f_": 36,
+        "alan_gamboa_m_": 15,
+        "arleny_alvarado_mccalla_f_": 21,
+        "heriberto_mateo_m_": 19,
+        "scattered": 2
+      },
+      "total": 93,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 16.1,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54/007": {
+      "votes": {
+        "sandy_nurse_f_": 41,
+        "alan_gamboa_m_": 16,
+        "arleny_alvarado_mccalla_f_": 14,
+        "heriberto_mateo_m_": 13,
+        "scattered": 1
+      },
+      "total": 85,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 29.4,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54/008": {
+      "votes": {
+        "sandy_nurse_f_": 54,
+        "alan_gamboa_m_": 15,
+        "arleny_alvarado_mccalla_f_": 23,
+        "heriberto_mateo_m_": 20,
+        "scattered": 3
+      },
+      "total": 115,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 27,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54/009": {
+      "votes": {
+        "sandy_nurse_f_": 24,
+        "alan_gamboa_m_": 9,
+        "arleny_alvarado_mccalla_f_": 10,
+        "heriberto_mateo_m_": 13,
+        "scattered": 0
+      },
+      "total": 56,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 19.6,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54/010": {
+      "votes": {
+        "sandy_nurse_f_": 38,
+        "alan_gamboa_m_": 16,
+        "arleny_alvarado_mccalla_f_": 27,
+        "heriberto_mateo_m_": 17,
+        "scattered": 0
+      },
+      "total": 98,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 11.2,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54/011": {
+      "votes": {
+        "sandy_nurse_f_": 29,
+        "alan_gamboa_m_": 11,
+        "arleny_alvarado_mccalla_f_": 29,
+        "heriberto_mateo_m_": 26,
+        "scattered": 0
+      },
+      "total": 95,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54/012": {
+      "votes": {
+        "sandy_nurse_f_": 43,
+        "alan_gamboa_m_": 15,
+        "arleny_alvarado_mccalla_f_": 21,
+        "heriberto_mateo_m_": 12,
+        "scattered": 1
+      },
+      "total": 92,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 23.9,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54/013": {
+      "votes": {
+        "sandy_nurse_f_": 38,
+        "alan_gamboa_m_": 12,
+        "arleny_alvarado_mccalla_f_": 22,
+        "heriberto_mateo_m_": 11,
+        "scattered": 0
+      },
+      "total": 83,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 19.3,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54/014": {
+      "votes": {
+        "sandy_nurse_f_": 33,
+        "alan_gamboa_m_": 10,
+        "arleny_alvarado_mccalla_f_": 27,
+        "heriberto_mateo_m_": 16,
+        "scattered": 1
+      },
+      "total": 87,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 6.9,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54/015": {
+      "votes": {
+        "sandy_nurse_f_": 57,
+        "alan_gamboa_m_": 31,
+        "arleny_alvarado_mccalla_f_": 23,
+        "heriberto_mateo_m_": 21,
+        "scattered": 1
+      },
+      "total": 133,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 19.5,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54/016": {
+      "votes": {
+        "sandy_nurse_f_": 35,
+        "alan_gamboa_m_": 9,
+        "arleny_alvarado_mccalla_f_": 17,
+        "heriberto_mateo_m_": 16,
+        "scattered": 0
+      },
+      "total": 77,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 23.4,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54/017": {
+      "votes": {
+        "sandy_nurse_f_": 39,
+        "alan_gamboa_m_": 10,
+        "arleny_alvarado_mccalla_f_": 12,
+        "heriberto_mateo_m_": 12,
+        "scattered": 0
+      },
+      "total": 73,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 37,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54/018": {
+      "votes": {
+        "sandy_nurse_f_": 84,
+        "alan_gamboa_m_": 29,
+        "arleny_alvarado_mccalla_f_": 36,
+        "heriberto_mateo_m_": 42,
+        "scattered": 2
+      },
+      "total": 193,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 21.8,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54/019": {
+      "votes": {
+        "sandy_nurse_f_": 44,
+        "alan_gamboa_m_": 11,
+        "arleny_alvarado_mccalla_f_": 21,
+        "heriberto_mateo_m_": 31,
+        "scattered": 0
+      },
+      "total": 107,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 12.1,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54/020": {
+      "votes": {
+        "sandy_nurse_f_": 25,
+        "alan_gamboa_m_": 3,
+        "arleny_alvarado_mccalla_f_": 14,
+        "heriberto_mateo_m_": 13,
+        "scattered": 0
+      },
+      "total": 55,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 20,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54/021": {
+      "votes": {
+        "sandy_nurse_f_": 19,
+        "alan_gamboa_m_": 8,
+        "arleny_alvarado_mccalla_f_": 13,
+        "heriberto_mateo_m_": 16,
+        "scattered": 0
+      },
+      "total": 56,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 5.4,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54/022": {
+      "votes": {
+        "sandy_nurse_f_": 28,
+        "alan_gamboa_m_": 7,
+        "arleny_alvarado_mccalla_f_": 26,
+        "heriberto_mateo_m_": 20,
+        "scattered": 0
+      },
+      "total": 81,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 2.5,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54/023": {
+      "votes": {
+        "sandy_nurse_f_": 52,
+        "alan_gamboa_m_": 18,
+        "arleny_alvarado_mccalla_f_": 26,
+        "heriberto_mateo_m_": 39,
+        "scattered": 0
+      },
+      "total": 135,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 9.6,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54/024": {
+      "votes": {
+        "sandy_nurse_f_": 39,
+        "alan_gamboa_m_": 10,
+        "arleny_alvarado_mccalla_f_": 13,
+        "heriberto_mateo_m_": 21,
+        "scattered": 0
+      },
+      "total": 83,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 21.7,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54/025": {
+      "votes": {
+        "sandy_nurse_f_": 44,
+        "alan_gamboa_m_": 22,
+        "arleny_alvarado_mccalla_f_": 19,
+        "heriberto_mateo_m_": 15,
+        "scattered": 0
+      },
+      "total": 100,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 22,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54/026": {
+      "votes": {
+        "sandy_nurse_f_": 39,
+        "alan_gamboa_m_": 18,
+        "arleny_alvarado_mccalla_f_": 16,
+        "heriberto_mateo_m_": 14,
+        "scattered": 0
+      },
+      "total": 87,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 24.1,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54/027": {
+      "votes": {
+        "sandy_nurse_f_": 45,
+        "alan_gamboa_m_": 16,
+        "arleny_alvarado_mccalla_f_": 29,
+        "heriberto_mateo_m_": 19,
+        "scattered": 0
+      },
+      "total": 109,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 14.7,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54/028": {
+      "votes": {
+        "sandy_nurse_f_": 48,
+        "alan_gamboa_m_": 24,
+        "arleny_alvarado_mccalla_f_": 14,
+        "heriberto_mateo_m_": 21,
+        "scattered": 1
+      },
+      "total": 108,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 22.2,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54/029": {
+      "votes": {
+        "sandy_nurse_f_": 67,
+        "alan_gamboa_m_": 29,
+        "arleny_alvarado_mccalla_f_": 30,
+        "heriberto_mateo_m_": 26,
+        "scattered": 2
+      },
+      "total": 154,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 24,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54/030": {
+      "votes": {
+        "sandy_nurse_f_": 37,
+        "alan_gamboa_m_": 12,
+        "arleny_alvarado_mccalla_f_": 19,
+        "heriberto_mateo_m_": 31,
+        "scattered": 1
+      },
+      "total": 100,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 6,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54/031": {
+      "votes": {
+        "sandy_nurse_f_": 58,
+        "alan_gamboa_m_": 23,
+        "arleny_alvarado_mccalla_f_": 44,
+        "heriberto_mateo_m_": 49,
+        "scattered": 0
+      },
+      "total": 174,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 5.2,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54/032": {
+      "votes": {
+        "sandy_nurse_f_": 44,
+        "alan_gamboa_m_": 11,
+        "arleny_alvarado_mccalla_f_": 27,
+        "heriberto_mateo_m_": 28,
+        "scattered": 0
+      },
+      "total": 110,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 14.5,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54/033": {
+      "votes": {
+        "sandy_nurse_f_": 56,
+        "alan_gamboa_m_": 18,
+        "arleny_alvarado_mccalla_f_": 43,
+        "heriberto_mateo_m_": 42,
+        "scattered": 0
+      },
+      "total": 159,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 8.2,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54/034": {
+      "votes": {
+        "sandy_nurse_f_": 54,
+        "alan_gamboa_m_": 17,
+        "arleny_alvarado_mccalla_f_": 34,
+        "heriberto_mateo_m_": 38,
+        "scattered": 0
+      },
+      "total": 143,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 11.2,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54/035": {
+      "votes": {
+        "sandy_nurse_f_": 100,
+        "alan_gamboa_m_": 32,
+        "arleny_alvarado_mccalla_f_": 51,
+        "heriberto_mateo_m_": 40,
+        "scattered": 0
+      },
+      "total": 223,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 22,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54/036": {
+      "votes": {
+        "sandy_nurse_f_": 132,
+        "alan_gamboa_m_": 35,
+        "arleny_alvarado_mccalla_f_": 59,
+        "heriberto_mateo_m_": 54,
+        "scattered": 0
+      },
+      "total": 280,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 26.1,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54/037": {
+      "votes": {
+        "sandy_nurse_f_": 106,
+        "alan_gamboa_m_": 46,
+        "arleny_alvarado_mccalla_f_": 35,
+        "heriberto_mateo_m_": 16,
+        "scattered": 0
+      },
+      "total": 203,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 29.6,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54/038": {
+      "votes": {
+        "sandy_nurse_f_": 209,
+        "alan_gamboa_m_": 95,
+        "arleny_alvarado_mccalla_f_": 75,
+        "heriberto_mateo_m_": 41,
+        "scattered": 0
+      },
+      "total": 420,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 27.1,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54/039": {
+      "votes": {
+        "sandy_nurse_f_": 205,
+        "alan_gamboa_m_": 105,
+        "arleny_alvarado_mccalla_f_": 83,
+        "heriberto_mateo_m_": 33,
+        "scattered": 0
+      },
+      "total": 426,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 23.5,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54/040": {
+      "votes": {
+        "sandy_nurse_f_": 158,
+        "alan_gamboa_m_": 80,
+        "arleny_alvarado_mccalla_f_": 52,
+        "heriberto_mateo_m_": 20,
+        "scattered": 8
+      },
+      "total": 318,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 24.5,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54/041": {
+      "votes": {
+        "sandy_nurse_f_": 178,
+        "alan_gamboa_m_": 87,
+        "arleny_alvarado_mccalla_f_": 62,
+        "heriberto_mateo_m_": 26,
+        "scattered": 1
+      },
+      "total": 354,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 25.7,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54/042": {
+      "votes": {
+        "sandy_nurse_f_": 127,
+        "alan_gamboa_m_": 70,
+        "arleny_alvarado_mccalla_f_": 45,
+        "heriberto_mateo_m_": 21,
+        "scattered": 0
+      },
+      "total": 263,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 21.7,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54/043": {
+      "votes": {
+        "sandy_nurse_f_": 186,
+        "alan_gamboa_m_": 85,
+        "arleny_alvarado_mccalla_f_": 67,
+        "heriberto_mateo_m_": 31,
+        "scattered": 2
+      },
+      "total": 371,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 27.2,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54/044": {
+      "votes": {
+        "sandy_nurse_f_": 196,
+        "alan_gamboa_m_": 95,
+        "arleny_alvarado_mccalla_f_": 69,
+        "heriberto_mateo_m_": 26,
+        "scattered": 1
+      },
+      "total": 387,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 26.1,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54/045": {
+      "votes": {
+        "sandy_nurse_f_": 176,
+        "alan_gamboa_m_": 80,
+        "arleny_alvarado_mccalla_f_": 76,
+        "heriberto_mateo_m_": 51,
+        "scattered": 0
+      },
+      "total": 383,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 25.1,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54/046": {
+      "votes": {
+        "sandy_nurse_f_": 153,
+        "alan_gamboa_m_": 78,
+        "arleny_alvarado_mccalla_f_": 69,
+        "heriberto_mateo_m_": 16,
+        "scattered": 0
+      },
+      "total": 316,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 23.7,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54/047": {
+      "votes": {
+        "sandy_nurse_f_": 187,
+        "alan_gamboa_m_": 87,
+        "arleny_alvarado_mccalla_f_": 79,
+        "heriberto_mateo_m_": 40,
+        "scattered": 3
+      },
+      "total": 396,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 25.3,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54/048": {
+      "votes": {
+        "sandy_nurse_f_": 169,
+        "alan_gamboa_m_": 85,
+        "arleny_alvarado_mccalla_f_": 71,
+        "heriberto_mateo_m_": 38,
+        "scattered": 2
+      },
+      "total": 365,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 23,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54/049": {
+      "votes": {
+        "sandy_nurse_f_": 153,
+        "alan_gamboa_m_": 79,
+        "arleny_alvarado_mccalla_f_": 68,
+        "heriberto_mateo_m_": 28,
+        "scattered": 5
+      },
+      "total": 333,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 22.2,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54/050": {
+      "votes": {
+        "sandy_nurse_f_": 178,
+        "alan_gamboa_m_": 95,
+        "arleny_alvarado_mccalla_f_": 43,
+        "heriberto_mateo_m_": 38,
+        "scattered": 0
+      },
+      "total": 354,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 23.4,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54/051": {
+      "votes": {
+        "sandy_nurse_f_": 138,
+        "alan_gamboa_m_": 63,
+        "arleny_alvarado_mccalla_f_": 49,
+        "heriberto_mateo_m_": 27,
+        "scattered": 0
+      },
+      "total": 277,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 27.1,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54/052": {
+      "votes": {
+        "sandy_nurse_f_": 123,
+        "alan_gamboa_m_": 65,
+        "arleny_alvarado_mccalla_f_": 42,
+        "heriberto_mateo_m_": 39,
+        "scattered": 1
+      },
+      "total": 270,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 21.5,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54/053": {
+      "votes": {
+        "sandy_nurse_f_": 129,
+        "alan_gamboa_m_": 75,
+        "arleny_alvarado_mccalla_f_": 41,
+        "heriberto_mateo_m_": 23,
+        "scattered": 4
+      },
+      "total": 272,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 19.9,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54/054": {
+      "votes": {
+        "sandy_nurse_f_": 132,
+        "alan_gamboa_m_": 52,
+        "arleny_alvarado_mccalla_f_": 47,
+        "heriberto_mateo_m_": 10,
+        "scattered": 1
+      },
+      "total": 242,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 33.1,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54/055": {
+      "votes": {
+        "sandy_nurse_f_": 101,
+        "alan_gamboa_m_": 47,
+        "arleny_alvarado_mccalla_f_": 43,
+        "heriberto_mateo_m_": 21,
+        "scattered": 4
+      },
+      "total": 216,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 25,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54/056": {
+      "votes": {
+        "sandy_nurse_f_": 156,
+        "alan_gamboa_m_": 94,
+        "arleny_alvarado_mccalla_f_": 50,
+        "heriberto_mateo_m_": 24,
+        "scattered": 1
+      },
+      "total": 325,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 19.1,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54/057": {
+      "votes": {
+        "sandy_nurse_f_": 142,
+        "alan_gamboa_m_": 88,
+        "arleny_alvarado_mccalla_f_": 49,
+        "heriberto_mateo_m_": 40,
+        "scattered": 1
+      },
+      "total": 320,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 16.9,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54/058": {
+      "votes": {
+        "sandy_nurse_f_": 18,
+        "alan_gamboa_m_": 8,
+        "arleny_alvarado_mccalla_f_": 5,
+        "heriberto_mateo_m_": 5,
+        "scattered": 1
+      },
+      "total": 37,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 27,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54/059": {
+      "votes": {
+        "sandy_nurse_f_": 1,
+        "alan_gamboa_m_": 1,
+        "arleny_alvarado_mccalla_f_": 0,
+        "heriberto_mateo_m_": 0,
+        "scattered": 0
+      },
+      "total": 2,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "54/060": {
+      "votes": {
+        "sandy_nurse_f_": 0,
+        "alan_gamboa_m_": 0,
+        "arleny_alvarado_mccalla_f_": 0,
+        "heriberto_mateo_m_": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "sandy_nurse_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "sandy_nurse_f_",
+          "name": "Sandy Nurse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "alan_gamboa_m_",
+          "name": "Alan Gamboa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "arleny_alvarado_mccalla_f_",
+          "name": "Arleny Alvarado-McCalla (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "heriberto_mateo_m_",
+          "name": "Heriberto Mateo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "democratic_member_of_the_city_council_01",
+  "name": "2026 Primary - Member of the City Council District 01",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "City Council",
+  "districtKey": "1",
+  "districtType": "council",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "christopher_marte",
+      "name": "Christopher Marte",
+      "party": "Democratic",
+      "isIncumbent": true,
+      "color": "#2563eb"
+    }
+  ],
+  "results": {
+    "1": {
+      "votes": {
+        "uncontested_primary_council_1": 0
+      },
+      "total": 0,
+      "winnerId": "uncontested_primary_council_1",
+      "margin": 100,
+      "isUncontested": true
+    }
+  },
+  "edResults": {}
+}

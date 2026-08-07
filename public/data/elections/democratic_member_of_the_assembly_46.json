@@ -1,0 +1,5020 @@
+{
+  "id": "democratic_member_of_the_assembly_46",
+  "name": "2026 Primary - Member of the Assembly District 46",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "NY State Assembly",
+  "districtKey": "46",
+  "districtType": "assembly",
+  "isUncontested": false,
+  "candidates": [
+    {
+      "id": "chris_mccreight",
+      "name": "Chris McCreight",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#d97706"
+    },
+    {
+      "id": "joseph_santangelo",
+      "name": "Joseph Santangelo",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#7c3aed"
+    },
+    {
+      "id": "scattered",
+      "name": "Scattered",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#059669"
+    }
+  ],
+  "results": {
+    "46": {
+      "votes": {
+        "chris_mccreight": 3317,
+        "joseph_santangelo": 1845,
+        "scattered": 13
+      },
+      "total": 5175,
+      "winnerId": "chris_mccreight",
+      "margin": 28.4,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    }
+  },
+  "edResults": {
+    "46001": {
+      "votes": {
+        "chris_mccreight": 84,
+        "joseph_santangelo": 35,
+        "scattered": 1
+      },
+      "total": 120,
+      "winnerId": "chris_mccreight",
+      "margin": 40.8,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46002": {
+      "votes": {
+        "chris_mccreight": 91,
+        "joseph_santangelo": 39,
+        "scattered": 0
+      },
+      "total": 130,
+      "winnerId": "chris_mccreight",
+      "margin": 40,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46003": {
+      "votes": {
+        "chris_mccreight": 122,
+        "joseph_santangelo": 45,
+        "scattered": 0
+      },
+      "total": 167,
+      "winnerId": "chris_mccreight",
+      "margin": 46.1,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46004": {
+      "votes": {
+        "chris_mccreight": 120,
+        "joseph_santangelo": 37,
+        "scattered": 0
+      },
+      "total": 157,
+      "winnerId": "chris_mccreight",
+      "margin": 52.9,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46005": {
+      "votes": {
+        "chris_mccreight": 88,
+        "joseph_santangelo": 30,
+        "scattered": 0
+      },
+      "total": 118,
+      "winnerId": "chris_mccreight",
+      "margin": 49.2,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46006": {
+      "votes": {
+        "chris_mccreight": 100,
+        "joseph_santangelo": 35,
+        "scattered": 1
+      },
+      "total": 136,
+      "winnerId": "chris_mccreight",
+      "margin": 47.8,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46007": {
+      "votes": {
+        "chris_mccreight": 88,
+        "joseph_santangelo": 44,
+        "scattered": 0
+      },
+      "total": 132,
+      "winnerId": "chris_mccreight",
+      "margin": 33.3,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46008": {
+      "votes": {
+        "chris_mccreight": 73,
+        "joseph_santangelo": 34,
+        "scattered": 0
+      },
+      "total": 107,
+      "winnerId": "chris_mccreight",
+      "margin": 36.4,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46009": {
+      "votes": {
+        "chris_mccreight": 106,
+        "joseph_santangelo": 58,
+        "scattered": 0
+      },
+      "total": 164,
+      "winnerId": "chris_mccreight",
+      "margin": 29.3,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46010": {
+      "votes": {
+        "chris_mccreight": 81,
+        "joseph_santangelo": 46,
+        "scattered": 0
+      },
+      "total": 127,
+      "winnerId": "chris_mccreight",
+      "margin": 27.6,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46011": {
+      "votes": {
+        "chris_mccreight": 38,
+        "joseph_santangelo": 41,
+        "scattered": 0
+      },
+      "total": 79,
+      "winnerId": "joseph_santangelo",
+      "margin": 3.8,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46012": {
+      "votes": {
+        "chris_mccreight": 146,
+        "joseph_santangelo": 65,
+        "scattered": 0
+      },
+      "total": 211,
+      "winnerId": "chris_mccreight",
+      "margin": 38.4,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46013": {
+      "votes": {
+        "chris_mccreight": 94,
+        "joseph_santangelo": 62,
+        "scattered": 0
+      },
+      "total": 156,
+      "winnerId": "chris_mccreight",
+      "margin": 20.5,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46014": {
+      "votes": {
+        "chris_mccreight": 115,
+        "joseph_santangelo": 64,
+        "scattered": 0
+      },
+      "total": 179,
+      "winnerId": "chris_mccreight",
+      "margin": 28.5,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46015": {
+      "votes": {
+        "chris_mccreight": 74,
+        "joseph_santangelo": 48,
+        "scattered": 0
+      },
+      "total": 122,
+      "winnerId": "chris_mccreight",
+      "margin": 21.3,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46016": {
+      "votes": {
+        "chris_mccreight": 76,
+        "joseph_santangelo": 47,
+        "scattered": 0
+      },
+      "total": 123,
+      "winnerId": "chris_mccreight",
+      "margin": 23.6,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46017": {
+      "votes": {
+        "chris_mccreight": 61,
+        "joseph_santangelo": 38,
+        "scattered": 0
+      },
+      "total": 99,
+      "winnerId": "chris_mccreight",
+      "margin": 23.2,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46018": {
+      "votes": {
+        "chris_mccreight": 63,
+        "joseph_santangelo": 39,
+        "scattered": 0
+      },
+      "total": 102,
+      "winnerId": "chris_mccreight",
+      "margin": 23.5,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46019": {
+      "votes": {
+        "chris_mccreight": 86,
+        "joseph_santangelo": 47,
+        "scattered": 0
+      },
+      "total": 133,
+      "winnerId": "chris_mccreight",
+      "margin": 29.3,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46020": {
+      "votes": {
+        "chris_mccreight": 105,
+        "joseph_santangelo": 59,
+        "scattered": 1
+      },
+      "total": 165,
+      "winnerId": "chris_mccreight",
+      "margin": 27.9,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46021": {
+      "votes": {
+        "chris_mccreight": 11,
+        "joseph_santangelo": 7,
+        "scattered": 0
+      },
+      "total": 18,
+      "winnerId": "chris_mccreight",
+      "margin": 22.2,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46022": {
+      "votes": {
+        "chris_mccreight": 74,
+        "joseph_santangelo": 27,
+        "scattered": 0
+      },
+      "total": 101,
+      "winnerId": "chris_mccreight",
+      "margin": 46.5,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46023": {
+      "votes": {
+        "chris_mccreight": 24,
+        "joseph_santangelo": 20,
+        "scattered": 0
+      },
+      "total": 44,
+      "winnerId": "chris_mccreight",
+      "margin": 9.1,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46024": {
+      "votes": {
+        "chris_mccreight": 16,
+        "joseph_santangelo": 10,
+        "scattered": 0
+      },
+      "total": 26,
+      "winnerId": "chris_mccreight",
+      "margin": 23.1,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46025": {
+      "votes": {
+        "chris_mccreight": 35,
+        "joseph_santangelo": 9,
+        "scattered": 0
+      },
+      "total": 44,
+      "winnerId": "chris_mccreight",
+      "margin": 59.1,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46026": {
+      "votes": {
+        "chris_mccreight": 35,
+        "joseph_santangelo": 12,
+        "scattered": 0
+      },
+      "total": 47,
+      "winnerId": "chris_mccreight",
+      "margin": 48.9,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46027": {
+      "votes": {
+        "chris_mccreight": 86,
+        "joseph_santangelo": 38,
+        "scattered": 0
+      },
+      "total": 124,
+      "winnerId": "chris_mccreight",
+      "margin": 38.7,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46028": {
+      "votes": {
+        "chris_mccreight": 24,
+        "joseph_santangelo": 13,
+        "scattered": 0
+      },
+      "total": 37,
+      "winnerId": "chris_mccreight",
+      "margin": 29.7,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46029": {
+      "votes": {
+        "chris_mccreight": 18,
+        "joseph_santangelo": 6,
+        "scattered": 0
+      },
+      "total": 24,
+      "winnerId": "chris_mccreight",
+      "margin": 50,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46030": {
+      "votes": {
+        "chris_mccreight": 9,
+        "joseph_santangelo": 5,
+        "scattered": 0
+      },
+      "total": 14,
+      "winnerId": "chris_mccreight",
+      "margin": 28.6,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46031": {
+      "votes": {
+        "chris_mccreight": 13,
+        "joseph_santangelo": 9,
+        "scattered": 0
+      },
+      "total": 22,
+      "winnerId": "chris_mccreight",
+      "margin": 18.2,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46032": {
+      "votes": {
+        "chris_mccreight": 5,
+        "joseph_santangelo": 8,
+        "scattered": 1
+      },
+      "total": 14,
+      "winnerId": "joseph_santangelo",
+      "margin": 21.4,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46033": {
+      "votes": {
+        "chris_mccreight": 28,
+        "joseph_santangelo": 13,
+        "scattered": 0
+      },
+      "total": 41,
+      "winnerId": "chris_mccreight",
+      "margin": 36.6,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46034": {
+      "votes": {
+        "chris_mccreight": 12,
+        "joseph_santangelo": 8,
+        "scattered": 0
+      },
+      "total": 20,
+      "winnerId": "chris_mccreight",
+      "margin": 20,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46035": {
+      "votes": {
+        "chris_mccreight": 22,
+        "joseph_santangelo": 13,
+        "scattered": 0
+      },
+      "total": 35,
+      "winnerId": "chris_mccreight",
+      "margin": 25.7,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46036": {
+      "votes": {
+        "chris_mccreight": 44,
+        "joseph_santangelo": 23,
+        "scattered": 0
+      },
+      "total": 67,
+      "winnerId": "chris_mccreight",
+      "margin": 31.3,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46037": {
+      "votes": {
+        "chris_mccreight": 0,
+        "joseph_santangelo": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "chris_mccreight",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46038": {
+      "votes": {
+        "chris_mccreight": 26,
+        "joseph_santangelo": 15,
+        "scattered": 0
+      },
+      "total": 41,
+      "winnerId": "chris_mccreight",
+      "margin": 26.8,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46039": {
+      "votes": {
+        "chris_mccreight": 35,
+        "joseph_santangelo": 30,
+        "scattered": 0
+      },
+      "total": 65,
+      "winnerId": "chris_mccreight",
+      "margin": 7.7,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46040": {
+      "votes": {
+        "chris_mccreight": 42,
+        "joseph_santangelo": 21,
+        "scattered": 2
+      },
+      "total": 65,
+      "winnerId": "chris_mccreight",
+      "margin": 32.3,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46041": {
+      "votes": {
+        "chris_mccreight": 58,
+        "joseph_santangelo": 36,
+        "scattered": 0
+      },
+      "total": 94,
+      "winnerId": "chris_mccreight",
+      "margin": 23.4,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46042": {
+      "votes": {
+        "chris_mccreight": 29,
+        "joseph_santangelo": 32,
+        "scattered": 1
+      },
+      "total": 62,
+      "winnerId": "joseph_santangelo",
+      "margin": 4.8,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46043": {
+      "votes": {
+        "chris_mccreight": 42,
+        "joseph_santangelo": 30,
+        "scattered": 0
+      },
+      "total": 72,
+      "winnerId": "chris_mccreight",
+      "margin": 16.7,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46044": {
+      "votes": {
+        "chris_mccreight": 34,
+        "joseph_santangelo": 17,
+        "scattered": 0
+      },
+      "total": 51,
+      "winnerId": "chris_mccreight",
+      "margin": 33.3,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46045": {
+      "votes": {
+        "chris_mccreight": 31,
+        "joseph_santangelo": 19,
+        "scattered": 0
+      },
+      "total": 50,
+      "winnerId": "chris_mccreight",
+      "margin": 24,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46046": {
+      "votes": {
+        "chris_mccreight": 45,
+        "joseph_santangelo": 34,
+        "scattered": 0
+      },
+      "total": 79,
+      "winnerId": "chris_mccreight",
+      "margin": 13.9,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46047": {
+      "votes": {
+        "chris_mccreight": 51,
+        "joseph_santangelo": 31,
+        "scattered": 0
+      },
+      "total": 82,
+      "winnerId": "chris_mccreight",
+      "margin": 24.4,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46048": {
+      "votes": {
+        "chris_mccreight": 36,
+        "joseph_santangelo": 23,
+        "scattered": 0
+      },
+      "total": 59,
+      "winnerId": "chris_mccreight",
+      "margin": 22,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46049": {
+      "votes": {
+        "chris_mccreight": 17,
+        "joseph_santangelo": 14,
+        "scattered": 0
+      },
+      "total": 31,
+      "winnerId": "chris_mccreight",
+      "margin": 9.7,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46050": {
+      "votes": {
+        "chris_mccreight": 55,
+        "joseph_santangelo": 47,
+        "scattered": 0
+      },
+      "total": 102,
+      "winnerId": "chris_mccreight",
+      "margin": 7.8,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46051": {
+      "votes": {
+        "chris_mccreight": 34,
+        "joseph_santangelo": 22,
+        "scattered": 2
+      },
+      "total": 58,
+      "winnerId": "chris_mccreight",
+      "margin": 20.7,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46052": {
+      "votes": {
+        "chris_mccreight": 41,
+        "joseph_santangelo": 16,
+        "scattered": 0
+      },
+      "total": 57,
+      "winnerId": "chris_mccreight",
+      "margin": 43.9,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46053": {
+      "votes": {
+        "chris_mccreight": 27,
+        "joseph_santangelo": 41,
+        "scattered": 1
+      },
+      "total": 69,
+      "winnerId": "joseph_santangelo",
+      "margin": 20.3,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46054": {
+      "votes": {
+        "chris_mccreight": 7,
+        "joseph_santangelo": 14,
+        "scattered": 0
+      },
+      "total": 21,
+      "winnerId": "joseph_santangelo",
+      "margin": 33.3,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46055": {
+      "votes": {
+        "chris_mccreight": 19,
+        "joseph_santangelo": 7,
+        "scattered": 0
+      },
+      "total": 26,
+      "winnerId": "chris_mccreight",
+      "margin": 46.2,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46056": {
+      "votes": {
+        "chris_mccreight": 44,
+        "joseph_santangelo": 21,
+        "scattered": 1
+      },
+      "total": 66,
+      "winnerId": "chris_mccreight",
+      "margin": 34.8,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46057": {
+      "votes": {
+        "chris_mccreight": 25,
+        "joseph_santangelo": 8,
+        "scattered": 0
+      },
+      "total": 33,
+      "winnerId": "chris_mccreight",
+      "margin": 51.5,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46058": {
+      "votes": {
+        "chris_mccreight": 31,
+        "joseph_santangelo": 11,
+        "scattered": 0
+      },
+      "total": 42,
+      "winnerId": "chris_mccreight",
+      "margin": 47.6,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46059": {
+      "votes": {
+        "chris_mccreight": 17,
+        "joseph_santangelo": 12,
+        "scattered": 0
+      },
+      "total": 29,
+      "winnerId": "chris_mccreight",
+      "margin": 17.2,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46060": {
+      "votes": {
+        "chris_mccreight": 19,
+        "joseph_santangelo": 10,
+        "scattered": 0
+      },
+      "total": 29,
+      "winnerId": "chris_mccreight",
+      "margin": 31,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46061": {
+      "votes": {
+        "chris_mccreight": 56,
+        "joseph_santangelo": 29,
+        "scattered": 0
+      },
+      "total": 85,
+      "winnerId": "chris_mccreight",
+      "margin": 31.8,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46062": {
+      "votes": {
+        "chris_mccreight": 39,
+        "joseph_santangelo": 11,
+        "scattered": 0
+      },
+      "total": 50,
+      "winnerId": "chris_mccreight",
+      "margin": 56,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46063": {
+      "votes": {
+        "chris_mccreight": 30,
+        "joseph_santangelo": 20,
+        "scattered": 1
+      },
+      "total": 51,
+      "winnerId": "chris_mccreight",
+      "margin": 19.6,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46064": {
+      "votes": {
+        "chris_mccreight": 29,
+        "joseph_santangelo": 7,
+        "scattered": 0
+      },
+      "total": 36,
+      "winnerId": "chris_mccreight",
+      "margin": 61.1,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46065": {
+      "votes": {
+        "chris_mccreight": 15,
+        "joseph_santangelo": 12,
+        "scattered": 0
+      },
+      "total": 27,
+      "winnerId": "chris_mccreight",
+      "margin": 11.1,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46066": {
+      "votes": {
+        "chris_mccreight": 24,
+        "joseph_santangelo": 14,
+        "scattered": 0
+      },
+      "total": 38,
+      "winnerId": "chris_mccreight",
+      "margin": 26.3,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46067": {
+      "votes": {
+        "chris_mccreight": 23,
+        "joseph_santangelo": 10,
+        "scattered": 0
+      },
+      "total": 33,
+      "winnerId": "chris_mccreight",
+      "margin": 39.4,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46068": {
+      "votes": {
+        "chris_mccreight": 18,
+        "joseph_santangelo": 30,
+        "scattered": 0
+      },
+      "total": 48,
+      "winnerId": "joseph_santangelo",
+      "margin": 25,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46069": {
+      "votes": {
+        "chris_mccreight": 14,
+        "joseph_santangelo": 27,
+        "scattered": 1
+      },
+      "total": 42,
+      "winnerId": "joseph_santangelo",
+      "margin": 31,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46070": {
+      "votes": {
+        "chris_mccreight": 18,
+        "joseph_santangelo": 15,
+        "scattered": 0
+      },
+      "total": 33,
+      "winnerId": "chris_mccreight",
+      "margin": 9.1,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46071": {
+      "votes": {
+        "chris_mccreight": 19,
+        "joseph_santangelo": 25,
+        "scattered": 0
+      },
+      "total": 44,
+      "winnerId": "joseph_santangelo",
+      "margin": 13.6,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46072": {
+      "votes": {
+        "chris_mccreight": 0,
+        "joseph_santangelo": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "chris_mccreight",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46073": {
+      "votes": {
+        "chris_mccreight": 0,
+        "joseph_santangelo": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "chris_mccreight",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46074": {
+      "votes": {
+        "chris_mccreight": 0,
+        "joseph_santangelo": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "chris_mccreight",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46075": {
+      "votes": {
+        "chris_mccreight": 0,
+        "joseph_santangelo": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "chris_mccreight",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46/001": {
+      "votes": {
+        "chris_mccreight": 84,
+        "joseph_santangelo": 35,
+        "scattered": 1
+      },
+      "total": 120,
+      "winnerId": "chris_mccreight",
+      "margin": 40.8,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46/002": {
+      "votes": {
+        "chris_mccreight": 91,
+        "joseph_santangelo": 39,
+        "scattered": 0
+      },
+      "total": 130,
+      "winnerId": "chris_mccreight",
+      "margin": 40,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46/003": {
+      "votes": {
+        "chris_mccreight": 122,
+        "joseph_santangelo": 45,
+        "scattered": 0
+      },
+      "total": 167,
+      "winnerId": "chris_mccreight",
+      "margin": 46.1,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46/004": {
+      "votes": {
+        "chris_mccreight": 120,
+        "joseph_santangelo": 37,
+        "scattered": 0
+      },
+      "total": 157,
+      "winnerId": "chris_mccreight",
+      "margin": 52.9,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46/005": {
+      "votes": {
+        "chris_mccreight": 88,
+        "joseph_santangelo": 30,
+        "scattered": 0
+      },
+      "total": 118,
+      "winnerId": "chris_mccreight",
+      "margin": 49.2,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46/006": {
+      "votes": {
+        "chris_mccreight": 100,
+        "joseph_santangelo": 35,
+        "scattered": 1
+      },
+      "total": 136,
+      "winnerId": "chris_mccreight",
+      "margin": 47.8,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46/007": {
+      "votes": {
+        "chris_mccreight": 88,
+        "joseph_santangelo": 44,
+        "scattered": 0
+      },
+      "total": 132,
+      "winnerId": "chris_mccreight",
+      "margin": 33.3,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46/008": {
+      "votes": {
+        "chris_mccreight": 73,
+        "joseph_santangelo": 34,
+        "scattered": 0
+      },
+      "total": 107,
+      "winnerId": "chris_mccreight",
+      "margin": 36.4,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46/009": {
+      "votes": {
+        "chris_mccreight": 106,
+        "joseph_santangelo": 58,
+        "scattered": 0
+      },
+      "total": 164,
+      "winnerId": "chris_mccreight",
+      "margin": 29.3,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46/010": {
+      "votes": {
+        "chris_mccreight": 81,
+        "joseph_santangelo": 46,
+        "scattered": 0
+      },
+      "total": 127,
+      "winnerId": "chris_mccreight",
+      "margin": 27.6,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46/011": {
+      "votes": {
+        "chris_mccreight": 38,
+        "joseph_santangelo": 41,
+        "scattered": 0
+      },
+      "total": 79,
+      "winnerId": "joseph_santangelo",
+      "margin": 3.8,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46/012": {
+      "votes": {
+        "chris_mccreight": 146,
+        "joseph_santangelo": 65,
+        "scattered": 0
+      },
+      "total": 211,
+      "winnerId": "chris_mccreight",
+      "margin": 38.4,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46/013": {
+      "votes": {
+        "chris_mccreight": 94,
+        "joseph_santangelo": 62,
+        "scattered": 0
+      },
+      "total": 156,
+      "winnerId": "chris_mccreight",
+      "margin": 20.5,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46/014": {
+      "votes": {
+        "chris_mccreight": 115,
+        "joseph_santangelo": 64,
+        "scattered": 0
+      },
+      "total": 179,
+      "winnerId": "chris_mccreight",
+      "margin": 28.5,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46/015": {
+      "votes": {
+        "chris_mccreight": 74,
+        "joseph_santangelo": 48,
+        "scattered": 0
+      },
+      "total": 122,
+      "winnerId": "chris_mccreight",
+      "margin": 21.3,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46/016": {
+      "votes": {
+        "chris_mccreight": 76,
+        "joseph_santangelo": 47,
+        "scattered": 0
+      },
+      "total": 123,
+      "winnerId": "chris_mccreight",
+      "margin": 23.6,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46/017": {
+      "votes": {
+        "chris_mccreight": 61,
+        "joseph_santangelo": 38,
+        "scattered": 0
+      },
+      "total": 99,
+      "winnerId": "chris_mccreight",
+      "margin": 23.2,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46/018": {
+      "votes": {
+        "chris_mccreight": 63,
+        "joseph_santangelo": 39,
+        "scattered": 0
+      },
+      "total": 102,
+      "winnerId": "chris_mccreight",
+      "margin": 23.5,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46/019": {
+      "votes": {
+        "chris_mccreight": 86,
+        "joseph_santangelo": 47,
+        "scattered": 0
+      },
+      "total": 133,
+      "winnerId": "chris_mccreight",
+      "margin": 29.3,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46/020": {
+      "votes": {
+        "chris_mccreight": 105,
+        "joseph_santangelo": 59,
+        "scattered": 1
+      },
+      "total": 165,
+      "winnerId": "chris_mccreight",
+      "margin": 27.9,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46/021": {
+      "votes": {
+        "chris_mccreight": 11,
+        "joseph_santangelo": 7,
+        "scattered": 0
+      },
+      "total": 18,
+      "winnerId": "chris_mccreight",
+      "margin": 22.2,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46/022": {
+      "votes": {
+        "chris_mccreight": 74,
+        "joseph_santangelo": 27,
+        "scattered": 0
+      },
+      "total": 101,
+      "winnerId": "chris_mccreight",
+      "margin": 46.5,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46/023": {
+      "votes": {
+        "chris_mccreight": 24,
+        "joseph_santangelo": 20,
+        "scattered": 0
+      },
+      "total": 44,
+      "winnerId": "chris_mccreight",
+      "margin": 9.1,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46/024": {
+      "votes": {
+        "chris_mccreight": 16,
+        "joseph_santangelo": 10,
+        "scattered": 0
+      },
+      "total": 26,
+      "winnerId": "chris_mccreight",
+      "margin": 23.1,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46/025": {
+      "votes": {
+        "chris_mccreight": 35,
+        "joseph_santangelo": 9,
+        "scattered": 0
+      },
+      "total": 44,
+      "winnerId": "chris_mccreight",
+      "margin": 59.1,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46/026": {
+      "votes": {
+        "chris_mccreight": 35,
+        "joseph_santangelo": 12,
+        "scattered": 0
+      },
+      "total": 47,
+      "winnerId": "chris_mccreight",
+      "margin": 48.9,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46/027": {
+      "votes": {
+        "chris_mccreight": 86,
+        "joseph_santangelo": 38,
+        "scattered": 0
+      },
+      "total": 124,
+      "winnerId": "chris_mccreight",
+      "margin": 38.7,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46/028": {
+      "votes": {
+        "chris_mccreight": 24,
+        "joseph_santangelo": 13,
+        "scattered": 0
+      },
+      "total": 37,
+      "winnerId": "chris_mccreight",
+      "margin": 29.7,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46/029": {
+      "votes": {
+        "chris_mccreight": 18,
+        "joseph_santangelo": 6,
+        "scattered": 0
+      },
+      "total": 24,
+      "winnerId": "chris_mccreight",
+      "margin": 50,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46/030": {
+      "votes": {
+        "chris_mccreight": 9,
+        "joseph_santangelo": 5,
+        "scattered": 0
+      },
+      "total": 14,
+      "winnerId": "chris_mccreight",
+      "margin": 28.6,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46/031": {
+      "votes": {
+        "chris_mccreight": 13,
+        "joseph_santangelo": 9,
+        "scattered": 0
+      },
+      "total": 22,
+      "winnerId": "chris_mccreight",
+      "margin": 18.2,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46/032": {
+      "votes": {
+        "chris_mccreight": 5,
+        "joseph_santangelo": 8,
+        "scattered": 1
+      },
+      "total": 14,
+      "winnerId": "joseph_santangelo",
+      "margin": 21.4,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46/033": {
+      "votes": {
+        "chris_mccreight": 28,
+        "joseph_santangelo": 13,
+        "scattered": 0
+      },
+      "total": 41,
+      "winnerId": "chris_mccreight",
+      "margin": 36.6,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46/034": {
+      "votes": {
+        "chris_mccreight": 12,
+        "joseph_santangelo": 8,
+        "scattered": 0
+      },
+      "total": 20,
+      "winnerId": "chris_mccreight",
+      "margin": 20,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46/035": {
+      "votes": {
+        "chris_mccreight": 22,
+        "joseph_santangelo": 13,
+        "scattered": 0
+      },
+      "total": 35,
+      "winnerId": "chris_mccreight",
+      "margin": 25.7,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46/036": {
+      "votes": {
+        "chris_mccreight": 44,
+        "joseph_santangelo": 23,
+        "scattered": 0
+      },
+      "total": 67,
+      "winnerId": "chris_mccreight",
+      "margin": 31.3,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46/037": {
+      "votes": {
+        "chris_mccreight": 0,
+        "joseph_santangelo": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "chris_mccreight",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46/038": {
+      "votes": {
+        "chris_mccreight": 26,
+        "joseph_santangelo": 15,
+        "scattered": 0
+      },
+      "total": 41,
+      "winnerId": "chris_mccreight",
+      "margin": 26.8,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46/039": {
+      "votes": {
+        "chris_mccreight": 35,
+        "joseph_santangelo": 30,
+        "scattered": 0
+      },
+      "total": 65,
+      "winnerId": "chris_mccreight",
+      "margin": 7.7,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46/040": {
+      "votes": {
+        "chris_mccreight": 42,
+        "joseph_santangelo": 21,
+        "scattered": 2
+      },
+      "total": 65,
+      "winnerId": "chris_mccreight",
+      "margin": 32.3,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46/041": {
+      "votes": {
+        "chris_mccreight": 58,
+        "joseph_santangelo": 36,
+        "scattered": 0
+      },
+      "total": 94,
+      "winnerId": "chris_mccreight",
+      "margin": 23.4,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46/042": {
+      "votes": {
+        "chris_mccreight": 29,
+        "joseph_santangelo": 32,
+        "scattered": 1
+      },
+      "total": 62,
+      "winnerId": "joseph_santangelo",
+      "margin": 4.8,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46/043": {
+      "votes": {
+        "chris_mccreight": 42,
+        "joseph_santangelo": 30,
+        "scattered": 0
+      },
+      "total": 72,
+      "winnerId": "chris_mccreight",
+      "margin": 16.7,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46/044": {
+      "votes": {
+        "chris_mccreight": 34,
+        "joseph_santangelo": 17,
+        "scattered": 0
+      },
+      "total": 51,
+      "winnerId": "chris_mccreight",
+      "margin": 33.3,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46/045": {
+      "votes": {
+        "chris_mccreight": 31,
+        "joseph_santangelo": 19,
+        "scattered": 0
+      },
+      "total": 50,
+      "winnerId": "chris_mccreight",
+      "margin": 24,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46/046": {
+      "votes": {
+        "chris_mccreight": 45,
+        "joseph_santangelo": 34,
+        "scattered": 0
+      },
+      "total": 79,
+      "winnerId": "chris_mccreight",
+      "margin": 13.9,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46/047": {
+      "votes": {
+        "chris_mccreight": 51,
+        "joseph_santangelo": 31,
+        "scattered": 0
+      },
+      "total": 82,
+      "winnerId": "chris_mccreight",
+      "margin": 24.4,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46/048": {
+      "votes": {
+        "chris_mccreight": 36,
+        "joseph_santangelo": 23,
+        "scattered": 0
+      },
+      "total": 59,
+      "winnerId": "chris_mccreight",
+      "margin": 22,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46/049": {
+      "votes": {
+        "chris_mccreight": 17,
+        "joseph_santangelo": 14,
+        "scattered": 0
+      },
+      "total": 31,
+      "winnerId": "chris_mccreight",
+      "margin": 9.7,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46/050": {
+      "votes": {
+        "chris_mccreight": 55,
+        "joseph_santangelo": 47,
+        "scattered": 0
+      },
+      "total": 102,
+      "winnerId": "chris_mccreight",
+      "margin": 7.8,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46/051": {
+      "votes": {
+        "chris_mccreight": 34,
+        "joseph_santangelo": 22,
+        "scattered": 2
+      },
+      "total": 58,
+      "winnerId": "chris_mccreight",
+      "margin": 20.7,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46/052": {
+      "votes": {
+        "chris_mccreight": 41,
+        "joseph_santangelo": 16,
+        "scattered": 0
+      },
+      "total": 57,
+      "winnerId": "chris_mccreight",
+      "margin": 43.9,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46/053": {
+      "votes": {
+        "chris_mccreight": 27,
+        "joseph_santangelo": 41,
+        "scattered": 1
+      },
+      "total": 69,
+      "winnerId": "joseph_santangelo",
+      "margin": 20.3,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46/054": {
+      "votes": {
+        "chris_mccreight": 7,
+        "joseph_santangelo": 14,
+        "scattered": 0
+      },
+      "total": 21,
+      "winnerId": "joseph_santangelo",
+      "margin": 33.3,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46/055": {
+      "votes": {
+        "chris_mccreight": 19,
+        "joseph_santangelo": 7,
+        "scattered": 0
+      },
+      "total": 26,
+      "winnerId": "chris_mccreight",
+      "margin": 46.2,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46/056": {
+      "votes": {
+        "chris_mccreight": 44,
+        "joseph_santangelo": 21,
+        "scattered": 1
+      },
+      "total": 66,
+      "winnerId": "chris_mccreight",
+      "margin": 34.8,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46/057": {
+      "votes": {
+        "chris_mccreight": 25,
+        "joseph_santangelo": 8,
+        "scattered": 0
+      },
+      "total": 33,
+      "winnerId": "chris_mccreight",
+      "margin": 51.5,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46/058": {
+      "votes": {
+        "chris_mccreight": 31,
+        "joseph_santangelo": 11,
+        "scattered": 0
+      },
+      "total": 42,
+      "winnerId": "chris_mccreight",
+      "margin": 47.6,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46/059": {
+      "votes": {
+        "chris_mccreight": 17,
+        "joseph_santangelo": 12,
+        "scattered": 0
+      },
+      "total": 29,
+      "winnerId": "chris_mccreight",
+      "margin": 17.2,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46/060": {
+      "votes": {
+        "chris_mccreight": 19,
+        "joseph_santangelo": 10,
+        "scattered": 0
+      },
+      "total": 29,
+      "winnerId": "chris_mccreight",
+      "margin": 31,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46/061": {
+      "votes": {
+        "chris_mccreight": 56,
+        "joseph_santangelo": 29,
+        "scattered": 0
+      },
+      "total": 85,
+      "winnerId": "chris_mccreight",
+      "margin": 31.8,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46/062": {
+      "votes": {
+        "chris_mccreight": 39,
+        "joseph_santangelo": 11,
+        "scattered": 0
+      },
+      "total": 50,
+      "winnerId": "chris_mccreight",
+      "margin": 56,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46/063": {
+      "votes": {
+        "chris_mccreight": 30,
+        "joseph_santangelo": 20,
+        "scattered": 1
+      },
+      "total": 51,
+      "winnerId": "chris_mccreight",
+      "margin": 19.6,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46/064": {
+      "votes": {
+        "chris_mccreight": 29,
+        "joseph_santangelo": 7,
+        "scattered": 0
+      },
+      "total": 36,
+      "winnerId": "chris_mccreight",
+      "margin": 61.1,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46/065": {
+      "votes": {
+        "chris_mccreight": 15,
+        "joseph_santangelo": 12,
+        "scattered": 0
+      },
+      "total": 27,
+      "winnerId": "chris_mccreight",
+      "margin": 11.1,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46/066": {
+      "votes": {
+        "chris_mccreight": 24,
+        "joseph_santangelo": 14,
+        "scattered": 0
+      },
+      "total": 38,
+      "winnerId": "chris_mccreight",
+      "margin": 26.3,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46/067": {
+      "votes": {
+        "chris_mccreight": 23,
+        "joseph_santangelo": 10,
+        "scattered": 0
+      },
+      "total": 33,
+      "winnerId": "chris_mccreight",
+      "margin": 39.4,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46/068": {
+      "votes": {
+        "chris_mccreight": 18,
+        "joseph_santangelo": 30,
+        "scattered": 0
+      },
+      "total": 48,
+      "winnerId": "joseph_santangelo",
+      "margin": 25,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46/069": {
+      "votes": {
+        "chris_mccreight": 14,
+        "joseph_santangelo": 27,
+        "scattered": 1
+      },
+      "total": 42,
+      "winnerId": "joseph_santangelo",
+      "margin": 31,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46/070": {
+      "votes": {
+        "chris_mccreight": 18,
+        "joseph_santangelo": 15,
+        "scattered": 0
+      },
+      "total": 33,
+      "winnerId": "chris_mccreight",
+      "margin": 9.1,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46/071": {
+      "votes": {
+        "chris_mccreight": 19,
+        "joseph_santangelo": 25,
+        "scattered": 0
+      },
+      "total": 44,
+      "winnerId": "joseph_santangelo",
+      "margin": 13.6,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46/072": {
+      "votes": {
+        "chris_mccreight": 0,
+        "joseph_santangelo": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "chris_mccreight",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46/073": {
+      "votes": {
+        "chris_mccreight": 0,
+        "joseph_santangelo": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "chris_mccreight",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46/074": {
+      "votes": {
+        "chris_mccreight": 0,
+        "joseph_santangelo": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "chris_mccreight",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "46/075": {
+      "votes": {
+        "chris_mccreight": 0,
+        "joseph_santangelo": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "chris_mccreight",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "chris_mccreight",
+          "name": "Chris McCreight",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_santangelo",
+          "name": "Joseph Santangelo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    }
+  }
+}

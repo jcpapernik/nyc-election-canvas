@@ -1,0 +1,4162 @@
+{
+  "id": "republican_member_of_the_assembly_26",
+  "name": "2026 Primary - Member of the Assembly District 26",
+  "date": "2026-06-23",
+  "party": "Republican",
+  "officeCategory": "NY State Assembly",
+  "districtKey": "26",
+  "districtType": "assembly",
+  "isUncontested": false,
+  "candidates": [
+    {
+      "id": "robert_j_speranza",
+      "name": "Robert J. Speranza",
+      "party": "Republican",
+      "isIncumbent": false,
+      "color": "#d97706"
+    },
+    {
+      "id": "philip_sean_grillo",
+      "name": "Philip Sean Grillo",
+      "party": "Republican",
+      "isIncumbent": false,
+      "color": "#7c3aed"
+    },
+    {
+      "id": "scattered",
+      "name": "Scattered",
+      "party": "Republican",
+      "isIncumbent": false,
+      "color": "#059669"
+    }
+  ],
+  "results": {
+    "26": {
+      "votes": {
+        "robert_j_speranza": 809,
+        "philip_sean_grillo": 491,
+        "scattered": 9
+      },
+      "total": 1309,
+      "winnerId": "robert_j_speranza",
+      "margin": 24.3,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    }
+  },
+  "edResults": {
+    "26001": {
+      "votes": {
+        "robert_j_speranza": 5,
+        "philip_sean_grillo": 4,
+        "scattered": 0
+      },
+      "total": 9,
+      "winnerId": "robert_j_speranza",
+      "margin": 11.1,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26002": {
+      "votes": {
+        "robert_j_speranza": 2,
+        "philip_sean_grillo": 1,
+        "scattered": 0
+      },
+      "total": 3,
+      "winnerId": "robert_j_speranza",
+      "margin": 33.3,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26003": {
+      "votes": {
+        "robert_j_speranza": 1,
+        "philip_sean_grillo": 1,
+        "scattered": 0
+      },
+      "total": 2,
+      "winnerId": "robert_j_speranza",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26004": {
+      "votes": {
+        "robert_j_speranza": 4,
+        "philip_sean_grillo": 2,
+        "scattered": 0
+      },
+      "total": 6,
+      "winnerId": "robert_j_speranza",
+      "margin": 33.3,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26006": {
+      "votes": {
+        "robert_j_speranza": 2,
+        "philip_sean_grillo": 1,
+        "scattered": 0
+      },
+      "total": 3,
+      "winnerId": "robert_j_speranza",
+      "margin": 33.3,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26007": {
+      "votes": {
+        "robert_j_speranza": 14,
+        "philip_sean_grillo": 13,
+        "scattered": 0
+      },
+      "total": 27,
+      "winnerId": "robert_j_speranza",
+      "margin": 3.7,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26008": {
+      "votes": {
+        "robert_j_speranza": 21,
+        "philip_sean_grillo": 14,
+        "scattered": 2
+      },
+      "total": 37,
+      "winnerId": "robert_j_speranza",
+      "margin": 18.9,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26009": {
+      "votes": {
+        "robert_j_speranza": 0,
+        "philip_sean_grillo": 3,
+        "scattered": 0
+      },
+      "total": 3,
+      "winnerId": "philip_sean_grillo",
+      "margin": 100,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26010": {
+      "votes": {
+        "robert_j_speranza": 21,
+        "philip_sean_grillo": 7,
+        "scattered": 0
+      },
+      "total": 28,
+      "winnerId": "robert_j_speranza",
+      "margin": 50,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26011": {
+      "votes": {
+        "robert_j_speranza": 16,
+        "philip_sean_grillo": 5,
+        "scattered": 0
+      },
+      "total": 21,
+      "winnerId": "robert_j_speranza",
+      "margin": 52.4,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26012": {
+      "votes": {
+        "robert_j_speranza": 9,
+        "philip_sean_grillo": 22,
+        "scattered": 0
+      },
+      "total": 31,
+      "winnerId": "philip_sean_grillo",
+      "margin": 41.9,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26013": {
+      "votes": {
+        "robert_j_speranza": 7,
+        "philip_sean_grillo": 22,
+        "scattered": 0
+      },
+      "total": 29,
+      "winnerId": "philip_sean_grillo",
+      "margin": 51.7,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26014": {
+      "votes": {
+        "robert_j_speranza": 7,
+        "philip_sean_grillo": 9,
+        "scattered": 0
+      },
+      "total": 16,
+      "winnerId": "philip_sean_grillo",
+      "margin": 12.5,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26015": {
+      "votes": {
+        "robert_j_speranza": 4,
+        "philip_sean_grillo": 6,
+        "scattered": 0
+      },
+      "total": 10,
+      "winnerId": "philip_sean_grillo",
+      "margin": 20,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26016": {
+      "votes": {
+        "robert_j_speranza": 10,
+        "philip_sean_grillo": 3,
+        "scattered": 0
+      },
+      "total": 13,
+      "winnerId": "robert_j_speranza",
+      "margin": 53.8,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26017": {
+      "votes": {
+        "robert_j_speranza": 24,
+        "philip_sean_grillo": 11,
+        "scattered": 0
+      },
+      "total": 35,
+      "winnerId": "robert_j_speranza",
+      "margin": 37.1,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26018": {
+      "votes": {
+        "robert_j_speranza": 12,
+        "philip_sean_grillo": 5,
+        "scattered": 0
+      },
+      "total": 17,
+      "winnerId": "robert_j_speranza",
+      "margin": 41.2,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26019": {
+      "votes": {
+        "robert_j_speranza": 7,
+        "philip_sean_grillo": 11,
+        "scattered": 0
+      },
+      "total": 18,
+      "winnerId": "philip_sean_grillo",
+      "margin": 22.2,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26020": {
+      "votes": {
+        "robert_j_speranza": 16,
+        "philip_sean_grillo": 10,
+        "scattered": 0
+      },
+      "total": 26,
+      "winnerId": "robert_j_speranza",
+      "margin": 23.1,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26021": {
+      "votes": {
+        "robert_j_speranza": 28,
+        "philip_sean_grillo": 16,
+        "scattered": 0
+      },
+      "total": 44,
+      "winnerId": "robert_j_speranza",
+      "margin": 27.3,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26022": {
+      "votes": {
+        "robert_j_speranza": 13,
+        "philip_sean_grillo": 12,
+        "scattered": 0
+      },
+      "total": 25,
+      "winnerId": "robert_j_speranza",
+      "margin": 4,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26023": {
+      "votes": {
+        "robert_j_speranza": 12,
+        "philip_sean_grillo": 13,
+        "scattered": 1
+      },
+      "total": 26,
+      "winnerId": "philip_sean_grillo",
+      "margin": 3.8,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26024": {
+      "votes": {
+        "robert_j_speranza": 23,
+        "philip_sean_grillo": 19,
+        "scattered": 0
+      },
+      "total": 42,
+      "winnerId": "robert_j_speranza",
+      "margin": 9.5,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26025": {
+      "votes": {
+        "robert_j_speranza": 17,
+        "philip_sean_grillo": 7,
+        "scattered": 0
+      },
+      "total": 24,
+      "winnerId": "robert_j_speranza",
+      "margin": 41.7,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26026": {
+      "votes": {
+        "robert_j_speranza": 15,
+        "philip_sean_grillo": 9,
+        "scattered": 0
+      },
+      "total": 24,
+      "winnerId": "robert_j_speranza",
+      "margin": 25,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26027": {
+      "votes": {
+        "robert_j_speranza": 7,
+        "philip_sean_grillo": 19,
+        "scattered": 0
+      },
+      "total": 26,
+      "winnerId": "philip_sean_grillo",
+      "margin": 46.2,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26028": {
+      "votes": {
+        "robert_j_speranza": 17,
+        "philip_sean_grillo": 4,
+        "scattered": 0
+      },
+      "total": 21,
+      "winnerId": "robert_j_speranza",
+      "margin": 61.9,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26029": {
+      "votes": {
+        "robert_j_speranza": 4,
+        "philip_sean_grillo": 1,
+        "scattered": 0
+      },
+      "total": 5,
+      "winnerId": "robert_j_speranza",
+      "margin": 60,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26030": {
+      "votes": {
+        "robert_j_speranza": 0,
+        "philip_sean_grillo": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "robert_j_speranza",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26031": {
+      "votes": {
+        "robert_j_speranza": 9,
+        "philip_sean_grillo": 6,
+        "scattered": 0
+      },
+      "total": 15,
+      "winnerId": "robert_j_speranza",
+      "margin": 20,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26032": {
+      "votes": {
+        "robert_j_speranza": 18,
+        "philip_sean_grillo": 5,
+        "scattered": 0
+      },
+      "total": 23,
+      "winnerId": "robert_j_speranza",
+      "margin": 56.5,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26033": {
+      "votes": {
+        "robert_j_speranza": 18,
+        "philip_sean_grillo": 13,
+        "scattered": 1
+      },
+      "total": 32,
+      "winnerId": "robert_j_speranza",
+      "margin": 15.6,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26034": {
+      "votes": {
+        "robert_j_speranza": 29,
+        "philip_sean_grillo": 16,
+        "scattered": 0
+      },
+      "total": 45,
+      "winnerId": "robert_j_speranza",
+      "margin": 28.9,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26035": {
+      "votes": {
+        "robert_j_speranza": 13,
+        "philip_sean_grillo": 3,
+        "scattered": 0
+      },
+      "total": 16,
+      "winnerId": "robert_j_speranza",
+      "margin": 62.5,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26036": {
+      "votes": {
+        "robert_j_speranza": 29,
+        "philip_sean_grillo": 14,
+        "scattered": 0
+      },
+      "total": 43,
+      "winnerId": "robert_j_speranza",
+      "margin": 34.9,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26037": {
+      "votes": {
+        "robert_j_speranza": 8,
+        "philip_sean_grillo": 4,
+        "scattered": 0
+      },
+      "total": 12,
+      "winnerId": "robert_j_speranza",
+      "margin": 33.3,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26038": {
+      "votes": {
+        "robert_j_speranza": 16,
+        "philip_sean_grillo": 3,
+        "scattered": 0
+      },
+      "total": 19,
+      "winnerId": "robert_j_speranza",
+      "margin": 68.4,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26039": {
+      "votes": {
+        "robert_j_speranza": 7,
+        "philip_sean_grillo": 10,
+        "scattered": 0
+      },
+      "total": 17,
+      "winnerId": "philip_sean_grillo",
+      "margin": 17.6,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26040": {
+      "votes": {
+        "robert_j_speranza": 19,
+        "philip_sean_grillo": 1,
+        "scattered": 0
+      },
+      "total": 20,
+      "winnerId": "robert_j_speranza",
+      "margin": 90,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26041": {
+      "votes": {
+        "robert_j_speranza": 9,
+        "philip_sean_grillo": 8,
+        "scattered": 1
+      },
+      "total": 18,
+      "winnerId": "robert_j_speranza",
+      "margin": 5.6,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26042": {
+      "votes": {
+        "robert_j_speranza": 16,
+        "philip_sean_grillo": 10,
+        "scattered": 0
+      },
+      "total": 26,
+      "winnerId": "robert_j_speranza",
+      "margin": 23.1,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26043": {
+      "votes": {
+        "robert_j_speranza": 21,
+        "philip_sean_grillo": 10,
+        "scattered": 0
+      },
+      "total": 31,
+      "winnerId": "robert_j_speranza",
+      "margin": 35.5,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26044": {
+      "votes": {
+        "robert_j_speranza": 17,
+        "philip_sean_grillo": 5,
+        "scattered": 0
+      },
+      "total": 22,
+      "winnerId": "robert_j_speranza",
+      "margin": 54.5,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26045": {
+      "votes": {
+        "robert_j_speranza": 29,
+        "philip_sean_grillo": 17,
+        "scattered": 1
+      },
+      "total": 47,
+      "winnerId": "robert_j_speranza",
+      "margin": 25.5,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26046": {
+      "votes": {
+        "robert_j_speranza": 15,
+        "philip_sean_grillo": 5,
+        "scattered": 0
+      },
+      "total": 20,
+      "winnerId": "robert_j_speranza",
+      "margin": 50,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26047": {
+      "votes": {
+        "robert_j_speranza": 4,
+        "philip_sean_grillo": 3,
+        "scattered": 1
+      },
+      "total": 8,
+      "winnerId": "robert_j_speranza",
+      "margin": 12.5,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26048": {
+      "votes": {
+        "robert_j_speranza": 25,
+        "philip_sean_grillo": 6,
+        "scattered": 0
+      },
+      "total": 31,
+      "winnerId": "robert_j_speranza",
+      "margin": 61.3,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26049": {
+      "votes": {
+        "robert_j_speranza": 28,
+        "philip_sean_grillo": 5,
+        "scattered": 0
+      },
+      "total": 33,
+      "winnerId": "robert_j_speranza",
+      "margin": 69.7,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26050": {
+      "votes": {
+        "robert_j_speranza": 36,
+        "philip_sean_grillo": 19,
+        "scattered": 0
+      },
+      "total": 55,
+      "winnerId": "robert_j_speranza",
+      "margin": 30.9,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26051": {
+      "votes": {
+        "robert_j_speranza": 10,
+        "philip_sean_grillo": 2,
+        "scattered": 0
+      },
+      "total": 12,
+      "winnerId": "robert_j_speranza",
+      "margin": 66.7,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26052": {
+      "votes": {
+        "robert_j_speranza": 7,
+        "philip_sean_grillo": 16,
+        "scattered": 0
+      },
+      "total": 23,
+      "winnerId": "philip_sean_grillo",
+      "margin": 39.1,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26053": {
+      "votes": {
+        "robert_j_speranza": 17,
+        "philip_sean_grillo": 7,
+        "scattered": 0
+      },
+      "total": 24,
+      "winnerId": "robert_j_speranza",
+      "margin": 41.7,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26054": {
+      "votes": {
+        "robert_j_speranza": 5,
+        "philip_sean_grillo": 10,
+        "scattered": 0
+      },
+      "total": 15,
+      "winnerId": "philip_sean_grillo",
+      "margin": 33.3,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26055": {
+      "votes": {
+        "robert_j_speranza": 25,
+        "philip_sean_grillo": 17,
+        "scattered": 1
+      },
+      "total": 43,
+      "winnerId": "robert_j_speranza",
+      "margin": 18.6,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26056": {
+      "votes": {
+        "robert_j_speranza": 27,
+        "philip_sean_grillo": 8,
+        "scattered": 1
+      },
+      "total": 36,
+      "winnerId": "robert_j_speranza",
+      "margin": 52.8,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26057": {
+      "votes": {
+        "robert_j_speranza": 14,
+        "philip_sean_grillo": 8,
+        "scattered": 0
+      },
+      "total": 22,
+      "winnerId": "robert_j_speranza",
+      "margin": 27.3,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26058": {
+      "votes": {
+        "robert_j_speranza": 0,
+        "philip_sean_grillo": 1,
+        "scattered": 0
+      },
+      "total": 1,
+      "winnerId": "philip_sean_grillo",
+      "margin": 100,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26059": {
+      "votes": {
+        "robert_j_speranza": 10,
+        "philip_sean_grillo": 5,
+        "scattered": 0
+      },
+      "total": 15,
+      "winnerId": "robert_j_speranza",
+      "margin": 33.3,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26060": {
+      "votes": {
+        "robert_j_speranza": 3,
+        "philip_sean_grillo": 2,
+        "scattered": 0
+      },
+      "total": 5,
+      "winnerId": "robert_j_speranza",
+      "margin": 20,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26061": {
+      "votes": {
+        "robert_j_speranza": 7,
+        "philip_sean_grillo": 2,
+        "scattered": 0
+      },
+      "total": 9,
+      "winnerId": "robert_j_speranza",
+      "margin": 55.6,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26063": {
+      "votes": {
+        "robert_j_speranza": 0,
+        "philip_sean_grillo": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "robert_j_speranza",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26065": {
+      "votes": {
+        "robert_j_speranza": 0,
+        "philip_sean_grillo": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "robert_j_speranza",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/001": {
+      "votes": {
+        "robert_j_speranza": 5,
+        "philip_sean_grillo": 4,
+        "scattered": 0
+      },
+      "total": 9,
+      "winnerId": "robert_j_speranza",
+      "margin": 11.1,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/002": {
+      "votes": {
+        "robert_j_speranza": 2,
+        "philip_sean_grillo": 1,
+        "scattered": 0
+      },
+      "total": 3,
+      "winnerId": "robert_j_speranza",
+      "margin": 33.3,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/003": {
+      "votes": {
+        "robert_j_speranza": 1,
+        "philip_sean_grillo": 1,
+        "scattered": 0
+      },
+      "total": 2,
+      "winnerId": "robert_j_speranza",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/004": {
+      "votes": {
+        "robert_j_speranza": 4,
+        "philip_sean_grillo": 2,
+        "scattered": 0
+      },
+      "total": 6,
+      "winnerId": "robert_j_speranza",
+      "margin": 33.3,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/006": {
+      "votes": {
+        "robert_j_speranza": 2,
+        "philip_sean_grillo": 1,
+        "scattered": 0
+      },
+      "total": 3,
+      "winnerId": "robert_j_speranza",
+      "margin": 33.3,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/007": {
+      "votes": {
+        "robert_j_speranza": 14,
+        "philip_sean_grillo": 13,
+        "scattered": 0
+      },
+      "total": 27,
+      "winnerId": "robert_j_speranza",
+      "margin": 3.7,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/008": {
+      "votes": {
+        "robert_j_speranza": 21,
+        "philip_sean_grillo": 14,
+        "scattered": 2
+      },
+      "total": 37,
+      "winnerId": "robert_j_speranza",
+      "margin": 18.9,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/009": {
+      "votes": {
+        "robert_j_speranza": 0,
+        "philip_sean_grillo": 3,
+        "scattered": 0
+      },
+      "total": 3,
+      "winnerId": "philip_sean_grillo",
+      "margin": 100,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/010": {
+      "votes": {
+        "robert_j_speranza": 21,
+        "philip_sean_grillo": 7,
+        "scattered": 0
+      },
+      "total": 28,
+      "winnerId": "robert_j_speranza",
+      "margin": 50,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/011": {
+      "votes": {
+        "robert_j_speranza": 16,
+        "philip_sean_grillo": 5,
+        "scattered": 0
+      },
+      "total": 21,
+      "winnerId": "robert_j_speranza",
+      "margin": 52.4,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/012": {
+      "votes": {
+        "robert_j_speranza": 9,
+        "philip_sean_grillo": 22,
+        "scattered": 0
+      },
+      "total": 31,
+      "winnerId": "philip_sean_grillo",
+      "margin": 41.9,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/013": {
+      "votes": {
+        "robert_j_speranza": 7,
+        "philip_sean_grillo": 22,
+        "scattered": 0
+      },
+      "total": 29,
+      "winnerId": "philip_sean_grillo",
+      "margin": 51.7,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/014": {
+      "votes": {
+        "robert_j_speranza": 7,
+        "philip_sean_grillo": 9,
+        "scattered": 0
+      },
+      "total": 16,
+      "winnerId": "philip_sean_grillo",
+      "margin": 12.5,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/015": {
+      "votes": {
+        "robert_j_speranza": 4,
+        "philip_sean_grillo": 6,
+        "scattered": 0
+      },
+      "total": 10,
+      "winnerId": "philip_sean_grillo",
+      "margin": 20,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/016": {
+      "votes": {
+        "robert_j_speranza": 10,
+        "philip_sean_grillo": 3,
+        "scattered": 0
+      },
+      "total": 13,
+      "winnerId": "robert_j_speranza",
+      "margin": 53.8,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/017": {
+      "votes": {
+        "robert_j_speranza": 24,
+        "philip_sean_grillo": 11,
+        "scattered": 0
+      },
+      "total": 35,
+      "winnerId": "robert_j_speranza",
+      "margin": 37.1,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/018": {
+      "votes": {
+        "robert_j_speranza": 12,
+        "philip_sean_grillo": 5,
+        "scattered": 0
+      },
+      "total": 17,
+      "winnerId": "robert_j_speranza",
+      "margin": 41.2,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/019": {
+      "votes": {
+        "robert_j_speranza": 7,
+        "philip_sean_grillo": 11,
+        "scattered": 0
+      },
+      "total": 18,
+      "winnerId": "philip_sean_grillo",
+      "margin": 22.2,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/020": {
+      "votes": {
+        "robert_j_speranza": 16,
+        "philip_sean_grillo": 10,
+        "scattered": 0
+      },
+      "total": 26,
+      "winnerId": "robert_j_speranza",
+      "margin": 23.1,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/021": {
+      "votes": {
+        "robert_j_speranza": 28,
+        "philip_sean_grillo": 16,
+        "scattered": 0
+      },
+      "total": 44,
+      "winnerId": "robert_j_speranza",
+      "margin": 27.3,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/022": {
+      "votes": {
+        "robert_j_speranza": 13,
+        "philip_sean_grillo": 12,
+        "scattered": 0
+      },
+      "total": 25,
+      "winnerId": "robert_j_speranza",
+      "margin": 4,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/023": {
+      "votes": {
+        "robert_j_speranza": 12,
+        "philip_sean_grillo": 13,
+        "scattered": 1
+      },
+      "total": 26,
+      "winnerId": "philip_sean_grillo",
+      "margin": 3.8,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/024": {
+      "votes": {
+        "robert_j_speranza": 23,
+        "philip_sean_grillo": 19,
+        "scattered": 0
+      },
+      "total": 42,
+      "winnerId": "robert_j_speranza",
+      "margin": 9.5,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/025": {
+      "votes": {
+        "robert_j_speranza": 17,
+        "philip_sean_grillo": 7,
+        "scattered": 0
+      },
+      "total": 24,
+      "winnerId": "robert_j_speranza",
+      "margin": 41.7,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/026": {
+      "votes": {
+        "robert_j_speranza": 15,
+        "philip_sean_grillo": 9,
+        "scattered": 0
+      },
+      "total": 24,
+      "winnerId": "robert_j_speranza",
+      "margin": 25,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/027": {
+      "votes": {
+        "robert_j_speranza": 7,
+        "philip_sean_grillo": 19,
+        "scattered": 0
+      },
+      "total": 26,
+      "winnerId": "philip_sean_grillo",
+      "margin": 46.2,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/028": {
+      "votes": {
+        "robert_j_speranza": 17,
+        "philip_sean_grillo": 4,
+        "scattered": 0
+      },
+      "total": 21,
+      "winnerId": "robert_j_speranza",
+      "margin": 61.9,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/029": {
+      "votes": {
+        "robert_j_speranza": 4,
+        "philip_sean_grillo": 1,
+        "scattered": 0
+      },
+      "total": 5,
+      "winnerId": "robert_j_speranza",
+      "margin": 60,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/030": {
+      "votes": {
+        "robert_j_speranza": 0,
+        "philip_sean_grillo": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "robert_j_speranza",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/031": {
+      "votes": {
+        "robert_j_speranza": 9,
+        "philip_sean_grillo": 6,
+        "scattered": 0
+      },
+      "total": 15,
+      "winnerId": "robert_j_speranza",
+      "margin": 20,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/032": {
+      "votes": {
+        "robert_j_speranza": 18,
+        "philip_sean_grillo": 5,
+        "scattered": 0
+      },
+      "total": 23,
+      "winnerId": "robert_j_speranza",
+      "margin": 56.5,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/033": {
+      "votes": {
+        "robert_j_speranza": 18,
+        "philip_sean_grillo": 13,
+        "scattered": 1
+      },
+      "total": 32,
+      "winnerId": "robert_j_speranza",
+      "margin": 15.6,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/034": {
+      "votes": {
+        "robert_j_speranza": 29,
+        "philip_sean_grillo": 16,
+        "scattered": 0
+      },
+      "total": 45,
+      "winnerId": "robert_j_speranza",
+      "margin": 28.9,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/035": {
+      "votes": {
+        "robert_j_speranza": 13,
+        "philip_sean_grillo": 3,
+        "scattered": 0
+      },
+      "total": 16,
+      "winnerId": "robert_j_speranza",
+      "margin": 62.5,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/036": {
+      "votes": {
+        "robert_j_speranza": 29,
+        "philip_sean_grillo": 14,
+        "scattered": 0
+      },
+      "total": 43,
+      "winnerId": "robert_j_speranza",
+      "margin": 34.9,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/037": {
+      "votes": {
+        "robert_j_speranza": 8,
+        "philip_sean_grillo": 4,
+        "scattered": 0
+      },
+      "total": 12,
+      "winnerId": "robert_j_speranza",
+      "margin": 33.3,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/038": {
+      "votes": {
+        "robert_j_speranza": 16,
+        "philip_sean_grillo": 3,
+        "scattered": 0
+      },
+      "total": 19,
+      "winnerId": "robert_j_speranza",
+      "margin": 68.4,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/039": {
+      "votes": {
+        "robert_j_speranza": 7,
+        "philip_sean_grillo": 10,
+        "scattered": 0
+      },
+      "total": 17,
+      "winnerId": "philip_sean_grillo",
+      "margin": 17.6,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/040": {
+      "votes": {
+        "robert_j_speranza": 19,
+        "philip_sean_grillo": 1,
+        "scattered": 0
+      },
+      "total": 20,
+      "winnerId": "robert_j_speranza",
+      "margin": 90,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/041": {
+      "votes": {
+        "robert_j_speranza": 9,
+        "philip_sean_grillo": 8,
+        "scattered": 1
+      },
+      "total": 18,
+      "winnerId": "robert_j_speranza",
+      "margin": 5.6,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/042": {
+      "votes": {
+        "robert_j_speranza": 16,
+        "philip_sean_grillo": 10,
+        "scattered": 0
+      },
+      "total": 26,
+      "winnerId": "robert_j_speranza",
+      "margin": 23.1,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/043": {
+      "votes": {
+        "robert_j_speranza": 21,
+        "philip_sean_grillo": 10,
+        "scattered": 0
+      },
+      "total": 31,
+      "winnerId": "robert_j_speranza",
+      "margin": 35.5,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/044": {
+      "votes": {
+        "robert_j_speranza": 17,
+        "philip_sean_grillo": 5,
+        "scattered": 0
+      },
+      "total": 22,
+      "winnerId": "robert_j_speranza",
+      "margin": 54.5,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/045": {
+      "votes": {
+        "robert_j_speranza": 29,
+        "philip_sean_grillo": 17,
+        "scattered": 1
+      },
+      "total": 47,
+      "winnerId": "robert_j_speranza",
+      "margin": 25.5,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/046": {
+      "votes": {
+        "robert_j_speranza": 15,
+        "philip_sean_grillo": 5,
+        "scattered": 0
+      },
+      "total": 20,
+      "winnerId": "robert_j_speranza",
+      "margin": 50,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/047": {
+      "votes": {
+        "robert_j_speranza": 4,
+        "philip_sean_grillo": 3,
+        "scattered": 1
+      },
+      "total": 8,
+      "winnerId": "robert_j_speranza",
+      "margin": 12.5,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/048": {
+      "votes": {
+        "robert_j_speranza": 25,
+        "philip_sean_grillo": 6,
+        "scattered": 0
+      },
+      "total": 31,
+      "winnerId": "robert_j_speranza",
+      "margin": 61.3,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/049": {
+      "votes": {
+        "robert_j_speranza": 28,
+        "philip_sean_grillo": 5,
+        "scattered": 0
+      },
+      "total": 33,
+      "winnerId": "robert_j_speranza",
+      "margin": 69.7,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/050": {
+      "votes": {
+        "robert_j_speranza": 36,
+        "philip_sean_grillo": 19,
+        "scattered": 0
+      },
+      "total": 55,
+      "winnerId": "robert_j_speranza",
+      "margin": 30.9,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/051": {
+      "votes": {
+        "robert_j_speranza": 10,
+        "philip_sean_grillo": 2,
+        "scattered": 0
+      },
+      "total": 12,
+      "winnerId": "robert_j_speranza",
+      "margin": 66.7,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/052": {
+      "votes": {
+        "robert_j_speranza": 7,
+        "philip_sean_grillo": 16,
+        "scattered": 0
+      },
+      "total": 23,
+      "winnerId": "philip_sean_grillo",
+      "margin": 39.1,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/053": {
+      "votes": {
+        "robert_j_speranza": 17,
+        "philip_sean_grillo": 7,
+        "scattered": 0
+      },
+      "total": 24,
+      "winnerId": "robert_j_speranza",
+      "margin": 41.7,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/054": {
+      "votes": {
+        "robert_j_speranza": 5,
+        "philip_sean_grillo": 10,
+        "scattered": 0
+      },
+      "total": 15,
+      "winnerId": "philip_sean_grillo",
+      "margin": 33.3,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/055": {
+      "votes": {
+        "robert_j_speranza": 25,
+        "philip_sean_grillo": 17,
+        "scattered": 1
+      },
+      "total": 43,
+      "winnerId": "robert_j_speranza",
+      "margin": 18.6,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/056": {
+      "votes": {
+        "robert_j_speranza": 27,
+        "philip_sean_grillo": 8,
+        "scattered": 1
+      },
+      "total": 36,
+      "winnerId": "robert_j_speranza",
+      "margin": 52.8,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/057": {
+      "votes": {
+        "robert_j_speranza": 14,
+        "philip_sean_grillo": 8,
+        "scattered": 0
+      },
+      "total": 22,
+      "winnerId": "robert_j_speranza",
+      "margin": 27.3,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/058": {
+      "votes": {
+        "robert_j_speranza": 0,
+        "philip_sean_grillo": 1,
+        "scattered": 0
+      },
+      "total": 1,
+      "winnerId": "philip_sean_grillo",
+      "margin": 100,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/059": {
+      "votes": {
+        "robert_j_speranza": 10,
+        "philip_sean_grillo": 5,
+        "scattered": 0
+      },
+      "total": 15,
+      "winnerId": "robert_j_speranza",
+      "margin": 33.3,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/060": {
+      "votes": {
+        "robert_j_speranza": 3,
+        "philip_sean_grillo": 2,
+        "scattered": 0
+      },
+      "total": 5,
+      "winnerId": "robert_j_speranza",
+      "margin": 20,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/061": {
+      "votes": {
+        "robert_j_speranza": 7,
+        "philip_sean_grillo": 2,
+        "scattered": 0
+      },
+      "total": 9,
+      "winnerId": "robert_j_speranza",
+      "margin": 55.6,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/063": {
+      "votes": {
+        "robert_j_speranza": 0,
+        "philip_sean_grillo": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "robert_j_speranza",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/065": {
+      "votes": {
+        "robert_j_speranza": 0,
+        "philip_sean_grillo": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "robert_j_speranza",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "robert_j_speranza",
+          "name": "Robert J. Speranza",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "philip_sean_grillo",
+          "name": "Philip Sean Grillo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    }
+  }
+}

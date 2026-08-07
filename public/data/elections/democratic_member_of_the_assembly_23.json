@@ -1,0 +1,4756 @@
+{
+  "id": "democratic_member_of_the_assembly_23",
+  "name": "2026 Primary - Member of the Assembly District 23",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "NY State Assembly",
+  "districtKey": "23",
+  "districtType": "assembly",
+  "isUncontested": false,
+  "candidates": [
+    {
+      "id": "pesach_osina",
+      "name": "Pesach Osina",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#d97706"
+    },
+    {
+      "id": "mike_scala",
+      "name": "Mike Scala",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#7c3aed"
+    },
+    {
+      "id": "scattered",
+      "name": "Scattered",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#059669"
+    }
+  ],
+  "results": {
+    "23": {
+      "votes": {
+        "pesach_osina": 3445,
+        "mike_scala": 2201,
+        "scattered": 34
+      },
+      "total": 5680,
+      "winnerId": "pesach_osina",
+      "margin": 21.9,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    }
+  },
+  "edResults": {
+    "23001": {
+      "votes": {
+        "pesach_osina": 14,
+        "mike_scala": 52,
+        "scattered": 0
+      },
+      "total": 66,
+      "winnerId": "mike_scala",
+      "margin": 57.6,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23002": {
+      "votes": {
+        "pesach_osina": 12,
+        "mike_scala": 45,
+        "scattered": 0
+      },
+      "total": 57,
+      "winnerId": "mike_scala",
+      "margin": 57.9,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23003": {
+      "votes": {
+        "pesach_osina": 3,
+        "mike_scala": 11,
+        "scattered": 0
+      },
+      "total": 14,
+      "winnerId": "mike_scala",
+      "margin": 57.1,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23004": {
+      "votes": {
+        "pesach_osina": 52,
+        "mike_scala": 56,
+        "scattered": 0
+      },
+      "total": 108,
+      "winnerId": "mike_scala",
+      "margin": 3.7,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23005": {
+      "votes": {
+        "pesach_osina": 48,
+        "mike_scala": 77,
+        "scattered": 1
+      },
+      "total": 126,
+      "winnerId": "mike_scala",
+      "margin": 23,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23006": {
+      "votes": {
+        "pesach_osina": 55,
+        "mike_scala": 79,
+        "scattered": 0
+      },
+      "total": 134,
+      "winnerId": "mike_scala",
+      "margin": 17.9,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23007": {
+      "votes": {
+        "pesach_osina": 35,
+        "mike_scala": 98,
+        "scattered": 2
+      },
+      "total": 135,
+      "winnerId": "mike_scala",
+      "margin": 46.7,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23008": {
+      "votes": {
+        "pesach_osina": 60,
+        "mike_scala": 56,
+        "scattered": 1
+      },
+      "total": 117,
+      "winnerId": "pesach_osina",
+      "margin": 3.4,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23009": {
+      "votes": {
+        "pesach_osina": 30,
+        "mike_scala": 59,
+        "scattered": 2
+      },
+      "total": 91,
+      "winnerId": "mike_scala",
+      "margin": 31.9,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23010": {
+      "votes": {
+        "pesach_osina": 60,
+        "mike_scala": 90,
+        "scattered": 0
+      },
+      "total": 150,
+      "winnerId": "mike_scala",
+      "margin": 20,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23011": {
+      "votes": {
+        "pesach_osina": 32,
+        "mike_scala": 63,
+        "scattered": 1
+      },
+      "total": 96,
+      "winnerId": "mike_scala",
+      "margin": 32.3,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23012": {
+      "votes": {
+        "pesach_osina": 21,
+        "mike_scala": 37,
+        "scattered": 1
+      },
+      "total": 59,
+      "winnerId": "mike_scala",
+      "margin": 27.1,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23013": {
+      "votes": {
+        "pesach_osina": 46,
+        "mike_scala": 65,
+        "scattered": 4
+      },
+      "total": 115,
+      "winnerId": "mike_scala",
+      "margin": 16.5,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23014": {
+      "votes": {
+        "pesach_osina": 56,
+        "mike_scala": 43,
+        "scattered": 0
+      },
+      "total": 99,
+      "winnerId": "pesach_osina",
+      "margin": 13.1,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23015": {
+      "votes": {
+        "pesach_osina": 54,
+        "mike_scala": 51,
+        "scattered": 0
+      },
+      "total": 105,
+      "winnerId": "pesach_osina",
+      "margin": 2.9,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23016": {
+      "votes": {
+        "pesach_osina": 34,
+        "mike_scala": 29,
+        "scattered": 0
+      },
+      "total": 63,
+      "winnerId": "pesach_osina",
+      "margin": 7.9,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23017": {
+      "votes": {
+        "pesach_osina": 10,
+        "mike_scala": 43,
+        "scattered": 1
+      },
+      "total": 54,
+      "winnerId": "mike_scala",
+      "margin": 61.1,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23018": {
+      "votes": {
+        "pesach_osina": 50,
+        "mike_scala": 85,
+        "scattered": 0
+      },
+      "total": 135,
+      "winnerId": "mike_scala",
+      "margin": 25.9,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23019": {
+      "votes": {
+        "pesach_osina": 14,
+        "mike_scala": 22,
+        "scattered": 1
+      },
+      "total": 37,
+      "winnerId": "mike_scala",
+      "margin": 21.6,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23020": {
+      "votes": {
+        "pesach_osina": 24,
+        "mike_scala": 13,
+        "scattered": 0
+      },
+      "total": 37,
+      "winnerId": "pesach_osina",
+      "margin": 29.7,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23021": {
+      "votes": {
+        "pesach_osina": 92,
+        "mike_scala": 25,
+        "scattered": 0
+      },
+      "total": 117,
+      "winnerId": "pesach_osina",
+      "margin": 57.3,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23022": {
+      "votes": {
+        "pesach_osina": 32,
+        "mike_scala": 16,
+        "scattered": 1
+      },
+      "total": 49,
+      "winnerId": "pesach_osina",
+      "margin": 32.7,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23023": {
+      "votes": {
+        "pesach_osina": 58,
+        "mike_scala": 18,
+        "scattered": 2
+      },
+      "total": 78,
+      "winnerId": "pesach_osina",
+      "margin": 51.3,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23024": {
+      "votes": {
+        "pesach_osina": 34,
+        "mike_scala": 14,
+        "scattered": 0
+      },
+      "total": 48,
+      "winnerId": "pesach_osina",
+      "margin": 41.7,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23025": {
+      "votes": {
+        "pesach_osina": 159,
+        "mike_scala": 45,
+        "scattered": 0
+      },
+      "total": 204,
+      "winnerId": "pesach_osina",
+      "margin": 55.9,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23026": {
+      "votes": {
+        "pesach_osina": 73,
+        "mike_scala": 29,
+        "scattered": 1
+      },
+      "total": 103,
+      "winnerId": "pesach_osina",
+      "margin": 42.7,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23027": {
+      "votes": {
+        "pesach_osina": 348,
+        "mike_scala": 16,
+        "scattered": 0
+      },
+      "total": 364,
+      "winnerId": "pesach_osina",
+      "margin": 91.2,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23028": {
+      "votes": {
+        "pesach_osina": 129,
+        "mike_scala": 36,
+        "scattered": 1
+      },
+      "total": 166,
+      "winnerId": "pesach_osina",
+      "margin": 56,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23029": {
+      "votes": {
+        "pesach_osina": 440,
+        "mike_scala": 5,
+        "scattered": 0
+      },
+      "total": 445,
+      "winnerId": "pesach_osina",
+      "margin": 97.8,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23030": {
+      "votes": {
+        "pesach_osina": 256,
+        "mike_scala": 16,
+        "scattered": 0
+      },
+      "total": 272,
+      "winnerId": "pesach_osina",
+      "margin": 88.2,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23031": {
+      "votes": {
+        "pesach_osina": 186,
+        "mike_scala": 22,
+        "scattered": 0
+      },
+      "total": 208,
+      "winnerId": "pesach_osina",
+      "margin": 78.8,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23032": {
+      "votes": {
+        "pesach_osina": 208,
+        "mike_scala": 28,
+        "scattered": 1
+      },
+      "total": 237,
+      "winnerId": "pesach_osina",
+      "margin": 75.9,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23033": {
+      "votes": {
+        "pesach_osina": 20,
+        "mike_scala": 27,
+        "scattered": 0
+      },
+      "total": 47,
+      "winnerId": "mike_scala",
+      "margin": 14.9,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23034": {
+      "votes": {
+        "pesach_osina": 18,
+        "mike_scala": 22,
+        "scattered": 1
+      },
+      "total": 41,
+      "winnerId": "mike_scala",
+      "margin": 9.8,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23035": {
+      "votes": {
+        "pesach_osina": 21,
+        "mike_scala": 19,
+        "scattered": 0
+      },
+      "total": 40,
+      "winnerId": "pesach_osina",
+      "margin": 5,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23036": {
+      "votes": {
+        "pesach_osina": 20,
+        "mike_scala": 27,
+        "scattered": 0
+      },
+      "total": 47,
+      "winnerId": "mike_scala",
+      "margin": 14.9,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23037": {
+      "votes": {
+        "pesach_osina": 17,
+        "mike_scala": 31,
+        "scattered": 0
+      },
+      "total": 48,
+      "winnerId": "mike_scala",
+      "margin": 29.2,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23038": {
+      "votes": {
+        "pesach_osina": 21,
+        "mike_scala": 33,
+        "scattered": 0
+      },
+      "total": 54,
+      "winnerId": "mike_scala",
+      "margin": 22.2,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23039": {
+      "votes": {
+        "pesach_osina": 2,
+        "mike_scala": 3,
+        "scattered": 0
+      },
+      "total": 5,
+      "winnerId": "mike_scala",
+      "margin": 20,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23040": {
+      "votes": {
+        "pesach_osina": 19,
+        "mike_scala": 12,
+        "scattered": 1
+      },
+      "total": 32,
+      "winnerId": "pesach_osina",
+      "margin": 21.9,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23041": {
+      "votes": {
+        "pesach_osina": 16,
+        "mike_scala": 25,
+        "scattered": 0
+      },
+      "total": 41,
+      "winnerId": "mike_scala",
+      "margin": 22,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23042": {
+      "votes": {
+        "pesach_osina": 13,
+        "mike_scala": 19,
+        "scattered": 0
+      },
+      "total": 32,
+      "winnerId": "mike_scala",
+      "margin": 18.8,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23043": {
+      "votes": {
+        "pesach_osina": 0,
+        "mike_scala": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "pesach_osina",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23044": {
+      "votes": {
+        "pesach_osina": 75,
+        "mike_scala": 62,
+        "scattered": 0
+      },
+      "total": 137,
+      "winnerId": "pesach_osina",
+      "margin": 9.5,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23045": {
+      "votes": {
+        "pesach_osina": 42,
+        "mike_scala": 48,
+        "scattered": 0
+      },
+      "total": 90,
+      "winnerId": "mike_scala",
+      "margin": 6.7,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23046": {
+      "votes": {
+        "pesach_osina": 14,
+        "mike_scala": 11,
+        "scattered": 1
+      },
+      "total": 26,
+      "winnerId": "pesach_osina",
+      "margin": 11.5,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23047": {
+      "votes": {
+        "pesach_osina": 20,
+        "mike_scala": 22,
+        "scattered": 0
+      },
+      "total": 42,
+      "winnerId": "mike_scala",
+      "margin": 4.8,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23048": {
+      "votes": {
+        "pesach_osina": 34,
+        "mike_scala": 45,
+        "scattered": 0
+      },
+      "total": 79,
+      "winnerId": "mike_scala",
+      "margin": 13.9,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23049": {
+      "votes": {
+        "pesach_osina": 35,
+        "mike_scala": 56,
+        "scattered": 1
+      },
+      "total": 92,
+      "winnerId": "mike_scala",
+      "margin": 22.8,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23050": {
+      "votes": {
+        "pesach_osina": 16,
+        "mike_scala": 17,
+        "scattered": 0
+      },
+      "total": 33,
+      "winnerId": "mike_scala",
+      "margin": 3,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23051": {
+      "votes": {
+        "pesach_osina": 23,
+        "mike_scala": 32,
+        "scattered": 2
+      },
+      "total": 57,
+      "winnerId": "mike_scala",
+      "margin": 15.8,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23052": {
+      "votes": {
+        "pesach_osina": 18,
+        "mike_scala": 12,
+        "scattered": 0
+      },
+      "total": 30,
+      "winnerId": "pesach_osina",
+      "margin": 20,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23053": {
+      "votes": {
+        "pesach_osina": 25,
+        "mike_scala": 20,
+        "scattered": 5
+      },
+      "total": 50,
+      "winnerId": "pesach_osina",
+      "margin": 10,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23054": {
+      "votes": {
+        "pesach_osina": 21,
+        "mike_scala": 22,
+        "scattered": 0
+      },
+      "total": 43,
+      "winnerId": "mike_scala",
+      "margin": 2.3,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23055": {
+      "votes": {
+        "pesach_osina": 4,
+        "mike_scala": 10,
+        "scattered": 1
+      },
+      "total": 15,
+      "winnerId": "mike_scala",
+      "margin": 40,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23056": {
+      "votes": {
+        "pesach_osina": 3,
+        "mike_scala": 18,
+        "scattered": 0
+      },
+      "total": 21,
+      "winnerId": "mike_scala",
+      "margin": 71.4,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23057": {
+      "votes": {
+        "pesach_osina": 6,
+        "mike_scala": 14,
+        "scattered": 0
+      },
+      "total": 20,
+      "winnerId": "mike_scala",
+      "margin": 40,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23058": {
+      "votes": {
+        "pesach_osina": 12,
+        "mike_scala": 9,
+        "scattered": 0
+      },
+      "total": 21,
+      "winnerId": "pesach_osina",
+      "margin": 14.3,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23059": {
+      "votes": {
+        "pesach_osina": 9,
+        "mike_scala": 7,
+        "scattered": 0
+      },
+      "total": 16,
+      "winnerId": "pesach_osina",
+      "margin": 12.5,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23060": {
+      "votes": {
+        "pesach_osina": 14,
+        "mike_scala": 34,
+        "scattered": 0
+      },
+      "total": 48,
+      "winnerId": "mike_scala",
+      "margin": 41.7,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23061": {
+      "votes": {
+        "pesach_osina": 0,
+        "mike_scala": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "pesach_osina",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23062": {
+      "votes": {
+        "pesach_osina": 23,
+        "mike_scala": 35,
+        "scattered": 0
+      },
+      "total": 58,
+      "winnerId": "mike_scala",
+      "margin": 20.7,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23063": {
+      "votes": {
+        "pesach_osina": 9,
+        "mike_scala": 17,
+        "scattered": 1
+      },
+      "total": 27,
+      "winnerId": "mike_scala",
+      "margin": 29.6,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23064": {
+      "votes": {
+        "pesach_osina": 6,
+        "mike_scala": 3,
+        "scattered": 0
+      },
+      "total": 9,
+      "winnerId": "pesach_osina",
+      "margin": 33.3,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23065": {
+      "votes": {
+        "pesach_osina": 52,
+        "mike_scala": 40,
+        "scattered": 0
+      },
+      "total": 92,
+      "winnerId": "pesach_osina",
+      "margin": 13,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23066": {
+      "votes": {
+        "pesach_osina": 53,
+        "mike_scala": 26,
+        "scattered": 0
+      },
+      "total": 79,
+      "winnerId": "pesach_osina",
+      "margin": 34.2,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23067": {
+      "votes": {
+        "pesach_osina": 17,
+        "mike_scala": 37,
+        "scattered": 0
+      },
+      "total": 54,
+      "winnerId": "mike_scala",
+      "margin": 37,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23068": {
+      "votes": {
+        "pesach_osina": 22,
+        "mike_scala": 42,
+        "scattered": 1
+      },
+      "total": 65,
+      "winnerId": "mike_scala",
+      "margin": 30.8,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23070": {
+      "votes": {
+        "pesach_osina": 0,
+        "mike_scala": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "pesach_osina",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23073": {
+      "votes": {
+        "pesach_osina": 0,
+        "mike_scala": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "pesach_osina",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23075": {
+      "votes": {
+        "pesach_osina": 0,
+        "mike_scala": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "pesach_osina",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23/001": {
+      "votes": {
+        "pesach_osina": 14,
+        "mike_scala": 52,
+        "scattered": 0
+      },
+      "total": 66,
+      "winnerId": "mike_scala",
+      "margin": 57.6,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23/002": {
+      "votes": {
+        "pesach_osina": 12,
+        "mike_scala": 45,
+        "scattered": 0
+      },
+      "total": 57,
+      "winnerId": "mike_scala",
+      "margin": 57.9,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23/003": {
+      "votes": {
+        "pesach_osina": 3,
+        "mike_scala": 11,
+        "scattered": 0
+      },
+      "total": 14,
+      "winnerId": "mike_scala",
+      "margin": 57.1,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23/004": {
+      "votes": {
+        "pesach_osina": 52,
+        "mike_scala": 56,
+        "scattered": 0
+      },
+      "total": 108,
+      "winnerId": "mike_scala",
+      "margin": 3.7,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23/005": {
+      "votes": {
+        "pesach_osina": 48,
+        "mike_scala": 77,
+        "scattered": 1
+      },
+      "total": 126,
+      "winnerId": "mike_scala",
+      "margin": 23,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23/006": {
+      "votes": {
+        "pesach_osina": 55,
+        "mike_scala": 79,
+        "scattered": 0
+      },
+      "total": 134,
+      "winnerId": "mike_scala",
+      "margin": 17.9,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23/007": {
+      "votes": {
+        "pesach_osina": 35,
+        "mike_scala": 98,
+        "scattered": 2
+      },
+      "total": 135,
+      "winnerId": "mike_scala",
+      "margin": 46.7,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23/008": {
+      "votes": {
+        "pesach_osina": 60,
+        "mike_scala": 56,
+        "scattered": 1
+      },
+      "total": 117,
+      "winnerId": "pesach_osina",
+      "margin": 3.4,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23/009": {
+      "votes": {
+        "pesach_osina": 30,
+        "mike_scala": 59,
+        "scattered": 2
+      },
+      "total": 91,
+      "winnerId": "mike_scala",
+      "margin": 31.9,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23/010": {
+      "votes": {
+        "pesach_osina": 60,
+        "mike_scala": 90,
+        "scattered": 0
+      },
+      "total": 150,
+      "winnerId": "mike_scala",
+      "margin": 20,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23/011": {
+      "votes": {
+        "pesach_osina": 32,
+        "mike_scala": 63,
+        "scattered": 1
+      },
+      "total": 96,
+      "winnerId": "mike_scala",
+      "margin": 32.3,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23/012": {
+      "votes": {
+        "pesach_osina": 21,
+        "mike_scala": 37,
+        "scattered": 1
+      },
+      "total": 59,
+      "winnerId": "mike_scala",
+      "margin": 27.1,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23/013": {
+      "votes": {
+        "pesach_osina": 46,
+        "mike_scala": 65,
+        "scattered": 4
+      },
+      "total": 115,
+      "winnerId": "mike_scala",
+      "margin": 16.5,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23/014": {
+      "votes": {
+        "pesach_osina": 56,
+        "mike_scala": 43,
+        "scattered": 0
+      },
+      "total": 99,
+      "winnerId": "pesach_osina",
+      "margin": 13.1,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23/015": {
+      "votes": {
+        "pesach_osina": 54,
+        "mike_scala": 51,
+        "scattered": 0
+      },
+      "total": 105,
+      "winnerId": "pesach_osina",
+      "margin": 2.9,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23/016": {
+      "votes": {
+        "pesach_osina": 34,
+        "mike_scala": 29,
+        "scattered": 0
+      },
+      "total": 63,
+      "winnerId": "pesach_osina",
+      "margin": 7.9,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23/017": {
+      "votes": {
+        "pesach_osina": 10,
+        "mike_scala": 43,
+        "scattered": 1
+      },
+      "total": 54,
+      "winnerId": "mike_scala",
+      "margin": 61.1,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23/018": {
+      "votes": {
+        "pesach_osina": 50,
+        "mike_scala": 85,
+        "scattered": 0
+      },
+      "total": 135,
+      "winnerId": "mike_scala",
+      "margin": 25.9,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23/019": {
+      "votes": {
+        "pesach_osina": 14,
+        "mike_scala": 22,
+        "scattered": 1
+      },
+      "total": 37,
+      "winnerId": "mike_scala",
+      "margin": 21.6,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23/020": {
+      "votes": {
+        "pesach_osina": 24,
+        "mike_scala": 13,
+        "scattered": 0
+      },
+      "total": 37,
+      "winnerId": "pesach_osina",
+      "margin": 29.7,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23/021": {
+      "votes": {
+        "pesach_osina": 92,
+        "mike_scala": 25,
+        "scattered": 0
+      },
+      "total": 117,
+      "winnerId": "pesach_osina",
+      "margin": 57.3,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23/022": {
+      "votes": {
+        "pesach_osina": 32,
+        "mike_scala": 16,
+        "scattered": 1
+      },
+      "total": 49,
+      "winnerId": "pesach_osina",
+      "margin": 32.7,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23/023": {
+      "votes": {
+        "pesach_osina": 58,
+        "mike_scala": 18,
+        "scattered": 2
+      },
+      "total": 78,
+      "winnerId": "pesach_osina",
+      "margin": 51.3,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23/024": {
+      "votes": {
+        "pesach_osina": 34,
+        "mike_scala": 14,
+        "scattered": 0
+      },
+      "total": 48,
+      "winnerId": "pesach_osina",
+      "margin": 41.7,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23/025": {
+      "votes": {
+        "pesach_osina": 159,
+        "mike_scala": 45,
+        "scattered": 0
+      },
+      "total": 204,
+      "winnerId": "pesach_osina",
+      "margin": 55.9,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23/026": {
+      "votes": {
+        "pesach_osina": 73,
+        "mike_scala": 29,
+        "scattered": 1
+      },
+      "total": 103,
+      "winnerId": "pesach_osina",
+      "margin": 42.7,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23/027": {
+      "votes": {
+        "pesach_osina": 348,
+        "mike_scala": 16,
+        "scattered": 0
+      },
+      "total": 364,
+      "winnerId": "pesach_osina",
+      "margin": 91.2,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23/028": {
+      "votes": {
+        "pesach_osina": 129,
+        "mike_scala": 36,
+        "scattered": 1
+      },
+      "total": 166,
+      "winnerId": "pesach_osina",
+      "margin": 56,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23/029": {
+      "votes": {
+        "pesach_osina": 440,
+        "mike_scala": 5,
+        "scattered": 0
+      },
+      "total": 445,
+      "winnerId": "pesach_osina",
+      "margin": 97.8,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23/030": {
+      "votes": {
+        "pesach_osina": 256,
+        "mike_scala": 16,
+        "scattered": 0
+      },
+      "total": 272,
+      "winnerId": "pesach_osina",
+      "margin": 88.2,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23/031": {
+      "votes": {
+        "pesach_osina": 186,
+        "mike_scala": 22,
+        "scattered": 0
+      },
+      "total": 208,
+      "winnerId": "pesach_osina",
+      "margin": 78.8,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23/032": {
+      "votes": {
+        "pesach_osina": 208,
+        "mike_scala": 28,
+        "scattered": 1
+      },
+      "total": 237,
+      "winnerId": "pesach_osina",
+      "margin": 75.9,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23/033": {
+      "votes": {
+        "pesach_osina": 20,
+        "mike_scala": 27,
+        "scattered": 0
+      },
+      "total": 47,
+      "winnerId": "mike_scala",
+      "margin": 14.9,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23/034": {
+      "votes": {
+        "pesach_osina": 18,
+        "mike_scala": 22,
+        "scattered": 1
+      },
+      "total": 41,
+      "winnerId": "mike_scala",
+      "margin": 9.8,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23/035": {
+      "votes": {
+        "pesach_osina": 21,
+        "mike_scala": 19,
+        "scattered": 0
+      },
+      "total": 40,
+      "winnerId": "pesach_osina",
+      "margin": 5,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23/036": {
+      "votes": {
+        "pesach_osina": 20,
+        "mike_scala": 27,
+        "scattered": 0
+      },
+      "total": 47,
+      "winnerId": "mike_scala",
+      "margin": 14.9,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23/037": {
+      "votes": {
+        "pesach_osina": 17,
+        "mike_scala": 31,
+        "scattered": 0
+      },
+      "total": 48,
+      "winnerId": "mike_scala",
+      "margin": 29.2,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23/038": {
+      "votes": {
+        "pesach_osina": 21,
+        "mike_scala": 33,
+        "scattered": 0
+      },
+      "total": 54,
+      "winnerId": "mike_scala",
+      "margin": 22.2,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23/039": {
+      "votes": {
+        "pesach_osina": 2,
+        "mike_scala": 3,
+        "scattered": 0
+      },
+      "total": 5,
+      "winnerId": "mike_scala",
+      "margin": 20,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23/040": {
+      "votes": {
+        "pesach_osina": 19,
+        "mike_scala": 12,
+        "scattered": 1
+      },
+      "total": 32,
+      "winnerId": "pesach_osina",
+      "margin": 21.9,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23/041": {
+      "votes": {
+        "pesach_osina": 16,
+        "mike_scala": 25,
+        "scattered": 0
+      },
+      "total": 41,
+      "winnerId": "mike_scala",
+      "margin": 22,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23/042": {
+      "votes": {
+        "pesach_osina": 13,
+        "mike_scala": 19,
+        "scattered": 0
+      },
+      "total": 32,
+      "winnerId": "mike_scala",
+      "margin": 18.8,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23/043": {
+      "votes": {
+        "pesach_osina": 0,
+        "mike_scala": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "pesach_osina",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23/044": {
+      "votes": {
+        "pesach_osina": 75,
+        "mike_scala": 62,
+        "scattered": 0
+      },
+      "total": 137,
+      "winnerId": "pesach_osina",
+      "margin": 9.5,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23/045": {
+      "votes": {
+        "pesach_osina": 42,
+        "mike_scala": 48,
+        "scattered": 0
+      },
+      "total": 90,
+      "winnerId": "mike_scala",
+      "margin": 6.7,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23/046": {
+      "votes": {
+        "pesach_osina": 14,
+        "mike_scala": 11,
+        "scattered": 1
+      },
+      "total": 26,
+      "winnerId": "pesach_osina",
+      "margin": 11.5,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23/047": {
+      "votes": {
+        "pesach_osina": 20,
+        "mike_scala": 22,
+        "scattered": 0
+      },
+      "total": 42,
+      "winnerId": "mike_scala",
+      "margin": 4.8,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23/048": {
+      "votes": {
+        "pesach_osina": 34,
+        "mike_scala": 45,
+        "scattered": 0
+      },
+      "total": 79,
+      "winnerId": "mike_scala",
+      "margin": 13.9,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23/049": {
+      "votes": {
+        "pesach_osina": 35,
+        "mike_scala": 56,
+        "scattered": 1
+      },
+      "total": 92,
+      "winnerId": "mike_scala",
+      "margin": 22.8,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23/050": {
+      "votes": {
+        "pesach_osina": 16,
+        "mike_scala": 17,
+        "scattered": 0
+      },
+      "total": 33,
+      "winnerId": "mike_scala",
+      "margin": 3,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23/051": {
+      "votes": {
+        "pesach_osina": 23,
+        "mike_scala": 32,
+        "scattered": 2
+      },
+      "total": 57,
+      "winnerId": "mike_scala",
+      "margin": 15.8,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23/052": {
+      "votes": {
+        "pesach_osina": 18,
+        "mike_scala": 12,
+        "scattered": 0
+      },
+      "total": 30,
+      "winnerId": "pesach_osina",
+      "margin": 20,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23/053": {
+      "votes": {
+        "pesach_osina": 25,
+        "mike_scala": 20,
+        "scattered": 5
+      },
+      "total": 50,
+      "winnerId": "pesach_osina",
+      "margin": 10,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23/054": {
+      "votes": {
+        "pesach_osina": 21,
+        "mike_scala": 22,
+        "scattered": 0
+      },
+      "total": 43,
+      "winnerId": "mike_scala",
+      "margin": 2.3,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23/055": {
+      "votes": {
+        "pesach_osina": 4,
+        "mike_scala": 10,
+        "scattered": 1
+      },
+      "total": 15,
+      "winnerId": "mike_scala",
+      "margin": 40,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23/056": {
+      "votes": {
+        "pesach_osina": 3,
+        "mike_scala": 18,
+        "scattered": 0
+      },
+      "total": 21,
+      "winnerId": "mike_scala",
+      "margin": 71.4,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23/057": {
+      "votes": {
+        "pesach_osina": 6,
+        "mike_scala": 14,
+        "scattered": 0
+      },
+      "total": 20,
+      "winnerId": "mike_scala",
+      "margin": 40,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23/058": {
+      "votes": {
+        "pesach_osina": 12,
+        "mike_scala": 9,
+        "scattered": 0
+      },
+      "total": 21,
+      "winnerId": "pesach_osina",
+      "margin": 14.3,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23/059": {
+      "votes": {
+        "pesach_osina": 9,
+        "mike_scala": 7,
+        "scattered": 0
+      },
+      "total": 16,
+      "winnerId": "pesach_osina",
+      "margin": 12.5,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23/060": {
+      "votes": {
+        "pesach_osina": 14,
+        "mike_scala": 34,
+        "scattered": 0
+      },
+      "total": 48,
+      "winnerId": "mike_scala",
+      "margin": 41.7,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23/061": {
+      "votes": {
+        "pesach_osina": 0,
+        "mike_scala": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "pesach_osina",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23/062": {
+      "votes": {
+        "pesach_osina": 23,
+        "mike_scala": 35,
+        "scattered": 0
+      },
+      "total": 58,
+      "winnerId": "mike_scala",
+      "margin": 20.7,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23/063": {
+      "votes": {
+        "pesach_osina": 9,
+        "mike_scala": 17,
+        "scattered": 1
+      },
+      "total": 27,
+      "winnerId": "mike_scala",
+      "margin": 29.6,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23/064": {
+      "votes": {
+        "pesach_osina": 6,
+        "mike_scala": 3,
+        "scattered": 0
+      },
+      "total": 9,
+      "winnerId": "pesach_osina",
+      "margin": 33.3,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23/065": {
+      "votes": {
+        "pesach_osina": 52,
+        "mike_scala": 40,
+        "scattered": 0
+      },
+      "total": 92,
+      "winnerId": "pesach_osina",
+      "margin": 13,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23/066": {
+      "votes": {
+        "pesach_osina": 53,
+        "mike_scala": 26,
+        "scattered": 0
+      },
+      "total": 79,
+      "winnerId": "pesach_osina",
+      "margin": 34.2,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23/067": {
+      "votes": {
+        "pesach_osina": 17,
+        "mike_scala": 37,
+        "scattered": 0
+      },
+      "total": 54,
+      "winnerId": "mike_scala",
+      "margin": 37,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23/068": {
+      "votes": {
+        "pesach_osina": 22,
+        "mike_scala": 42,
+        "scattered": 1
+      },
+      "total": 65,
+      "winnerId": "mike_scala",
+      "margin": 30.8,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23/070": {
+      "votes": {
+        "pesach_osina": 0,
+        "mike_scala": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "pesach_osina",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23/073": {
+      "votes": {
+        "pesach_osina": 0,
+        "mike_scala": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "pesach_osina",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "23/075": {
+      "votes": {
+        "pesach_osina": 0,
+        "mike_scala": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "pesach_osina",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "pesach_osina",
+          "name": "Pesach Osina",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mike_scala",
+          "name": "Mike Scala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    }
+  }
+}

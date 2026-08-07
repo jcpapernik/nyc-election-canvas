@@ -1,0 +1,31 @@
+{
+  "id": "democratic_member_of_the_city_council_22",
+  "name": "2026 Primary - Member of the City Council District 22",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "City Council",
+  "districtKey": "22",
+  "districtType": "council",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "tiffany_cab\u00e1n",
+      "name": "Tiffany Cab\u00e1n",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#2563eb"
+    }
+  ],
+  "results": {
+    "22": {
+      "votes": {
+        "uncontested_primary_council_22": 0
+      },
+      "total": 0,
+      "winnerId": "uncontested_primary_council_22",
+      "margin": 100,
+      "isUncontested": true
+    }
+  },
+  "edResults": {}
+}

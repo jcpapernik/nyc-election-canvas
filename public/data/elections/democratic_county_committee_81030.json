@@ -1,0 +1,229 @@
+{
+  "id": "democratic_county_committee_81030",
+  "name": "2026 Primary - County Committee District 81030",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "Judicial & Party Offices",
+  "districtKey": "81030",
+  "districtType": "congressional",
+  "isUncontested": false,
+  "candidates": [
+    {
+      "id": "seryl_ritter",
+      "name": "Seryl Ritter",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#d97706"
+    },
+    {
+      "id": "sylvia_gottlieb",
+      "name": "Sylvia Gottlieb",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#7c3aed"
+    },
+    {
+      "id": "william_f_weitz",
+      "name": "William F. Weitz",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#059669"
+    },
+    {
+      "id": "robert_k_malik",
+      "name": "Robert K. Malik",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#0891b2"
+    },
+    {
+      "id": "michele_roos",
+      "name": "Michele Roos",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#4f46e5"
+    },
+    {
+      "id": "scattered",
+      "name": "Scattered",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#db2777"
+    }
+  ],
+  "results": {
+    "81030": {
+      "votes": {
+        "seryl_ritter": 252,
+        "sylvia_gottlieb": 241,
+        "william_f_weitz": 211,
+        "robert_k_malik": 210,
+        "michele_roos": 112,
+        "scattered": 11
+      },
+      "total": 1037,
+      "winnerId": "seryl_ritter",
+      "margin": 1.1,
+      "candidates": [
+        {
+          "id": "seryl_ritter",
+          "name": "Seryl Ritter",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "sylvia_gottlieb",
+          "name": "Sylvia Gottlieb",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_f_weitz",
+          "name": "William F. Weitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "robert_k_malik",
+          "name": "Robert K. Malik",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "michele_roos",
+          "name": "Michele Roos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    }
+  },
+  "edResults": {
+    "81030": {
+      "votes": {
+        "seryl_ritter": 252,
+        "sylvia_gottlieb": 241,
+        "william_f_weitz": 211,
+        "robert_k_malik": 210,
+        "michele_roos": 112,
+        "scattered": 11
+      },
+      "total": 1037,
+      "winnerId": "seryl_ritter",
+      "margin": 1.1,
+      "candidates": [
+        {
+          "id": "seryl_ritter",
+          "name": "Seryl Ritter",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "sylvia_gottlieb",
+          "name": "Sylvia Gottlieb",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_f_weitz",
+          "name": "William F. Weitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "robert_k_malik",
+          "name": "Robert K. Malik",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "michele_roos",
+          "name": "Michele Roos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "81/030": {
+      "votes": {
+        "seryl_ritter": 252,
+        "sylvia_gottlieb": 241,
+        "william_f_weitz": 211,
+        "robert_k_malik": 210,
+        "michele_roos": 112,
+        "scattered": 11
+      },
+      "total": 1037,
+      "winnerId": "seryl_ritter",
+      "margin": 1.1,
+      "candidates": [
+        {
+          "id": "seryl_ritter",
+          "name": "Seryl Ritter",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "sylvia_gottlieb",
+          "name": "Sylvia Gottlieb",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_f_weitz",
+          "name": "William F. Weitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "robert_k_malik",
+          "name": "Robert K. Malik",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "michele_roos",
+          "name": "Michele Roos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    }
+  }
+}

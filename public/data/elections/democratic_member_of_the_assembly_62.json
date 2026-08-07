@@ -1,0 +1,31 @@
+{
+  "id": "democratic_member_of_the_assembly_62",
+  "name": "2026 Primary - Member of the Assembly District 62",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "State Assembly",
+  "districtKey": "62",
+  "districtType": "assembly",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "michael_reilly",
+      "name": "Michael Reilly",
+      "party": "Democratic",
+      "isIncumbent": true,
+      "color": "#2563eb"
+    }
+  ],
+  "results": {
+    "62": {
+      "votes": {
+        "uncontested_primary_assembly_62": 0
+      },
+      "total": 0,
+      "winnerId": "uncontested_primary_assembly_62",
+      "margin": 100,
+      "isUncontested": true
+    }
+  },
+  "edResults": {}
+}

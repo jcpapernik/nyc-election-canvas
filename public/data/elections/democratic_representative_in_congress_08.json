@@ -1,0 +1,31 @@
+{
+  "id": "democratic_representative_in_congress_08",
+  "name": "2026 Primary - Representative in Congress District 08",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "US House (Congressional)",
+  "districtKey": "8",
+  "districtType": "congressional",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "hakeem_jeffries",
+      "name": "Hakeem Jeffries",
+      "party": "Democratic",
+      "isIncumbent": true,
+      "color": "#2563eb"
+    }
+  ],
+  "results": {
+    "8": {
+      "votes": {
+        "uncontested_primary_congressional_8": 0
+      },
+      "total": 0,
+      "winnerId": "uncontested_primary_congressional_8",
+      "margin": 100,
+      "isUncontested": true
+    }
+  },
+  "edResults": {}
+}

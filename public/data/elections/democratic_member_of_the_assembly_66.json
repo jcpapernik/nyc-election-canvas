@@ -1,0 +1,31 @@
+{
+  "id": "democratic_member_of_the_assembly_66",
+  "name": "2026 Primary - Member of the Assembly District 66",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "State Assembly",
+  "districtKey": "66",
+  "districtType": "assembly",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "deborah_j_glick",
+      "name": "Deborah J. Glick",
+      "party": "Democratic",
+      "isIncumbent": true,
+      "color": "#2563eb"
+    }
+  ],
+  "results": {
+    "66": {
+      "votes": {
+        "uncontested_primary_assembly_66": 0
+      },
+      "total": 0,
+      "winnerId": "uncontested_primary_assembly_66",
+      "margin": 100,
+      "isUncontested": true
+    }
+  },
+  "edResults": {}
+}

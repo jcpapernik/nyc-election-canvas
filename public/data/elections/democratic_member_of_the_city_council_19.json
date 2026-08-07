@@ -1,0 +1,31 @@
+{
+  "id": "democratic_member_of_the_city_council_19",
+  "name": "2026 Primary - Member of the City Council District 19",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "City Council",
+  "districtKey": "19",
+  "districtType": "council",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "vickie_paladino",
+      "name": "Vickie Paladino",
+      "party": "Democratic",
+      "isIncumbent": true,
+      "color": "#2563eb"
+    }
+  ],
+  "results": {
+    "19": {
+      "votes": {
+        "uncontested_primary_council_19": 0
+      },
+      "total": 0,
+      "winnerId": "uncontested_primary_council_19",
+      "margin": 100,
+      "isUncontested": true
+    }
+  },
+  "edResults": {}
+}

@@ -1,0 +1,3238 @@
+{
+  "id": "democratic_member_of_the_assembly_39",
+  "name": "2026 Primary - Member of the Assembly District 39",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "NY State Assembly",
+  "districtKey": "39",
+  "districtType": "assembly",
+  "isUncontested": false,
+  "candidates": [
+    {
+      "id": "catalina_cruz",
+      "name": "Catalina Cruz",
+      "party": "Democratic",
+      "isIncumbent": true,
+      "color": "#d97706"
+    },
+    {
+      "id": "yonel_e_letellier_sosa",
+      "name": "Yonel E. Letellier Sosa",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#7c3aed"
+    },
+    {
+      "id": "scattered",
+      "name": "Scattered",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#059669"
+    }
+  ],
+  "results": {
+    "39": {
+      "votes": {
+        "catalina_cruz": 5449,
+        "yonel_e_letellier_sosa": 483,
+        "scattered": 59
+      },
+      "total": 5991,
+      "winnerId": "catalina_cruz",
+      "margin": 82.9,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    }
+  },
+  "edResults": {
+    "39001": {
+      "votes": {
+        "catalina_cruz": 343,
+        "yonel_e_letellier_sosa": 18,
+        "scattered": 9
+      },
+      "total": 370,
+      "winnerId": "catalina_cruz",
+      "margin": 87.8,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39002": {
+      "votes": {
+        "catalina_cruz": 450,
+        "yonel_e_letellier_sosa": 26,
+        "scattered": 3
+      },
+      "total": 479,
+      "winnerId": "catalina_cruz",
+      "margin": 88.5,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39003": {
+      "votes": {
+        "catalina_cruz": 286,
+        "yonel_e_letellier_sosa": 15,
+        "scattered": 3
+      },
+      "total": 304,
+      "winnerId": "catalina_cruz",
+      "margin": 89.1,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39004": {
+      "votes": {
+        "catalina_cruz": 257,
+        "yonel_e_letellier_sosa": 21,
+        "scattered": 5
+      },
+      "total": 283,
+      "winnerId": "catalina_cruz",
+      "margin": 83.4,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39005": {
+      "votes": {
+        "catalina_cruz": 253,
+        "yonel_e_letellier_sosa": 20,
+        "scattered": 4
+      },
+      "total": 277,
+      "winnerId": "catalina_cruz",
+      "margin": 84.1,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39006": {
+      "votes": {
+        "catalina_cruz": 474,
+        "yonel_e_letellier_sosa": 24,
+        "scattered": 10
+      },
+      "total": 508,
+      "winnerId": "catalina_cruz",
+      "margin": 88.6,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39007": {
+      "votes": {
+        "catalina_cruz": 328,
+        "yonel_e_letellier_sosa": 25,
+        "scattered": 7
+      },
+      "total": 360,
+      "winnerId": "catalina_cruz",
+      "margin": 84.2,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39008": {
+      "votes": {
+        "catalina_cruz": 295,
+        "yonel_e_letellier_sosa": 22,
+        "scattered": 2
+      },
+      "total": 319,
+      "winnerId": "catalina_cruz",
+      "margin": 85.6,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39009": {
+      "votes": {
+        "catalina_cruz": 270,
+        "yonel_e_letellier_sosa": 15,
+        "scattered": 1
+      },
+      "total": 286,
+      "winnerId": "catalina_cruz",
+      "margin": 89.2,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39010": {
+      "votes": {
+        "catalina_cruz": 69,
+        "yonel_e_letellier_sosa": 4,
+        "scattered": 1
+      },
+      "total": 74,
+      "winnerId": "catalina_cruz",
+      "margin": 87.8,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39011": {
+      "votes": {
+        "catalina_cruz": 36,
+        "yonel_e_letellier_sosa": 9,
+        "scattered": 1
+      },
+      "total": 46,
+      "winnerId": "catalina_cruz",
+      "margin": 58.7,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39012": {
+      "votes": {
+        "catalina_cruz": 61,
+        "yonel_e_letellier_sosa": 4,
+        "scattered": 0
+      },
+      "total": 65,
+      "winnerId": "catalina_cruz",
+      "margin": 87.7,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39013": {
+      "votes": {
+        "catalina_cruz": 101,
+        "yonel_e_letellier_sosa": 8,
+        "scattered": 1
+      },
+      "total": 110,
+      "winnerId": "catalina_cruz",
+      "margin": 84.5,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39014": {
+      "votes": {
+        "catalina_cruz": 102,
+        "yonel_e_letellier_sosa": 6,
+        "scattered": 0
+      },
+      "total": 108,
+      "winnerId": "catalina_cruz",
+      "margin": 88.9,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39015": {
+      "votes": {
+        "catalina_cruz": 119,
+        "yonel_e_letellier_sosa": 21,
+        "scattered": 0
+      },
+      "total": 140,
+      "winnerId": "catalina_cruz",
+      "margin": 70,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39016": {
+      "votes": {
+        "catalina_cruz": 5,
+        "yonel_e_letellier_sosa": 2,
+        "scattered": 0
+      },
+      "total": 7,
+      "winnerId": "catalina_cruz",
+      "margin": 42.9,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39017": {
+      "votes": {
+        "catalina_cruz": 23,
+        "yonel_e_letellier_sosa": 3,
+        "scattered": 0
+      },
+      "total": 26,
+      "winnerId": "catalina_cruz",
+      "margin": 76.9,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39018": {
+      "votes": {
+        "catalina_cruz": 100,
+        "yonel_e_letellier_sosa": 13,
+        "scattered": 3
+      },
+      "total": 116,
+      "winnerId": "catalina_cruz",
+      "margin": 75,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39019": {
+      "votes": {
+        "catalina_cruz": 108,
+        "yonel_e_letellier_sosa": 15,
+        "scattered": 0
+      },
+      "total": 123,
+      "winnerId": "catalina_cruz",
+      "margin": 75.6,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39020": {
+      "votes": {
+        "catalina_cruz": 56,
+        "yonel_e_letellier_sosa": 6,
+        "scattered": 0
+      },
+      "total": 62,
+      "winnerId": "catalina_cruz",
+      "margin": 80.6,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39021": {
+      "votes": {
+        "catalina_cruz": 98,
+        "yonel_e_letellier_sosa": 12,
+        "scattered": 1
+      },
+      "total": 111,
+      "winnerId": "catalina_cruz",
+      "margin": 77.5,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39022": {
+      "votes": {
+        "catalina_cruz": 66,
+        "yonel_e_letellier_sosa": 8,
+        "scattered": 2
+      },
+      "total": 76,
+      "winnerId": "catalina_cruz",
+      "margin": 76.3,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39023": {
+      "votes": {
+        "catalina_cruz": 110,
+        "yonel_e_letellier_sosa": 16,
+        "scattered": 0
+      },
+      "total": 126,
+      "winnerId": "catalina_cruz",
+      "margin": 74.6,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39024": {
+      "votes": {
+        "catalina_cruz": 58,
+        "yonel_e_letellier_sosa": 7,
+        "scattered": 0
+      },
+      "total": 65,
+      "winnerId": "catalina_cruz",
+      "margin": 78.5,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39025": {
+      "votes": {
+        "catalina_cruz": 75,
+        "yonel_e_letellier_sosa": 9,
+        "scattered": 1
+      },
+      "total": 85,
+      "winnerId": "catalina_cruz",
+      "margin": 77.6,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39026": {
+      "votes": {
+        "catalina_cruz": 79,
+        "yonel_e_letellier_sosa": 8,
+        "scattered": 0
+      },
+      "total": 87,
+      "winnerId": "catalina_cruz",
+      "margin": 81.6,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39027": {
+      "votes": {
+        "catalina_cruz": 12,
+        "yonel_e_letellier_sosa": 1,
+        "scattered": 0
+      },
+      "total": 13,
+      "winnerId": "catalina_cruz",
+      "margin": 84.6,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39028": {
+      "votes": {
+        "catalina_cruz": 81,
+        "yonel_e_letellier_sosa": 13,
+        "scattered": 0
+      },
+      "total": 94,
+      "winnerId": "catalina_cruz",
+      "margin": 72.3,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39029": {
+      "votes": {
+        "catalina_cruz": 42,
+        "yonel_e_letellier_sosa": 8,
+        "scattered": 0
+      },
+      "total": 50,
+      "winnerId": "catalina_cruz",
+      "margin": 68,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39030": {
+      "votes": {
+        "catalina_cruz": 66,
+        "yonel_e_letellier_sosa": 5,
+        "scattered": 0
+      },
+      "total": 71,
+      "winnerId": "catalina_cruz",
+      "margin": 85.9,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39031": {
+      "votes": {
+        "catalina_cruz": 41,
+        "yonel_e_letellier_sosa": 4,
+        "scattered": 0
+      },
+      "total": 45,
+      "winnerId": "catalina_cruz",
+      "margin": 82.2,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39032": {
+      "votes": {
+        "catalina_cruz": 53,
+        "yonel_e_letellier_sosa": 9,
+        "scattered": 1
+      },
+      "total": 63,
+      "winnerId": "catalina_cruz",
+      "margin": 69.8,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39033": {
+      "votes": {
+        "catalina_cruz": 68,
+        "yonel_e_letellier_sosa": 8,
+        "scattered": 0
+      },
+      "total": 76,
+      "winnerId": "catalina_cruz",
+      "margin": 78.9,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39034": {
+      "votes": {
+        "catalina_cruz": 62,
+        "yonel_e_letellier_sosa": 4,
+        "scattered": 0
+      },
+      "total": 66,
+      "winnerId": "catalina_cruz",
+      "margin": 87.9,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39035": {
+      "votes": {
+        "catalina_cruz": 84,
+        "yonel_e_letellier_sosa": 12,
+        "scattered": 0
+      },
+      "total": 96,
+      "winnerId": "catalina_cruz",
+      "margin": 75,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39036": {
+      "votes": {
+        "catalina_cruz": 31,
+        "yonel_e_letellier_sosa": 4,
+        "scattered": 0
+      },
+      "total": 35,
+      "winnerId": "catalina_cruz",
+      "margin": 77.1,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39037": {
+      "votes": {
+        "catalina_cruz": 45,
+        "yonel_e_letellier_sosa": 3,
+        "scattered": 1
+      },
+      "total": 49,
+      "winnerId": "catalina_cruz",
+      "margin": 85.7,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39038": {
+      "votes": {
+        "catalina_cruz": 36,
+        "yonel_e_letellier_sosa": 4,
+        "scattered": 1
+      },
+      "total": 41,
+      "winnerId": "catalina_cruz",
+      "margin": 78,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39039": {
+      "votes": {
+        "catalina_cruz": 40,
+        "yonel_e_letellier_sosa": 4,
+        "scattered": 0
+      },
+      "total": 44,
+      "winnerId": "catalina_cruz",
+      "margin": 81.8,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39040": {
+      "votes": {
+        "catalina_cruz": 7,
+        "yonel_e_letellier_sosa": 1,
+        "scattered": 0
+      },
+      "total": 8,
+      "winnerId": "catalina_cruz",
+      "margin": 75,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39041": {
+      "votes": {
+        "catalina_cruz": 104,
+        "yonel_e_letellier_sosa": 13,
+        "scattered": 0
+      },
+      "total": 117,
+      "winnerId": "catalina_cruz",
+      "margin": 77.8,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39042": {
+      "votes": {
+        "catalina_cruz": 66,
+        "yonel_e_letellier_sosa": 10,
+        "scattered": 0
+      },
+      "total": 76,
+      "winnerId": "catalina_cruz",
+      "margin": 73.7,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39043": {
+      "votes": {
+        "catalina_cruz": 50,
+        "yonel_e_letellier_sosa": 3,
+        "scattered": 0
+      },
+      "total": 53,
+      "winnerId": "catalina_cruz",
+      "margin": 88.7,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39044": {
+      "votes": {
+        "catalina_cruz": 47,
+        "yonel_e_letellier_sosa": 5,
+        "scattered": 0
+      },
+      "total": 52,
+      "winnerId": "catalina_cruz",
+      "margin": 80.8,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39045": {
+      "votes": {
+        "catalina_cruz": 68,
+        "yonel_e_letellier_sosa": 4,
+        "scattered": 1
+      },
+      "total": 73,
+      "winnerId": "catalina_cruz",
+      "margin": 87.7,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39046": {
+      "votes": {
+        "catalina_cruz": 86,
+        "yonel_e_letellier_sosa": 15,
+        "scattered": 1
+      },
+      "total": 102,
+      "winnerId": "catalina_cruz",
+      "margin": 69.6,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39047": {
+      "votes": {
+        "catalina_cruz": 37,
+        "yonel_e_letellier_sosa": 9,
+        "scattered": 0
+      },
+      "total": 46,
+      "winnerId": "catalina_cruz",
+      "margin": 60.9,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39048": {
+      "votes": {
+        "catalina_cruz": 101,
+        "yonel_e_letellier_sosa": 7,
+        "scattered": 0
+      },
+      "total": 108,
+      "winnerId": "catalina_cruz",
+      "margin": 87,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39/001": {
+      "votes": {
+        "catalina_cruz": 343,
+        "yonel_e_letellier_sosa": 18,
+        "scattered": 9
+      },
+      "total": 370,
+      "winnerId": "catalina_cruz",
+      "margin": 87.8,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39/002": {
+      "votes": {
+        "catalina_cruz": 450,
+        "yonel_e_letellier_sosa": 26,
+        "scattered": 3
+      },
+      "total": 479,
+      "winnerId": "catalina_cruz",
+      "margin": 88.5,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39/003": {
+      "votes": {
+        "catalina_cruz": 286,
+        "yonel_e_letellier_sosa": 15,
+        "scattered": 3
+      },
+      "total": 304,
+      "winnerId": "catalina_cruz",
+      "margin": 89.1,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39/004": {
+      "votes": {
+        "catalina_cruz": 257,
+        "yonel_e_letellier_sosa": 21,
+        "scattered": 5
+      },
+      "total": 283,
+      "winnerId": "catalina_cruz",
+      "margin": 83.4,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39/005": {
+      "votes": {
+        "catalina_cruz": 253,
+        "yonel_e_letellier_sosa": 20,
+        "scattered": 4
+      },
+      "total": 277,
+      "winnerId": "catalina_cruz",
+      "margin": 84.1,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39/006": {
+      "votes": {
+        "catalina_cruz": 474,
+        "yonel_e_letellier_sosa": 24,
+        "scattered": 10
+      },
+      "total": 508,
+      "winnerId": "catalina_cruz",
+      "margin": 88.6,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39/007": {
+      "votes": {
+        "catalina_cruz": 328,
+        "yonel_e_letellier_sosa": 25,
+        "scattered": 7
+      },
+      "total": 360,
+      "winnerId": "catalina_cruz",
+      "margin": 84.2,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39/008": {
+      "votes": {
+        "catalina_cruz": 295,
+        "yonel_e_letellier_sosa": 22,
+        "scattered": 2
+      },
+      "total": 319,
+      "winnerId": "catalina_cruz",
+      "margin": 85.6,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39/009": {
+      "votes": {
+        "catalina_cruz": 270,
+        "yonel_e_letellier_sosa": 15,
+        "scattered": 1
+      },
+      "total": 286,
+      "winnerId": "catalina_cruz",
+      "margin": 89.2,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39/010": {
+      "votes": {
+        "catalina_cruz": 69,
+        "yonel_e_letellier_sosa": 4,
+        "scattered": 1
+      },
+      "total": 74,
+      "winnerId": "catalina_cruz",
+      "margin": 87.8,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39/011": {
+      "votes": {
+        "catalina_cruz": 36,
+        "yonel_e_letellier_sosa": 9,
+        "scattered": 1
+      },
+      "total": 46,
+      "winnerId": "catalina_cruz",
+      "margin": 58.7,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39/012": {
+      "votes": {
+        "catalina_cruz": 61,
+        "yonel_e_letellier_sosa": 4,
+        "scattered": 0
+      },
+      "total": 65,
+      "winnerId": "catalina_cruz",
+      "margin": 87.7,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39/013": {
+      "votes": {
+        "catalina_cruz": 101,
+        "yonel_e_letellier_sosa": 8,
+        "scattered": 1
+      },
+      "total": 110,
+      "winnerId": "catalina_cruz",
+      "margin": 84.5,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39/014": {
+      "votes": {
+        "catalina_cruz": 102,
+        "yonel_e_letellier_sosa": 6,
+        "scattered": 0
+      },
+      "total": 108,
+      "winnerId": "catalina_cruz",
+      "margin": 88.9,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39/015": {
+      "votes": {
+        "catalina_cruz": 119,
+        "yonel_e_letellier_sosa": 21,
+        "scattered": 0
+      },
+      "total": 140,
+      "winnerId": "catalina_cruz",
+      "margin": 70,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39/016": {
+      "votes": {
+        "catalina_cruz": 5,
+        "yonel_e_letellier_sosa": 2,
+        "scattered": 0
+      },
+      "total": 7,
+      "winnerId": "catalina_cruz",
+      "margin": 42.9,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39/017": {
+      "votes": {
+        "catalina_cruz": 23,
+        "yonel_e_letellier_sosa": 3,
+        "scattered": 0
+      },
+      "total": 26,
+      "winnerId": "catalina_cruz",
+      "margin": 76.9,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39/018": {
+      "votes": {
+        "catalina_cruz": 100,
+        "yonel_e_letellier_sosa": 13,
+        "scattered": 3
+      },
+      "total": 116,
+      "winnerId": "catalina_cruz",
+      "margin": 75,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39/019": {
+      "votes": {
+        "catalina_cruz": 108,
+        "yonel_e_letellier_sosa": 15,
+        "scattered": 0
+      },
+      "total": 123,
+      "winnerId": "catalina_cruz",
+      "margin": 75.6,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39/020": {
+      "votes": {
+        "catalina_cruz": 56,
+        "yonel_e_letellier_sosa": 6,
+        "scattered": 0
+      },
+      "total": 62,
+      "winnerId": "catalina_cruz",
+      "margin": 80.6,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39/021": {
+      "votes": {
+        "catalina_cruz": 98,
+        "yonel_e_letellier_sosa": 12,
+        "scattered": 1
+      },
+      "total": 111,
+      "winnerId": "catalina_cruz",
+      "margin": 77.5,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39/022": {
+      "votes": {
+        "catalina_cruz": 66,
+        "yonel_e_letellier_sosa": 8,
+        "scattered": 2
+      },
+      "total": 76,
+      "winnerId": "catalina_cruz",
+      "margin": 76.3,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39/023": {
+      "votes": {
+        "catalina_cruz": 110,
+        "yonel_e_letellier_sosa": 16,
+        "scattered": 0
+      },
+      "total": 126,
+      "winnerId": "catalina_cruz",
+      "margin": 74.6,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39/024": {
+      "votes": {
+        "catalina_cruz": 58,
+        "yonel_e_letellier_sosa": 7,
+        "scattered": 0
+      },
+      "total": 65,
+      "winnerId": "catalina_cruz",
+      "margin": 78.5,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39/025": {
+      "votes": {
+        "catalina_cruz": 75,
+        "yonel_e_letellier_sosa": 9,
+        "scattered": 1
+      },
+      "total": 85,
+      "winnerId": "catalina_cruz",
+      "margin": 77.6,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39/026": {
+      "votes": {
+        "catalina_cruz": 79,
+        "yonel_e_letellier_sosa": 8,
+        "scattered": 0
+      },
+      "total": 87,
+      "winnerId": "catalina_cruz",
+      "margin": 81.6,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39/027": {
+      "votes": {
+        "catalina_cruz": 12,
+        "yonel_e_letellier_sosa": 1,
+        "scattered": 0
+      },
+      "total": 13,
+      "winnerId": "catalina_cruz",
+      "margin": 84.6,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39/028": {
+      "votes": {
+        "catalina_cruz": 81,
+        "yonel_e_letellier_sosa": 13,
+        "scattered": 0
+      },
+      "total": 94,
+      "winnerId": "catalina_cruz",
+      "margin": 72.3,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39/029": {
+      "votes": {
+        "catalina_cruz": 42,
+        "yonel_e_letellier_sosa": 8,
+        "scattered": 0
+      },
+      "total": 50,
+      "winnerId": "catalina_cruz",
+      "margin": 68,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39/030": {
+      "votes": {
+        "catalina_cruz": 66,
+        "yonel_e_letellier_sosa": 5,
+        "scattered": 0
+      },
+      "total": 71,
+      "winnerId": "catalina_cruz",
+      "margin": 85.9,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39/031": {
+      "votes": {
+        "catalina_cruz": 41,
+        "yonel_e_letellier_sosa": 4,
+        "scattered": 0
+      },
+      "total": 45,
+      "winnerId": "catalina_cruz",
+      "margin": 82.2,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39/032": {
+      "votes": {
+        "catalina_cruz": 53,
+        "yonel_e_letellier_sosa": 9,
+        "scattered": 1
+      },
+      "total": 63,
+      "winnerId": "catalina_cruz",
+      "margin": 69.8,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39/033": {
+      "votes": {
+        "catalina_cruz": 68,
+        "yonel_e_letellier_sosa": 8,
+        "scattered": 0
+      },
+      "total": 76,
+      "winnerId": "catalina_cruz",
+      "margin": 78.9,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39/034": {
+      "votes": {
+        "catalina_cruz": 62,
+        "yonel_e_letellier_sosa": 4,
+        "scattered": 0
+      },
+      "total": 66,
+      "winnerId": "catalina_cruz",
+      "margin": 87.9,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39/035": {
+      "votes": {
+        "catalina_cruz": 84,
+        "yonel_e_letellier_sosa": 12,
+        "scattered": 0
+      },
+      "total": 96,
+      "winnerId": "catalina_cruz",
+      "margin": 75,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39/036": {
+      "votes": {
+        "catalina_cruz": 31,
+        "yonel_e_letellier_sosa": 4,
+        "scattered": 0
+      },
+      "total": 35,
+      "winnerId": "catalina_cruz",
+      "margin": 77.1,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39/037": {
+      "votes": {
+        "catalina_cruz": 45,
+        "yonel_e_letellier_sosa": 3,
+        "scattered": 1
+      },
+      "total": 49,
+      "winnerId": "catalina_cruz",
+      "margin": 85.7,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39/038": {
+      "votes": {
+        "catalina_cruz": 36,
+        "yonel_e_letellier_sosa": 4,
+        "scattered": 1
+      },
+      "total": 41,
+      "winnerId": "catalina_cruz",
+      "margin": 78,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39/039": {
+      "votes": {
+        "catalina_cruz": 40,
+        "yonel_e_letellier_sosa": 4,
+        "scattered": 0
+      },
+      "total": 44,
+      "winnerId": "catalina_cruz",
+      "margin": 81.8,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39/040": {
+      "votes": {
+        "catalina_cruz": 7,
+        "yonel_e_letellier_sosa": 1,
+        "scattered": 0
+      },
+      "total": 8,
+      "winnerId": "catalina_cruz",
+      "margin": 75,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39/041": {
+      "votes": {
+        "catalina_cruz": 104,
+        "yonel_e_letellier_sosa": 13,
+        "scattered": 0
+      },
+      "total": 117,
+      "winnerId": "catalina_cruz",
+      "margin": 77.8,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39/042": {
+      "votes": {
+        "catalina_cruz": 66,
+        "yonel_e_letellier_sosa": 10,
+        "scattered": 0
+      },
+      "total": 76,
+      "winnerId": "catalina_cruz",
+      "margin": 73.7,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39/043": {
+      "votes": {
+        "catalina_cruz": 50,
+        "yonel_e_letellier_sosa": 3,
+        "scattered": 0
+      },
+      "total": 53,
+      "winnerId": "catalina_cruz",
+      "margin": 88.7,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39/044": {
+      "votes": {
+        "catalina_cruz": 47,
+        "yonel_e_letellier_sosa": 5,
+        "scattered": 0
+      },
+      "total": 52,
+      "winnerId": "catalina_cruz",
+      "margin": 80.8,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39/045": {
+      "votes": {
+        "catalina_cruz": 68,
+        "yonel_e_letellier_sosa": 4,
+        "scattered": 1
+      },
+      "total": 73,
+      "winnerId": "catalina_cruz",
+      "margin": 87.7,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39/046": {
+      "votes": {
+        "catalina_cruz": 86,
+        "yonel_e_letellier_sosa": 15,
+        "scattered": 1
+      },
+      "total": 102,
+      "winnerId": "catalina_cruz",
+      "margin": 69.6,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39/047": {
+      "votes": {
+        "catalina_cruz": 37,
+        "yonel_e_letellier_sosa": 9,
+        "scattered": 0
+      },
+      "total": 46,
+      "winnerId": "catalina_cruz",
+      "margin": 60.9,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "39/048": {
+      "votes": {
+        "catalina_cruz": 101,
+        "yonel_e_letellier_sosa": 7,
+        "scattered": 0
+      },
+      "total": 108,
+      "winnerId": "catalina_cruz",
+      "margin": 87,
+      "candidates": [
+        {
+          "id": "catalina_cruz",
+          "name": "Catalina Cruz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "yonel_e_letellier_sosa",
+          "name": "Yonel E. Letellier Sosa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,322 @@
+{
+  "id": "democratic_county_committee_81020",
+  "name": "2026 Primary - County Committee District 81020",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "Judicial & Party Offices",
+  "districtKey": "81020",
+  "districtType": "congressional",
+  "isUncontested": false,
+  "candidates": [
+    {
+      "id": "betsey_knapp",
+      "name": "Betsey Knapp",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#d97706"
+    },
+    {
+      "id": "stephanie_halpin",
+      "name": "Stephanie Halpin",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#7c3aed"
+    },
+    {
+      "id": "karly_rodriguez",
+      "name": "Karly Rodriguez",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#059669"
+    },
+    {
+      "id": "ryan_acquaotta",
+      "name": "Ryan Acquaotta",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#0891b2"
+    },
+    {
+      "id": "michael_heller",
+      "name": "Michael Heller",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#4f46e5"
+    },
+    {
+      "id": "maryann_monte",
+      "name": "Maryann Monte",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#db2777"
+    },
+    {
+      "id": "amelia_m_chaves",
+      "name": "Amelia M. Chaves",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#64748b"
+    },
+    {
+      "id": "erica_overton",
+      "name": "Erica Overton",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#64748b"
+    },
+    {
+      "id": "scattered",
+      "name": "Scattered",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#64748b"
+    }
+  ],
+  "results": {
+    "81020": {
+      "votes": {
+        "betsey_knapp": 176,
+        "stephanie_halpin": 152,
+        "karly_rodriguez": 148,
+        "ryan_acquaotta": 130,
+        "michael_heller": 109,
+        "maryann_monte": 96,
+        "amelia_m_chaves": 84,
+        "erica_overton": 77,
+        "scattered": 1
+      },
+      "total": 973,
+      "winnerId": "betsey_knapp",
+      "margin": 2.5,
+      "candidates": [
+        {
+          "id": "betsey_knapp",
+          "name": "Betsey Knapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_halpin",
+          "name": "Stephanie Halpin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "karly_rodriguez",
+          "name": "Karly Rodriguez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "ryan_acquaotta",
+          "name": "Ryan Acquaotta",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "michael_heller",
+          "name": "Michael Heller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "maryann_monte",
+          "name": "Maryann Monte",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        },
+        {
+          "id": "amelia_m_chaves",
+          "name": "Amelia M. Chaves",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#64748b"
+        },
+        {
+          "id": "erica_overton",
+          "name": "Erica Overton",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#64748b"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#64748b"
+        }
+      ]
+    }
+  },
+  "edResults": {
+    "81020": {
+      "votes": {
+        "betsey_knapp": 176,
+        "stephanie_halpin": 152,
+        "karly_rodriguez": 148,
+        "ryan_acquaotta": 130,
+        "michael_heller": 109,
+        "maryann_monte": 96,
+        "amelia_m_chaves": 84,
+        "erica_overton": 77,
+        "scattered": 1
+      },
+      "total": 973,
+      "winnerId": "betsey_knapp",
+      "margin": 2.5,
+      "candidates": [
+        {
+          "id": "betsey_knapp",
+          "name": "Betsey Knapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_halpin",
+          "name": "Stephanie Halpin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "karly_rodriguez",
+          "name": "Karly Rodriguez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "ryan_acquaotta",
+          "name": "Ryan Acquaotta",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "michael_heller",
+          "name": "Michael Heller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "maryann_monte",
+          "name": "Maryann Monte",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        },
+        {
+          "id": "amelia_m_chaves",
+          "name": "Amelia M. Chaves",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#64748b"
+        },
+        {
+          "id": "erica_overton",
+          "name": "Erica Overton",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#64748b"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#64748b"
+        }
+      ]
+    },
+    "81/020": {
+      "votes": {
+        "betsey_knapp": 176,
+        "stephanie_halpin": 152,
+        "karly_rodriguez": 148,
+        "ryan_acquaotta": 130,
+        "michael_heller": 109,
+        "maryann_monte": 96,
+        "amelia_m_chaves": 84,
+        "erica_overton": 77,
+        "scattered": 1
+      },
+      "total": 973,
+      "winnerId": "betsey_knapp",
+      "margin": 2.5,
+      "candidates": [
+        {
+          "id": "betsey_knapp",
+          "name": "Betsey Knapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_halpin",
+          "name": "Stephanie Halpin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "karly_rodriguez",
+          "name": "Karly Rodriguez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "ryan_acquaotta",
+          "name": "Ryan Acquaotta",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "michael_heller",
+          "name": "Michael Heller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "maryann_monte",
+          "name": "Maryann Monte",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        },
+        {
+          "id": "amelia_m_chaves",
+          "name": "Amelia M. Chaves",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#64748b"
+        },
+        {
+          "id": "erica_overton",
+          "name": "Erica Overton",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#64748b"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#64748b"
+        }
+      ]
+    }
+  }
+}

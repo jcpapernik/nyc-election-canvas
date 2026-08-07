@@ -1,0 +1,229 @@
+{
+  "id": "democratic_county_committee_42022",
+  "name": "2026 Primary - County Committee District 42022",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "Judicial & Party Offices",
+  "districtKey": "42022",
+  "districtType": "congressional",
+  "isUncontested": false,
+  "candidates": [
+    {
+      "id": "nadine_a_friedman-roberts",
+      "name": "Nadine A. Friedman-Roberts",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#d97706"
+    },
+    {
+      "id": "linda_a_holmes",
+      "name": "Linda A. Holmes",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#7c3aed"
+    },
+    {
+      "id": "christopher_m_faga",
+      "name": "Christopher M. Faga",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#059669"
+    },
+    {
+      "id": "evamarie_graham",
+      "name": "Evamarie Graham",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#0891b2"
+    },
+    {
+      "id": "jay_hane",
+      "name": "Jay Hane",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#4f46e5"
+    },
+    {
+      "id": "scattered",
+      "name": "Scattered",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#db2777"
+    }
+  ],
+  "results": {
+    "42022": {
+      "votes": {
+        "nadine_a_friedman_roberts": 139,
+        "linda_a_holmes": 124,
+        "christopher_m_faga": 100,
+        "evamarie_graham": 81,
+        "jay_hane": 46,
+        "scattered": 13
+      },
+      "total": 503,
+      "winnerId": "nadine_a_friedman_roberts",
+      "margin": 3,
+      "candidates": [
+        {
+          "id": "nadine_a_friedman_roberts",
+          "name": "Nadine A. Friedman-Roberts",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "linda_a_holmes",
+          "name": "Linda A. Holmes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "christopher_m_faga",
+          "name": "Christopher M. Faga",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "evamarie_graham",
+          "name": "Evamarie Graham",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "jay_hane",
+          "name": "Jay Hane",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    }
+  },
+  "edResults": {
+    "42022": {
+      "votes": {
+        "nadine_a_friedman_roberts": 139,
+        "linda_a_holmes": 124,
+        "christopher_m_faga": 100,
+        "evamarie_graham": 81,
+        "jay_hane": 46,
+        "scattered": 13
+      },
+      "total": 503,
+      "winnerId": "nadine_a_friedman_roberts",
+      "margin": 3,
+      "candidates": [
+        {
+          "id": "nadine_a_friedman_roberts",
+          "name": "Nadine A. Friedman-Roberts",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "linda_a_holmes",
+          "name": "Linda A. Holmes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "christopher_m_faga",
+          "name": "Christopher M. Faga",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "evamarie_graham",
+          "name": "Evamarie Graham",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "jay_hane",
+          "name": "Jay Hane",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "42/022": {
+      "votes": {
+        "nadine_a_friedman_roberts": 139,
+        "linda_a_holmes": 124,
+        "christopher_m_faga": 100,
+        "evamarie_graham": 81,
+        "jay_hane": 46,
+        "scattered": 13
+      },
+      "total": 503,
+      "winnerId": "nadine_a_friedman_roberts",
+      "margin": 3,
+      "candidates": [
+        {
+          "id": "nadine_a_friedman_roberts",
+          "name": "Nadine A. Friedman-Roberts",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "linda_a_holmes",
+          "name": "Linda A. Holmes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "christopher_m_faga",
+          "name": "Christopher M. Faga",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "evamarie_graham",
+          "name": "Evamarie Graham",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "jay_hane",
+          "name": "Jay Hane",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    }
+  }
+}

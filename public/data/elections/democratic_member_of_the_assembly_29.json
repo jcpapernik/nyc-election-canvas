@@ -1,0 +1,31 @@
+{
+  "id": "democratic_member_of_the_assembly_29",
+  "name": "2026 Primary - Member of the Assembly District 29",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "State Assembly",
+  "districtKey": "29",
+  "districtType": "assembly",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "alicia_hyndman",
+      "name": "Alicia Hyndman",
+      "party": "Democratic",
+      "isIncumbent": true,
+      "color": "#2563eb"
+    }
+  ],
+  "results": {
+    "29": {
+      "votes": {
+        "uncontested_primary_assembly_29": 0
+      },
+      "total": 0,
+      "winnerId": "uncontested_primary_assembly_29",
+      "margin": 100,
+      "isUncontested": true
+    }
+  },
+  "edResults": {}
+}

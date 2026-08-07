@@ -1,0 +1,31 @@
+{
+  "id": "democratic_member_of_the_assembly_85",
+  "name": "2026 Primary - Member of the Assembly District 85",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "State Assembly",
+  "districtKey": "85",
+  "districtType": "assembly",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "emerita_torres",
+      "name": "Emerita Torres",
+      "party": "Democratic",
+      "isIncumbent": true,
+      "color": "#2563eb"
+    }
+  ],
+  "results": {
+    "85": {
+      "votes": {
+        "uncontested_primary_assembly_85": 0
+      },
+      "total": 0,
+      "winnerId": "uncontested_primary_assembly_85",
+      "margin": 100,
+      "isUncontested": true
+    }
+  },
+  "edResults": {}
+}

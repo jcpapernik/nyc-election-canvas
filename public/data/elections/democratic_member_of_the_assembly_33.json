@@ -1,0 +1,4360 @@
+{
+  "id": "democratic_member_of_the_assembly_33",
+  "name": "2026 Primary - Member of the Assembly District 33",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "NY State Assembly",
+  "districtKey": "33",
+  "districtType": "assembly",
+  "isUncontested": false,
+  "candidates": [
+    {
+      "id": "clyde_vanel",
+      "name": "Clyde Vanel",
+      "party": "Democratic",
+      "isIncumbent": true,
+      "color": "#d97706"
+    },
+    {
+      "id": "oster_bryan",
+      "name": "Oster Bryan",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#7c3aed"
+    },
+    {
+      "id": "scattered",
+      "name": "Scattered",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#059669"
+    }
+  ],
+  "results": {
+    "33": {
+      "votes": {
+        "clyde_vanel": 3710,
+        "oster_bryan": 1502,
+        "scattered": 23
+      },
+      "total": 5235,
+      "winnerId": "clyde_vanel",
+      "margin": 42.2,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    }
+  },
+  "edResults": {
+    "33001": {
+      "votes": {
+        "clyde_vanel": 28,
+        "oster_bryan": 27,
+        "scattered": 0
+      },
+      "total": 55,
+      "winnerId": "clyde_vanel",
+      "margin": 1.8,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33002": {
+      "votes": {
+        "clyde_vanel": 32,
+        "oster_bryan": 29,
+        "scattered": 0
+      },
+      "total": 61,
+      "winnerId": "clyde_vanel",
+      "margin": 4.9,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33003": {
+      "votes": {
+        "clyde_vanel": 37,
+        "oster_bryan": 29,
+        "scattered": 0
+      },
+      "total": 66,
+      "winnerId": "clyde_vanel",
+      "margin": 12.1,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33004": {
+      "votes": {
+        "clyde_vanel": 61,
+        "oster_bryan": 27,
+        "scattered": 0
+      },
+      "total": 88,
+      "winnerId": "clyde_vanel",
+      "margin": 38.6,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33005": {
+      "votes": {
+        "clyde_vanel": 49,
+        "oster_bryan": 34,
+        "scattered": 0
+      },
+      "total": 83,
+      "winnerId": "clyde_vanel",
+      "margin": 18.1,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33006": {
+      "votes": {
+        "clyde_vanel": 46,
+        "oster_bryan": 24,
+        "scattered": 1
+      },
+      "total": 71,
+      "winnerId": "clyde_vanel",
+      "margin": 31,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33007": {
+      "votes": {
+        "clyde_vanel": 40,
+        "oster_bryan": 22,
+        "scattered": 0
+      },
+      "total": 62,
+      "winnerId": "clyde_vanel",
+      "margin": 29,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33008": {
+      "votes": {
+        "clyde_vanel": 31,
+        "oster_bryan": 37,
+        "scattered": 1
+      },
+      "total": 69,
+      "winnerId": "oster_bryan",
+      "margin": 8.7,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33009": {
+      "votes": {
+        "clyde_vanel": 48,
+        "oster_bryan": 26,
+        "scattered": 2
+      },
+      "total": 76,
+      "winnerId": "clyde_vanel",
+      "margin": 28.9,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33010": {
+      "votes": {
+        "clyde_vanel": 54,
+        "oster_bryan": 29,
+        "scattered": 0
+      },
+      "total": 83,
+      "winnerId": "clyde_vanel",
+      "margin": 30.1,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33011": {
+      "votes": {
+        "clyde_vanel": 23,
+        "oster_bryan": 11,
+        "scattered": 0
+      },
+      "total": 34,
+      "winnerId": "clyde_vanel",
+      "margin": 35.3,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33012": {
+      "votes": {
+        "clyde_vanel": 34,
+        "oster_bryan": 26,
+        "scattered": 0
+      },
+      "total": 60,
+      "winnerId": "clyde_vanel",
+      "margin": 13.3,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33013": {
+      "votes": {
+        "clyde_vanel": 3,
+        "oster_bryan": 2,
+        "scattered": 0
+      },
+      "total": 5,
+      "winnerId": "clyde_vanel",
+      "margin": 20,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33014": {
+      "votes": {
+        "clyde_vanel": 45,
+        "oster_bryan": 18,
+        "scattered": 0
+      },
+      "total": 63,
+      "winnerId": "clyde_vanel",
+      "margin": 42.9,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33015": {
+      "votes": {
+        "clyde_vanel": 32,
+        "oster_bryan": 25,
+        "scattered": 2
+      },
+      "total": 59,
+      "winnerId": "clyde_vanel",
+      "margin": 11.9,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33016": {
+      "votes": {
+        "clyde_vanel": 39,
+        "oster_bryan": 23,
+        "scattered": 0
+      },
+      "total": 62,
+      "winnerId": "clyde_vanel",
+      "margin": 25.8,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33017": {
+      "votes": {
+        "clyde_vanel": 56,
+        "oster_bryan": 26,
+        "scattered": 0
+      },
+      "total": 82,
+      "winnerId": "clyde_vanel",
+      "margin": 36.6,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33018": {
+      "votes": {
+        "clyde_vanel": 32,
+        "oster_bryan": 17,
+        "scattered": 0
+      },
+      "total": 49,
+      "winnerId": "clyde_vanel",
+      "margin": 30.6,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33019": {
+      "votes": {
+        "clyde_vanel": 28,
+        "oster_bryan": 8,
+        "scattered": 1
+      },
+      "total": 37,
+      "winnerId": "clyde_vanel",
+      "margin": 54.1,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33020": {
+      "votes": {
+        "clyde_vanel": 24,
+        "oster_bryan": 24,
+        "scattered": 0
+      },
+      "total": 48,
+      "winnerId": "clyde_vanel",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33021": {
+      "votes": {
+        "clyde_vanel": 34,
+        "oster_bryan": 12,
+        "scattered": 0
+      },
+      "total": 46,
+      "winnerId": "clyde_vanel",
+      "margin": 47.8,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33022": {
+      "votes": {
+        "clyde_vanel": 22,
+        "oster_bryan": 14,
+        "scattered": 0
+      },
+      "total": 36,
+      "winnerId": "clyde_vanel",
+      "margin": 22.2,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33023": {
+      "votes": {
+        "clyde_vanel": 41,
+        "oster_bryan": 16,
+        "scattered": 0
+      },
+      "total": 57,
+      "winnerId": "clyde_vanel",
+      "margin": 43.9,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33024": {
+      "votes": {
+        "clyde_vanel": 42,
+        "oster_bryan": 30,
+        "scattered": 0
+      },
+      "total": 72,
+      "winnerId": "clyde_vanel",
+      "margin": 16.7,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33025": {
+      "votes": {
+        "clyde_vanel": 32,
+        "oster_bryan": 20,
+        "scattered": 0
+      },
+      "total": 52,
+      "winnerId": "clyde_vanel",
+      "margin": 23.1,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33026": {
+      "votes": {
+        "clyde_vanel": 10,
+        "oster_bryan": 2,
+        "scattered": 0
+      },
+      "total": 12,
+      "winnerId": "clyde_vanel",
+      "margin": 66.7,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33027": {
+      "votes": {
+        "clyde_vanel": 48,
+        "oster_bryan": 17,
+        "scattered": 1
+      },
+      "total": 66,
+      "winnerId": "clyde_vanel",
+      "margin": 47,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33028": {
+      "votes": {
+        "clyde_vanel": 16,
+        "oster_bryan": 13,
+        "scattered": 0
+      },
+      "total": 29,
+      "winnerId": "clyde_vanel",
+      "margin": 10.3,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33029": {
+      "votes": {
+        "clyde_vanel": 73,
+        "oster_bryan": 22,
+        "scattered": 0
+      },
+      "total": 95,
+      "winnerId": "clyde_vanel",
+      "margin": 53.7,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33030": {
+      "votes": {
+        "clyde_vanel": 75,
+        "oster_bryan": 25,
+        "scattered": 0
+      },
+      "total": 100,
+      "winnerId": "clyde_vanel",
+      "margin": 50,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33031": {
+      "votes": {
+        "clyde_vanel": 76,
+        "oster_bryan": 22,
+        "scattered": 0
+      },
+      "total": 98,
+      "winnerId": "clyde_vanel",
+      "margin": 55.1,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33032": {
+      "votes": {
+        "clyde_vanel": 123,
+        "oster_bryan": 34,
+        "scattered": 3
+      },
+      "total": 160,
+      "winnerId": "clyde_vanel",
+      "margin": 55.6,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33033": {
+      "votes": {
+        "clyde_vanel": 59,
+        "oster_bryan": 44,
+        "scattered": 1
+      },
+      "total": 104,
+      "winnerId": "clyde_vanel",
+      "margin": 14.4,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33034": {
+      "votes": {
+        "clyde_vanel": 116,
+        "oster_bryan": 25,
+        "scattered": 0
+      },
+      "total": 141,
+      "winnerId": "clyde_vanel",
+      "margin": 64.5,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33035": {
+      "votes": {
+        "clyde_vanel": 140,
+        "oster_bryan": 55,
+        "scattered": 0
+      },
+      "total": 195,
+      "winnerId": "clyde_vanel",
+      "margin": 43.6,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33036": {
+      "votes": {
+        "clyde_vanel": 125,
+        "oster_bryan": 49,
+        "scattered": 1
+      },
+      "total": 175,
+      "winnerId": "clyde_vanel",
+      "margin": 43.4,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33037": {
+      "votes": {
+        "clyde_vanel": 129,
+        "oster_bryan": 51,
+        "scattered": 0
+      },
+      "total": 180,
+      "winnerId": "clyde_vanel",
+      "margin": 43.3,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33038": {
+      "votes": {
+        "clyde_vanel": 103,
+        "oster_bryan": 41,
+        "scattered": 1
+      },
+      "total": 145,
+      "winnerId": "clyde_vanel",
+      "margin": 42.8,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33039": {
+      "votes": {
+        "clyde_vanel": 87,
+        "oster_bryan": 20,
+        "scattered": 0
+      },
+      "total": 107,
+      "winnerId": "clyde_vanel",
+      "margin": 62.6,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33040": {
+      "votes": {
+        "clyde_vanel": 55,
+        "oster_bryan": 18,
+        "scattered": 1
+      },
+      "total": 74,
+      "winnerId": "clyde_vanel",
+      "margin": 50,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33041": {
+      "votes": {
+        "clyde_vanel": 60,
+        "oster_bryan": 24,
+        "scattered": 0
+      },
+      "total": 84,
+      "winnerId": "clyde_vanel",
+      "margin": 42.9,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33042": {
+      "votes": {
+        "clyde_vanel": 69,
+        "oster_bryan": 25,
+        "scattered": 0
+      },
+      "total": 94,
+      "winnerId": "clyde_vanel",
+      "margin": 46.8,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33043": {
+      "votes": {
+        "clyde_vanel": 59,
+        "oster_bryan": 23,
+        "scattered": 0
+      },
+      "total": 82,
+      "winnerId": "clyde_vanel",
+      "margin": 43.9,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33044": {
+      "votes": {
+        "clyde_vanel": 81,
+        "oster_bryan": 21,
+        "scattered": 0
+      },
+      "total": 102,
+      "winnerId": "clyde_vanel",
+      "margin": 58.8,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33045": {
+      "votes": {
+        "clyde_vanel": 84,
+        "oster_bryan": 27,
+        "scattered": 2
+      },
+      "total": 113,
+      "winnerId": "clyde_vanel",
+      "margin": 50.4,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33046": {
+      "votes": {
+        "clyde_vanel": 103,
+        "oster_bryan": 23,
+        "scattered": 2
+      },
+      "total": 128,
+      "winnerId": "clyde_vanel",
+      "margin": 62.5,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33047": {
+      "votes": {
+        "clyde_vanel": 56,
+        "oster_bryan": 22,
+        "scattered": 0
+      },
+      "total": 78,
+      "winnerId": "clyde_vanel",
+      "margin": 43.6,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33048": {
+      "votes": {
+        "clyde_vanel": 66,
+        "oster_bryan": 45,
+        "scattered": 0
+      },
+      "total": 111,
+      "winnerId": "clyde_vanel",
+      "margin": 18.9,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33049": {
+      "votes": {
+        "clyde_vanel": 38,
+        "oster_bryan": 7,
+        "scattered": 0
+      },
+      "total": 45,
+      "winnerId": "clyde_vanel",
+      "margin": 68.9,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33050": {
+      "votes": {
+        "clyde_vanel": 89,
+        "oster_bryan": 27,
+        "scattered": 0
+      },
+      "total": 116,
+      "winnerId": "clyde_vanel",
+      "margin": 53.4,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33051": {
+      "votes": {
+        "clyde_vanel": 72,
+        "oster_bryan": 30,
+        "scattered": 1
+      },
+      "total": 103,
+      "winnerId": "clyde_vanel",
+      "margin": 40.8,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33052": {
+      "votes": {
+        "clyde_vanel": 56,
+        "oster_bryan": 18,
+        "scattered": 0
+      },
+      "total": 74,
+      "winnerId": "clyde_vanel",
+      "margin": 51.4,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33053": {
+      "votes": {
+        "clyde_vanel": 60,
+        "oster_bryan": 20,
+        "scattered": 0
+      },
+      "total": 80,
+      "winnerId": "clyde_vanel",
+      "margin": 50,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33054": {
+      "votes": {
+        "clyde_vanel": 61,
+        "oster_bryan": 16,
+        "scattered": 0
+      },
+      "total": 77,
+      "winnerId": "clyde_vanel",
+      "margin": 58.4,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33055": {
+      "votes": {
+        "clyde_vanel": 59,
+        "oster_bryan": 21,
+        "scattered": 0
+      },
+      "total": 80,
+      "winnerId": "clyde_vanel",
+      "margin": 47.5,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33056": {
+      "votes": {
+        "clyde_vanel": 87,
+        "oster_bryan": 21,
+        "scattered": 1
+      },
+      "total": 109,
+      "winnerId": "clyde_vanel",
+      "margin": 60.6,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33057": {
+      "votes": {
+        "clyde_vanel": 86,
+        "oster_bryan": 28,
+        "scattered": 0
+      },
+      "total": 114,
+      "winnerId": "clyde_vanel",
+      "margin": 50.9,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33058": {
+      "votes": {
+        "clyde_vanel": 73,
+        "oster_bryan": 17,
+        "scattered": 1
+      },
+      "total": 91,
+      "winnerId": "clyde_vanel",
+      "margin": 61.5,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33059": {
+      "votes": {
+        "clyde_vanel": 31,
+        "oster_bryan": 12,
+        "scattered": 0
+      },
+      "total": 43,
+      "winnerId": "clyde_vanel",
+      "margin": 44.2,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33060": {
+      "votes": {
+        "clyde_vanel": 64,
+        "oster_bryan": 11,
+        "scattered": 0
+      },
+      "total": 75,
+      "winnerId": "clyde_vanel",
+      "margin": 70.7,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33061": {
+      "votes": {
+        "clyde_vanel": 43,
+        "oster_bryan": 22,
+        "scattered": 0
+      },
+      "total": 65,
+      "winnerId": "clyde_vanel",
+      "margin": 32.3,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33062": {
+      "votes": {
+        "clyde_vanel": 32,
+        "oster_bryan": 3,
+        "scattered": 1
+      },
+      "total": 36,
+      "winnerId": "clyde_vanel",
+      "margin": 80.6,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33063": {
+      "votes": {
+        "clyde_vanel": 19,
+        "oster_bryan": 14,
+        "scattered": 0
+      },
+      "total": 33,
+      "winnerId": "clyde_vanel",
+      "margin": 15.2,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33064": {
+      "votes": {
+        "clyde_vanel": 71,
+        "oster_bryan": 18,
+        "scattered": 0
+      },
+      "total": 89,
+      "winnerId": "clyde_vanel",
+      "margin": 59.6,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33065": {
+      "votes": {
+        "clyde_vanel": 43,
+        "oster_bryan": 13,
+        "scattered": 0
+      },
+      "total": 56,
+      "winnerId": "clyde_vanel",
+      "margin": 53.6,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/001": {
+      "votes": {
+        "clyde_vanel": 28,
+        "oster_bryan": 27,
+        "scattered": 0
+      },
+      "total": 55,
+      "winnerId": "clyde_vanel",
+      "margin": 1.8,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/002": {
+      "votes": {
+        "clyde_vanel": 32,
+        "oster_bryan": 29,
+        "scattered": 0
+      },
+      "total": 61,
+      "winnerId": "clyde_vanel",
+      "margin": 4.9,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/003": {
+      "votes": {
+        "clyde_vanel": 37,
+        "oster_bryan": 29,
+        "scattered": 0
+      },
+      "total": 66,
+      "winnerId": "clyde_vanel",
+      "margin": 12.1,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/004": {
+      "votes": {
+        "clyde_vanel": 61,
+        "oster_bryan": 27,
+        "scattered": 0
+      },
+      "total": 88,
+      "winnerId": "clyde_vanel",
+      "margin": 38.6,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/005": {
+      "votes": {
+        "clyde_vanel": 49,
+        "oster_bryan": 34,
+        "scattered": 0
+      },
+      "total": 83,
+      "winnerId": "clyde_vanel",
+      "margin": 18.1,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/006": {
+      "votes": {
+        "clyde_vanel": 46,
+        "oster_bryan": 24,
+        "scattered": 1
+      },
+      "total": 71,
+      "winnerId": "clyde_vanel",
+      "margin": 31,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/007": {
+      "votes": {
+        "clyde_vanel": 40,
+        "oster_bryan": 22,
+        "scattered": 0
+      },
+      "total": 62,
+      "winnerId": "clyde_vanel",
+      "margin": 29,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/008": {
+      "votes": {
+        "clyde_vanel": 31,
+        "oster_bryan": 37,
+        "scattered": 1
+      },
+      "total": 69,
+      "winnerId": "oster_bryan",
+      "margin": 8.7,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/009": {
+      "votes": {
+        "clyde_vanel": 48,
+        "oster_bryan": 26,
+        "scattered": 2
+      },
+      "total": 76,
+      "winnerId": "clyde_vanel",
+      "margin": 28.9,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/010": {
+      "votes": {
+        "clyde_vanel": 54,
+        "oster_bryan": 29,
+        "scattered": 0
+      },
+      "total": 83,
+      "winnerId": "clyde_vanel",
+      "margin": 30.1,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/011": {
+      "votes": {
+        "clyde_vanel": 23,
+        "oster_bryan": 11,
+        "scattered": 0
+      },
+      "total": 34,
+      "winnerId": "clyde_vanel",
+      "margin": 35.3,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/012": {
+      "votes": {
+        "clyde_vanel": 34,
+        "oster_bryan": 26,
+        "scattered": 0
+      },
+      "total": 60,
+      "winnerId": "clyde_vanel",
+      "margin": 13.3,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/013": {
+      "votes": {
+        "clyde_vanel": 3,
+        "oster_bryan": 2,
+        "scattered": 0
+      },
+      "total": 5,
+      "winnerId": "clyde_vanel",
+      "margin": 20,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/014": {
+      "votes": {
+        "clyde_vanel": 45,
+        "oster_bryan": 18,
+        "scattered": 0
+      },
+      "total": 63,
+      "winnerId": "clyde_vanel",
+      "margin": 42.9,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/015": {
+      "votes": {
+        "clyde_vanel": 32,
+        "oster_bryan": 25,
+        "scattered": 2
+      },
+      "total": 59,
+      "winnerId": "clyde_vanel",
+      "margin": 11.9,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/016": {
+      "votes": {
+        "clyde_vanel": 39,
+        "oster_bryan": 23,
+        "scattered": 0
+      },
+      "total": 62,
+      "winnerId": "clyde_vanel",
+      "margin": 25.8,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/017": {
+      "votes": {
+        "clyde_vanel": 56,
+        "oster_bryan": 26,
+        "scattered": 0
+      },
+      "total": 82,
+      "winnerId": "clyde_vanel",
+      "margin": 36.6,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/018": {
+      "votes": {
+        "clyde_vanel": 32,
+        "oster_bryan": 17,
+        "scattered": 0
+      },
+      "total": 49,
+      "winnerId": "clyde_vanel",
+      "margin": 30.6,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/019": {
+      "votes": {
+        "clyde_vanel": 28,
+        "oster_bryan": 8,
+        "scattered": 1
+      },
+      "total": 37,
+      "winnerId": "clyde_vanel",
+      "margin": 54.1,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/020": {
+      "votes": {
+        "clyde_vanel": 24,
+        "oster_bryan": 24,
+        "scattered": 0
+      },
+      "total": 48,
+      "winnerId": "clyde_vanel",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/021": {
+      "votes": {
+        "clyde_vanel": 34,
+        "oster_bryan": 12,
+        "scattered": 0
+      },
+      "total": 46,
+      "winnerId": "clyde_vanel",
+      "margin": 47.8,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/022": {
+      "votes": {
+        "clyde_vanel": 22,
+        "oster_bryan": 14,
+        "scattered": 0
+      },
+      "total": 36,
+      "winnerId": "clyde_vanel",
+      "margin": 22.2,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/023": {
+      "votes": {
+        "clyde_vanel": 41,
+        "oster_bryan": 16,
+        "scattered": 0
+      },
+      "total": 57,
+      "winnerId": "clyde_vanel",
+      "margin": 43.9,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/024": {
+      "votes": {
+        "clyde_vanel": 42,
+        "oster_bryan": 30,
+        "scattered": 0
+      },
+      "total": 72,
+      "winnerId": "clyde_vanel",
+      "margin": 16.7,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/025": {
+      "votes": {
+        "clyde_vanel": 32,
+        "oster_bryan": 20,
+        "scattered": 0
+      },
+      "total": 52,
+      "winnerId": "clyde_vanel",
+      "margin": 23.1,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/026": {
+      "votes": {
+        "clyde_vanel": 10,
+        "oster_bryan": 2,
+        "scattered": 0
+      },
+      "total": 12,
+      "winnerId": "clyde_vanel",
+      "margin": 66.7,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/027": {
+      "votes": {
+        "clyde_vanel": 48,
+        "oster_bryan": 17,
+        "scattered": 1
+      },
+      "total": 66,
+      "winnerId": "clyde_vanel",
+      "margin": 47,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/028": {
+      "votes": {
+        "clyde_vanel": 16,
+        "oster_bryan": 13,
+        "scattered": 0
+      },
+      "total": 29,
+      "winnerId": "clyde_vanel",
+      "margin": 10.3,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/029": {
+      "votes": {
+        "clyde_vanel": 73,
+        "oster_bryan": 22,
+        "scattered": 0
+      },
+      "total": 95,
+      "winnerId": "clyde_vanel",
+      "margin": 53.7,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/030": {
+      "votes": {
+        "clyde_vanel": 75,
+        "oster_bryan": 25,
+        "scattered": 0
+      },
+      "total": 100,
+      "winnerId": "clyde_vanel",
+      "margin": 50,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/031": {
+      "votes": {
+        "clyde_vanel": 76,
+        "oster_bryan": 22,
+        "scattered": 0
+      },
+      "total": 98,
+      "winnerId": "clyde_vanel",
+      "margin": 55.1,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/032": {
+      "votes": {
+        "clyde_vanel": 123,
+        "oster_bryan": 34,
+        "scattered": 3
+      },
+      "total": 160,
+      "winnerId": "clyde_vanel",
+      "margin": 55.6,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/033": {
+      "votes": {
+        "clyde_vanel": 59,
+        "oster_bryan": 44,
+        "scattered": 1
+      },
+      "total": 104,
+      "winnerId": "clyde_vanel",
+      "margin": 14.4,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/034": {
+      "votes": {
+        "clyde_vanel": 116,
+        "oster_bryan": 25,
+        "scattered": 0
+      },
+      "total": 141,
+      "winnerId": "clyde_vanel",
+      "margin": 64.5,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/035": {
+      "votes": {
+        "clyde_vanel": 140,
+        "oster_bryan": 55,
+        "scattered": 0
+      },
+      "total": 195,
+      "winnerId": "clyde_vanel",
+      "margin": 43.6,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/036": {
+      "votes": {
+        "clyde_vanel": 125,
+        "oster_bryan": 49,
+        "scattered": 1
+      },
+      "total": 175,
+      "winnerId": "clyde_vanel",
+      "margin": 43.4,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/037": {
+      "votes": {
+        "clyde_vanel": 129,
+        "oster_bryan": 51,
+        "scattered": 0
+      },
+      "total": 180,
+      "winnerId": "clyde_vanel",
+      "margin": 43.3,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/038": {
+      "votes": {
+        "clyde_vanel": 103,
+        "oster_bryan": 41,
+        "scattered": 1
+      },
+      "total": 145,
+      "winnerId": "clyde_vanel",
+      "margin": 42.8,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/039": {
+      "votes": {
+        "clyde_vanel": 87,
+        "oster_bryan": 20,
+        "scattered": 0
+      },
+      "total": 107,
+      "winnerId": "clyde_vanel",
+      "margin": 62.6,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/040": {
+      "votes": {
+        "clyde_vanel": 55,
+        "oster_bryan": 18,
+        "scattered": 1
+      },
+      "total": 74,
+      "winnerId": "clyde_vanel",
+      "margin": 50,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/041": {
+      "votes": {
+        "clyde_vanel": 60,
+        "oster_bryan": 24,
+        "scattered": 0
+      },
+      "total": 84,
+      "winnerId": "clyde_vanel",
+      "margin": 42.9,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/042": {
+      "votes": {
+        "clyde_vanel": 69,
+        "oster_bryan": 25,
+        "scattered": 0
+      },
+      "total": 94,
+      "winnerId": "clyde_vanel",
+      "margin": 46.8,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/043": {
+      "votes": {
+        "clyde_vanel": 59,
+        "oster_bryan": 23,
+        "scattered": 0
+      },
+      "total": 82,
+      "winnerId": "clyde_vanel",
+      "margin": 43.9,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/044": {
+      "votes": {
+        "clyde_vanel": 81,
+        "oster_bryan": 21,
+        "scattered": 0
+      },
+      "total": 102,
+      "winnerId": "clyde_vanel",
+      "margin": 58.8,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/045": {
+      "votes": {
+        "clyde_vanel": 84,
+        "oster_bryan": 27,
+        "scattered": 2
+      },
+      "total": 113,
+      "winnerId": "clyde_vanel",
+      "margin": 50.4,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/046": {
+      "votes": {
+        "clyde_vanel": 103,
+        "oster_bryan": 23,
+        "scattered": 2
+      },
+      "total": 128,
+      "winnerId": "clyde_vanel",
+      "margin": 62.5,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/047": {
+      "votes": {
+        "clyde_vanel": 56,
+        "oster_bryan": 22,
+        "scattered": 0
+      },
+      "total": 78,
+      "winnerId": "clyde_vanel",
+      "margin": 43.6,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/048": {
+      "votes": {
+        "clyde_vanel": 66,
+        "oster_bryan": 45,
+        "scattered": 0
+      },
+      "total": 111,
+      "winnerId": "clyde_vanel",
+      "margin": 18.9,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/049": {
+      "votes": {
+        "clyde_vanel": 38,
+        "oster_bryan": 7,
+        "scattered": 0
+      },
+      "total": 45,
+      "winnerId": "clyde_vanel",
+      "margin": 68.9,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/050": {
+      "votes": {
+        "clyde_vanel": 89,
+        "oster_bryan": 27,
+        "scattered": 0
+      },
+      "total": 116,
+      "winnerId": "clyde_vanel",
+      "margin": 53.4,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/051": {
+      "votes": {
+        "clyde_vanel": 72,
+        "oster_bryan": 30,
+        "scattered": 1
+      },
+      "total": 103,
+      "winnerId": "clyde_vanel",
+      "margin": 40.8,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/052": {
+      "votes": {
+        "clyde_vanel": 56,
+        "oster_bryan": 18,
+        "scattered": 0
+      },
+      "total": 74,
+      "winnerId": "clyde_vanel",
+      "margin": 51.4,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/053": {
+      "votes": {
+        "clyde_vanel": 60,
+        "oster_bryan": 20,
+        "scattered": 0
+      },
+      "total": 80,
+      "winnerId": "clyde_vanel",
+      "margin": 50,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/054": {
+      "votes": {
+        "clyde_vanel": 61,
+        "oster_bryan": 16,
+        "scattered": 0
+      },
+      "total": 77,
+      "winnerId": "clyde_vanel",
+      "margin": 58.4,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/055": {
+      "votes": {
+        "clyde_vanel": 59,
+        "oster_bryan": 21,
+        "scattered": 0
+      },
+      "total": 80,
+      "winnerId": "clyde_vanel",
+      "margin": 47.5,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/056": {
+      "votes": {
+        "clyde_vanel": 87,
+        "oster_bryan": 21,
+        "scattered": 1
+      },
+      "total": 109,
+      "winnerId": "clyde_vanel",
+      "margin": 60.6,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/057": {
+      "votes": {
+        "clyde_vanel": 86,
+        "oster_bryan": 28,
+        "scattered": 0
+      },
+      "total": 114,
+      "winnerId": "clyde_vanel",
+      "margin": 50.9,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/058": {
+      "votes": {
+        "clyde_vanel": 73,
+        "oster_bryan": 17,
+        "scattered": 1
+      },
+      "total": 91,
+      "winnerId": "clyde_vanel",
+      "margin": 61.5,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/059": {
+      "votes": {
+        "clyde_vanel": 31,
+        "oster_bryan": 12,
+        "scattered": 0
+      },
+      "total": 43,
+      "winnerId": "clyde_vanel",
+      "margin": 44.2,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/060": {
+      "votes": {
+        "clyde_vanel": 64,
+        "oster_bryan": 11,
+        "scattered": 0
+      },
+      "total": 75,
+      "winnerId": "clyde_vanel",
+      "margin": 70.7,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/061": {
+      "votes": {
+        "clyde_vanel": 43,
+        "oster_bryan": 22,
+        "scattered": 0
+      },
+      "total": 65,
+      "winnerId": "clyde_vanel",
+      "margin": 32.3,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/062": {
+      "votes": {
+        "clyde_vanel": 32,
+        "oster_bryan": 3,
+        "scattered": 1
+      },
+      "total": 36,
+      "winnerId": "clyde_vanel",
+      "margin": 80.6,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/063": {
+      "votes": {
+        "clyde_vanel": 19,
+        "oster_bryan": 14,
+        "scattered": 0
+      },
+      "total": 33,
+      "winnerId": "clyde_vanel",
+      "margin": 15.2,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/064": {
+      "votes": {
+        "clyde_vanel": 71,
+        "oster_bryan": 18,
+        "scattered": 0
+      },
+      "total": 89,
+      "winnerId": "clyde_vanel",
+      "margin": 59.6,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/065": {
+      "votes": {
+        "clyde_vanel": 43,
+        "oster_bryan": 13,
+        "scattered": 0
+      },
+      "total": 56,
+      "winnerId": "clyde_vanel",
+      "margin": 53.6,
+      "candidates": [
+        {
+          "id": "clyde_vanel",
+          "name": "Clyde Vanel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "oster_bryan",
+          "name": "Oster Bryan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    }
+  }
+}

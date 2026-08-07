@@ -1,0 +1,31 @@
+{
+  "id": "democratic_member_of_the_assembly_42",
+  "name": "2026 Primary - Member of the Assembly District 42",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "State Assembly",
+  "districtKey": "42",
+  "districtType": "assembly",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "rodneyse_bichotte_hermelyn",
+      "name": "Rodneyse Bichotte Hermelyn",
+      "party": "Democratic",
+      "isIncumbent": true,
+      "color": "#2563eb"
+    }
+  ],
+  "results": {
+    "42": {
+      "votes": {
+        "uncontested_primary_assembly_42": 0
+      },
+      "total": 0,
+      "winnerId": "uncontested_primary_assembly_42",
+      "margin": 100,
+      "isUncontested": true
+    }
+  },
+  "edResults": {}
+}

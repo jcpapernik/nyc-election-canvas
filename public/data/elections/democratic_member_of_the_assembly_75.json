@@ -1,0 +1,4492 @@
+{
+  "id": "democratic_member_of_the_assembly_75",
+  "name": "2026 Primary - Member of the Assembly District 75",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "NY State Assembly",
+  "districtKey": "75",
+  "districtType": "assembly",
+  "isUncontested": false,
+  "candidates": [
+    {
+      "id": "tony_simone",
+      "name": "Tony Simone",
+      "party": "Democratic",
+      "isIncumbent": true,
+      "color": "#d97706"
+    },
+    {
+      "id": "emily_yuexin_miller",
+      "name": "Emily YueXin Miller",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#7c3aed"
+    },
+    {
+      "id": "scattered",
+      "name": "Scattered",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#059669"
+    }
+  ],
+  "results": {
+    "75": {
+      "votes": {
+        "tony_simone": 10230,
+        "emily_yuexin_miller": 2968,
+        "scattered": 126
+      },
+      "total": 13324,
+      "winnerId": "tony_simone",
+      "margin": 54.5,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    }
+  },
+  "edResults": {
+    "75001": {
+      "votes": {
+        "tony_simone": 249,
+        "emily_yuexin_miller": 85,
+        "scattered": 2
+      },
+      "total": 336,
+      "winnerId": "tony_simone",
+      "margin": 48.8,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75002": {
+      "votes": {
+        "tony_simone": 261,
+        "emily_yuexin_miller": 84,
+        "scattered": 4
+      },
+      "total": 349,
+      "winnerId": "tony_simone",
+      "margin": 50.7,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75003": {
+      "votes": {
+        "tony_simone": 240,
+        "emily_yuexin_miller": 82,
+        "scattered": 7
+      },
+      "total": 329,
+      "winnerId": "tony_simone",
+      "margin": 48,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75004": {
+      "votes": {
+        "tony_simone": 108,
+        "emily_yuexin_miller": 39,
+        "scattered": 2
+      },
+      "total": 149,
+      "winnerId": "tony_simone",
+      "margin": 46.3,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75005": {
+      "votes": {
+        "tony_simone": 213,
+        "emily_yuexin_miller": 57,
+        "scattered": 3
+      },
+      "total": 273,
+      "winnerId": "tony_simone",
+      "margin": 57.1,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75006": {
+      "votes": {
+        "tony_simone": 218,
+        "emily_yuexin_miller": 75,
+        "scattered": 1
+      },
+      "total": 294,
+      "winnerId": "tony_simone",
+      "margin": 48.6,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75007": {
+      "votes": {
+        "tony_simone": 151,
+        "emily_yuexin_miller": 36,
+        "scattered": 0
+      },
+      "total": 187,
+      "winnerId": "tony_simone",
+      "margin": 61.5,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75008": {
+      "votes": {
+        "tony_simone": 160,
+        "emily_yuexin_miller": 28,
+        "scattered": 2
+      },
+      "total": 190,
+      "winnerId": "tony_simone",
+      "margin": 69.5,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75009": {
+      "votes": {
+        "tony_simone": 63,
+        "emily_yuexin_miller": 18,
+        "scattered": 1
+      },
+      "total": 82,
+      "winnerId": "tony_simone",
+      "margin": 54.9,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75010": {
+      "votes": {
+        "tony_simone": 201,
+        "emily_yuexin_miller": 81,
+        "scattered": 3
+      },
+      "total": 285,
+      "winnerId": "tony_simone",
+      "margin": 42.1,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75011": {
+      "votes": {
+        "tony_simone": 92,
+        "emily_yuexin_miller": 40,
+        "scattered": 1
+      },
+      "total": 133,
+      "winnerId": "tony_simone",
+      "margin": 39.1,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75012": {
+      "votes": {
+        "tony_simone": 133,
+        "emily_yuexin_miller": 43,
+        "scattered": 0
+      },
+      "total": 176,
+      "winnerId": "tony_simone",
+      "margin": 51.1,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75013": {
+      "votes": {
+        "tony_simone": 145,
+        "emily_yuexin_miller": 55,
+        "scattered": 7
+      },
+      "total": 207,
+      "winnerId": "tony_simone",
+      "margin": 43.5,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75014": {
+      "votes": {
+        "tony_simone": 54,
+        "emily_yuexin_miller": 19,
+        "scattered": 0
+      },
+      "total": 73,
+      "winnerId": "tony_simone",
+      "margin": 47.9,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75015": {
+      "votes": {
+        "tony_simone": 92,
+        "emily_yuexin_miller": 30,
+        "scattered": 1
+      },
+      "total": 123,
+      "winnerId": "tony_simone",
+      "margin": 50.4,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75016": {
+      "votes": {
+        "tony_simone": 37,
+        "emily_yuexin_miller": 15,
+        "scattered": 0
+      },
+      "total": 52,
+      "winnerId": "tony_simone",
+      "margin": 42.3,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75017": {
+      "votes": {
+        "tony_simone": 118,
+        "emily_yuexin_miller": 40,
+        "scattered": 1
+      },
+      "total": 159,
+      "winnerId": "tony_simone",
+      "margin": 49.1,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75018": {
+      "votes": {
+        "tony_simone": 36,
+        "emily_yuexin_miller": 12,
+        "scattered": 0
+      },
+      "total": 48,
+      "winnerId": "tony_simone",
+      "margin": 50,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75019": {
+      "votes": {
+        "tony_simone": 95,
+        "emily_yuexin_miller": 28,
+        "scattered": 1
+      },
+      "total": 124,
+      "winnerId": "tony_simone",
+      "margin": 54,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75020": {
+      "votes": {
+        "tony_simone": 61,
+        "emily_yuexin_miller": 20,
+        "scattered": 0
+      },
+      "total": 81,
+      "winnerId": "tony_simone",
+      "margin": 50.6,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75021": {
+      "votes": {
+        "tony_simone": 41,
+        "emily_yuexin_miller": 9,
+        "scattered": 4
+      },
+      "total": 54,
+      "winnerId": "tony_simone",
+      "margin": 59.3,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75022": {
+      "votes": {
+        "tony_simone": 111,
+        "emily_yuexin_miller": 28,
+        "scattered": 0
+      },
+      "total": 139,
+      "winnerId": "tony_simone",
+      "margin": 59.7,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75023": {
+      "votes": {
+        "tony_simone": 97,
+        "emily_yuexin_miller": 35,
+        "scattered": 1
+      },
+      "total": 133,
+      "winnerId": "tony_simone",
+      "margin": 46.6,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75024": {
+      "votes": {
+        "tony_simone": 137,
+        "emily_yuexin_miller": 48,
+        "scattered": 4
+      },
+      "total": 189,
+      "winnerId": "tony_simone",
+      "margin": 47.1,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75025": {
+      "votes": {
+        "tony_simone": 92,
+        "emily_yuexin_miller": 29,
+        "scattered": 1
+      },
+      "total": 122,
+      "winnerId": "tony_simone",
+      "margin": 51.6,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75026": {
+      "votes": {
+        "tony_simone": 184,
+        "emily_yuexin_miller": 43,
+        "scattered": 4
+      },
+      "total": 231,
+      "winnerId": "tony_simone",
+      "margin": 61,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75027": {
+      "votes": {
+        "tony_simone": 131,
+        "emily_yuexin_miller": 42,
+        "scattered": 0
+      },
+      "total": 173,
+      "winnerId": "tony_simone",
+      "margin": 51.4,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75028": {
+      "votes": {
+        "tony_simone": 181,
+        "emily_yuexin_miller": 50,
+        "scattered": 2
+      },
+      "total": 233,
+      "winnerId": "tony_simone",
+      "margin": 56.2,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75029": {
+      "votes": {
+        "tony_simone": 156,
+        "emily_yuexin_miller": 43,
+        "scattered": 1
+      },
+      "total": 200,
+      "winnerId": "tony_simone",
+      "margin": 56.5,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75030": {
+      "votes": {
+        "tony_simone": 84,
+        "emily_yuexin_miller": 25,
+        "scattered": 0
+      },
+      "total": 109,
+      "winnerId": "tony_simone",
+      "margin": 54.1,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75031": {
+      "votes": {
+        "tony_simone": 189,
+        "emily_yuexin_miller": 35,
+        "scattered": 6
+      },
+      "total": 230,
+      "winnerId": "tony_simone",
+      "margin": 67,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75032": {
+      "votes": {
+        "tony_simone": 181,
+        "emily_yuexin_miller": 30,
+        "scattered": 0
+      },
+      "total": 211,
+      "winnerId": "tony_simone",
+      "margin": 71.6,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75033": {
+      "votes": {
+        "tony_simone": 110,
+        "emily_yuexin_miller": 31,
+        "scattered": 2
+      },
+      "total": 143,
+      "winnerId": "tony_simone",
+      "margin": 55.2,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75034": {
+      "votes": {
+        "tony_simone": 117,
+        "emily_yuexin_miller": 22,
+        "scattered": 2
+      },
+      "total": 141,
+      "winnerId": "tony_simone",
+      "margin": 67.4,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75035": {
+      "votes": {
+        "tony_simone": 62,
+        "emily_yuexin_miller": 26,
+        "scattered": 3
+      },
+      "total": 91,
+      "winnerId": "tony_simone",
+      "margin": 39.6,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75036": {
+      "votes": {
+        "tony_simone": 34,
+        "emily_yuexin_miller": 14,
+        "scattered": 1
+      },
+      "total": 49,
+      "winnerId": "tony_simone",
+      "margin": 40.8,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75037": {
+      "votes": {
+        "tony_simone": 209,
+        "emily_yuexin_miller": 54,
+        "scattered": 1
+      },
+      "total": 264,
+      "winnerId": "tony_simone",
+      "margin": 58.7,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75038": {
+      "votes": {
+        "tony_simone": 299,
+        "emily_yuexin_miller": 68,
+        "scattered": 5
+      },
+      "total": 372,
+      "winnerId": "tony_simone",
+      "margin": 62.1,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75039": {
+      "votes": {
+        "tony_simone": 279,
+        "emily_yuexin_miller": 51,
+        "scattered": 3
+      },
+      "total": 333,
+      "winnerId": "tony_simone",
+      "margin": 68.5,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75040": {
+      "votes": {
+        "tony_simone": 146,
+        "emily_yuexin_miller": 47,
+        "scattered": 1
+      },
+      "total": 194,
+      "winnerId": "tony_simone",
+      "margin": 51,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75041": {
+      "votes": {
+        "tony_simone": 148,
+        "emily_yuexin_miller": 39,
+        "scattered": 2
+      },
+      "total": 189,
+      "winnerId": "tony_simone",
+      "margin": 57.7,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75042": {
+      "votes": {
+        "tony_simone": 220,
+        "emily_yuexin_miller": 38,
+        "scattered": 3
+      },
+      "total": 261,
+      "winnerId": "tony_simone",
+      "margin": 69.7,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75043": {
+      "votes": {
+        "tony_simone": 391,
+        "emily_yuexin_miller": 109,
+        "scattered": 8
+      },
+      "total": 508,
+      "winnerId": "tony_simone",
+      "margin": 55.5,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75044": {
+      "votes": {
+        "tony_simone": 243,
+        "emily_yuexin_miller": 55,
+        "scattered": 0
+      },
+      "total": 298,
+      "winnerId": "tony_simone",
+      "margin": 63.1,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75045": {
+      "votes": {
+        "tony_simone": 184,
+        "emily_yuexin_miller": 52,
+        "scattered": 3
+      },
+      "total": 239,
+      "winnerId": "tony_simone",
+      "margin": 55.2,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75046": {
+      "votes": {
+        "tony_simone": 197,
+        "emily_yuexin_miller": 44,
+        "scattered": 1
+      },
+      "total": 242,
+      "winnerId": "tony_simone",
+      "margin": 63.2,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75047": {
+      "votes": {
+        "tony_simone": 140,
+        "emily_yuexin_miller": 39,
+        "scattered": 1
+      },
+      "total": 180,
+      "winnerId": "tony_simone",
+      "margin": 56.1,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75048": {
+      "votes": {
+        "tony_simone": 123,
+        "emily_yuexin_miller": 30,
+        "scattered": 0
+      },
+      "total": 153,
+      "winnerId": "tony_simone",
+      "margin": 60.8,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75049": {
+      "votes": {
+        "tony_simone": 210,
+        "emily_yuexin_miller": 70,
+        "scattered": 1
+      },
+      "total": 281,
+      "winnerId": "tony_simone",
+      "margin": 49.8,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75050": {
+      "votes": {
+        "tony_simone": 139,
+        "emily_yuexin_miller": 41,
+        "scattered": 1
+      },
+      "total": 181,
+      "winnerId": "tony_simone",
+      "margin": 54.1,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75051": {
+      "votes": {
+        "tony_simone": 262,
+        "emily_yuexin_miller": 75,
+        "scattered": 0
+      },
+      "total": 337,
+      "winnerId": "tony_simone",
+      "margin": 55.5,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75052": {
+      "votes": {
+        "tony_simone": 365,
+        "emily_yuexin_miller": 86,
+        "scattered": 3
+      },
+      "total": 454,
+      "winnerId": "tony_simone",
+      "margin": 61.5,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75053": {
+      "votes": {
+        "tony_simone": 328,
+        "emily_yuexin_miller": 100,
+        "scattered": 5
+      },
+      "total": 433,
+      "winnerId": "tony_simone",
+      "margin": 52.7,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75054": {
+      "votes": {
+        "tony_simone": 94,
+        "emily_yuexin_miller": 19,
+        "scattered": 1
+      },
+      "total": 114,
+      "winnerId": "tony_simone",
+      "margin": 65.8,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75055": {
+      "votes": {
+        "tony_simone": 79,
+        "emily_yuexin_miller": 27,
+        "scattered": 0
+      },
+      "total": 106,
+      "winnerId": "tony_simone",
+      "margin": 49.1,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75056": {
+      "votes": {
+        "tony_simone": 91,
+        "emily_yuexin_miller": 30,
+        "scattered": 2
+      },
+      "total": 123,
+      "winnerId": "tony_simone",
+      "margin": 49.6,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75057": {
+      "votes": {
+        "tony_simone": 96,
+        "emily_yuexin_miller": 23,
+        "scattered": 0
+      },
+      "total": 119,
+      "winnerId": "tony_simone",
+      "margin": 61.3,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75058": {
+      "votes": {
+        "tony_simone": 125,
+        "emily_yuexin_miller": 30,
+        "scattered": 1
+      },
+      "total": 156,
+      "winnerId": "tony_simone",
+      "margin": 60.9,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75059": {
+      "votes": {
+        "tony_simone": 113,
+        "emily_yuexin_miller": 31,
+        "scattered": 0
+      },
+      "total": 144,
+      "winnerId": "tony_simone",
+      "margin": 56.9,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75060": {
+      "votes": {
+        "tony_simone": 121,
+        "emily_yuexin_miller": 50,
+        "scattered": 2
+      },
+      "total": 173,
+      "winnerId": "tony_simone",
+      "margin": 41,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75061": {
+      "votes": {
+        "tony_simone": 42,
+        "emily_yuexin_miller": 32,
+        "scattered": 1
+      },
+      "total": 75,
+      "winnerId": "tony_simone",
+      "margin": 13.3,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75062": {
+      "votes": {
+        "tony_simone": 150,
+        "emily_yuexin_miller": 71,
+        "scattered": 3
+      },
+      "total": 224,
+      "winnerId": "tony_simone",
+      "margin": 35.3,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75063": {
+      "votes": {
+        "tony_simone": 346,
+        "emily_yuexin_miller": 90,
+        "scattered": 6
+      },
+      "total": 442,
+      "winnerId": "tony_simone",
+      "margin": 57.9,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75064": {
+      "votes": {
+        "tony_simone": 200,
+        "emily_yuexin_miller": 52,
+        "scattered": 4
+      },
+      "total": 256,
+      "winnerId": "tony_simone",
+      "margin": 57.8,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75065": {
+      "votes": {
+        "tony_simone": 90,
+        "emily_yuexin_miller": 33,
+        "scattered": 0
+      },
+      "total": 123,
+      "winnerId": "tony_simone",
+      "margin": 46.3,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75066": {
+      "votes": {
+        "tony_simone": 63,
+        "emily_yuexin_miller": 45,
+        "scattered": 1
+      },
+      "total": 109,
+      "winnerId": "tony_simone",
+      "margin": 16.5,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75068": {
+      "votes": {
+        "tony_simone": 103,
+        "emily_yuexin_miller": 40,
+        "scattered": 0
+      },
+      "total": 143,
+      "winnerId": "tony_simone",
+      "margin": 44.1,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75/001": {
+      "votes": {
+        "tony_simone": 249,
+        "emily_yuexin_miller": 85,
+        "scattered": 2
+      },
+      "total": 336,
+      "winnerId": "tony_simone",
+      "margin": 48.8,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75/002": {
+      "votes": {
+        "tony_simone": 261,
+        "emily_yuexin_miller": 84,
+        "scattered": 4
+      },
+      "total": 349,
+      "winnerId": "tony_simone",
+      "margin": 50.7,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75/003": {
+      "votes": {
+        "tony_simone": 240,
+        "emily_yuexin_miller": 82,
+        "scattered": 7
+      },
+      "total": 329,
+      "winnerId": "tony_simone",
+      "margin": 48,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75/004": {
+      "votes": {
+        "tony_simone": 108,
+        "emily_yuexin_miller": 39,
+        "scattered": 2
+      },
+      "total": 149,
+      "winnerId": "tony_simone",
+      "margin": 46.3,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75/005": {
+      "votes": {
+        "tony_simone": 213,
+        "emily_yuexin_miller": 57,
+        "scattered": 3
+      },
+      "total": 273,
+      "winnerId": "tony_simone",
+      "margin": 57.1,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75/006": {
+      "votes": {
+        "tony_simone": 218,
+        "emily_yuexin_miller": 75,
+        "scattered": 1
+      },
+      "total": 294,
+      "winnerId": "tony_simone",
+      "margin": 48.6,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75/007": {
+      "votes": {
+        "tony_simone": 151,
+        "emily_yuexin_miller": 36,
+        "scattered": 0
+      },
+      "total": 187,
+      "winnerId": "tony_simone",
+      "margin": 61.5,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75/008": {
+      "votes": {
+        "tony_simone": 160,
+        "emily_yuexin_miller": 28,
+        "scattered": 2
+      },
+      "total": 190,
+      "winnerId": "tony_simone",
+      "margin": 69.5,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75/009": {
+      "votes": {
+        "tony_simone": 63,
+        "emily_yuexin_miller": 18,
+        "scattered": 1
+      },
+      "total": 82,
+      "winnerId": "tony_simone",
+      "margin": 54.9,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75/010": {
+      "votes": {
+        "tony_simone": 201,
+        "emily_yuexin_miller": 81,
+        "scattered": 3
+      },
+      "total": 285,
+      "winnerId": "tony_simone",
+      "margin": 42.1,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75/011": {
+      "votes": {
+        "tony_simone": 92,
+        "emily_yuexin_miller": 40,
+        "scattered": 1
+      },
+      "total": 133,
+      "winnerId": "tony_simone",
+      "margin": 39.1,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75/012": {
+      "votes": {
+        "tony_simone": 133,
+        "emily_yuexin_miller": 43,
+        "scattered": 0
+      },
+      "total": 176,
+      "winnerId": "tony_simone",
+      "margin": 51.1,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75/013": {
+      "votes": {
+        "tony_simone": 145,
+        "emily_yuexin_miller": 55,
+        "scattered": 7
+      },
+      "total": 207,
+      "winnerId": "tony_simone",
+      "margin": 43.5,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75/014": {
+      "votes": {
+        "tony_simone": 54,
+        "emily_yuexin_miller": 19,
+        "scattered": 0
+      },
+      "total": 73,
+      "winnerId": "tony_simone",
+      "margin": 47.9,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75/015": {
+      "votes": {
+        "tony_simone": 92,
+        "emily_yuexin_miller": 30,
+        "scattered": 1
+      },
+      "total": 123,
+      "winnerId": "tony_simone",
+      "margin": 50.4,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75/016": {
+      "votes": {
+        "tony_simone": 37,
+        "emily_yuexin_miller": 15,
+        "scattered": 0
+      },
+      "total": 52,
+      "winnerId": "tony_simone",
+      "margin": 42.3,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75/017": {
+      "votes": {
+        "tony_simone": 118,
+        "emily_yuexin_miller": 40,
+        "scattered": 1
+      },
+      "total": 159,
+      "winnerId": "tony_simone",
+      "margin": 49.1,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75/018": {
+      "votes": {
+        "tony_simone": 36,
+        "emily_yuexin_miller": 12,
+        "scattered": 0
+      },
+      "total": 48,
+      "winnerId": "tony_simone",
+      "margin": 50,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75/019": {
+      "votes": {
+        "tony_simone": 95,
+        "emily_yuexin_miller": 28,
+        "scattered": 1
+      },
+      "total": 124,
+      "winnerId": "tony_simone",
+      "margin": 54,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75/020": {
+      "votes": {
+        "tony_simone": 61,
+        "emily_yuexin_miller": 20,
+        "scattered": 0
+      },
+      "total": 81,
+      "winnerId": "tony_simone",
+      "margin": 50.6,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75/021": {
+      "votes": {
+        "tony_simone": 41,
+        "emily_yuexin_miller": 9,
+        "scattered": 4
+      },
+      "total": 54,
+      "winnerId": "tony_simone",
+      "margin": 59.3,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75/022": {
+      "votes": {
+        "tony_simone": 111,
+        "emily_yuexin_miller": 28,
+        "scattered": 0
+      },
+      "total": 139,
+      "winnerId": "tony_simone",
+      "margin": 59.7,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75/023": {
+      "votes": {
+        "tony_simone": 97,
+        "emily_yuexin_miller": 35,
+        "scattered": 1
+      },
+      "total": 133,
+      "winnerId": "tony_simone",
+      "margin": 46.6,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75/024": {
+      "votes": {
+        "tony_simone": 137,
+        "emily_yuexin_miller": 48,
+        "scattered": 4
+      },
+      "total": 189,
+      "winnerId": "tony_simone",
+      "margin": 47.1,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75/025": {
+      "votes": {
+        "tony_simone": 92,
+        "emily_yuexin_miller": 29,
+        "scattered": 1
+      },
+      "total": 122,
+      "winnerId": "tony_simone",
+      "margin": 51.6,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75/026": {
+      "votes": {
+        "tony_simone": 184,
+        "emily_yuexin_miller": 43,
+        "scattered": 4
+      },
+      "total": 231,
+      "winnerId": "tony_simone",
+      "margin": 61,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75/027": {
+      "votes": {
+        "tony_simone": 131,
+        "emily_yuexin_miller": 42,
+        "scattered": 0
+      },
+      "total": 173,
+      "winnerId": "tony_simone",
+      "margin": 51.4,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75/028": {
+      "votes": {
+        "tony_simone": 181,
+        "emily_yuexin_miller": 50,
+        "scattered": 2
+      },
+      "total": 233,
+      "winnerId": "tony_simone",
+      "margin": 56.2,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75/029": {
+      "votes": {
+        "tony_simone": 156,
+        "emily_yuexin_miller": 43,
+        "scattered": 1
+      },
+      "total": 200,
+      "winnerId": "tony_simone",
+      "margin": 56.5,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75/030": {
+      "votes": {
+        "tony_simone": 84,
+        "emily_yuexin_miller": 25,
+        "scattered": 0
+      },
+      "total": 109,
+      "winnerId": "tony_simone",
+      "margin": 54.1,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75/031": {
+      "votes": {
+        "tony_simone": 189,
+        "emily_yuexin_miller": 35,
+        "scattered": 6
+      },
+      "total": 230,
+      "winnerId": "tony_simone",
+      "margin": 67,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75/032": {
+      "votes": {
+        "tony_simone": 181,
+        "emily_yuexin_miller": 30,
+        "scattered": 0
+      },
+      "total": 211,
+      "winnerId": "tony_simone",
+      "margin": 71.6,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75/033": {
+      "votes": {
+        "tony_simone": 110,
+        "emily_yuexin_miller": 31,
+        "scattered": 2
+      },
+      "total": 143,
+      "winnerId": "tony_simone",
+      "margin": 55.2,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75/034": {
+      "votes": {
+        "tony_simone": 117,
+        "emily_yuexin_miller": 22,
+        "scattered": 2
+      },
+      "total": 141,
+      "winnerId": "tony_simone",
+      "margin": 67.4,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75/035": {
+      "votes": {
+        "tony_simone": 62,
+        "emily_yuexin_miller": 26,
+        "scattered": 3
+      },
+      "total": 91,
+      "winnerId": "tony_simone",
+      "margin": 39.6,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75/036": {
+      "votes": {
+        "tony_simone": 34,
+        "emily_yuexin_miller": 14,
+        "scattered": 1
+      },
+      "total": 49,
+      "winnerId": "tony_simone",
+      "margin": 40.8,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75/037": {
+      "votes": {
+        "tony_simone": 209,
+        "emily_yuexin_miller": 54,
+        "scattered": 1
+      },
+      "total": 264,
+      "winnerId": "tony_simone",
+      "margin": 58.7,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75/038": {
+      "votes": {
+        "tony_simone": 299,
+        "emily_yuexin_miller": 68,
+        "scattered": 5
+      },
+      "total": 372,
+      "winnerId": "tony_simone",
+      "margin": 62.1,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75/039": {
+      "votes": {
+        "tony_simone": 279,
+        "emily_yuexin_miller": 51,
+        "scattered": 3
+      },
+      "total": 333,
+      "winnerId": "tony_simone",
+      "margin": 68.5,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75/040": {
+      "votes": {
+        "tony_simone": 146,
+        "emily_yuexin_miller": 47,
+        "scattered": 1
+      },
+      "total": 194,
+      "winnerId": "tony_simone",
+      "margin": 51,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75/041": {
+      "votes": {
+        "tony_simone": 148,
+        "emily_yuexin_miller": 39,
+        "scattered": 2
+      },
+      "total": 189,
+      "winnerId": "tony_simone",
+      "margin": 57.7,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75/042": {
+      "votes": {
+        "tony_simone": 220,
+        "emily_yuexin_miller": 38,
+        "scattered": 3
+      },
+      "total": 261,
+      "winnerId": "tony_simone",
+      "margin": 69.7,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75/043": {
+      "votes": {
+        "tony_simone": 391,
+        "emily_yuexin_miller": 109,
+        "scattered": 8
+      },
+      "total": 508,
+      "winnerId": "tony_simone",
+      "margin": 55.5,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75/044": {
+      "votes": {
+        "tony_simone": 243,
+        "emily_yuexin_miller": 55,
+        "scattered": 0
+      },
+      "total": 298,
+      "winnerId": "tony_simone",
+      "margin": 63.1,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75/045": {
+      "votes": {
+        "tony_simone": 184,
+        "emily_yuexin_miller": 52,
+        "scattered": 3
+      },
+      "total": 239,
+      "winnerId": "tony_simone",
+      "margin": 55.2,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75/046": {
+      "votes": {
+        "tony_simone": 197,
+        "emily_yuexin_miller": 44,
+        "scattered": 1
+      },
+      "total": 242,
+      "winnerId": "tony_simone",
+      "margin": 63.2,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75/047": {
+      "votes": {
+        "tony_simone": 140,
+        "emily_yuexin_miller": 39,
+        "scattered": 1
+      },
+      "total": 180,
+      "winnerId": "tony_simone",
+      "margin": 56.1,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75/048": {
+      "votes": {
+        "tony_simone": 123,
+        "emily_yuexin_miller": 30,
+        "scattered": 0
+      },
+      "total": 153,
+      "winnerId": "tony_simone",
+      "margin": 60.8,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75/049": {
+      "votes": {
+        "tony_simone": 210,
+        "emily_yuexin_miller": 70,
+        "scattered": 1
+      },
+      "total": 281,
+      "winnerId": "tony_simone",
+      "margin": 49.8,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75/050": {
+      "votes": {
+        "tony_simone": 139,
+        "emily_yuexin_miller": 41,
+        "scattered": 1
+      },
+      "total": 181,
+      "winnerId": "tony_simone",
+      "margin": 54.1,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75/051": {
+      "votes": {
+        "tony_simone": 262,
+        "emily_yuexin_miller": 75,
+        "scattered": 0
+      },
+      "total": 337,
+      "winnerId": "tony_simone",
+      "margin": 55.5,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75/052": {
+      "votes": {
+        "tony_simone": 365,
+        "emily_yuexin_miller": 86,
+        "scattered": 3
+      },
+      "total": 454,
+      "winnerId": "tony_simone",
+      "margin": 61.5,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75/053": {
+      "votes": {
+        "tony_simone": 328,
+        "emily_yuexin_miller": 100,
+        "scattered": 5
+      },
+      "total": 433,
+      "winnerId": "tony_simone",
+      "margin": 52.7,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75/054": {
+      "votes": {
+        "tony_simone": 94,
+        "emily_yuexin_miller": 19,
+        "scattered": 1
+      },
+      "total": 114,
+      "winnerId": "tony_simone",
+      "margin": 65.8,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75/055": {
+      "votes": {
+        "tony_simone": 79,
+        "emily_yuexin_miller": 27,
+        "scattered": 0
+      },
+      "total": 106,
+      "winnerId": "tony_simone",
+      "margin": 49.1,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75/056": {
+      "votes": {
+        "tony_simone": 91,
+        "emily_yuexin_miller": 30,
+        "scattered": 2
+      },
+      "total": 123,
+      "winnerId": "tony_simone",
+      "margin": 49.6,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75/057": {
+      "votes": {
+        "tony_simone": 96,
+        "emily_yuexin_miller": 23,
+        "scattered": 0
+      },
+      "total": 119,
+      "winnerId": "tony_simone",
+      "margin": 61.3,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75/058": {
+      "votes": {
+        "tony_simone": 125,
+        "emily_yuexin_miller": 30,
+        "scattered": 1
+      },
+      "total": 156,
+      "winnerId": "tony_simone",
+      "margin": 60.9,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75/059": {
+      "votes": {
+        "tony_simone": 113,
+        "emily_yuexin_miller": 31,
+        "scattered": 0
+      },
+      "total": 144,
+      "winnerId": "tony_simone",
+      "margin": 56.9,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75/060": {
+      "votes": {
+        "tony_simone": 121,
+        "emily_yuexin_miller": 50,
+        "scattered": 2
+      },
+      "total": 173,
+      "winnerId": "tony_simone",
+      "margin": 41,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75/061": {
+      "votes": {
+        "tony_simone": 42,
+        "emily_yuexin_miller": 32,
+        "scattered": 1
+      },
+      "total": 75,
+      "winnerId": "tony_simone",
+      "margin": 13.3,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75/062": {
+      "votes": {
+        "tony_simone": 150,
+        "emily_yuexin_miller": 71,
+        "scattered": 3
+      },
+      "total": 224,
+      "winnerId": "tony_simone",
+      "margin": 35.3,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75/063": {
+      "votes": {
+        "tony_simone": 346,
+        "emily_yuexin_miller": 90,
+        "scattered": 6
+      },
+      "total": 442,
+      "winnerId": "tony_simone",
+      "margin": 57.9,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75/064": {
+      "votes": {
+        "tony_simone": 200,
+        "emily_yuexin_miller": 52,
+        "scattered": 4
+      },
+      "total": 256,
+      "winnerId": "tony_simone",
+      "margin": 57.8,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75/065": {
+      "votes": {
+        "tony_simone": 90,
+        "emily_yuexin_miller": 33,
+        "scattered": 0
+      },
+      "total": 123,
+      "winnerId": "tony_simone",
+      "margin": 46.3,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75/066": {
+      "votes": {
+        "tony_simone": 63,
+        "emily_yuexin_miller": 45,
+        "scattered": 1
+      },
+      "total": 109,
+      "winnerId": "tony_simone",
+      "margin": 16.5,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "75/068": {
+      "votes": {
+        "tony_simone": 103,
+        "emily_yuexin_miller": 40,
+        "scattered": 0
+      },
+      "total": 143,
+      "winnerId": "tony_simone",
+      "margin": 44.1,
+      "candidates": [
+        {
+          "id": "tony_simone",
+          "name": "Tony Simone",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "emily_yuexin_miller",
+          "name": "Emily YueXin Miller",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    }
+  }
+}

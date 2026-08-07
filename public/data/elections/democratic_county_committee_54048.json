@@ -1,0 +1,229 @@
+{
+  "id": "democratic_county_committee_54048",
+  "name": "2026 Primary - County Committee District 54048",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "Judicial & Party Offices",
+  "districtKey": "54048",
+  "districtType": "congressional",
+  "isUncontested": false,
+  "candidates": [
+    {
+      "id": "luz_ruiz",
+      "name": "Luz Ruiz",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#d97706"
+    },
+    {
+      "id": "eliseo_ruiz",
+      "name": "Eliseo Ruiz",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#7c3aed"
+    },
+    {
+      "id": "belkis_king",
+      "name": "Belkis King",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#059669"
+    },
+    {
+      "id": "raul_king",
+      "name": "Raul King",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#0891b2"
+    },
+    {
+      "id": "britta_afae",
+      "name": "Britta Afae",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#4f46e5"
+    },
+    {
+      "id": "scattered",
+      "name": "Scattered",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#db2777"
+    }
+  ],
+  "results": {
+    "54048": {
+      "votes": {
+        "luz_ruiz": 124,
+        "eliseo_ruiz": 122,
+        "belkis_king": 101,
+        "raul_king": 95,
+        "britta_afae": 38,
+        "scattered": 3
+      },
+      "total": 483,
+      "winnerId": "luz_ruiz",
+      "margin": 0.4,
+      "candidates": [
+        {
+          "id": "luz_ruiz",
+          "name": "Luz Ruiz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "eliseo_ruiz",
+          "name": "Eliseo Ruiz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "belkis_king",
+          "name": "Belkis King",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "raul_king",
+          "name": "Raul King",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "britta_afae",
+          "name": "Britta Afae",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    }
+  },
+  "edResults": {
+    "54048": {
+      "votes": {
+        "luz_ruiz": 124,
+        "eliseo_ruiz": 122,
+        "belkis_king": 101,
+        "raul_king": 95,
+        "britta_afae": 38,
+        "scattered": 3
+      },
+      "total": 483,
+      "winnerId": "luz_ruiz",
+      "margin": 0.4,
+      "candidates": [
+        {
+          "id": "luz_ruiz",
+          "name": "Luz Ruiz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "eliseo_ruiz",
+          "name": "Eliseo Ruiz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "belkis_king",
+          "name": "Belkis King",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "raul_king",
+          "name": "Raul King",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "britta_afae",
+          "name": "Britta Afae",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "54/048": {
+      "votes": {
+        "luz_ruiz": 124,
+        "eliseo_ruiz": 122,
+        "belkis_king": 101,
+        "raul_king": 95,
+        "britta_afae": 38,
+        "scattered": 3
+      },
+      "total": 483,
+      "winnerId": "luz_ruiz",
+      "margin": 0.4,
+      "candidates": [
+        {
+          "id": "luz_ruiz",
+          "name": "Luz Ruiz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "eliseo_ruiz",
+          "name": "Eliseo Ruiz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "belkis_king",
+          "name": "Belkis King",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "raul_king",
+          "name": "Raul King",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "britta_afae",
+          "name": "Britta Afae",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    }
+  }
+}

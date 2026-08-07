@@ -1,0 +1,5686 @@
+{
+  "id": "democratic_state_committee_81",
+  "name": "2026 Primary - State Committee District 81",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "Judicial & Party Offices",
+  "districtKey": "81",
+  "districtType": "congressional",
+  "isUncontested": false,
+  "candidates": [
+    {
+      "id": "johanna_edmondson_(f)",
+      "name": "Johanna Edmondson (F)",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#d97706"
+    },
+    {
+      "id": "michael_heller_(m)",
+      "name": "Michael Heller (M)",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#7c3aed"
+    },
+    {
+      "id": "betsey_knapp_(f)",
+      "name": "Betsey Knapp (F)",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#059669"
+    },
+    {
+      "id": "bereket_ghebremedhin_(m)",
+      "name": "Bereket Ghebremedhin (M)",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#0891b2"
+    },
+    {
+      "id": "scattered",
+      "name": "Scattered",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#4f46e5"
+    }
+  ],
+  "results": {
+    "81": {
+      "votes": {
+        "johanna_edmondson_f_": 6183,
+        "michael_heller_m_": 5789,
+        "betsey_knapp_f_": 4717,
+        "bereket_ghebremedhin_m_": 2709,
+        "scattered": 83
+      },
+      "total": 19481,
+      "winnerId": "johanna_edmondson_f_",
+      "margin": 2,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    }
+  },
+  "edResults": {
+    "81001": {
+      "votes": {
+        "johanna_edmondson_f_": 45,
+        "michael_heller_m_": 40,
+        "betsey_knapp_f_": 40,
+        "bereket_ghebremedhin_m_": 22,
+        "scattered": 3
+      },
+      "total": 150,
+      "winnerId": "johanna_edmondson_f_",
+      "margin": 3.3,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81002": {
+      "votes": {
+        "johanna_edmondson_f_": 56,
+        "michael_heller_m_": 38,
+        "betsey_knapp_f_": 56,
+        "bereket_ghebremedhin_m_": 28,
+        "scattered": 0
+      },
+      "total": 178,
+      "winnerId": "johanna_edmondson_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81003": {
+      "votes": {
+        "johanna_edmondson_f_": 38,
+        "michael_heller_m_": 50,
+        "betsey_knapp_f_": 42,
+        "bereket_ghebremedhin_m_": 18,
+        "scattered": 2
+      },
+      "total": 150,
+      "winnerId": "michael_heller_m_",
+      "margin": 5.3,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81004": {
+      "votes": {
+        "johanna_edmondson_f_": 47,
+        "michael_heller_m_": 26,
+        "betsey_knapp_f_": 28,
+        "bereket_ghebremedhin_m_": 9,
+        "scattered": 0
+      },
+      "total": 110,
+      "winnerId": "johanna_edmondson_f_",
+      "margin": 17.3,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81005": {
+      "votes": {
+        "johanna_edmondson_f_": 74,
+        "michael_heller_m_": 52,
+        "betsey_knapp_f_": 56,
+        "bereket_ghebremedhin_m_": 34,
+        "scattered": 0
+      },
+      "total": 216,
+      "winnerId": "johanna_edmondson_f_",
+      "margin": 8.3,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81006": {
+      "votes": {
+        "johanna_edmondson_f_": 71,
+        "michael_heller_m_": 56,
+        "betsey_knapp_f_": 73,
+        "bereket_ghebremedhin_m_": 31,
+        "scattered": 0
+      },
+      "total": 231,
+      "winnerId": "betsey_knapp_f_",
+      "margin": 0.9,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81007": {
+      "votes": {
+        "johanna_edmondson_f_": 41,
+        "michael_heller_m_": 33,
+        "betsey_knapp_f_": 65,
+        "bereket_ghebremedhin_m_": 42,
+        "scattered": 0
+      },
+      "total": 181,
+      "winnerId": "betsey_knapp_f_",
+      "margin": 12.7,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81008": {
+      "votes": {
+        "johanna_edmondson_f_": 78,
+        "michael_heller_m_": 76,
+        "betsey_knapp_f_": 67,
+        "bereket_ghebremedhin_m_": 36,
+        "scattered": 2
+      },
+      "total": 259,
+      "winnerId": "johanna_edmondson_f_",
+      "margin": 0.8,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81009": {
+      "votes": {
+        "johanna_edmondson_f_": 92,
+        "michael_heller_m_": 74,
+        "betsey_knapp_f_": 72,
+        "bereket_ghebremedhin_m_": 36,
+        "scattered": 2
+      },
+      "total": 276,
+      "winnerId": "johanna_edmondson_f_",
+      "margin": 6.5,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81010": {
+      "votes": {
+        "johanna_edmondson_f_": 86,
+        "michael_heller_m_": 62,
+        "betsey_knapp_f_": 93,
+        "bereket_ghebremedhin_m_": 45,
+        "scattered": 0
+      },
+      "total": 286,
+      "winnerId": "betsey_knapp_f_",
+      "margin": 2.4,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81011": {
+      "votes": {
+        "johanna_edmondson_f_": 82,
+        "michael_heller_m_": 55,
+        "betsey_knapp_f_": 87,
+        "bereket_ghebremedhin_m_": 57,
+        "scattered": 1
+      },
+      "total": 282,
+      "winnerId": "betsey_knapp_f_",
+      "margin": 1.8,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81012": {
+      "votes": {
+        "johanna_edmondson_f_": 70,
+        "michael_heller_m_": 69,
+        "betsey_knapp_f_": 81,
+        "bereket_ghebremedhin_m_": 67,
+        "scattered": 1
+      },
+      "total": 288,
+      "winnerId": "betsey_knapp_f_",
+      "margin": 3.8,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81013": {
+      "votes": {
+        "johanna_edmondson_f_": 7,
+        "michael_heller_m_": 7,
+        "betsey_knapp_f_": 13,
+        "bereket_ghebremedhin_m_": 10,
+        "scattered": 4
+      },
+      "total": 41,
+      "winnerId": "betsey_knapp_f_",
+      "margin": 7.3,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81014": {
+      "votes": {
+        "johanna_edmondson_f_": 214,
+        "michael_heller_m_": 218,
+        "betsey_knapp_f_": 150,
+        "bereket_ghebremedhin_m_": 91,
+        "scattered": 2
+      },
+      "total": 675,
+      "winnerId": "michael_heller_m_",
+      "margin": 0.6,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81015": {
+      "votes": {
+        "johanna_edmondson_f_": 199,
+        "michael_heller_m_": 190,
+        "betsey_knapp_f_": 113,
+        "bereket_ghebremedhin_m_": 46,
+        "scattered": 0
+      },
+      "total": 548,
+      "winnerId": "johanna_edmondson_f_",
+      "margin": 1.6,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81016": {
+      "votes": {
+        "johanna_edmondson_f_": 113,
+        "michael_heller_m_": 120,
+        "betsey_knapp_f_": 79,
+        "bereket_ghebremedhin_m_": 43,
+        "scattered": 0
+      },
+      "total": 355,
+      "winnerId": "michael_heller_m_",
+      "margin": 2,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81017": {
+      "votes": {
+        "johanna_edmondson_f_": 109,
+        "michael_heller_m_": 80,
+        "betsey_knapp_f_": 129,
+        "bereket_ghebremedhin_m_": 75,
+        "scattered": 4
+      },
+      "total": 397,
+      "winnerId": "betsey_knapp_f_",
+      "margin": 5,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81018": {
+      "votes": {
+        "johanna_edmondson_f_": 26,
+        "michael_heller_m_": 33,
+        "betsey_knapp_f_": 17,
+        "bereket_ghebremedhin_m_": 11,
+        "scattered": 0
+      },
+      "total": 87,
+      "winnerId": "michael_heller_m_",
+      "margin": 8,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81019": {
+      "votes": {
+        "johanna_edmondson_f_": 190,
+        "michael_heller_m_": 182,
+        "betsey_knapp_f_": 136,
+        "bereket_ghebremedhin_m_": 64,
+        "scattered": 2
+      },
+      "total": 574,
+      "winnerId": "johanna_edmondson_f_",
+      "margin": 1.4,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81020": {
+      "votes": {
+        "johanna_edmondson_f_": 148,
+        "michael_heller_m_": 139,
+        "betsey_knapp_f_": 150,
+        "bereket_ghebremedhin_m_": 99,
+        "scattered": 0
+      },
+      "total": 536,
+      "winnerId": "betsey_knapp_f_",
+      "margin": 0.4,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81021": {
+      "votes": {
+        "johanna_edmondson_f_": 165,
+        "michael_heller_m_": 153,
+        "betsey_knapp_f_": 145,
+        "bereket_ghebremedhin_m_": 90,
+        "scattered": 2
+      },
+      "total": 555,
+      "winnerId": "johanna_edmondson_f_",
+      "margin": 2.2,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81022": {
+      "votes": {
+        "johanna_edmondson_f_": 221,
+        "michael_heller_m_": 222,
+        "betsey_knapp_f_": 138,
+        "bereket_ghebremedhin_m_": 70,
+        "scattered": 3
+      },
+      "total": 654,
+      "winnerId": "michael_heller_m_",
+      "margin": 0.2,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81023": {
+      "votes": {
+        "johanna_edmondson_f_": 80,
+        "michael_heller_m_": 59,
+        "betsey_knapp_f_": 109,
+        "bereket_ghebremedhin_m_": 82,
+        "scattered": 1
+      },
+      "total": 331,
+      "winnerId": "betsey_knapp_f_",
+      "margin": 8.2,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81024": {
+      "votes": {
+        "johanna_edmondson_f_": 27,
+        "michael_heller_m_": 46,
+        "betsey_knapp_f_": 30,
+        "bereket_ghebremedhin_m_": 14,
+        "scattered": 0
+      },
+      "total": 117,
+      "winnerId": "michael_heller_m_",
+      "margin": 13.7,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81025": {
+      "votes": {
+        "johanna_edmondson_f_": 193,
+        "michael_heller_m_": 198,
+        "betsey_knapp_f_": 53,
+        "bereket_ghebremedhin_m_": 28,
+        "scattered": 2
+      },
+      "total": 474,
+      "winnerId": "michael_heller_m_",
+      "margin": 1.1,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81026": {
+      "votes": {
+        "johanna_edmondson_f_": 94,
+        "michael_heller_m_": 70,
+        "betsey_knapp_f_": 110,
+        "bereket_ghebremedhin_m_": 79,
+        "scattered": 4
+      },
+      "total": 357,
+      "winnerId": "betsey_knapp_f_",
+      "margin": 4.5,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81027": {
+      "votes": {
+        "johanna_edmondson_f_": 186,
+        "michael_heller_m_": 194,
+        "betsey_knapp_f_": 141,
+        "bereket_ghebremedhin_m_": 78,
+        "scattered": 0
+      },
+      "total": 599,
+      "winnerId": "michael_heller_m_",
+      "margin": 1.3,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81028": {
+      "votes": {
+        "johanna_edmondson_f_": 268,
+        "michael_heller_m_": 276,
+        "betsey_knapp_f_": 137,
+        "bereket_ghebremedhin_m_": 84,
+        "scattered": 7
+      },
+      "total": 772,
+      "winnerId": "michael_heller_m_",
+      "margin": 1,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81029": {
+      "votes": {
+        "johanna_edmondson_f_": 304,
+        "michael_heller_m_": 317,
+        "betsey_knapp_f_": 161,
+        "bereket_ghebremedhin_m_": 115,
+        "scattered": 0
+      },
+      "total": 897,
+      "winnerId": "michael_heller_m_",
+      "margin": 1.4,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81030": {
+      "votes": {
+        "johanna_edmondson_f_": 278,
+        "michael_heller_m_": 276,
+        "betsey_knapp_f_": 130,
+        "bereket_ghebremedhin_m_": 95,
+        "scattered": 4
+      },
+      "total": 783,
+      "winnerId": "johanna_edmondson_f_",
+      "margin": 0.3,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81031": {
+      "votes": {
+        "johanna_edmondson_f_": 326,
+        "michael_heller_m_": 330,
+        "betsey_knapp_f_": 143,
+        "bereket_ghebremedhin_m_": 86,
+        "scattered": 2
+      },
+      "total": 887,
+      "winnerId": "michael_heller_m_",
+      "margin": 0.5,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81032": {
+      "votes": {
+        "johanna_edmondson_f_": 215,
+        "michael_heller_m_": 224,
+        "betsey_knapp_f_": 97,
+        "bereket_ghebremedhin_m_": 47,
+        "scattered": 1
+      },
+      "total": 584,
+      "winnerId": "michael_heller_m_",
+      "margin": 1.5,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81033": {
+      "votes": {
+        "johanna_edmondson_f_": 108,
+        "michael_heller_m_": 101,
+        "betsey_knapp_f_": 58,
+        "bereket_ghebremedhin_m_": 27,
+        "scattered": 0
+      },
+      "total": 294,
+      "winnerId": "johanna_edmondson_f_",
+      "margin": 2.4,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81034": {
+      "votes": {
+        "johanna_edmondson_f_": 175,
+        "michael_heller_m_": 167,
+        "betsey_knapp_f_": 129,
+        "bereket_ghebremedhin_m_": 64,
+        "scattered": 3
+      },
+      "total": 538,
+      "winnerId": "johanna_edmondson_f_",
+      "margin": 1.5,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81035": {
+      "votes": {
+        "johanna_edmondson_f_": 192,
+        "michael_heller_m_": 149,
+        "betsey_knapp_f_": 121,
+        "bereket_ghebremedhin_m_": 60,
+        "scattered": 5
+      },
+      "total": 527,
+      "winnerId": "johanna_edmondson_f_",
+      "margin": 8.2,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81036": {
+      "votes": {
+        "johanna_edmondson_f_": 148,
+        "michael_heller_m_": 141,
+        "betsey_knapp_f_": 127,
+        "bereket_ghebremedhin_m_": 68,
+        "scattered": 2
+      },
+      "total": 486,
+      "winnerId": "johanna_edmondson_f_",
+      "margin": 1.4,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81037": {
+      "votes": {
+        "johanna_edmondson_f_": 131,
+        "michael_heller_m_": 113,
+        "betsey_knapp_f_": 130,
+        "bereket_ghebremedhin_m_": 83,
+        "scattered": 1
+      },
+      "total": 458,
+      "winnerId": "johanna_edmondson_f_",
+      "margin": 0.2,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81038": {
+      "votes": {
+        "johanna_edmondson_f_": 104,
+        "michael_heller_m_": 85,
+        "betsey_knapp_f_": 89,
+        "bereket_ghebremedhin_m_": 62,
+        "scattered": 6
+      },
+      "total": 346,
+      "winnerId": "johanna_edmondson_f_",
+      "margin": 4.3,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81039": {
+      "votes": {
+        "johanna_edmondson_f_": 29,
+        "michael_heller_m_": 42,
+        "betsey_knapp_f_": 28,
+        "bereket_ghebremedhin_m_": 14,
+        "scattered": 0
+      },
+      "total": 113,
+      "winnerId": "michael_heller_m_",
+      "margin": 11.5,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81040": {
+      "votes": {
+        "johanna_edmondson_f_": 128,
+        "michael_heller_m_": 118,
+        "betsey_knapp_f_": 118,
+        "bereket_ghebremedhin_m_": 76,
+        "scattered": 0
+      },
+      "total": 440,
+      "winnerId": "johanna_edmondson_f_",
+      "margin": 2.3,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81041": {
+      "votes": {
+        "johanna_edmondson_f_": 56,
+        "michael_heller_m_": 37,
+        "betsey_knapp_f_": 65,
+        "bereket_ghebremedhin_m_": 33,
+        "scattered": 2
+      },
+      "total": 193,
+      "winnerId": "betsey_knapp_f_",
+      "margin": 4.7,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81042": {
+      "votes": {
+        "johanna_edmondson_f_": 51,
+        "michael_heller_m_": 47,
+        "betsey_knapp_f_": 69,
+        "bereket_ghebremedhin_m_": 41,
+        "scattered": 1
+      },
+      "total": 209,
+      "winnerId": "betsey_knapp_f_",
+      "margin": 8.6,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81043": {
+      "votes": {
+        "johanna_edmondson_f_": 58,
+        "michael_heller_m_": 44,
+        "betsey_knapp_f_": 73,
+        "bereket_ghebremedhin_m_": 45,
+        "scattered": 3
+      },
+      "total": 223,
+      "winnerId": "betsey_knapp_f_",
+      "margin": 6.7,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81044": {
+      "votes": {
+        "johanna_edmondson_f_": 85,
+        "michael_heller_m_": 76,
+        "betsey_knapp_f_": 53,
+        "bereket_ghebremedhin_m_": 14,
+        "scattered": 0
+      },
+      "total": 228,
+      "winnerId": "johanna_edmondson_f_",
+      "margin": 3.9,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81045": {
+      "votes": {
+        "johanna_edmondson_f_": 57,
+        "michael_heller_m_": 47,
+        "betsey_knapp_f_": 64,
+        "bereket_ghebremedhin_m_": 34,
+        "scattered": 2
+      },
+      "total": 204,
+      "winnerId": "betsey_knapp_f_",
+      "margin": 3.4,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81046": {
+      "votes": {
+        "johanna_edmondson_f_": 59,
+        "michael_heller_m_": 61,
+        "betsey_knapp_f_": 48,
+        "bereket_ghebremedhin_m_": 50,
+        "scattered": 0
+      },
+      "total": 218,
+      "winnerId": "michael_heller_m_",
+      "margin": 0.9,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81047": {
+      "votes": {
+        "johanna_edmondson_f_": 46,
+        "michael_heller_m_": 35,
+        "betsey_knapp_f_": 39,
+        "bereket_ghebremedhin_m_": 21,
+        "scattered": 0
+      },
+      "total": 141,
+      "winnerId": "johanna_edmondson_f_",
+      "margin": 5,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81048": {
+      "votes": {
+        "johanna_edmondson_f_": 76,
+        "michael_heller_m_": 82,
+        "betsey_knapp_f_": 68,
+        "bereket_ghebremedhin_m_": 37,
+        "scattered": 0
+      },
+      "total": 263,
+      "winnerId": "michael_heller_m_",
+      "margin": 2.3,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81049": {
+      "votes": {
+        "johanna_edmondson_f_": 51,
+        "michael_heller_m_": 46,
+        "betsey_knapp_f_": 46,
+        "bereket_ghebremedhin_m_": 19,
+        "scattered": 1
+      },
+      "total": 163,
+      "winnerId": "johanna_edmondson_f_",
+      "margin": 3.1,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81050": {
+      "votes": {
+        "johanna_edmondson_f_": 36,
+        "michael_heller_m_": 32,
+        "betsey_knapp_f_": 36,
+        "bereket_ghebremedhin_m_": 17,
+        "scattered": 0
+      },
+      "total": 121,
+      "winnerId": "johanna_edmondson_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81051": {
+      "votes": {
+        "johanna_edmondson_f_": 58,
+        "michael_heller_m_": 41,
+        "betsey_knapp_f_": 45,
+        "bereket_ghebremedhin_m_": 22,
+        "scattered": 0
+      },
+      "total": 166,
+      "winnerId": "johanna_edmondson_f_",
+      "margin": 7.8,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81052": {
+      "votes": {
+        "johanna_edmondson_f_": 50,
+        "michael_heller_m_": 56,
+        "betsey_knapp_f_": 52,
+        "bereket_ghebremedhin_m_": 10,
+        "scattered": 1
+      },
+      "total": 169,
+      "winnerId": "michael_heller_m_",
+      "margin": 2.4,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81053": {
+      "votes": {
+        "johanna_edmondson_f_": 83,
+        "michael_heller_m_": 76,
+        "betsey_knapp_f_": 73,
+        "bereket_ghebremedhin_m_": 41,
+        "scattered": 5
+      },
+      "total": 278,
+      "winnerId": "johanna_edmondson_f_",
+      "margin": 2.5,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81054": {
+      "votes": {
+        "johanna_edmondson_f_": 113,
+        "michael_heller_m_": 108,
+        "betsey_knapp_f_": 101,
+        "bereket_ghebremedhin_m_": 60,
+        "scattered": 1
+      },
+      "total": 383,
+      "winnerId": "johanna_edmondson_f_",
+      "margin": 1.3,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81055": {
+      "votes": {
+        "johanna_edmondson_f_": 29,
+        "michael_heller_m_": 39,
+        "betsey_knapp_f_": 36,
+        "bereket_ghebremedhin_m_": 7,
+        "scattered": 0
+      },
+      "total": 111,
+      "winnerId": "michael_heller_m_",
+      "margin": 2.7,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81056": {
+      "votes": {
+        "johanna_edmondson_f_": 117,
+        "michael_heller_m_": 81,
+        "betsey_knapp_f_": 108,
+        "bereket_ghebremedhin_m_": 72,
+        "scattered": 1
+      },
+      "total": 379,
+      "winnerId": "johanna_edmondson_f_",
+      "margin": 2.4,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81059": {
+      "votes": {
+        "johanna_edmondson_f_": 0,
+        "michael_heller_m_": 0,
+        "betsey_knapp_f_": 0,
+        "bereket_ghebremedhin_m_": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "johanna_edmondson_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/001": {
+      "votes": {
+        "johanna_edmondson_f_": 45,
+        "michael_heller_m_": 40,
+        "betsey_knapp_f_": 40,
+        "bereket_ghebremedhin_m_": 22,
+        "scattered": 3
+      },
+      "total": 150,
+      "winnerId": "johanna_edmondson_f_",
+      "margin": 3.3,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/002": {
+      "votes": {
+        "johanna_edmondson_f_": 56,
+        "michael_heller_m_": 38,
+        "betsey_knapp_f_": 56,
+        "bereket_ghebremedhin_m_": 28,
+        "scattered": 0
+      },
+      "total": 178,
+      "winnerId": "johanna_edmondson_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/003": {
+      "votes": {
+        "johanna_edmondson_f_": 38,
+        "michael_heller_m_": 50,
+        "betsey_knapp_f_": 42,
+        "bereket_ghebremedhin_m_": 18,
+        "scattered": 2
+      },
+      "total": 150,
+      "winnerId": "michael_heller_m_",
+      "margin": 5.3,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/004": {
+      "votes": {
+        "johanna_edmondson_f_": 47,
+        "michael_heller_m_": 26,
+        "betsey_knapp_f_": 28,
+        "bereket_ghebremedhin_m_": 9,
+        "scattered": 0
+      },
+      "total": 110,
+      "winnerId": "johanna_edmondson_f_",
+      "margin": 17.3,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/005": {
+      "votes": {
+        "johanna_edmondson_f_": 74,
+        "michael_heller_m_": 52,
+        "betsey_knapp_f_": 56,
+        "bereket_ghebremedhin_m_": 34,
+        "scattered": 0
+      },
+      "total": 216,
+      "winnerId": "johanna_edmondson_f_",
+      "margin": 8.3,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/006": {
+      "votes": {
+        "johanna_edmondson_f_": 71,
+        "michael_heller_m_": 56,
+        "betsey_knapp_f_": 73,
+        "bereket_ghebremedhin_m_": 31,
+        "scattered": 0
+      },
+      "total": 231,
+      "winnerId": "betsey_knapp_f_",
+      "margin": 0.9,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/007": {
+      "votes": {
+        "johanna_edmondson_f_": 41,
+        "michael_heller_m_": 33,
+        "betsey_knapp_f_": 65,
+        "bereket_ghebremedhin_m_": 42,
+        "scattered": 0
+      },
+      "total": 181,
+      "winnerId": "betsey_knapp_f_",
+      "margin": 12.7,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/008": {
+      "votes": {
+        "johanna_edmondson_f_": 78,
+        "michael_heller_m_": 76,
+        "betsey_knapp_f_": 67,
+        "bereket_ghebremedhin_m_": 36,
+        "scattered": 2
+      },
+      "total": 259,
+      "winnerId": "johanna_edmondson_f_",
+      "margin": 0.8,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/009": {
+      "votes": {
+        "johanna_edmondson_f_": 92,
+        "michael_heller_m_": 74,
+        "betsey_knapp_f_": 72,
+        "bereket_ghebremedhin_m_": 36,
+        "scattered": 2
+      },
+      "total": 276,
+      "winnerId": "johanna_edmondson_f_",
+      "margin": 6.5,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/010": {
+      "votes": {
+        "johanna_edmondson_f_": 86,
+        "michael_heller_m_": 62,
+        "betsey_knapp_f_": 93,
+        "bereket_ghebremedhin_m_": 45,
+        "scattered": 0
+      },
+      "total": 286,
+      "winnerId": "betsey_knapp_f_",
+      "margin": 2.4,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/011": {
+      "votes": {
+        "johanna_edmondson_f_": 82,
+        "michael_heller_m_": 55,
+        "betsey_knapp_f_": 87,
+        "bereket_ghebremedhin_m_": 57,
+        "scattered": 1
+      },
+      "total": 282,
+      "winnerId": "betsey_knapp_f_",
+      "margin": 1.8,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/012": {
+      "votes": {
+        "johanna_edmondson_f_": 70,
+        "michael_heller_m_": 69,
+        "betsey_knapp_f_": 81,
+        "bereket_ghebremedhin_m_": 67,
+        "scattered": 1
+      },
+      "total": 288,
+      "winnerId": "betsey_knapp_f_",
+      "margin": 3.8,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/013": {
+      "votes": {
+        "johanna_edmondson_f_": 7,
+        "michael_heller_m_": 7,
+        "betsey_knapp_f_": 13,
+        "bereket_ghebremedhin_m_": 10,
+        "scattered": 4
+      },
+      "total": 41,
+      "winnerId": "betsey_knapp_f_",
+      "margin": 7.3,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/014": {
+      "votes": {
+        "johanna_edmondson_f_": 214,
+        "michael_heller_m_": 218,
+        "betsey_knapp_f_": 150,
+        "bereket_ghebremedhin_m_": 91,
+        "scattered": 2
+      },
+      "total": 675,
+      "winnerId": "michael_heller_m_",
+      "margin": 0.6,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/015": {
+      "votes": {
+        "johanna_edmondson_f_": 199,
+        "michael_heller_m_": 190,
+        "betsey_knapp_f_": 113,
+        "bereket_ghebremedhin_m_": 46,
+        "scattered": 0
+      },
+      "total": 548,
+      "winnerId": "johanna_edmondson_f_",
+      "margin": 1.6,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/016": {
+      "votes": {
+        "johanna_edmondson_f_": 113,
+        "michael_heller_m_": 120,
+        "betsey_knapp_f_": 79,
+        "bereket_ghebremedhin_m_": 43,
+        "scattered": 0
+      },
+      "total": 355,
+      "winnerId": "michael_heller_m_",
+      "margin": 2,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/017": {
+      "votes": {
+        "johanna_edmondson_f_": 109,
+        "michael_heller_m_": 80,
+        "betsey_knapp_f_": 129,
+        "bereket_ghebremedhin_m_": 75,
+        "scattered": 4
+      },
+      "total": 397,
+      "winnerId": "betsey_knapp_f_",
+      "margin": 5,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/018": {
+      "votes": {
+        "johanna_edmondson_f_": 26,
+        "michael_heller_m_": 33,
+        "betsey_knapp_f_": 17,
+        "bereket_ghebremedhin_m_": 11,
+        "scattered": 0
+      },
+      "total": 87,
+      "winnerId": "michael_heller_m_",
+      "margin": 8,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/019": {
+      "votes": {
+        "johanna_edmondson_f_": 190,
+        "michael_heller_m_": 182,
+        "betsey_knapp_f_": 136,
+        "bereket_ghebremedhin_m_": 64,
+        "scattered": 2
+      },
+      "total": 574,
+      "winnerId": "johanna_edmondson_f_",
+      "margin": 1.4,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/020": {
+      "votes": {
+        "johanna_edmondson_f_": 148,
+        "michael_heller_m_": 139,
+        "betsey_knapp_f_": 150,
+        "bereket_ghebremedhin_m_": 99,
+        "scattered": 0
+      },
+      "total": 536,
+      "winnerId": "betsey_knapp_f_",
+      "margin": 0.4,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/021": {
+      "votes": {
+        "johanna_edmondson_f_": 165,
+        "michael_heller_m_": 153,
+        "betsey_knapp_f_": 145,
+        "bereket_ghebremedhin_m_": 90,
+        "scattered": 2
+      },
+      "total": 555,
+      "winnerId": "johanna_edmondson_f_",
+      "margin": 2.2,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/022": {
+      "votes": {
+        "johanna_edmondson_f_": 221,
+        "michael_heller_m_": 222,
+        "betsey_knapp_f_": 138,
+        "bereket_ghebremedhin_m_": 70,
+        "scattered": 3
+      },
+      "total": 654,
+      "winnerId": "michael_heller_m_",
+      "margin": 0.2,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/023": {
+      "votes": {
+        "johanna_edmondson_f_": 80,
+        "michael_heller_m_": 59,
+        "betsey_knapp_f_": 109,
+        "bereket_ghebremedhin_m_": 82,
+        "scattered": 1
+      },
+      "total": 331,
+      "winnerId": "betsey_knapp_f_",
+      "margin": 8.2,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/024": {
+      "votes": {
+        "johanna_edmondson_f_": 27,
+        "michael_heller_m_": 46,
+        "betsey_knapp_f_": 30,
+        "bereket_ghebremedhin_m_": 14,
+        "scattered": 0
+      },
+      "total": 117,
+      "winnerId": "michael_heller_m_",
+      "margin": 13.7,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/025": {
+      "votes": {
+        "johanna_edmondson_f_": 193,
+        "michael_heller_m_": 198,
+        "betsey_knapp_f_": 53,
+        "bereket_ghebremedhin_m_": 28,
+        "scattered": 2
+      },
+      "total": 474,
+      "winnerId": "michael_heller_m_",
+      "margin": 1.1,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/026": {
+      "votes": {
+        "johanna_edmondson_f_": 94,
+        "michael_heller_m_": 70,
+        "betsey_knapp_f_": 110,
+        "bereket_ghebremedhin_m_": 79,
+        "scattered": 4
+      },
+      "total": 357,
+      "winnerId": "betsey_knapp_f_",
+      "margin": 4.5,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/027": {
+      "votes": {
+        "johanna_edmondson_f_": 186,
+        "michael_heller_m_": 194,
+        "betsey_knapp_f_": 141,
+        "bereket_ghebremedhin_m_": 78,
+        "scattered": 0
+      },
+      "total": 599,
+      "winnerId": "michael_heller_m_",
+      "margin": 1.3,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/028": {
+      "votes": {
+        "johanna_edmondson_f_": 268,
+        "michael_heller_m_": 276,
+        "betsey_knapp_f_": 137,
+        "bereket_ghebremedhin_m_": 84,
+        "scattered": 7
+      },
+      "total": 772,
+      "winnerId": "michael_heller_m_",
+      "margin": 1,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/029": {
+      "votes": {
+        "johanna_edmondson_f_": 304,
+        "michael_heller_m_": 317,
+        "betsey_knapp_f_": 161,
+        "bereket_ghebremedhin_m_": 115,
+        "scattered": 0
+      },
+      "total": 897,
+      "winnerId": "michael_heller_m_",
+      "margin": 1.4,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/030": {
+      "votes": {
+        "johanna_edmondson_f_": 278,
+        "michael_heller_m_": 276,
+        "betsey_knapp_f_": 130,
+        "bereket_ghebremedhin_m_": 95,
+        "scattered": 4
+      },
+      "total": 783,
+      "winnerId": "johanna_edmondson_f_",
+      "margin": 0.3,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/031": {
+      "votes": {
+        "johanna_edmondson_f_": 326,
+        "michael_heller_m_": 330,
+        "betsey_knapp_f_": 143,
+        "bereket_ghebremedhin_m_": 86,
+        "scattered": 2
+      },
+      "total": 887,
+      "winnerId": "michael_heller_m_",
+      "margin": 0.5,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/032": {
+      "votes": {
+        "johanna_edmondson_f_": 215,
+        "michael_heller_m_": 224,
+        "betsey_knapp_f_": 97,
+        "bereket_ghebremedhin_m_": 47,
+        "scattered": 1
+      },
+      "total": 584,
+      "winnerId": "michael_heller_m_",
+      "margin": 1.5,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/033": {
+      "votes": {
+        "johanna_edmondson_f_": 108,
+        "michael_heller_m_": 101,
+        "betsey_knapp_f_": 58,
+        "bereket_ghebremedhin_m_": 27,
+        "scattered": 0
+      },
+      "total": 294,
+      "winnerId": "johanna_edmondson_f_",
+      "margin": 2.4,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/034": {
+      "votes": {
+        "johanna_edmondson_f_": 175,
+        "michael_heller_m_": 167,
+        "betsey_knapp_f_": 129,
+        "bereket_ghebremedhin_m_": 64,
+        "scattered": 3
+      },
+      "total": 538,
+      "winnerId": "johanna_edmondson_f_",
+      "margin": 1.5,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/035": {
+      "votes": {
+        "johanna_edmondson_f_": 192,
+        "michael_heller_m_": 149,
+        "betsey_knapp_f_": 121,
+        "bereket_ghebremedhin_m_": 60,
+        "scattered": 5
+      },
+      "total": 527,
+      "winnerId": "johanna_edmondson_f_",
+      "margin": 8.2,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/036": {
+      "votes": {
+        "johanna_edmondson_f_": 148,
+        "michael_heller_m_": 141,
+        "betsey_knapp_f_": 127,
+        "bereket_ghebremedhin_m_": 68,
+        "scattered": 2
+      },
+      "total": 486,
+      "winnerId": "johanna_edmondson_f_",
+      "margin": 1.4,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/037": {
+      "votes": {
+        "johanna_edmondson_f_": 131,
+        "michael_heller_m_": 113,
+        "betsey_knapp_f_": 130,
+        "bereket_ghebremedhin_m_": 83,
+        "scattered": 1
+      },
+      "total": 458,
+      "winnerId": "johanna_edmondson_f_",
+      "margin": 0.2,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/038": {
+      "votes": {
+        "johanna_edmondson_f_": 104,
+        "michael_heller_m_": 85,
+        "betsey_knapp_f_": 89,
+        "bereket_ghebremedhin_m_": 62,
+        "scattered": 6
+      },
+      "total": 346,
+      "winnerId": "johanna_edmondson_f_",
+      "margin": 4.3,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/039": {
+      "votes": {
+        "johanna_edmondson_f_": 29,
+        "michael_heller_m_": 42,
+        "betsey_knapp_f_": 28,
+        "bereket_ghebremedhin_m_": 14,
+        "scattered": 0
+      },
+      "total": 113,
+      "winnerId": "michael_heller_m_",
+      "margin": 11.5,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/040": {
+      "votes": {
+        "johanna_edmondson_f_": 128,
+        "michael_heller_m_": 118,
+        "betsey_knapp_f_": 118,
+        "bereket_ghebremedhin_m_": 76,
+        "scattered": 0
+      },
+      "total": 440,
+      "winnerId": "johanna_edmondson_f_",
+      "margin": 2.3,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/041": {
+      "votes": {
+        "johanna_edmondson_f_": 56,
+        "michael_heller_m_": 37,
+        "betsey_knapp_f_": 65,
+        "bereket_ghebremedhin_m_": 33,
+        "scattered": 2
+      },
+      "total": 193,
+      "winnerId": "betsey_knapp_f_",
+      "margin": 4.7,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/042": {
+      "votes": {
+        "johanna_edmondson_f_": 51,
+        "michael_heller_m_": 47,
+        "betsey_knapp_f_": 69,
+        "bereket_ghebremedhin_m_": 41,
+        "scattered": 1
+      },
+      "total": 209,
+      "winnerId": "betsey_knapp_f_",
+      "margin": 8.6,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/043": {
+      "votes": {
+        "johanna_edmondson_f_": 58,
+        "michael_heller_m_": 44,
+        "betsey_knapp_f_": 73,
+        "bereket_ghebremedhin_m_": 45,
+        "scattered": 3
+      },
+      "total": 223,
+      "winnerId": "betsey_knapp_f_",
+      "margin": 6.7,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/044": {
+      "votes": {
+        "johanna_edmondson_f_": 85,
+        "michael_heller_m_": 76,
+        "betsey_knapp_f_": 53,
+        "bereket_ghebremedhin_m_": 14,
+        "scattered": 0
+      },
+      "total": 228,
+      "winnerId": "johanna_edmondson_f_",
+      "margin": 3.9,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/045": {
+      "votes": {
+        "johanna_edmondson_f_": 57,
+        "michael_heller_m_": 47,
+        "betsey_knapp_f_": 64,
+        "bereket_ghebremedhin_m_": 34,
+        "scattered": 2
+      },
+      "total": 204,
+      "winnerId": "betsey_knapp_f_",
+      "margin": 3.4,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/046": {
+      "votes": {
+        "johanna_edmondson_f_": 59,
+        "michael_heller_m_": 61,
+        "betsey_knapp_f_": 48,
+        "bereket_ghebremedhin_m_": 50,
+        "scattered": 0
+      },
+      "total": 218,
+      "winnerId": "michael_heller_m_",
+      "margin": 0.9,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/047": {
+      "votes": {
+        "johanna_edmondson_f_": 46,
+        "michael_heller_m_": 35,
+        "betsey_knapp_f_": 39,
+        "bereket_ghebremedhin_m_": 21,
+        "scattered": 0
+      },
+      "total": 141,
+      "winnerId": "johanna_edmondson_f_",
+      "margin": 5,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/048": {
+      "votes": {
+        "johanna_edmondson_f_": 76,
+        "michael_heller_m_": 82,
+        "betsey_knapp_f_": 68,
+        "bereket_ghebremedhin_m_": 37,
+        "scattered": 0
+      },
+      "total": 263,
+      "winnerId": "michael_heller_m_",
+      "margin": 2.3,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/049": {
+      "votes": {
+        "johanna_edmondson_f_": 51,
+        "michael_heller_m_": 46,
+        "betsey_knapp_f_": 46,
+        "bereket_ghebremedhin_m_": 19,
+        "scattered": 1
+      },
+      "total": 163,
+      "winnerId": "johanna_edmondson_f_",
+      "margin": 3.1,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/050": {
+      "votes": {
+        "johanna_edmondson_f_": 36,
+        "michael_heller_m_": 32,
+        "betsey_knapp_f_": 36,
+        "bereket_ghebremedhin_m_": 17,
+        "scattered": 0
+      },
+      "total": 121,
+      "winnerId": "johanna_edmondson_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/051": {
+      "votes": {
+        "johanna_edmondson_f_": 58,
+        "michael_heller_m_": 41,
+        "betsey_knapp_f_": 45,
+        "bereket_ghebremedhin_m_": 22,
+        "scattered": 0
+      },
+      "total": 166,
+      "winnerId": "johanna_edmondson_f_",
+      "margin": 7.8,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/052": {
+      "votes": {
+        "johanna_edmondson_f_": 50,
+        "michael_heller_m_": 56,
+        "betsey_knapp_f_": 52,
+        "bereket_ghebremedhin_m_": 10,
+        "scattered": 1
+      },
+      "total": 169,
+      "winnerId": "michael_heller_m_",
+      "margin": 2.4,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/053": {
+      "votes": {
+        "johanna_edmondson_f_": 83,
+        "michael_heller_m_": 76,
+        "betsey_knapp_f_": 73,
+        "bereket_ghebremedhin_m_": 41,
+        "scattered": 5
+      },
+      "total": 278,
+      "winnerId": "johanna_edmondson_f_",
+      "margin": 2.5,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/054": {
+      "votes": {
+        "johanna_edmondson_f_": 113,
+        "michael_heller_m_": 108,
+        "betsey_knapp_f_": 101,
+        "bereket_ghebremedhin_m_": 60,
+        "scattered": 1
+      },
+      "total": 383,
+      "winnerId": "johanna_edmondson_f_",
+      "margin": 1.3,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/055": {
+      "votes": {
+        "johanna_edmondson_f_": 29,
+        "michael_heller_m_": 39,
+        "betsey_knapp_f_": 36,
+        "bereket_ghebremedhin_m_": 7,
+        "scattered": 0
+      },
+      "total": 111,
+      "winnerId": "michael_heller_m_",
+      "margin": 2.7,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/056": {
+      "votes": {
+        "johanna_edmondson_f_": 117,
+        "michael_heller_m_": 81,
+        "betsey_knapp_f_": 108,
+        "bereket_ghebremedhin_m_": 72,
+        "scattered": 1
+      },
+      "total": 379,
+      "winnerId": "johanna_edmondson_f_",
+      "margin": 2.4,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/059": {
+      "votes": {
+        "johanna_edmondson_f_": 0,
+        "michael_heller_m_": 0,
+        "betsey_knapp_f_": 0,
+        "bereket_ghebremedhin_m_": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "johanna_edmondson_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "johanna_edmondson_f_",
+          "name": "Johanna Edmondson (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "michael_heller_m_",
+          "name": "Michael Heller (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "betsey_knapp_f_",
+          "name": "Betsey Knapp (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "bereket_ghebremedhin_m_",
+          "name": "Bereket Ghebremedhin (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    }
+  }
+}

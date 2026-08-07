@@ -1,0 +1,291 @@
+{
+  "id": "democratic_county_committee_43038",
+  "name": "2026 Primary - County Committee District 43038",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "Judicial & Party Offices",
+  "districtKey": "43038",
+  "districtType": "congressional",
+  "isUncontested": false,
+  "candidates": [
+    {
+      "id": "suwen_cheong",
+      "name": "Suwen Cheong",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#d97706"
+    },
+    {
+      "id": "gideon_d_lazarus",
+      "name": "Gideon D. Lazarus",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#7c3aed"
+    },
+    {
+      "id": "rafael_a_roa",
+      "name": "Rafael A. Roa",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#059669"
+    },
+    {
+      "id": "christopher_m_grimshaw",
+      "name": "Christopher M. Grimshaw",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#0891b2"
+    },
+    {
+      "id": "etima_daley",
+      "name": "Etima Daley",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#4f46e5"
+    },
+    {
+      "id": "latrell_k_baker",
+      "name": "Latrell K. Baker",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#db2777"
+    },
+    {
+      "id": "damion_trent",
+      "name": "Damion Trent",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#64748b"
+    },
+    {
+      "id": "scattered",
+      "name": "Scattered",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#64748b"
+    }
+  ],
+  "results": {
+    "43038": {
+      "votes": {
+        "suwen_cheong": 154,
+        "gideon_d_lazarus": 126,
+        "rafael_a_roa": 125,
+        "christopher_m_grimshaw": 118,
+        "etima_daley": 76,
+        "latrell_k_baker": 72,
+        "damion_trent": 70,
+        "scattered": 1
+      },
+      "total": 742,
+      "winnerId": "suwen_cheong",
+      "margin": 3.8,
+      "candidates": [
+        {
+          "id": "suwen_cheong",
+          "name": "Suwen Cheong",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "gideon_d_lazarus",
+          "name": "Gideon D. Lazarus",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rafael_a_roa",
+          "name": "Rafael A. Roa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_m_grimshaw",
+          "name": "Christopher M. Grimshaw",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "etima_daley",
+          "name": "Etima Daley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "latrell_k_baker",
+          "name": "Latrell K. Baker",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        },
+        {
+          "id": "damion_trent",
+          "name": "Damion Trent",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#64748b"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#64748b"
+        }
+      ]
+    }
+  },
+  "edResults": {
+    "43038": {
+      "votes": {
+        "suwen_cheong": 154,
+        "gideon_d_lazarus": 126,
+        "rafael_a_roa": 125,
+        "christopher_m_grimshaw": 118,
+        "etima_daley": 76,
+        "latrell_k_baker": 72,
+        "damion_trent": 70,
+        "scattered": 1
+      },
+      "total": 742,
+      "winnerId": "suwen_cheong",
+      "margin": 3.8,
+      "candidates": [
+        {
+          "id": "suwen_cheong",
+          "name": "Suwen Cheong",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "gideon_d_lazarus",
+          "name": "Gideon D. Lazarus",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rafael_a_roa",
+          "name": "Rafael A. Roa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_m_grimshaw",
+          "name": "Christopher M. Grimshaw",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "etima_daley",
+          "name": "Etima Daley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "latrell_k_baker",
+          "name": "Latrell K. Baker",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        },
+        {
+          "id": "damion_trent",
+          "name": "Damion Trent",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#64748b"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#64748b"
+        }
+      ]
+    },
+    "43/038": {
+      "votes": {
+        "suwen_cheong": 154,
+        "gideon_d_lazarus": 126,
+        "rafael_a_roa": 125,
+        "christopher_m_grimshaw": 118,
+        "etima_daley": 76,
+        "latrell_k_baker": 72,
+        "damion_trent": 70,
+        "scattered": 1
+      },
+      "total": 742,
+      "winnerId": "suwen_cheong",
+      "margin": 3.8,
+      "candidates": [
+        {
+          "id": "suwen_cheong",
+          "name": "Suwen Cheong",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "gideon_d_lazarus",
+          "name": "Gideon D. Lazarus",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rafael_a_roa",
+          "name": "Rafael A. Roa",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_m_grimshaw",
+          "name": "Christopher M. Grimshaw",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "etima_daley",
+          "name": "Etima Daley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "latrell_k_baker",
+          "name": "Latrell K. Baker",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        },
+        {
+          "id": "damion_trent",
+          "name": "Damion Trent",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#64748b"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#64748b"
+        }
+      ]
+    }
+  }
+}

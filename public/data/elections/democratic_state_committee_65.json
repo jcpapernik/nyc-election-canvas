@@ -1,0 +1,5743 @@
+{
+  "id": "democratic_state_committee_65",
+  "name": "2026 Primary - State Committee District 65",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "Judicial & Party Offices",
+  "districtKey": "65",
+  "districtType": "congressional",
+  "isUncontested": false,
+  "candidates": [
+    {
+      "id": "fannie_ip_(f)",
+      "name": "Fannie Ip (F)",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#d97706"
+    },
+    {
+      "id": "grauven_olivares_(f)",
+      "name": "Grauven Olivares (F)",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#7c3aed"
+    },
+    {
+      "id": "morton_minsley_(m)",
+      "name": "Morton Minsley (M)",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#059669"
+    },
+    {
+      "id": "scattered",
+      "name": "Scattered",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#0891b2"
+    }
+  ],
+  "results": {
+    "65": {
+      "votes": {
+        "fannie_ip_f_": 7013,
+        "grauven_olivares_f_": 5115,
+        "morton_minsley_m_": 2620,
+        "scattered": 188
+      },
+      "total": 14936,
+      "winnerId": "fannie_ip_f_",
+      "margin": 12.7,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    }
+  },
+  "edResults": {
+    "65001": {
+      "votes": {
+        "fannie_ip_f_": 123,
+        "grauven_olivares_f_": 93,
+        "morton_minsley_m_": 64,
+        "scattered": 11
+      },
+      "total": 291,
+      "winnerId": "fannie_ip_f_",
+      "margin": 10.3,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65002": {
+      "votes": {
+        "fannie_ip_f_": 99,
+        "grauven_olivares_f_": 82,
+        "morton_minsley_m_": 46,
+        "scattered": 3
+      },
+      "total": 230,
+      "winnerId": "fannie_ip_f_",
+      "margin": 7.4,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65003": {
+      "votes": {
+        "fannie_ip_f_": 109,
+        "grauven_olivares_f_": 69,
+        "morton_minsley_m_": 53,
+        "scattered": 2
+      },
+      "total": 233,
+      "winnerId": "fannie_ip_f_",
+      "margin": 17.2,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65004": {
+      "votes": {
+        "fannie_ip_f_": 127,
+        "grauven_olivares_f_": 107,
+        "morton_minsley_m_": 48,
+        "scattered": 0
+      },
+      "total": 282,
+      "winnerId": "fannie_ip_f_",
+      "margin": 7.1,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65005": {
+      "votes": {
+        "fannie_ip_f_": 65,
+        "grauven_olivares_f_": 48,
+        "morton_minsley_m_": 21,
+        "scattered": 1
+      },
+      "total": 135,
+      "winnerId": "fannie_ip_f_",
+      "margin": 12.6,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65006": {
+      "votes": {
+        "fannie_ip_f_": 64,
+        "grauven_olivares_f_": 63,
+        "morton_minsley_m_": 26,
+        "scattered": 2
+      },
+      "total": 155,
+      "winnerId": "fannie_ip_f_",
+      "margin": 0.6,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65007": {
+      "votes": {
+        "fannie_ip_f_": 161,
+        "grauven_olivares_f_": 115,
+        "morton_minsley_m_": 81,
+        "scattered": 12
+      },
+      "total": 369,
+      "winnerId": "fannie_ip_f_",
+      "margin": 12.5,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65008": {
+      "votes": {
+        "fannie_ip_f_": 133,
+        "grauven_olivares_f_": 84,
+        "morton_minsley_m_": 51,
+        "scattered": 3
+      },
+      "total": 271,
+      "winnerId": "fannie_ip_f_",
+      "margin": 18.1,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65009": {
+      "votes": {
+        "fannie_ip_f_": 111,
+        "grauven_olivares_f_": 91,
+        "morton_minsley_m_": 45,
+        "scattered": 4
+      },
+      "total": 251,
+      "winnerId": "fannie_ip_f_",
+      "margin": 8,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65010": {
+      "votes": {
+        "fannie_ip_f_": 106,
+        "grauven_olivares_f_": 69,
+        "morton_minsley_m_": 47,
+        "scattered": 2
+      },
+      "total": 224,
+      "winnerId": "fannie_ip_f_",
+      "margin": 16.5,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65011": {
+      "votes": {
+        "fannie_ip_f_": 40,
+        "grauven_olivares_f_": 41,
+        "morton_minsley_m_": 25,
+        "scattered": 0
+      },
+      "total": 106,
+      "winnerId": "grauven_olivares_f_",
+      "margin": 0.9,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65012": {
+      "votes": {
+        "fannie_ip_f_": 30,
+        "grauven_olivares_f_": 40,
+        "morton_minsley_m_": 21,
+        "scattered": 2
+      },
+      "total": 93,
+      "winnerId": "grauven_olivares_f_",
+      "margin": 10.8,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65013": {
+      "votes": {
+        "fannie_ip_f_": 100,
+        "grauven_olivares_f_": 64,
+        "morton_minsley_m_": 28,
+        "scattered": 0
+      },
+      "total": 192,
+      "winnerId": "fannie_ip_f_",
+      "margin": 18.8,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65014": {
+      "votes": {
+        "fannie_ip_f_": 63,
+        "grauven_olivares_f_": 38,
+        "morton_minsley_m_": 22,
+        "scattered": 2
+      },
+      "total": 125,
+      "winnerId": "fannie_ip_f_",
+      "margin": 20,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65015": {
+      "votes": {
+        "fannie_ip_f_": 97,
+        "grauven_olivares_f_": 70,
+        "morton_minsley_m_": 21,
+        "scattered": 3
+      },
+      "total": 191,
+      "winnerId": "fannie_ip_f_",
+      "margin": 14.1,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65016": {
+      "votes": {
+        "fannie_ip_f_": 89,
+        "grauven_olivares_f_": 32,
+        "morton_minsley_m_": 16,
+        "scattered": 0
+      },
+      "total": 137,
+      "winnerId": "fannie_ip_f_",
+      "margin": 41.6,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65017": {
+      "votes": {
+        "fannie_ip_f_": 95,
+        "grauven_olivares_f_": 52,
+        "morton_minsley_m_": 29,
+        "scattered": 0
+      },
+      "total": 176,
+      "winnerId": "fannie_ip_f_",
+      "margin": 24.4,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65018": {
+      "votes": {
+        "fannie_ip_f_": 65,
+        "grauven_olivares_f_": 59,
+        "morton_minsley_m_": 22,
+        "scattered": 1
+      },
+      "total": 147,
+      "winnerId": "fannie_ip_f_",
+      "margin": 4.1,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65019": {
+      "votes": {
+        "fannie_ip_f_": 139,
+        "grauven_olivares_f_": 82,
+        "morton_minsley_m_": 40,
+        "scattered": 2
+      },
+      "total": 263,
+      "winnerId": "fannie_ip_f_",
+      "margin": 21.7,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65020": {
+      "votes": {
+        "fannie_ip_f_": 94,
+        "grauven_olivares_f_": 42,
+        "morton_minsley_m_": 30,
+        "scattered": 0
+      },
+      "total": 166,
+      "winnerId": "fannie_ip_f_",
+      "margin": 31.3,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65021": {
+      "votes": {
+        "fannie_ip_f_": 92,
+        "grauven_olivares_f_": 64,
+        "morton_minsley_m_": 17,
+        "scattered": 1
+      },
+      "total": 174,
+      "winnerId": "fannie_ip_f_",
+      "margin": 16.1,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65022": {
+      "votes": {
+        "fannie_ip_f_": 72,
+        "grauven_olivares_f_": 63,
+        "morton_minsley_m_": 34,
+        "scattered": 1
+      },
+      "total": 170,
+      "winnerId": "fannie_ip_f_",
+      "margin": 5.3,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65023": {
+      "votes": {
+        "fannie_ip_f_": 84,
+        "grauven_olivares_f_": 62,
+        "morton_minsley_m_": 32,
+        "scattered": 3
+      },
+      "total": 181,
+      "winnerId": "fannie_ip_f_",
+      "margin": 12.2,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65024": {
+      "votes": {
+        "fannie_ip_f_": 49,
+        "grauven_olivares_f_": 37,
+        "morton_minsley_m_": 11,
+        "scattered": 1
+      },
+      "total": 98,
+      "winnerId": "fannie_ip_f_",
+      "margin": 12.2,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65025": {
+      "votes": {
+        "fannie_ip_f_": 52,
+        "grauven_olivares_f_": 51,
+        "morton_minsley_m_": 26,
+        "scattered": 3
+      },
+      "total": 132,
+      "winnerId": "fannie_ip_f_",
+      "margin": 0.8,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65026": {
+      "votes": {
+        "fannie_ip_f_": 191,
+        "grauven_olivares_f_": 111,
+        "morton_minsley_m_": 53,
+        "scattered": 1
+      },
+      "total": 356,
+      "winnerId": "fannie_ip_f_",
+      "margin": 22.5,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65027": {
+      "votes": {
+        "fannie_ip_f_": 80,
+        "grauven_olivares_f_": 66,
+        "morton_minsley_m_": 21,
+        "scattered": 1
+      },
+      "total": 168,
+      "winnerId": "fannie_ip_f_",
+      "margin": 8.3,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65028": {
+      "votes": {
+        "fannie_ip_f_": 193,
+        "grauven_olivares_f_": 142,
+        "morton_minsley_m_": 99,
+        "scattered": 13
+      },
+      "total": 447,
+      "winnerId": "fannie_ip_f_",
+      "margin": 11.4,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65029": {
+      "votes": {
+        "fannie_ip_f_": 260,
+        "grauven_olivares_f_": 176,
+        "morton_minsley_m_": 133,
+        "scattered": 8
+      },
+      "total": 577,
+      "winnerId": "fannie_ip_f_",
+      "margin": 14.6,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65030": {
+      "votes": {
+        "fannie_ip_f_": 52,
+        "grauven_olivares_f_": 59,
+        "morton_minsley_m_": 27,
+        "scattered": 0
+      },
+      "total": 138,
+      "winnerId": "grauven_olivares_f_",
+      "margin": 5.1,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65031": {
+      "votes": {
+        "fannie_ip_f_": 179,
+        "grauven_olivares_f_": 105,
+        "morton_minsley_m_": 93,
+        "scattered": 5
+      },
+      "total": 382,
+      "winnerId": "fannie_ip_f_",
+      "margin": 19.4,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65032": {
+      "votes": {
+        "fannie_ip_f_": 199,
+        "grauven_olivares_f_": 97,
+        "morton_minsley_m_": 97,
+        "scattered": 8
+      },
+      "total": 401,
+      "winnerId": "fannie_ip_f_",
+      "margin": 25.4,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65033": {
+      "votes": {
+        "fannie_ip_f_": 196,
+        "grauven_olivares_f_": 126,
+        "morton_minsley_m_": 93,
+        "scattered": 7
+      },
+      "total": 422,
+      "winnerId": "fannie_ip_f_",
+      "margin": 16.6,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65034": {
+      "votes": {
+        "fannie_ip_f_": 58,
+        "grauven_olivares_f_": 57,
+        "morton_minsley_m_": 19,
+        "scattered": 5
+      },
+      "total": 139,
+      "winnerId": "fannie_ip_f_",
+      "margin": 0.7,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65035": {
+      "votes": {
+        "fannie_ip_f_": 180,
+        "grauven_olivares_f_": 144,
+        "morton_minsley_m_": 57,
+        "scattered": 4
+      },
+      "total": 385,
+      "winnerId": "fannie_ip_f_",
+      "margin": 9.4,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65036": {
+      "votes": {
+        "fannie_ip_f_": 37,
+        "grauven_olivares_f_": 33,
+        "morton_minsley_m_": 20,
+        "scattered": 1
+      },
+      "total": 91,
+      "winnerId": "fannie_ip_f_",
+      "margin": 4.4,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65037": {
+      "votes": {
+        "fannie_ip_f_": 142,
+        "grauven_olivares_f_": 67,
+        "morton_minsley_m_": 69,
+        "scattered": 1
+      },
+      "total": 279,
+      "winnerId": "fannie_ip_f_",
+      "margin": 26.2,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65038": {
+      "votes": {
+        "fannie_ip_f_": 20,
+        "grauven_olivares_f_": 20,
+        "morton_minsley_m_": 13,
+        "scattered": 0
+      },
+      "total": 53,
+      "winnerId": "fannie_ip_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65039": {
+      "votes": {
+        "fannie_ip_f_": 35,
+        "grauven_olivares_f_": 36,
+        "morton_minsley_m_": 16,
+        "scattered": 0
+      },
+      "total": 87,
+      "winnerId": "grauven_olivares_f_",
+      "margin": 1.1,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65040": {
+      "votes": {
+        "fannie_ip_f_": 128,
+        "grauven_olivares_f_": 107,
+        "morton_minsley_m_": 47,
+        "scattered": 5
+      },
+      "total": 287,
+      "winnerId": "fannie_ip_f_",
+      "margin": 7.3,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65041": {
+      "votes": {
+        "fannie_ip_f_": 88,
+        "grauven_olivares_f_": 71,
+        "morton_minsley_m_": 24,
+        "scattered": 3
+      },
+      "total": 186,
+      "winnerId": "fannie_ip_f_",
+      "margin": 9.1,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65042": {
+      "votes": {
+        "fannie_ip_f_": 106,
+        "grauven_olivares_f_": 92,
+        "morton_minsley_m_": 29,
+        "scattered": 1
+      },
+      "total": 228,
+      "winnerId": "fannie_ip_f_",
+      "margin": 6.1,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65043": {
+      "votes": {
+        "fannie_ip_f_": 119,
+        "grauven_olivares_f_": 87,
+        "morton_minsley_m_": 31,
+        "scattered": 3
+      },
+      "total": 240,
+      "winnerId": "fannie_ip_f_",
+      "margin": 13.3,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65044": {
+      "votes": {
+        "fannie_ip_f_": 117,
+        "grauven_olivares_f_": 81,
+        "morton_minsley_m_": 42,
+        "scattered": 6
+      },
+      "total": 246,
+      "winnerId": "fannie_ip_f_",
+      "margin": 14.6,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65045": {
+      "votes": {
+        "fannie_ip_f_": 81,
+        "grauven_olivares_f_": 64,
+        "morton_minsley_m_": 40,
+        "scattered": 4
+      },
+      "total": 189,
+      "winnerId": "fannie_ip_f_",
+      "margin": 9,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65046": {
+      "votes": {
+        "fannie_ip_f_": 255,
+        "grauven_olivares_f_": 140,
+        "morton_minsley_m_": 129,
+        "scattered": 8
+      },
+      "total": 532,
+      "winnerId": "fannie_ip_f_",
+      "margin": 21.6,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65047": {
+      "votes": {
+        "fannie_ip_f_": 77,
+        "grauven_olivares_f_": 75,
+        "morton_minsley_m_": 27,
+        "scattered": 1
+      },
+      "total": 180,
+      "winnerId": "fannie_ip_f_",
+      "margin": 1.1,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65048": {
+      "votes": {
+        "fannie_ip_f_": 54,
+        "grauven_olivares_f_": 57,
+        "morton_minsley_m_": 18,
+        "scattered": 3
+      },
+      "total": 132,
+      "winnerId": "grauven_olivares_f_",
+      "margin": 2.3,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65049": {
+      "votes": {
+        "fannie_ip_f_": 110,
+        "grauven_olivares_f_": 98,
+        "morton_minsley_m_": 50,
+        "scattered": 3
+      },
+      "total": 261,
+      "winnerId": "fannie_ip_f_",
+      "margin": 4.6,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65050": {
+      "votes": {
+        "fannie_ip_f_": 114,
+        "grauven_olivares_f_": 86,
+        "morton_minsley_m_": 32,
+        "scattered": 0
+      },
+      "total": 232,
+      "winnerId": "fannie_ip_f_",
+      "margin": 12.1,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65051": {
+      "votes": {
+        "fannie_ip_f_": 103,
+        "grauven_olivares_f_": 66,
+        "morton_minsley_m_": 22,
+        "scattered": 2
+      },
+      "total": 193,
+      "winnerId": "fannie_ip_f_",
+      "margin": 19.2,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65052": {
+      "votes": {
+        "fannie_ip_f_": 104,
+        "grauven_olivares_f_": 86,
+        "morton_minsley_m_": 29,
+        "scattered": 0
+      },
+      "total": 219,
+      "winnerId": "fannie_ip_f_",
+      "margin": 8.2,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65053": {
+      "votes": {
+        "fannie_ip_f_": 98,
+        "grauven_olivares_f_": 70,
+        "morton_minsley_m_": 33,
+        "scattered": 1
+      },
+      "total": 202,
+      "winnerId": "fannie_ip_f_",
+      "margin": 13.9,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65054": {
+      "votes": {
+        "fannie_ip_f_": 104,
+        "grauven_olivares_f_": 69,
+        "morton_minsley_m_": 26,
+        "scattered": 0
+      },
+      "total": 199,
+      "winnerId": "fannie_ip_f_",
+      "margin": 17.6,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65055": {
+      "votes": {
+        "fannie_ip_f_": 126,
+        "grauven_olivares_f_": 57,
+        "morton_minsley_m_": 29,
+        "scattered": 3
+      },
+      "total": 215,
+      "winnerId": "fannie_ip_f_",
+      "margin": 32.1,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65056": {
+      "votes": {
+        "fannie_ip_f_": 138,
+        "grauven_olivares_f_": 29,
+        "morton_minsley_m_": 25,
+        "scattered": 0
+      },
+      "total": 192,
+      "winnerId": "fannie_ip_f_",
+      "margin": 56.8,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65057": {
+      "votes": {
+        "fannie_ip_f_": 166,
+        "grauven_olivares_f_": 144,
+        "morton_minsley_m_": 59,
+        "scattered": 7
+      },
+      "total": 376,
+      "winnerId": "fannie_ip_f_",
+      "margin": 5.9,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65058": {
+      "votes": {
+        "fannie_ip_f_": 122,
+        "grauven_olivares_f_": 120,
+        "morton_minsley_m_": 47,
+        "scattered": 4
+      },
+      "total": 293,
+      "winnerId": "fannie_ip_f_",
+      "margin": 0.7,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65059": {
+      "votes": {
+        "fannie_ip_f_": 112,
+        "grauven_olivares_f_": 102,
+        "morton_minsley_m_": 38,
+        "scattered": 4
+      },
+      "total": 256,
+      "winnerId": "fannie_ip_f_",
+      "margin": 3.9,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65060": {
+      "votes": {
+        "fannie_ip_f_": 125,
+        "grauven_olivares_f_": 116,
+        "morton_minsley_m_": 39,
+        "scattered": 3
+      },
+      "total": 283,
+      "winnerId": "fannie_ip_f_",
+      "margin": 3.2,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65061": {
+      "votes": {
+        "fannie_ip_f_": 67,
+        "grauven_olivares_f_": 62,
+        "morton_minsley_m_": 15,
+        "scattered": 1
+      },
+      "total": 145,
+      "winnerId": "fannie_ip_f_",
+      "margin": 3.4,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65062": {
+      "votes": {
+        "fannie_ip_f_": 99,
+        "grauven_olivares_f_": 73,
+        "morton_minsley_m_": 24,
+        "scattered": 0
+      },
+      "total": 196,
+      "winnerId": "fannie_ip_f_",
+      "margin": 13.3,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65063": {
+      "votes": {
+        "fannie_ip_f_": 93,
+        "grauven_olivares_f_": 83,
+        "morton_minsley_m_": 28,
+        "scattered": 0
+      },
+      "total": 204,
+      "winnerId": "fannie_ip_f_",
+      "margin": 4.9,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65064": {
+      "votes": {
+        "fannie_ip_f_": 146,
+        "grauven_olivares_f_": 110,
+        "morton_minsley_m_": 35,
+        "scattered": 9
+      },
+      "total": 300,
+      "winnerId": "fannie_ip_f_",
+      "margin": 12,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65065": {
+      "votes": {
+        "fannie_ip_f_": 43,
+        "grauven_olivares_f_": 55,
+        "morton_minsley_m_": 23,
+        "scattered": 2
+      },
+      "total": 123,
+      "winnerId": "grauven_olivares_f_",
+      "margin": 9.8,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65066": {
+      "votes": {
+        "fannie_ip_f_": 37,
+        "grauven_olivares_f_": 58,
+        "morton_minsley_m_": 13,
+        "scattered": 2
+      },
+      "total": 110,
+      "winnerId": "grauven_olivares_f_",
+      "margin": 19.1,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65067": {
+      "votes": {
+        "fannie_ip_f_": 0,
+        "grauven_olivares_f_": 0,
+        "morton_minsley_m_": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "fannie_ip_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65069": {
+      "votes": {
+        "fannie_ip_f_": 0,
+        "grauven_olivares_f_": 0,
+        "morton_minsley_m_": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "fannie_ip_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65070": {
+      "votes": {
+        "fannie_ip_f_": 0,
+        "grauven_olivares_f_": 0,
+        "morton_minsley_m_": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "fannie_ip_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65/001": {
+      "votes": {
+        "fannie_ip_f_": 123,
+        "grauven_olivares_f_": 93,
+        "morton_minsley_m_": 64,
+        "scattered": 11
+      },
+      "total": 291,
+      "winnerId": "fannie_ip_f_",
+      "margin": 10.3,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65/002": {
+      "votes": {
+        "fannie_ip_f_": 99,
+        "grauven_olivares_f_": 82,
+        "morton_minsley_m_": 46,
+        "scattered": 3
+      },
+      "total": 230,
+      "winnerId": "fannie_ip_f_",
+      "margin": 7.4,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65/003": {
+      "votes": {
+        "fannie_ip_f_": 109,
+        "grauven_olivares_f_": 69,
+        "morton_minsley_m_": 53,
+        "scattered": 2
+      },
+      "total": 233,
+      "winnerId": "fannie_ip_f_",
+      "margin": 17.2,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65/004": {
+      "votes": {
+        "fannie_ip_f_": 127,
+        "grauven_olivares_f_": 107,
+        "morton_minsley_m_": 48,
+        "scattered": 0
+      },
+      "total": 282,
+      "winnerId": "fannie_ip_f_",
+      "margin": 7.1,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65/005": {
+      "votes": {
+        "fannie_ip_f_": 65,
+        "grauven_olivares_f_": 48,
+        "morton_minsley_m_": 21,
+        "scattered": 1
+      },
+      "total": 135,
+      "winnerId": "fannie_ip_f_",
+      "margin": 12.6,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65/006": {
+      "votes": {
+        "fannie_ip_f_": 64,
+        "grauven_olivares_f_": 63,
+        "morton_minsley_m_": 26,
+        "scattered": 2
+      },
+      "total": 155,
+      "winnerId": "fannie_ip_f_",
+      "margin": 0.6,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65/007": {
+      "votes": {
+        "fannie_ip_f_": 161,
+        "grauven_olivares_f_": 115,
+        "morton_minsley_m_": 81,
+        "scattered": 12
+      },
+      "total": 369,
+      "winnerId": "fannie_ip_f_",
+      "margin": 12.5,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65/008": {
+      "votes": {
+        "fannie_ip_f_": 133,
+        "grauven_olivares_f_": 84,
+        "morton_minsley_m_": 51,
+        "scattered": 3
+      },
+      "total": 271,
+      "winnerId": "fannie_ip_f_",
+      "margin": 18.1,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65/009": {
+      "votes": {
+        "fannie_ip_f_": 111,
+        "grauven_olivares_f_": 91,
+        "morton_minsley_m_": 45,
+        "scattered": 4
+      },
+      "total": 251,
+      "winnerId": "fannie_ip_f_",
+      "margin": 8,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65/010": {
+      "votes": {
+        "fannie_ip_f_": 106,
+        "grauven_olivares_f_": 69,
+        "morton_minsley_m_": 47,
+        "scattered": 2
+      },
+      "total": 224,
+      "winnerId": "fannie_ip_f_",
+      "margin": 16.5,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65/011": {
+      "votes": {
+        "fannie_ip_f_": 40,
+        "grauven_olivares_f_": 41,
+        "morton_minsley_m_": 25,
+        "scattered": 0
+      },
+      "total": 106,
+      "winnerId": "grauven_olivares_f_",
+      "margin": 0.9,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65/012": {
+      "votes": {
+        "fannie_ip_f_": 30,
+        "grauven_olivares_f_": 40,
+        "morton_minsley_m_": 21,
+        "scattered": 2
+      },
+      "total": 93,
+      "winnerId": "grauven_olivares_f_",
+      "margin": 10.8,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65/013": {
+      "votes": {
+        "fannie_ip_f_": 100,
+        "grauven_olivares_f_": 64,
+        "morton_minsley_m_": 28,
+        "scattered": 0
+      },
+      "total": 192,
+      "winnerId": "fannie_ip_f_",
+      "margin": 18.8,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65/014": {
+      "votes": {
+        "fannie_ip_f_": 63,
+        "grauven_olivares_f_": 38,
+        "morton_minsley_m_": 22,
+        "scattered": 2
+      },
+      "total": 125,
+      "winnerId": "fannie_ip_f_",
+      "margin": 20,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65/015": {
+      "votes": {
+        "fannie_ip_f_": 97,
+        "grauven_olivares_f_": 70,
+        "morton_minsley_m_": 21,
+        "scattered": 3
+      },
+      "total": 191,
+      "winnerId": "fannie_ip_f_",
+      "margin": 14.1,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65/016": {
+      "votes": {
+        "fannie_ip_f_": 89,
+        "grauven_olivares_f_": 32,
+        "morton_minsley_m_": 16,
+        "scattered": 0
+      },
+      "total": 137,
+      "winnerId": "fannie_ip_f_",
+      "margin": 41.6,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65/017": {
+      "votes": {
+        "fannie_ip_f_": 95,
+        "grauven_olivares_f_": 52,
+        "morton_minsley_m_": 29,
+        "scattered": 0
+      },
+      "total": 176,
+      "winnerId": "fannie_ip_f_",
+      "margin": 24.4,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65/018": {
+      "votes": {
+        "fannie_ip_f_": 65,
+        "grauven_olivares_f_": 59,
+        "morton_minsley_m_": 22,
+        "scattered": 1
+      },
+      "total": 147,
+      "winnerId": "fannie_ip_f_",
+      "margin": 4.1,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65/019": {
+      "votes": {
+        "fannie_ip_f_": 139,
+        "grauven_olivares_f_": 82,
+        "morton_minsley_m_": 40,
+        "scattered": 2
+      },
+      "total": 263,
+      "winnerId": "fannie_ip_f_",
+      "margin": 21.7,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65/020": {
+      "votes": {
+        "fannie_ip_f_": 94,
+        "grauven_olivares_f_": 42,
+        "morton_minsley_m_": 30,
+        "scattered": 0
+      },
+      "total": 166,
+      "winnerId": "fannie_ip_f_",
+      "margin": 31.3,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65/021": {
+      "votes": {
+        "fannie_ip_f_": 92,
+        "grauven_olivares_f_": 64,
+        "morton_minsley_m_": 17,
+        "scattered": 1
+      },
+      "total": 174,
+      "winnerId": "fannie_ip_f_",
+      "margin": 16.1,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65/022": {
+      "votes": {
+        "fannie_ip_f_": 72,
+        "grauven_olivares_f_": 63,
+        "morton_minsley_m_": 34,
+        "scattered": 1
+      },
+      "total": 170,
+      "winnerId": "fannie_ip_f_",
+      "margin": 5.3,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65/023": {
+      "votes": {
+        "fannie_ip_f_": 84,
+        "grauven_olivares_f_": 62,
+        "morton_minsley_m_": 32,
+        "scattered": 3
+      },
+      "total": 181,
+      "winnerId": "fannie_ip_f_",
+      "margin": 12.2,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65/024": {
+      "votes": {
+        "fannie_ip_f_": 49,
+        "grauven_olivares_f_": 37,
+        "morton_minsley_m_": 11,
+        "scattered": 1
+      },
+      "total": 98,
+      "winnerId": "fannie_ip_f_",
+      "margin": 12.2,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65/025": {
+      "votes": {
+        "fannie_ip_f_": 52,
+        "grauven_olivares_f_": 51,
+        "morton_minsley_m_": 26,
+        "scattered": 3
+      },
+      "total": 132,
+      "winnerId": "fannie_ip_f_",
+      "margin": 0.8,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65/026": {
+      "votes": {
+        "fannie_ip_f_": 191,
+        "grauven_olivares_f_": 111,
+        "morton_minsley_m_": 53,
+        "scattered": 1
+      },
+      "total": 356,
+      "winnerId": "fannie_ip_f_",
+      "margin": 22.5,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65/027": {
+      "votes": {
+        "fannie_ip_f_": 80,
+        "grauven_olivares_f_": 66,
+        "morton_minsley_m_": 21,
+        "scattered": 1
+      },
+      "total": 168,
+      "winnerId": "fannie_ip_f_",
+      "margin": 8.3,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65/028": {
+      "votes": {
+        "fannie_ip_f_": 193,
+        "grauven_olivares_f_": 142,
+        "morton_minsley_m_": 99,
+        "scattered": 13
+      },
+      "total": 447,
+      "winnerId": "fannie_ip_f_",
+      "margin": 11.4,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65/029": {
+      "votes": {
+        "fannie_ip_f_": 260,
+        "grauven_olivares_f_": 176,
+        "morton_minsley_m_": 133,
+        "scattered": 8
+      },
+      "total": 577,
+      "winnerId": "fannie_ip_f_",
+      "margin": 14.6,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65/030": {
+      "votes": {
+        "fannie_ip_f_": 52,
+        "grauven_olivares_f_": 59,
+        "morton_minsley_m_": 27,
+        "scattered": 0
+      },
+      "total": 138,
+      "winnerId": "grauven_olivares_f_",
+      "margin": 5.1,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65/031": {
+      "votes": {
+        "fannie_ip_f_": 179,
+        "grauven_olivares_f_": 105,
+        "morton_minsley_m_": 93,
+        "scattered": 5
+      },
+      "total": 382,
+      "winnerId": "fannie_ip_f_",
+      "margin": 19.4,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65/032": {
+      "votes": {
+        "fannie_ip_f_": 199,
+        "grauven_olivares_f_": 97,
+        "morton_minsley_m_": 97,
+        "scattered": 8
+      },
+      "total": 401,
+      "winnerId": "fannie_ip_f_",
+      "margin": 25.4,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65/033": {
+      "votes": {
+        "fannie_ip_f_": 196,
+        "grauven_olivares_f_": 126,
+        "morton_minsley_m_": 93,
+        "scattered": 7
+      },
+      "total": 422,
+      "winnerId": "fannie_ip_f_",
+      "margin": 16.6,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65/034": {
+      "votes": {
+        "fannie_ip_f_": 58,
+        "grauven_olivares_f_": 57,
+        "morton_minsley_m_": 19,
+        "scattered": 5
+      },
+      "total": 139,
+      "winnerId": "fannie_ip_f_",
+      "margin": 0.7,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65/035": {
+      "votes": {
+        "fannie_ip_f_": 180,
+        "grauven_olivares_f_": 144,
+        "morton_minsley_m_": 57,
+        "scattered": 4
+      },
+      "total": 385,
+      "winnerId": "fannie_ip_f_",
+      "margin": 9.4,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65/036": {
+      "votes": {
+        "fannie_ip_f_": 37,
+        "grauven_olivares_f_": 33,
+        "morton_minsley_m_": 20,
+        "scattered": 1
+      },
+      "total": 91,
+      "winnerId": "fannie_ip_f_",
+      "margin": 4.4,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65/037": {
+      "votes": {
+        "fannie_ip_f_": 142,
+        "grauven_olivares_f_": 67,
+        "morton_minsley_m_": 69,
+        "scattered": 1
+      },
+      "total": 279,
+      "winnerId": "fannie_ip_f_",
+      "margin": 26.2,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65/038": {
+      "votes": {
+        "fannie_ip_f_": 20,
+        "grauven_olivares_f_": 20,
+        "morton_minsley_m_": 13,
+        "scattered": 0
+      },
+      "total": 53,
+      "winnerId": "fannie_ip_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65/039": {
+      "votes": {
+        "fannie_ip_f_": 35,
+        "grauven_olivares_f_": 36,
+        "morton_minsley_m_": 16,
+        "scattered": 0
+      },
+      "total": 87,
+      "winnerId": "grauven_olivares_f_",
+      "margin": 1.1,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65/040": {
+      "votes": {
+        "fannie_ip_f_": 128,
+        "grauven_olivares_f_": 107,
+        "morton_minsley_m_": 47,
+        "scattered": 5
+      },
+      "total": 287,
+      "winnerId": "fannie_ip_f_",
+      "margin": 7.3,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65/041": {
+      "votes": {
+        "fannie_ip_f_": 88,
+        "grauven_olivares_f_": 71,
+        "morton_minsley_m_": 24,
+        "scattered": 3
+      },
+      "total": 186,
+      "winnerId": "fannie_ip_f_",
+      "margin": 9.1,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65/042": {
+      "votes": {
+        "fannie_ip_f_": 106,
+        "grauven_olivares_f_": 92,
+        "morton_minsley_m_": 29,
+        "scattered": 1
+      },
+      "total": 228,
+      "winnerId": "fannie_ip_f_",
+      "margin": 6.1,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65/043": {
+      "votes": {
+        "fannie_ip_f_": 119,
+        "grauven_olivares_f_": 87,
+        "morton_minsley_m_": 31,
+        "scattered": 3
+      },
+      "total": 240,
+      "winnerId": "fannie_ip_f_",
+      "margin": 13.3,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65/044": {
+      "votes": {
+        "fannie_ip_f_": 117,
+        "grauven_olivares_f_": 81,
+        "morton_minsley_m_": 42,
+        "scattered": 6
+      },
+      "total": 246,
+      "winnerId": "fannie_ip_f_",
+      "margin": 14.6,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65/045": {
+      "votes": {
+        "fannie_ip_f_": 81,
+        "grauven_olivares_f_": 64,
+        "morton_minsley_m_": 40,
+        "scattered": 4
+      },
+      "total": 189,
+      "winnerId": "fannie_ip_f_",
+      "margin": 9,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65/046": {
+      "votes": {
+        "fannie_ip_f_": 255,
+        "grauven_olivares_f_": 140,
+        "morton_minsley_m_": 129,
+        "scattered": 8
+      },
+      "total": 532,
+      "winnerId": "fannie_ip_f_",
+      "margin": 21.6,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65/047": {
+      "votes": {
+        "fannie_ip_f_": 77,
+        "grauven_olivares_f_": 75,
+        "morton_minsley_m_": 27,
+        "scattered": 1
+      },
+      "total": 180,
+      "winnerId": "fannie_ip_f_",
+      "margin": 1.1,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65/048": {
+      "votes": {
+        "fannie_ip_f_": 54,
+        "grauven_olivares_f_": 57,
+        "morton_minsley_m_": 18,
+        "scattered": 3
+      },
+      "total": 132,
+      "winnerId": "grauven_olivares_f_",
+      "margin": 2.3,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65/049": {
+      "votes": {
+        "fannie_ip_f_": 110,
+        "grauven_olivares_f_": 98,
+        "morton_minsley_m_": 50,
+        "scattered": 3
+      },
+      "total": 261,
+      "winnerId": "fannie_ip_f_",
+      "margin": 4.6,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65/050": {
+      "votes": {
+        "fannie_ip_f_": 114,
+        "grauven_olivares_f_": 86,
+        "morton_minsley_m_": 32,
+        "scattered": 0
+      },
+      "total": 232,
+      "winnerId": "fannie_ip_f_",
+      "margin": 12.1,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65/051": {
+      "votes": {
+        "fannie_ip_f_": 103,
+        "grauven_olivares_f_": 66,
+        "morton_minsley_m_": 22,
+        "scattered": 2
+      },
+      "total": 193,
+      "winnerId": "fannie_ip_f_",
+      "margin": 19.2,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65/052": {
+      "votes": {
+        "fannie_ip_f_": 104,
+        "grauven_olivares_f_": 86,
+        "morton_minsley_m_": 29,
+        "scattered": 0
+      },
+      "total": 219,
+      "winnerId": "fannie_ip_f_",
+      "margin": 8.2,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65/053": {
+      "votes": {
+        "fannie_ip_f_": 98,
+        "grauven_olivares_f_": 70,
+        "morton_minsley_m_": 33,
+        "scattered": 1
+      },
+      "total": 202,
+      "winnerId": "fannie_ip_f_",
+      "margin": 13.9,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65/054": {
+      "votes": {
+        "fannie_ip_f_": 104,
+        "grauven_olivares_f_": 69,
+        "morton_minsley_m_": 26,
+        "scattered": 0
+      },
+      "total": 199,
+      "winnerId": "fannie_ip_f_",
+      "margin": 17.6,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65/055": {
+      "votes": {
+        "fannie_ip_f_": 126,
+        "grauven_olivares_f_": 57,
+        "morton_minsley_m_": 29,
+        "scattered": 3
+      },
+      "total": 215,
+      "winnerId": "fannie_ip_f_",
+      "margin": 32.1,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65/056": {
+      "votes": {
+        "fannie_ip_f_": 138,
+        "grauven_olivares_f_": 29,
+        "morton_minsley_m_": 25,
+        "scattered": 0
+      },
+      "total": 192,
+      "winnerId": "fannie_ip_f_",
+      "margin": 56.8,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65/057": {
+      "votes": {
+        "fannie_ip_f_": 166,
+        "grauven_olivares_f_": 144,
+        "morton_minsley_m_": 59,
+        "scattered": 7
+      },
+      "total": 376,
+      "winnerId": "fannie_ip_f_",
+      "margin": 5.9,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65/058": {
+      "votes": {
+        "fannie_ip_f_": 122,
+        "grauven_olivares_f_": 120,
+        "morton_minsley_m_": 47,
+        "scattered": 4
+      },
+      "total": 293,
+      "winnerId": "fannie_ip_f_",
+      "margin": 0.7,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65/059": {
+      "votes": {
+        "fannie_ip_f_": 112,
+        "grauven_olivares_f_": 102,
+        "morton_minsley_m_": 38,
+        "scattered": 4
+      },
+      "total": 256,
+      "winnerId": "fannie_ip_f_",
+      "margin": 3.9,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65/060": {
+      "votes": {
+        "fannie_ip_f_": 125,
+        "grauven_olivares_f_": 116,
+        "morton_minsley_m_": 39,
+        "scattered": 3
+      },
+      "total": 283,
+      "winnerId": "fannie_ip_f_",
+      "margin": 3.2,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65/061": {
+      "votes": {
+        "fannie_ip_f_": 67,
+        "grauven_olivares_f_": 62,
+        "morton_minsley_m_": 15,
+        "scattered": 1
+      },
+      "total": 145,
+      "winnerId": "fannie_ip_f_",
+      "margin": 3.4,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65/062": {
+      "votes": {
+        "fannie_ip_f_": 99,
+        "grauven_olivares_f_": 73,
+        "morton_minsley_m_": 24,
+        "scattered": 0
+      },
+      "total": 196,
+      "winnerId": "fannie_ip_f_",
+      "margin": 13.3,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65/063": {
+      "votes": {
+        "fannie_ip_f_": 93,
+        "grauven_olivares_f_": 83,
+        "morton_minsley_m_": 28,
+        "scattered": 0
+      },
+      "total": 204,
+      "winnerId": "fannie_ip_f_",
+      "margin": 4.9,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65/064": {
+      "votes": {
+        "fannie_ip_f_": 146,
+        "grauven_olivares_f_": 110,
+        "morton_minsley_m_": 35,
+        "scattered": 9
+      },
+      "total": 300,
+      "winnerId": "fannie_ip_f_",
+      "margin": 12,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65/065": {
+      "votes": {
+        "fannie_ip_f_": 43,
+        "grauven_olivares_f_": 55,
+        "morton_minsley_m_": 23,
+        "scattered": 2
+      },
+      "total": 123,
+      "winnerId": "grauven_olivares_f_",
+      "margin": 9.8,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65/066": {
+      "votes": {
+        "fannie_ip_f_": 37,
+        "grauven_olivares_f_": 58,
+        "morton_minsley_m_": 13,
+        "scattered": 2
+      },
+      "total": 110,
+      "winnerId": "grauven_olivares_f_",
+      "margin": 19.1,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65/067": {
+      "votes": {
+        "fannie_ip_f_": 0,
+        "grauven_olivares_f_": 0,
+        "morton_minsley_m_": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "fannie_ip_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65/069": {
+      "votes": {
+        "fannie_ip_f_": 0,
+        "grauven_olivares_f_": 0,
+        "morton_minsley_m_": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "fannie_ip_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "65/070": {
+      "votes": {
+        "fannie_ip_f_": 0,
+        "grauven_olivares_f_": 0,
+        "morton_minsley_m_": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "fannie_ip_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "fannie_ip_f_",
+          "name": "Fannie Ip (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "grauven_olivares_f_",
+          "name": "Grauven Olivares (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "morton_minsley_m_",
+          "name": "Morton Minsley (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    }
+  }
+}

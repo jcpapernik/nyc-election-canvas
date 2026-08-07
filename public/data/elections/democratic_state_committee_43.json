@@ -1,0 +1,6764 @@
+{
+  "id": "democratic_state_committee_43",
+  "name": "2026 Primary - State Committee District 43",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "Judicial & Party Offices",
+  "districtKey": "43",
+  "districtType": "congressional",
+  "isUncontested": false,
+  "candidates": [
+    {
+      "id": "nakisha_o_evans_(f)",
+      "name": "Nakisha O. Evans (F)",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#d97706"
+    },
+    {
+      "id": "akel_k_williams_(m)",
+      "name": "Akel K. Williams (M)",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#7c3aed"
+    },
+    {
+      "id": "anthony_beckford_(m)",
+      "name": "Anthony Beckford (M)",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#059669"
+    },
+    {
+      "id": "michelle_tege_(f)",
+      "name": "Michelle Tege (F)",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#0891b2"
+    },
+    {
+      "id": "scattered",
+      "name": "Scattered",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#4f46e5"
+    }
+  ],
+  "results": {
+    "43": {
+      "votes": {
+        "nakisha_o_evans_f_": 7473,
+        "akel_k_williams_m_": 6015,
+        "anthony_beckford_m_": 4623,
+        "michelle_tege_f_": 4420,
+        "scattered": 70
+      },
+      "total": 22601,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 6.5,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    }
+  },
+  "edResults": {
+    "43001": {
+      "votes": {
+        "nakisha_o_evans_f_": 149,
+        "akel_k_williams_m_": 106,
+        "anthony_beckford_m_": 75,
+        "michelle_tege_f_": 84,
+        "scattered": 1
+      },
+      "total": 415,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 10.4,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43002": {
+      "votes": {
+        "nakisha_o_evans_f_": 169,
+        "akel_k_williams_m_": 130,
+        "anthony_beckford_m_": 81,
+        "michelle_tege_f_": 89,
+        "scattered": 0
+      },
+      "total": 469,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 8.3,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43003": {
+      "votes": {
+        "nakisha_o_evans_f_": 147,
+        "akel_k_williams_m_": 104,
+        "anthony_beckford_m_": 75,
+        "michelle_tege_f_": 93,
+        "scattered": 4
+      },
+      "total": 423,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 10.2,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43004": {
+      "votes": {
+        "nakisha_o_evans_f_": 128,
+        "akel_k_williams_m_": 95,
+        "anthony_beckford_m_": 85,
+        "michelle_tege_f_": 97,
+        "scattered": 2
+      },
+      "total": 407,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 7.6,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43005": {
+      "votes": {
+        "nakisha_o_evans_f_": 103,
+        "akel_k_williams_m_": 69,
+        "anthony_beckford_m_": 61,
+        "michelle_tege_f_": 56,
+        "scattered": 1
+      },
+      "total": 290,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 11.7,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43006": {
+      "votes": {
+        "nakisha_o_evans_f_": 91,
+        "akel_k_williams_m_": 60,
+        "anthony_beckford_m_": 60,
+        "michelle_tege_f_": 57,
+        "scattered": 0
+      },
+      "total": 268,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 11.6,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43007": {
+      "votes": {
+        "nakisha_o_evans_f_": 57,
+        "akel_k_williams_m_": 44,
+        "anthony_beckford_m_": 54,
+        "michelle_tege_f_": 55,
+        "scattered": 0
+      },
+      "total": 210,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 1,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43008": {
+      "votes": {
+        "nakisha_o_evans_f_": 92,
+        "akel_k_williams_m_": 60,
+        "anthony_beckford_m_": 73,
+        "michelle_tege_f_": 78,
+        "scattered": 0
+      },
+      "total": 303,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 4.6,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43009": {
+      "votes": {
+        "nakisha_o_evans_f_": 41,
+        "akel_k_williams_m_": 27,
+        "anthony_beckford_m_": 29,
+        "michelle_tege_f_": 40,
+        "scattered": 0
+      },
+      "total": 137,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 0.7,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43010": {
+      "votes": {
+        "nakisha_o_evans_f_": 187,
+        "akel_k_williams_m_": 136,
+        "anthony_beckford_m_": 67,
+        "michelle_tege_f_": 81,
+        "scattered": 7
+      },
+      "total": 478,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 10.7,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43011": {
+      "votes": {
+        "nakisha_o_evans_f_": 131,
+        "akel_k_williams_m_": 95,
+        "anthony_beckford_m_": 66,
+        "michelle_tege_f_": 92,
+        "scattered": 2
+      },
+      "total": 386,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 9.3,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43012": {
+      "votes": {
+        "nakisha_o_evans_f_": 83,
+        "akel_k_williams_m_": 57,
+        "anthony_beckford_m_": 48,
+        "michelle_tege_f_": 68,
+        "scattered": 0
+      },
+      "total": 256,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 5.9,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43013": {
+      "votes": {
+        "nakisha_o_evans_f_": 151,
+        "akel_k_williams_m_": 133,
+        "anthony_beckford_m_": 76,
+        "michelle_tege_f_": 76,
+        "scattered": 0
+      },
+      "total": 436,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 4.1,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43014": {
+      "votes": {
+        "nakisha_o_evans_f_": 96,
+        "akel_k_williams_m_": 83,
+        "anthony_beckford_m_": 75,
+        "michelle_tege_f_": 45,
+        "scattered": 4
+      },
+      "total": 303,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 4.3,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43015": {
+      "votes": {
+        "nakisha_o_evans_f_": 82,
+        "akel_k_williams_m_": 62,
+        "anthony_beckford_m_": 39,
+        "michelle_tege_f_": 56,
+        "scattered": 0
+      },
+      "total": 239,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 8.4,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43016": {
+      "votes": {
+        "nakisha_o_evans_f_": 75,
+        "akel_k_williams_m_": 46,
+        "anthony_beckford_m_": 50,
+        "michelle_tege_f_": 49,
+        "scattered": 3
+      },
+      "total": 223,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 11.2,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43017": {
+      "votes": {
+        "nakisha_o_evans_f_": 57,
+        "akel_k_williams_m_": 31,
+        "anthony_beckford_m_": 39,
+        "michelle_tege_f_": 34,
+        "scattered": 3
+      },
+      "total": 164,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 11,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43018": {
+      "votes": {
+        "nakisha_o_evans_f_": 120,
+        "akel_k_williams_m_": 104,
+        "anthony_beckford_m_": 90,
+        "michelle_tege_f_": 64,
+        "scattered": 1
+      },
+      "total": 379,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 4.2,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43019": {
+      "votes": {
+        "nakisha_o_evans_f_": 129,
+        "akel_k_williams_m_": 94,
+        "anthony_beckford_m_": 110,
+        "michelle_tege_f_": 112,
+        "scattered": 3
+      },
+      "total": 448,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 3.8,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43020": {
+      "votes": {
+        "nakisha_o_evans_f_": 181,
+        "akel_k_williams_m_": 167,
+        "anthony_beckford_m_": 48,
+        "michelle_tege_f_": 73,
+        "scattered": 0
+      },
+      "total": 469,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 3,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43021": {
+      "votes": {
+        "nakisha_o_evans_f_": 138,
+        "akel_k_williams_m_": 134,
+        "anthony_beckford_m_": 42,
+        "michelle_tege_f_": 38,
+        "scattered": 2
+      },
+      "total": 354,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 1.1,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43022": {
+      "votes": {
+        "nakisha_o_evans_f_": 150,
+        "akel_k_williams_m_": 139,
+        "anthony_beckford_m_": 26,
+        "michelle_tege_f_": 33,
+        "scattered": 0
+      },
+      "total": 348,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 3.2,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43023": {
+      "votes": {
+        "nakisha_o_evans_f_": 83,
+        "akel_k_williams_m_": 57,
+        "anthony_beckford_m_": 42,
+        "michelle_tege_f_": 45,
+        "scattered": 0
+      },
+      "total": 227,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 11.5,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43024": {
+      "votes": {
+        "nakisha_o_evans_f_": 82,
+        "akel_k_williams_m_": 70,
+        "anthony_beckford_m_": 41,
+        "michelle_tege_f_": 29,
+        "scattered": 2
+      },
+      "total": 224,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 5.4,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43025": {
+      "votes": {
+        "nakisha_o_evans_f_": 81,
+        "akel_k_williams_m_": 68,
+        "anthony_beckford_m_": 43,
+        "michelle_tege_f_": 50,
+        "scattered": 0
+      },
+      "total": 242,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 5.4,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43026": {
+      "votes": {
+        "nakisha_o_evans_f_": 149,
+        "akel_k_williams_m_": 150,
+        "anthony_beckford_m_": 19,
+        "michelle_tege_f_": 20,
+        "scattered": 3
+      },
+      "total": 341,
+      "winnerId": "akel_k_williams_m_",
+      "margin": 0.3,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43027": {
+      "votes": {
+        "nakisha_o_evans_f_": 109,
+        "akel_k_williams_m_": 102,
+        "anthony_beckford_m_": 37,
+        "michelle_tege_f_": 34,
+        "scattered": 0
+      },
+      "total": 282,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 2.5,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43028": {
+      "votes": {
+        "nakisha_o_evans_f_": 110,
+        "akel_k_williams_m_": 112,
+        "anthony_beckford_m_": 15,
+        "michelle_tege_f_": 16,
+        "scattered": 0
+      },
+      "total": 253,
+      "winnerId": "akel_k_williams_m_",
+      "margin": 0.8,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43029": {
+      "votes": {
+        "nakisha_o_evans_f_": 142,
+        "akel_k_williams_m_": 109,
+        "anthony_beckford_m_": 54,
+        "michelle_tege_f_": 56,
+        "scattered": 1
+      },
+      "total": 362,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 9.1,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43030": {
+      "votes": {
+        "nakisha_o_evans_f_": 176,
+        "akel_k_williams_m_": 141,
+        "anthony_beckford_m_": 105,
+        "michelle_tege_f_": 86,
+        "scattered": 2
+      },
+      "total": 510,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 6.9,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43031": {
+      "votes": {
+        "nakisha_o_evans_f_": 151,
+        "akel_k_williams_m_": 128,
+        "anthony_beckford_m_": 93,
+        "michelle_tege_f_": 76,
+        "scattered": 0
+      },
+      "total": 448,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 5.1,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43032": {
+      "votes": {
+        "nakisha_o_evans_f_": 109,
+        "akel_k_williams_m_": 85,
+        "anthony_beckford_m_": 68,
+        "michelle_tege_f_": 72,
+        "scattered": 0
+      },
+      "total": 334,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 7.2,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43033": {
+      "votes": {
+        "nakisha_o_evans_f_": 139,
+        "akel_k_williams_m_": 97,
+        "anthony_beckford_m_": 98,
+        "michelle_tege_f_": 79,
+        "scattered": 0
+      },
+      "total": 413,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 9.9,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43034": {
+      "votes": {
+        "nakisha_o_evans_f_": 131,
+        "akel_k_williams_m_": 128,
+        "anthony_beckford_m_": 69,
+        "michelle_tege_f_": 59,
+        "scattered": 6
+      },
+      "total": 393,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 0.8,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43035": {
+      "votes": {
+        "nakisha_o_evans_f_": 131,
+        "akel_k_williams_m_": 96,
+        "anthony_beckford_m_": 91,
+        "michelle_tege_f_": 83,
+        "scattered": 3
+      },
+      "total": 404,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 8.7,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43036": {
+      "votes": {
+        "nakisha_o_evans_f_": 107,
+        "akel_k_williams_m_": 90,
+        "anthony_beckford_m_": 86,
+        "michelle_tege_f_": 77,
+        "scattered": 1
+      },
+      "total": 361,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 4.7,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43037": {
+      "votes": {
+        "nakisha_o_evans_f_": 183,
+        "akel_k_williams_m_": 128,
+        "anthony_beckford_m_": 73,
+        "michelle_tege_f_": 87,
+        "scattered": 0
+      },
+      "total": 471,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 11.7,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43038": {
+      "votes": {
+        "nakisha_o_evans_f_": 154,
+        "akel_k_williams_m_": 123,
+        "anthony_beckford_m_": 96,
+        "michelle_tege_f_": 98,
+        "scattered": 1
+      },
+      "total": 472,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 6.6,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43039": {
+      "votes": {
+        "nakisha_o_evans_f_": 139,
+        "akel_k_williams_m_": 100,
+        "anthony_beckford_m_": 103,
+        "michelle_tege_f_": 98,
+        "scattered": 0
+      },
+      "total": 440,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 8.2,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43040": {
+      "votes": {
+        "nakisha_o_evans_f_": 97,
+        "akel_k_williams_m_": 73,
+        "anthony_beckford_m_": 91,
+        "michelle_tege_f_": 71,
+        "scattered": 0
+      },
+      "total": 332,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 1.8,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43041": {
+      "votes": {
+        "nakisha_o_evans_f_": 87,
+        "akel_k_williams_m_": 69,
+        "anthony_beckford_m_": 105,
+        "michelle_tege_f_": 67,
+        "scattered": 0
+      },
+      "total": 328,
+      "winnerId": "anthony_beckford_m_",
+      "margin": 5.5,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43042": {
+      "votes": {
+        "nakisha_o_evans_f_": 108,
+        "akel_k_williams_m_": 83,
+        "anthony_beckford_m_": 95,
+        "michelle_tege_f_": 74,
+        "scattered": 0
+      },
+      "total": 360,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 3.6,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43043": {
+      "votes": {
+        "nakisha_o_evans_f_": 132,
+        "akel_k_williams_m_": 115,
+        "anthony_beckford_m_": 54,
+        "michelle_tege_f_": 62,
+        "scattered": 0
+      },
+      "total": 363,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 4.7,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43044": {
+      "votes": {
+        "nakisha_o_evans_f_": 103,
+        "akel_k_williams_m_": 116,
+        "anthony_beckford_m_": 74,
+        "michelle_tege_f_": 50,
+        "scattered": 0
+      },
+      "total": 343,
+      "winnerId": "akel_k_williams_m_",
+      "margin": 3.8,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43045": {
+      "votes": {
+        "nakisha_o_evans_f_": 120,
+        "akel_k_williams_m_": 129,
+        "anthony_beckford_m_": 72,
+        "michelle_tege_f_": 60,
+        "scattered": 4
+      },
+      "total": 385,
+      "winnerId": "akel_k_williams_m_",
+      "margin": 2.3,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43046": {
+      "votes": {
+        "nakisha_o_evans_f_": 102,
+        "akel_k_williams_m_": 95,
+        "anthony_beckford_m_": 57,
+        "michelle_tege_f_": 49,
+        "scattered": 0
+      },
+      "total": 303,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 2.3,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43047": {
+      "votes": {
+        "nakisha_o_evans_f_": 78,
+        "akel_k_williams_m_": 75,
+        "anthony_beckford_m_": 82,
+        "michelle_tege_f_": 76,
+        "scattered": 0
+      },
+      "total": 311,
+      "winnerId": "anthony_beckford_m_",
+      "margin": 1.3,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43048": {
+      "votes": {
+        "nakisha_o_evans_f_": 15,
+        "akel_k_williams_m_": 12,
+        "anthony_beckford_m_": 10,
+        "michelle_tege_f_": 11,
+        "scattered": 0
+      },
+      "total": 48,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 6.3,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43049": {
+      "votes": {
+        "nakisha_o_evans_f_": 57,
+        "akel_k_williams_m_": 61,
+        "anthony_beckford_m_": 55,
+        "michelle_tege_f_": 37,
+        "scattered": 0
+      },
+      "total": 210,
+      "winnerId": "akel_k_williams_m_",
+      "margin": 1.9,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43050": {
+      "votes": {
+        "nakisha_o_evans_f_": 45,
+        "akel_k_williams_m_": 27,
+        "anthony_beckford_m_": 31,
+        "michelle_tege_f_": 43,
+        "scattered": 2
+      },
+      "total": 148,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 1.4,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43051": {
+      "votes": {
+        "nakisha_o_evans_f_": 50,
+        "akel_k_williams_m_": 55,
+        "anthony_beckford_m_": 38,
+        "michelle_tege_f_": 27,
+        "scattered": 0
+      },
+      "total": 170,
+      "winnerId": "akel_k_williams_m_",
+      "margin": 2.9,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43052": {
+      "votes": {
+        "nakisha_o_evans_f_": 74,
+        "akel_k_williams_m_": 57,
+        "anthony_beckford_m_": 87,
+        "michelle_tege_f_": 75,
+        "scattered": 0
+      },
+      "total": 293,
+      "winnerId": "anthony_beckford_m_",
+      "margin": 4.1,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43053": {
+      "votes": {
+        "nakisha_o_evans_f_": 119,
+        "akel_k_williams_m_": 101,
+        "anthony_beckford_m_": 74,
+        "michelle_tege_f_": 74,
+        "scattered": 0
+      },
+      "total": 368,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 4.9,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43054": {
+      "votes": {
+        "nakisha_o_evans_f_": 149,
+        "akel_k_williams_m_": 122,
+        "anthony_beckford_m_": 74,
+        "michelle_tege_f_": 79,
+        "scattered": 0
+      },
+      "total": 424,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 6.4,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43055": {
+      "votes": {
+        "nakisha_o_evans_f_": 108,
+        "akel_k_williams_m_": 89,
+        "anthony_beckford_m_": 64,
+        "michelle_tege_f_": 63,
+        "scattered": 0
+      },
+      "total": 324,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 5.9,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43056": {
+      "votes": {
+        "nakisha_o_evans_f_": 153,
+        "akel_k_williams_m_": 121,
+        "anthony_beckford_m_": 68,
+        "michelle_tege_f_": 58,
+        "scattered": 0
+      },
+      "total": 400,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 8,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43057": {
+      "votes": {
+        "nakisha_o_evans_f_": 147,
+        "akel_k_williams_m_": 112,
+        "anthony_beckford_m_": 116,
+        "michelle_tege_f_": 108,
+        "scattered": 1
+      },
+      "total": 484,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 6.4,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43058": {
+      "votes": {
+        "nakisha_o_evans_f_": 121,
+        "akel_k_williams_m_": 84,
+        "anthony_beckford_m_": 94,
+        "michelle_tege_f_": 73,
+        "scattered": 0
+      },
+      "total": 372,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 7.3,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43059": {
+      "votes": {
+        "nakisha_o_evans_f_": 118,
+        "akel_k_williams_m_": 94,
+        "anthony_beckford_m_": 91,
+        "michelle_tege_f_": 78,
+        "scattered": 0
+      },
+      "total": 381,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 6.3,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43060": {
+      "votes": {
+        "nakisha_o_evans_f_": 102,
+        "akel_k_williams_m_": 64,
+        "anthony_beckford_m_": 76,
+        "michelle_tege_f_": 95,
+        "scattered": 4
+      },
+      "total": 341,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 2.1,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43061": {
+      "votes": {
+        "nakisha_o_evans_f_": 108,
+        "akel_k_williams_m_": 64,
+        "anthony_beckford_m_": 71,
+        "michelle_tege_f_": 65,
+        "scattered": 1
+      },
+      "total": 309,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 12,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43062": {
+      "votes": {
+        "nakisha_o_evans_f_": 65,
+        "akel_k_williams_m_": 55,
+        "anthony_beckford_m_": 59,
+        "michelle_tege_f_": 57,
+        "scattered": 0
+      },
+      "total": 236,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 2.5,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43063": {
+      "votes": {
+        "nakisha_o_evans_f_": 58,
+        "akel_k_williams_m_": 56,
+        "anthony_beckford_m_": 86,
+        "michelle_tege_f_": 85,
+        "scattered": 2
+      },
+      "total": 287,
+      "winnerId": "anthony_beckford_m_",
+      "margin": 0.3,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43064": {
+      "votes": {
+        "nakisha_o_evans_f_": 117,
+        "akel_k_williams_m_": 86,
+        "anthony_beckford_m_": 103,
+        "michelle_tege_f_": 95,
+        "scattered": 0
+      },
+      "total": 401,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 3.5,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43065": {
+      "votes": {
+        "nakisha_o_evans_f_": 81,
+        "akel_k_williams_m_": 66,
+        "anthony_beckford_m_": 94,
+        "michelle_tege_f_": 63,
+        "scattered": 3
+      },
+      "total": 307,
+      "winnerId": "anthony_beckford_m_",
+      "margin": 4.2,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43066": {
+      "votes": {
+        "nakisha_o_evans_f_": 97,
+        "akel_k_williams_m_": 77,
+        "anthony_beckford_m_": 80,
+        "michelle_tege_f_": 83,
+        "scattered": 1
+      },
+      "total": 338,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 4.1,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43067": {
+      "votes": {
+        "nakisha_o_evans_f_": 103,
+        "akel_k_williams_m_": 73,
+        "anthony_beckford_m_": 82,
+        "michelle_tege_f_": 78,
+        "scattered": 0
+      },
+      "total": 336,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 6.3,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43068": {
+      "votes": {
+        "nakisha_o_evans_f_": 26,
+        "akel_k_williams_m_": 24,
+        "anthony_beckford_m_": 38,
+        "michelle_tege_f_": 29,
+        "scattered": 0
+      },
+      "total": 117,
+      "winnerId": "anthony_beckford_m_",
+      "margin": 7.7,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43/001": {
+      "votes": {
+        "nakisha_o_evans_f_": 149,
+        "akel_k_williams_m_": 106,
+        "anthony_beckford_m_": 75,
+        "michelle_tege_f_": 84,
+        "scattered": 1
+      },
+      "total": 415,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 10.4,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43/002": {
+      "votes": {
+        "nakisha_o_evans_f_": 169,
+        "akel_k_williams_m_": 130,
+        "anthony_beckford_m_": 81,
+        "michelle_tege_f_": 89,
+        "scattered": 0
+      },
+      "total": 469,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 8.3,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43/003": {
+      "votes": {
+        "nakisha_o_evans_f_": 147,
+        "akel_k_williams_m_": 104,
+        "anthony_beckford_m_": 75,
+        "michelle_tege_f_": 93,
+        "scattered": 4
+      },
+      "total": 423,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 10.2,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43/004": {
+      "votes": {
+        "nakisha_o_evans_f_": 128,
+        "akel_k_williams_m_": 95,
+        "anthony_beckford_m_": 85,
+        "michelle_tege_f_": 97,
+        "scattered": 2
+      },
+      "total": 407,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 7.6,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43/005": {
+      "votes": {
+        "nakisha_o_evans_f_": 103,
+        "akel_k_williams_m_": 69,
+        "anthony_beckford_m_": 61,
+        "michelle_tege_f_": 56,
+        "scattered": 1
+      },
+      "total": 290,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 11.7,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43/006": {
+      "votes": {
+        "nakisha_o_evans_f_": 91,
+        "akel_k_williams_m_": 60,
+        "anthony_beckford_m_": 60,
+        "michelle_tege_f_": 57,
+        "scattered": 0
+      },
+      "total": 268,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 11.6,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43/007": {
+      "votes": {
+        "nakisha_o_evans_f_": 57,
+        "akel_k_williams_m_": 44,
+        "anthony_beckford_m_": 54,
+        "michelle_tege_f_": 55,
+        "scattered": 0
+      },
+      "total": 210,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 1,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43/008": {
+      "votes": {
+        "nakisha_o_evans_f_": 92,
+        "akel_k_williams_m_": 60,
+        "anthony_beckford_m_": 73,
+        "michelle_tege_f_": 78,
+        "scattered": 0
+      },
+      "total": 303,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 4.6,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43/009": {
+      "votes": {
+        "nakisha_o_evans_f_": 41,
+        "akel_k_williams_m_": 27,
+        "anthony_beckford_m_": 29,
+        "michelle_tege_f_": 40,
+        "scattered": 0
+      },
+      "total": 137,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 0.7,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43/010": {
+      "votes": {
+        "nakisha_o_evans_f_": 187,
+        "akel_k_williams_m_": 136,
+        "anthony_beckford_m_": 67,
+        "michelle_tege_f_": 81,
+        "scattered": 7
+      },
+      "total": 478,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 10.7,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43/011": {
+      "votes": {
+        "nakisha_o_evans_f_": 131,
+        "akel_k_williams_m_": 95,
+        "anthony_beckford_m_": 66,
+        "michelle_tege_f_": 92,
+        "scattered": 2
+      },
+      "total": 386,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 9.3,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43/012": {
+      "votes": {
+        "nakisha_o_evans_f_": 83,
+        "akel_k_williams_m_": 57,
+        "anthony_beckford_m_": 48,
+        "michelle_tege_f_": 68,
+        "scattered": 0
+      },
+      "total": 256,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 5.9,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43/013": {
+      "votes": {
+        "nakisha_o_evans_f_": 151,
+        "akel_k_williams_m_": 133,
+        "anthony_beckford_m_": 76,
+        "michelle_tege_f_": 76,
+        "scattered": 0
+      },
+      "total": 436,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 4.1,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43/014": {
+      "votes": {
+        "nakisha_o_evans_f_": 96,
+        "akel_k_williams_m_": 83,
+        "anthony_beckford_m_": 75,
+        "michelle_tege_f_": 45,
+        "scattered": 4
+      },
+      "total": 303,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 4.3,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43/015": {
+      "votes": {
+        "nakisha_o_evans_f_": 82,
+        "akel_k_williams_m_": 62,
+        "anthony_beckford_m_": 39,
+        "michelle_tege_f_": 56,
+        "scattered": 0
+      },
+      "total": 239,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 8.4,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43/016": {
+      "votes": {
+        "nakisha_o_evans_f_": 75,
+        "akel_k_williams_m_": 46,
+        "anthony_beckford_m_": 50,
+        "michelle_tege_f_": 49,
+        "scattered": 3
+      },
+      "total": 223,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 11.2,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43/017": {
+      "votes": {
+        "nakisha_o_evans_f_": 57,
+        "akel_k_williams_m_": 31,
+        "anthony_beckford_m_": 39,
+        "michelle_tege_f_": 34,
+        "scattered": 3
+      },
+      "total": 164,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 11,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43/018": {
+      "votes": {
+        "nakisha_o_evans_f_": 120,
+        "akel_k_williams_m_": 104,
+        "anthony_beckford_m_": 90,
+        "michelle_tege_f_": 64,
+        "scattered": 1
+      },
+      "total": 379,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 4.2,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43/019": {
+      "votes": {
+        "nakisha_o_evans_f_": 129,
+        "akel_k_williams_m_": 94,
+        "anthony_beckford_m_": 110,
+        "michelle_tege_f_": 112,
+        "scattered": 3
+      },
+      "total": 448,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 3.8,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43/020": {
+      "votes": {
+        "nakisha_o_evans_f_": 181,
+        "akel_k_williams_m_": 167,
+        "anthony_beckford_m_": 48,
+        "michelle_tege_f_": 73,
+        "scattered": 0
+      },
+      "total": 469,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 3,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43/021": {
+      "votes": {
+        "nakisha_o_evans_f_": 138,
+        "akel_k_williams_m_": 134,
+        "anthony_beckford_m_": 42,
+        "michelle_tege_f_": 38,
+        "scattered": 2
+      },
+      "total": 354,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 1.1,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43/022": {
+      "votes": {
+        "nakisha_o_evans_f_": 150,
+        "akel_k_williams_m_": 139,
+        "anthony_beckford_m_": 26,
+        "michelle_tege_f_": 33,
+        "scattered": 0
+      },
+      "total": 348,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 3.2,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43/023": {
+      "votes": {
+        "nakisha_o_evans_f_": 83,
+        "akel_k_williams_m_": 57,
+        "anthony_beckford_m_": 42,
+        "michelle_tege_f_": 45,
+        "scattered": 0
+      },
+      "total": 227,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 11.5,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43/024": {
+      "votes": {
+        "nakisha_o_evans_f_": 82,
+        "akel_k_williams_m_": 70,
+        "anthony_beckford_m_": 41,
+        "michelle_tege_f_": 29,
+        "scattered": 2
+      },
+      "total": 224,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 5.4,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43/025": {
+      "votes": {
+        "nakisha_o_evans_f_": 81,
+        "akel_k_williams_m_": 68,
+        "anthony_beckford_m_": 43,
+        "michelle_tege_f_": 50,
+        "scattered": 0
+      },
+      "total": 242,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 5.4,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43/026": {
+      "votes": {
+        "nakisha_o_evans_f_": 149,
+        "akel_k_williams_m_": 150,
+        "anthony_beckford_m_": 19,
+        "michelle_tege_f_": 20,
+        "scattered": 3
+      },
+      "total": 341,
+      "winnerId": "akel_k_williams_m_",
+      "margin": 0.3,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43/027": {
+      "votes": {
+        "nakisha_o_evans_f_": 109,
+        "akel_k_williams_m_": 102,
+        "anthony_beckford_m_": 37,
+        "michelle_tege_f_": 34,
+        "scattered": 0
+      },
+      "total": 282,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 2.5,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43/028": {
+      "votes": {
+        "nakisha_o_evans_f_": 110,
+        "akel_k_williams_m_": 112,
+        "anthony_beckford_m_": 15,
+        "michelle_tege_f_": 16,
+        "scattered": 0
+      },
+      "total": 253,
+      "winnerId": "akel_k_williams_m_",
+      "margin": 0.8,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43/029": {
+      "votes": {
+        "nakisha_o_evans_f_": 142,
+        "akel_k_williams_m_": 109,
+        "anthony_beckford_m_": 54,
+        "michelle_tege_f_": 56,
+        "scattered": 1
+      },
+      "total": 362,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 9.1,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43/030": {
+      "votes": {
+        "nakisha_o_evans_f_": 176,
+        "akel_k_williams_m_": 141,
+        "anthony_beckford_m_": 105,
+        "michelle_tege_f_": 86,
+        "scattered": 2
+      },
+      "total": 510,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 6.9,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43/031": {
+      "votes": {
+        "nakisha_o_evans_f_": 151,
+        "akel_k_williams_m_": 128,
+        "anthony_beckford_m_": 93,
+        "michelle_tege_f_": 76,
+        "scattered": 0
+      },
+      "total": 448,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 5.1,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43/032": {
+      "votes": {
+        "nakisha_o_evans_f_": 109,
+        "akel_k_williams_m_": 85,
+        "anthony_beckford_m_": 68,
+        "michelle_tege_f_": 72,
+        "scattered": 0
+      },
+      "total": 334,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 7.2,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43/033": {
+      "votes": {
+        "nakisha_o_evans_f_": 139,
+        "akel_k_williams_m_": 97,
+        "anthony_beckford_m_": 98,
+        "michelle_tege_f_": 79,
+        "scattered": 0
+      },
+      "total": 413,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 9.9,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43/034": {
+      "votes": {
+        "nakisha_o_evans_f_": 131,
+        "akel_k_williams_m_": 128,
+        "anthony_beckford_m_": 69,
+        "michelle_tege_f_": 59,
+        "scattered": 6
+      },
+      "total": 393,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 0.8,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43/035": {
+      "votes": {
+        "nakisha_o_evans_f_": 131,
+        "akel_k_williams_m_": 96,
+        "anthony_beckford_m_": 91,
+        "michelle_tege_f_": 83,
+        "scattered": 3
+      },
+      "total": 404,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 8.7,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43/036": {
+      "votes": {
+        "nakisha_o_evans_f_": 107,
+        "akel_k_williams_m_": 90,
+        "anthony_beckford_m_": 86,
+        "michelle_tege_f_": 77,
+        "scattered": 1
+      },
+      "total": 361,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 4.7,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43/037": {
+      "votes": {
+        "nakisha_o_evans_f_": 183,
+        "akel_k_williams_m_": 128,
+        "anthony_beckford_m_": 73,
+        "michelle_tege_f_": 87,
+        "scattered": 0
+      },
+      "total": 471,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 11.7,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43/038": {
+      "votes": {
+        "nakisha_o_evans_f_": 154,
+        "akel_k_williams_m_": 123,
+        "anthony_beckford_m_": 96,
+        "michelle_tege_f_": 98,
+        "scattered": 1
+      },
+      "total": 472,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 6.6,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43/039": {
+      "votes": {
+        "nakisha_o_evans_f_": 139,
+        "akel_k_williams_m_": 100,
+        "anthony_beckford_m_": 103,
+        "michelle_tege_f_": 98,
+        "scattered": 0
+      },
+      "total": 440,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 8.2,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43/040": {
+      "votes": {
+        "nakisha_o_evans_f_": 97,
+        "akel_k_williams_m_": 73,
+        "anthony_beckford_m_": 91,
+        "michelle_tege_f_": 71,
+        "scattered": 0
+      },
+      "total": 332,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 1.8,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43/041": {
+      "votes": {
+        "nakisha_o_evans_f_": 87,
+        "akel_k_williams_m_": 69,
+        "anthony_beckford_m_": 105,
+        "michelle_tege_f_": 67,
+        "scattered": 0
+      },
+      "total": 328,
+      "winnerId": "anthony_beckford_m_",
+      "margin": 5.5,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43/042": {
+      "votes": {
+        "nakisha_o_evans_f_": 108,
+        "akel_k_williams_m_": 83,
+        "anthony_beckford_m_": 95,
+        "michelle_tege_f_": 74,
+        "scattered": 0
+      },
+      "total": 360,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 3.6,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43/043": {
+      "votes": {
+        "nakisha_o_evans_f_": 132,
+        "akel_k_williams_m_": 115,
+        "anthony_beckford_m_": 54,
+        "michelle_tege_f_": 62,
+        "scattered": 0
+      },
+      "total": 363,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 4.7,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43/044": {
+      "votes": {
+        "nakisha_o_evans_f_": 103,
+        "akel_k_williams_m_": 116,
+        "anthony_beckford_m_": 74,
+        "michelle_tege_f_": 50,
+        "scattered": 0
+      },
+      "total": 343,
+      "winnerId": "akel_k_williams_m_",
+      "margin": 3.8,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43/045": {
+      "votes": {
+        "nakisha_o_evans_f_": 120,
+        "akel_k_williams_m_": 129,
+        "anthony_beckford_m_": 72,
+        "michelle_tege_f_": 60,
+        "scattered": 4
+      },
+      "total": 385,
+      "winnerId": "akel_k_williams_m_",
+      "margin": 2.3,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43/046": {
+      "votes": {
+        "nakisha_o_evans_f_": 102,
+        "akel_k_williams_m_": 95,
+        "anthony_beckford_m_": 57,
+        "michelle_tege_f_": 49,
+        "scattered": 0
+      },
+      "total": 303,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 2.3,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43/047": {
+      "votes": {
+        "nakisha_o_evans_f_": 78,
+        "akel_k_williams_m_": 75,
+        "anthony_beckford_m_": 82,
+        "michelle_tege_f_": 76,
+        "scattered": 0
+      },
+      "total": 311,
+      "winnerId": "anthony_beckford_m_",
+      "margin": 1.3,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43/048": {
+      "votes": {
+        "nakisha_o_evans_f_": 15,
+        "akel_k_williams_m_": 12,
+        "anthony_beckford_m_": 10,
+        "michelle_tege_f_": 11,
+        "scattered": 0
+      },
+      "total": 48,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 6.3,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43/049": {
+      "votes": {
+        "nakisha_o_evans_f_": 57,
+        "akel_k_williams_m_": 61,
+        "anthony_beckford_m_": 55,
+        "michelle_tege_f_": 37,
+        "scattered": 0
+      },
+      "total": 210,
+      "winnerId": "akel_k_williams_m_",
+      "margin": 1.9,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43/050": {
+      "votes": {
+        "nakisha_o_evans_f_": 45,
+        "akel_k_williams_m_": 27,
+        "anthony_beckford_m_": 31,
+        "michelle_tege_f_": 43,
+        "scattered": 2
+      },
+      "total": 148,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 1.4,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43/051": {
+      "votes": {
+        "nakisha_o_evans_f_": 50,
+        "akel_k_williams_m_": 55,
+        "anthony_beckford_m_": 38,
+        "michelle_tege_f_": 27,
+        "scattered": 0
+      },
+      "total": 170,
+      "winnerId": "akel_k_williams_m_",
+      "margin": 2.9,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43/052": {
+      "votes": {
+        "nakisha_o_evans_f_": 74,
+        "akel_k_williams_m_": 57,
+        "anthony_beckford_m_": 87,
+        "michelle_tege_f_": 75,
+        "scattered": 0
+      },
+      "total": 293,
+      "winnerId": "anthony_beckford_m_",
+      "margin": 4.1,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43/053": {
+      "votes": {
+        "nakisha_o_evans_f_": 119,
+        "akel_k_williams_m_": 101,
+        "anthony_beckford_m_": 74,
+        "michelle_tege_f_": 74,
+        "scattered": 0
+      },
+      "total": 368,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 4.9,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43/054": {
+      "votes": {
+        "nakisha_o_evans_f_": 149,
+        "akel_k_williams_m_": 122,
+        "anthony_beckford_m_": 74,
+        "michelle_tege_f_": 79,
+        "scattered": 0
+      },
+      "total": 424,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 6.4,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43/055": {
+      "votes": {
+        "nakisha_o_evans_f_": 108,
+        "akel_k_williams_m_": 89,
+        "anthony_beckford_m_": 64,
+        "michelle_tege_f_": 63,
+        "scattered": 0
+      },
+      "total": 324,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 5.9,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43/056": {
+      "votes": {
+        "nakisha_o_evans_f_": 153,
+        "akel_k_williams_m_": 121,
+        "anthony_beckford_m_": 68,
+        "michelle_tege_f_": 58,
+        "scattered": 0
+      },
+      "total": 400,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 8,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43/057": {
+      "votes": {
+        "nakisha_o_evans_f_": 147,
+        "akel_k_williams_m_": 112,
+        "anthony_beckford_m_": 116,
+        "michelle_tege_f_": 108,
+        "scattered": 1
+      },
+      "total": 484,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 6.4,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43/058": {
+      "votes": {
+        "nakisha_o_evans_f_": 121,
+        "akel_k_williams_m_": 84,
+        "anthony_beckford_m_": 94,
+        "michelle_tege_f_": 73,
+        "scattered": 0
+      },
+      "total": 372,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 7.3,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43/059": {
+      "votes": {
+        "nakisha_o_evans_f_": 118,
+        "akel_k_williams_m_": 94,
+        "anthony_beckford_m_": 91,
+        "michelle_tege_f_": 78,
+        "scattered": 0
+      },
+      "total": 381,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 6.3,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43/060": {
+      "votes": {
+        "nakisha_o_evans_f_": 102,
+        "akel_k_williams_m_": 64,
+        "anthony_beckford_m_": 76,
+        "michelle_tege_f_": 95,
+        "scattered": 4
+      },
+      "total": 341,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 2.1,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43/061": {
+      "votes": {
+        "nakisha_o_evans_f_": 108,
+        "akel_k_williams_m_": 64,
+        "anthony_beckford_m_": 71,
+        "michelle_tege_f_": 65,
+        "scattered": 1
+      },
+      "total": 309,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 12,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43/062": {
+      "votes": {
+        "nakisha_o_evans_f_": 65,
+        "akel_k_williams_m_": 55,
+        "anthony_beckford_m_": 59,
+        "michelle_tege_f_": 57,
+        "scattered": 0
+      },
+      "total": 236,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 2.5,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43/063": {
+      "votes": {
+        "nakisha_o_evans_f_": 58,
+        "akel_k_williams_m_": 56,
+        "anthony_beckford_m_": 86,
+        "michelle_tege_f_": 85,
+        "scattered": 2
+      },
+      "total": 287,
+      "winnerId": "anthony_beckford_m_",
+      "margin": 0.3,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43/064": {
+      "votes": {
+        "nakisha_o_evans_f_": 117,
+        "akel_k_williams_m_": 86,
+        "anthony_beckford_m_": 103,
+        "michelle_tege_f_": 95,
+        "scattered": 0
+      },
+      "total": 401,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 3.5,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43/065": {
+      "votes": {
+        "nakisha_o_evans_f_": 81,
+        "akel_k_williams_m_": 66,
+        "anthony_beckford_m_": 94,
+        "michelle_tege_f_": 63,
+        "scattered": 3
+      },
+      "total": 307,
+      "winnerId": "anthony_beckford_m_",
+      "margin": 4.2,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43/066": {
+      "votes": {
+        "nakisha_o_evans_f_": 97,
+        "akel_k_williams_m_": 77,
+        "anthony_beckford_m_": 80,
+        "michelle_tege_f_": 83,
+        "scattered": 1
+      },
+      "total": 338,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 4.1,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43/067": {
+      "votes": {
+        "nakisha_o_evans_f_": 103,
+        "akel_k_williams_m_": 73,
+        "anthony_beckford_m_": 82,
+        "michelle_tege_f_": 78,
+        "scattered": 0
+      },
+      "total": 336,
+      "winnerId": "nakisha_o_evans_f_",
+      "margin": 6.3,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "43/068": {
+      "votes": {
+        "nakisha_o_evans_f_": 26,
+        "akel_k_williams_m_": 24,
+        "anthony_beckford_m_": 38,
+        "michelle_tege_f_": 29,
+        "scattered": 0
+      },
+      "total": 117,
+      "winnerId": "anthony_beckford_m_",
+      "margin": 7.7,
+      "candidates": [
+        {
+          "id": "nakisha_o_evans_f_",
+          "name": "Nakisha O. Evans (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "akel_k_williams_m_",
+          "name": "Akel K. Williams (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "anthony_beckford_m_",
+          "name": "Anthony Beckford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "michelle_tege_f_",
+          "name": "Michelle Tege (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    }
+  }
+}

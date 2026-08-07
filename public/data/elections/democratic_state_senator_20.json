@@ -1,0 +1,31 @@
+{
+  "id": "democratic_state_senator_20",
+  "name": "2026 Primary - State Senator District 20",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "State Senate",
+  "districtKey": "20",
+  "districtType": "senate",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "zellnor_myrie",
+      "name": "Zellnor Myrie",
+      "party": "Democratic",
+      "isIncumbent": true,
+      "color": "#2563eb"
+    }
+  ],
+  "results": {
+    "20": {
+      "votes": {
+        "uncontested_primary_senate_20": 0
+      },
+      "total": 0,
+      "winnerId": "uncontested_primary_senate_20",
+      "margin": 100,
+      "isUncontested": true
+    }
+  },
+  "edResults": {}
+}

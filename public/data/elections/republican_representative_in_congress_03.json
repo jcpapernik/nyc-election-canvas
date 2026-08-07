@@ -1,0 +1,5944 @@
+{
+  "id": "republican_representative_in_congress_03",
+  "name": "2026 Primary - Representative in Congress District 03",
+  "date": "2026-06-23",
+  "party": "Republican",
+  "officeCategory": "US House (Congressional)",
+  "districtKey": "03",
+  "districtType": "congressional",
+  "isUncontested": false,
+  "candidates": [
+    {
+      "id": "michael_j_lipetri_jr",
+      "name": "Michael J. LiPetri Jr.",
+      "party": "Republican",
+      "isIncumbent": false,
+      "color": "#d97706"
+    },
+    {
+      "id": "greg_hach",
+      "name": "Greg Hach",
+      "party": "Republican",
+      "isIncumbent": false,
+      "color": "#7c3aed"
+    },
+    {
+      "id": "scattered",
+      "name": "Scattered",
+      "party": "Republican",
+      "isIncumbent": false,
+      "color": "#059669"
+    }
+  ],
+  "results": {
+    "03": {
+      "votes": {
+        "michael_j_lipetri_jr_": 1551,
+        "greg_hach": 352,
+        "scattered": 14
+      },
+      "total": 1917,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 62.5,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    }
+  },
+  "edResults": {
+    "24055": {
+      "votes": {
+        "michael_j_lipetri_jr_": 2,
+        "greg_hach": 0,
+        "scattered": 0
+      },
+      "total": 2,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 100,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "24056": {
+      "votes": {
+        "michael_j_lipetri_jr_": 8,
+        "greg_hach": 8,
+        "scattered": 0
+      },
+      "total": 16,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "24057": {
+      "votes": {
+        "michael_j_lipetri_jr_": 13,
+        "greg_hach": 3,
+        "scattered": 0
+      },
+      "total": 16,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 62.5,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26001": {
+      "votes": {
+        "michael_j_lipetri_jr_": 8,
+        "greg_hach": 1,
+        "scattered": 0
+      },
+      "total": 9,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 77.8,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26002": {
+      "votes": {
+        "michael_j_lipetri_jr_": 3,
+        "greg_hach": 1,
+        "scattered": 0
+      },
+      "total": 4,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 50,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26003": {
+      "votes": {
+        "michael_j_lipetri_jr_": 1,
+        "greg_hach": 0,
+        "scattered": 0
+      },
+      "total": 1,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 100,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26004": {
+      "votes": {
+        "michael_j_lipetri_jr_": 6,
+        "greg_hach": 2,
+        "scattered": 0
+      },
+      "total": 8,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 50,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26007": {
+      "votes": {
+        "michael_j_lipetri_jr_": 8,
+        "greg_hach": 15,
+        "scattered": 0
+      },
+      "total": 23,
+      "winnerId": "greg_hach",
+      "margin": 30.4,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26008": {
+      "votes": {
+        "michael_j_lipetri_jr_": 33,
+        "greg_hach": 3,
+        "scattered": 2
+      },
+      "total": 38,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 78.9,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26009": {
+      "votes": {
+        "michael_j_lipetri_jr_": 0,
+        "greg_hach": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26010": {
+      "votes": {
+        "michael_j_lipetri_jr_": 19,
+        "greg_hach": 7,
+        "scattered": 0
+      },
+      "total": 26,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 46.2,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26011": {
+      "votes": {
+        "michael_j_lipetri_jr_": 18,
+        "greg_hach": 5,
+        "scattered": 1
+      },
+      "total": 24,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 54.2,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26012": {
+      "votes": {
+        "michael_j_lipetri_jr_": 18,
+        "greg_hach": 8,
+        "scattered": 0
+      },
+      "total": 26,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 38.5,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26013": {
+      "votes": {
+        "michael_j_lipetri_jr_": 23,
+        "greg_hach": 5,
+        "scattered": 0
+      },
+      "total": 28,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 64.3,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26014": {
+      "votes": {
+        "michael_j_lipetri_jr_": 13,
+        "greg_hach": 3,
+        "scattered": 0
+      },
+      "total": 16,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 62.5,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26015": {
+      "votes": {
+        "michael_j_lipetri_jr_": 6,
+        "greg_hach": 2,
+        "scattered": 0
+      },
+      "total": 8,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 50,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26016": {
+      "votes": {
+        "michael_j_lipetri_jr_": 10,
+        "greg_hach": 3,
+        "scattered": 0
+      },
+      "total": 13,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 53.8,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26017": {
+      "votes": {
+        "michael_j_lipetri_jr_": 34,
+        "greg_hach": 5,
+        "scattered": 0
+      },
+      "total": 39,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 74.4,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26018": {
+      "votes": {
+        "michael_j_lipetri_jr_": 13,
+        "greg_hach": 4,
+        "scattered": 0
+      },
+      "total": 17,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 52.9,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26019": {
+      "votes": {
+        "michael_j_lipetri_jr_": 15,
+        "greg_hach": 5,
+        "scattered": 0
+      },
+      "total": 20,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 50,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26020": {
+      "votes": {
+        "michael_j_lipetri_jr_": 20,
+        "greg_hach": 9,
+        "scattered": 0
+      },
+      "total": 29,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 37.9,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26021": {
+      "votes": {
+        "michael_j_lipetri_jr_": 30,
+        "greg_hach": 16,
+        "scattered": 1
+      },
+      "total": 47,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 29.8,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26022": {
+      "votes": {
+        "michael_j_lipetri_jr_": 21,
+        "greg_hach": 4,
+        "scattered": 0
+      },
+      "total": 25,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 68,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26023": {
+      "votes": {
+        "michael_j_lipetri_jr_": 22,
+        "greg_hach": 4,
+        "scattered": 1
+      },
+      "total": 27,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 66.7,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26024": {
+      "votes": {
+        "michael_j_lipetri_jr_": 33,
+        "greg_hach": 10,
+        "scattered": 0
+      },
+      "total": 43,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 53.5,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26025": {
+      "votes": {
+        "michael_j_lipetri_jr_": 19,
+        "greg_hach": 5,
+        "scattered": 0
+      },
+      "total": 24,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 58.3,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26026": {
+      "votes": {
+        "michael_j_lipetri_jr_": 25,
+        "greg_hach": 1,
+        "scattered": 0
+      },
+      "total": 26,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 92.3,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26027": {
+      "votes": {
+        "michael_j_lipetri_jr_": 22,
+        "greg_hach": 3,
+        "scattered": 0
+      },
+      "total": 25,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 76,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26033": {
+      "votes": {
+        "michael_j_lipetri_jr_": 23,
+        "greg_hach": 11,
+        "scattered": 0
+      },
+      "total": 34,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 35.3,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26034": {
+      "votes": {
+        "michael_j_lipetri_jr_": 41,
+        "greg_hach": 4,
+        "scattered": 0
+      },
+      "total": 45,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 82.2,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26036": {
+      "votes": {
+        "michael_j_lipetri_jr_": 30,
+        "greg_hach": 15,
+        "scattered": 0
+      },
+      "total": 45,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 33.3,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26037": {
+      "votes": {
+        "michael_j_lipetri_jr_": 10,
+        "greg_hach": 3,
+        "scattered": 0
+      },
+      "total": 13,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 53.8,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26038": {
+      "votes": {
+        "michael_j_lipetri_jr_": 15,
+        "greg_hach": 4,
+        "scattered": 0
+      },
+      "total": 19,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 57.9,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26039": {
+      "votes": {
+        "michael_j_lipetri_jr_": 15,
+        "greg_hach": 3,
+        "scattered": 0
+      },
+      "total": 18,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 66.7,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26040": {
+      "votes": {
+        "michael_j_lipetri_jr_": 16,
+        "greg_hach": 5,
+        "scattered": 0
+      },
+      "total": 21,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 52.4,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26041": {
+      "votes": {
+        "michael_j_lipetri_jr_": 16,
+        "greg_hach": 2,
+        "scattered": 2
+      },
+      "total": 20,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 70,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26042": {
+      "votes": {
+        "michael_j_lipetri_jr_": 22,
+        "greg_hach": 6,
+        "scattered": 0
+      },
+      "total": 28,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 57.1,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26043": {
+      "votes": {
+        "michael_j_lipetri_jr_": 28,
+        "greg_hach": 4,
+        "scattered": 0
+      },
+      "total": 32,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 75,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26044": {
+      "votes": {
+        "michael_j_lipetri_jr_": 18,
+        "greg_hach": 5,
+        "scattered": 0
+      },
+      "total": 23,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 56.5,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26045": {
+      "votes": {
+        "michael_j_lipetri_jr_": 41,
+        "greg_hach": 7,
+        "scattered": 0
+      },
+      "total": 48,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 70.8,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26046": {
+      "votes": {
+        "michael_j_lipetri_jr_": 17,
+        "greg_hach": 3,
+        "scattered": 0
+      },
+      "total": 20,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 70,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26048": {
+      "votes": {
+        "michael_j_lipetri_jr_": 30,
+        "greg_hach": 3,
+        "scattered": 0
+      },
+      "total": 33,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 81.8,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26049": {
+      "votes": {
+        "michael_j_lipetri_jr_": 29,
+        "greg_hach": 4,
+        "scattered": 0
+      },
+      "total": 33,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 75.8,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26050": {
+      "votes": {
+        "michael_j_lipetri_jr_": 48,
+        "greg_hach": 5,
+        "scattered": 0
+      },
+      "total": 53,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 81.1,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26051": {
+      "votes": {
+        "michael_j_lipetri_jr_": 8,
+        "greg_hach": 3,
+        "scattered": 0
+      },
+      "total": 11,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 45.5,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26052": {
+      "votes": {
+        "michael_j_lipetri_jr_": 15,
+        "greg_hach": 7,
+        "scattered": 0
+      },
+      "total": 22,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 36.4,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26053": {
+      "votes": {
+        "michael_j_lipetri_jr_": 14,
+        "greg_hach": 10,
+        "scattered": 0
+      },
+      "total": 24,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 16.7,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26054": {
+      "votes": {
+        "michael_j_lipetri_jr_": 11,
+        "greg_hach": 4,
+        "scattered": 0
+      },
+      "total": 15,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 46.7,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26055": {
+      "votes": {
+        "michael_j_lipetri_jr_": 38,
+        "greg_hach": 5,
+        "scattered": 1
+      },
+      "total": 44,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 75,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26056": {
+      "votes": {
+        "michael_j_lipetri_jr_": 30,
+        "greg_hach": 6,
+        "scattered": 1
+      },
+      "total": 37,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 64.9,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26057": {
+      "votes": {
+        "michael_j_lipetri_jr_": 21,
+        "greg_hach": 4,
+        "scattered": 0
+      },
+      "total": 25,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 68,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26063": {
+      "votes": {
+        "michael_j_lipetri_jr_": 0,
+        "greg_hach": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26065": {
+      "votes": {
+        "michael_j_lipetri_jr_": 0,
+        "greg_hach": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "27001": {
+      "votes": {
+        "michael_j_lipetri_jr_": 12,
+        "greg_hach": 2,
+        "scattered": 0
+      },
+      "total": 14,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 71.4,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "27042": {
+      "votes": {
+        "michael_j_lipetri_jr_": 52,
+        "greg_hach": 3,
+        "scattered": 0
+      },
+      "total": 55,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 89.1,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "27043": {
+      "votes": {
+        "michael_j_lipetri_jr_": 29,
+        "greg_hach": 1,
+        "scattered": 0
+      },
+      "total": 30,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 93.3,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "27044": {
+      "votes": {
+        "michael_j_lipetri_jr_": 41,
+        "greg_hach": 2,
+        "scattered": 0
+      },
+      "total": 43,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 90.7,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "27045": {
+      "votes": {
+        "michael_j_lipetri_jr_": 42,
+        "greg_hach": 6,
+        "scattered": 0
+      },
+      "total": 48,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 75,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "27048": {
+      "votes": {
+        "michael_j_lipetri_jr_": 30,
+        "greg_hach": 4,
+        "scattered": 0
+      },
+      "total": 34,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 76.5,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "27049": {
+      "votes": {
+        "michael_j_lipetri_jr_": 11,
+        "greg_hach": 3,
+        "scattered": 0
+      },
+      "total": 14,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 57.1,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "27050": {
+      "votes": {
+        "michael_j_lipetri_jr_": 33,
+        "greg_hach": 3,
+        "scattered": 0
+      },
+      "total": 36,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 83.3,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "27051": {
+      "votes": {
+        "michael_j_lipetri_jr_": 29,
+        "greg_hach": 1,
+        "scattered": 1
+      },
+      "total": 31,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 90.3,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33001": {
+      "votes": {
+        "michael_j_lipetri_jr_": 13,
+        "greg_hach": 4,
+        "scattered": 0
+      },
+      "total": 17,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 52.9,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33002": {
+      "votes": {
+        "michael_j_lipetri_jr_": 16,
+        "greg_hach": 2,
+        "scattered": 1
+      },
+      "total": 19,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 73.7,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33003": {
+      "votes": {
+        "michael_j_lipetri_jr_": 7,
+        "greg_hach": 5,
+        "scattered": 0
+      },
+      "total": 12,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 16.7,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33004": {
+      "votes": {
+        "michael_j_lipetri_jr_": 7,
+        "greg_hach": 2,
+        "scattered": 0
+      },
+      "total": 9,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 55.6,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33005": {
+      "votes": {
+        "michael_j_lipetri_jr_": 9,
+        "greg_hach": 3,
+        "scattered": 0
+      },
+      "total": 12,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 50,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33006": {
+      "votes": {
+        "michael_j_lipetri_jr_": 11,
+        "greg_hach": 5,
+        "scattered": 0
+      },
+      "total": 16,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 37.5,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33007": {
+      "votes": {
+        "michael_j_lipetri_jr_": 14,
+        "greg_hach": 3,
+        "scattered": 0
+      },
+      "total": 17,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 64.7,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33008": {
+      "votes": {
+        "michael_j_lipetri_jr_": 17,
+        "greg_hach": 7,
+        "scattered": 0
+      },
+      "total": 24,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 41.7,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33009": {
+      "votes": {
+        "michael_j_lipetri_jr_": 8,
+        "greg_hach": 5,
+        "scattered": 1
+      },
+      "total": 14,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 21.4,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33010": {
+      "votes": {
+        "michael_j_lipetri_jr_": 9,
+        "greg_hach": 3,
+        "scattered": 0
+      },
+      "total": 12,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 50,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33011": {
+      "votes": {
+        "michael_j_lipetri_jr_": 2,
+        "greg_hach": 2,
+        "scattered": 0
+      },
+      "total": 4,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33012": {
+      "votes": {
+        "michael_j_lipetri_jr_": 9,
+        "greg_hach": 0,
+        "scattered": 0
+      },
+      "total": 9,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 100,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33014": {
+      "votes": {
+        "michael_j_lipetri_jr_": 5,
+        "greg_hach": 4,
+        "scattered": 0
+      },
+      "total": 9,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 11.1,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33015": {
+      "votes": {
+        "michael_j_lipetri_jr_": 4,
+        "greg_hach": 2,
+        "scattered": 0
+      },
+      "total": 6,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 33.3,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33016": {
+      "votes": {
+        "michael_j_lipetri_jr_": 1,
+        "greg_hach": 0,
+        "scattered": 2
+      },
+      "total": 3,
+      "winnerId": "scattered",
+      "margin": 33.3,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33017": {
+      "votes": {
+        "michael_j_lipetri_jr_": 6,
+        "greg_hach": 2,
+        "scattered": 0
+      },
+      "total": 8,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 50,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33020": {
+      "votes": {
+        "michael_j_lipetri_jr_": 1,
+        "greg_hach": 0,
+        "scattered": 0
+      },
+      "total": 1,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 100,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33024": {
+      "votes": {
+        "michael_j_lipetri_jr_": 9,
+        "greg_hach": 4,
+        "scattered": 0
+      },
+      "total": 13,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 38.5,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "40025": {
+      "votes": {
+        "michael_j_lipetri_jr_": 31,
+        "greg_hach": 4,
+        "scattered": 0
+      },
+      "total": 35,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 77.1,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "40035": {
+      "votes": {
+        "michael_j_lipetri_jr_": 25,
+        "greg_hach": 1,
+        "scattered": 0
+      },
+      "total": 26,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 92.3,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "40037": {
+      "votes": {
+        "michael_j_lipetri_jr_": 16,
+        "greg_hach": 5,
+        "scattered": 0
+      },
+      "total": 21,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 52.4,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "40038": {
+      "votes": {
+        "michael_j_lipetri_jr_": 13,
+        "greg_hach": 2,
+        "scattered": 0
+      },
+      "total": 15,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 73.3,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "40039": {
+      "votes": {
+        "michael_j_lipetri_jr_": 3,
+        "greg_hach": 0,
+        "scattered": 0
+      },
+      "total": 3,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 100,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "40040": {
+      "votes": {
+        "michael_j_lipetri_jr_": 8,
+        "greg_hach": 2,
+        "scattered": 0
+      },
+      "total": 10,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 60,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "40041": {
+      "votes": {
+        "michael_j_lipetri_jr_": 32,
+        "greg_hach": 2,
+        "scattered": 0
+      },
+      "total": 34,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 88.2,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "40042": {
+      "votes": {
+        "michael_j_lipetri_jr_": 0,
+        "greg_hach": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "40043": {
+      "votes": {
+        "michael_j_lipetri_jr_": 17,
+        "greg_hach": 3,
+        "scattered": 0
+      },
+      "total": 20,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 70,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "24/055": {
+      "votes": {
+        "michael_j_lipetri_jr_": 2,
+        "greg_hach": 0,
+        "scattered": 0
+      },
+      "total": 2,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 100,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "24/056": {
+      "votes": {
+        "michael_j_lipetri_jr_": 8,
+        "greg_hach": 8,
+        "scattered": 0
+      },
+      "total": 16,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "24/057": {
+      "votes": {
+        "michael_j_lipetri_jr_": 13,
+        "greg_hach": 3,
+        "scattered": 0
+      },
+      "total": 16,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 62.5,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/001": {
+      "votes": {
+        "michael_j_lipetri_jr_": 8,
+        "greg_hach": 1,
+        "scattered": 0
+      },
+      "total": 9,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 77.8,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/002": {
+      "votes": {
+        "michael_j_lipetri_jr_": 3,
+        "greg_hach": 1,
+        "scattered": 0
+      },
+      "total": 4,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 50,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/003": {
+      "votes": {
+        "michael_j_lipetri_jr_": 1,
+        "greg_hach": 0,
+        "scattered": 0
+      },
+      "total": 1,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 100,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/004": {
+      "votes": {
+        "michael_j_lipetri_jr_": 6,
+        "greg_hach": 2,
+        "scattered": 0
+      },
+      "total": 8,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 50,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/007": {
+      "votes": {
+        "michael_j_lipetri_jr_": 8,
+        "greg_hach": 15,
+        "scattered": 0
+      },
+      "total": 23,
+      "winnerId": "greg_hach",
+      "margin": 30.4,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/008": {
+      "votes": {
+        "michael_j_lipetri_jr_": 33,
+        "greg_hach": 3,
+        "scattered": 2
+      },
+      "total": 38,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 78.9,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/009": {
+      "votes": {
+        "michael_j_lipetri_jr_": 0,
+        "greg_hach": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/010": {
+      "votes": {
+        "michael_j_lipetri_jr_": 19,
+        "greg_hach": 7,
+        "scattered": 0
+      },
+      "total": 26,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 46.2,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/011": {
+      "votes": {
+        "michael_j_lipetri_jr_": 18,
+        "greg_hach": 5,
+        "scattered": 1
+      },
+      "total": 24,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 54.2,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/012": {
+      "votes": {
+        "michael_j_lipetri_jr_": 18,
+        "greg_hach": 8,
+        "scattered": 0
+      },
+      "total": 26,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 38.5,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/013": {
+      "votes": {
+        "michael_j_lipetri_jr_": 23,
+        "greg_hach": 5,
+        "scattered": 0
+      },
+      "total": 28,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 64.3,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/014": {
+      "votes": {
+        "michael_j_lipetri_jr_": 13,
+        "greg_hach": 3,
+        "scattered": 0
+      },
+      "total": 16,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 62.5,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/015": {
+      "votes": {
+        "michael_j_lipetri_jr_": 6,
+        "greg_hach": 2,
+        "scattered": 0
+      },
+      "total": 8,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 50,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/016": {
+      "votes": {
+        "michael_j_lipetri_jr_": 10,
+        "greg_hach": 3,
+        "scattered": 0
+      },
+      "total": 13,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 53.8,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/017": {
+      "votes": {
+        "michael_j_lipetri_jr_": 34,
+        "greg_hach": 5,
+        "scattered": 0
+      },
+      "total": 39,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 74.4,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/018": {
+      "votes": {
+        "michael_j_lipetri_jr_": 13,
+        "greg_hach": 4,
+        "scattered": 0
+      },
+      "total": 17,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 52.9,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/019": {
+      "votes": {
+        "michael_j_lipetri_jr_": 15,
+        "greg_hach": 5,
+        "scattered": 0
+      },
+      "total": 20,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 50,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/020": {
+      "votes": {
+        "michael_j_lipetri_jr_": 20,
+        "greg_hach": 9,
+        "scattered": 0
+      },
+      "total": 29,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 37.9,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/021": {
+      "votes": {
+        "michael_j_lipetri_jr_": 30,
+        "greg_hach": 16,
+        "scattered": 1
+      },
+      "total": 47,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 29.8,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/022": {
+      "votes": {
+        "michael_j_lipetri_jr_": 21,
+        "greg_hach": 4,
+        "scattered": 0
+      },
+      "total": 25,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 68,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/023": {
+      "votes": {
+        "michael_j_lipetri_jr_": 22,
+        "greg_hach": 4,
+        "scattered": 1
+      },
+      "total": 27,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 66.7,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/024": {
+      "votes": {
+        "michael_j_lipetri_jr_": 33,
+        "greg_hach": 10,
+        "scattered": 0
+      },
+      "total": 43,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 53.5,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/025": {
+      "votes": {
+        "michael_j_lipetri_jr_": 19,
+        "greg_hach": 5,
+        "scattered": 0
+      },
+      "total": 24,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 58.3,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/026": {
+      "votes": {
+        "michael_j_lipetri_jr_": 25,
+        "greg_hach": 1,
+        "scattered": 0
+      },
+      "total": 26,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 92.3,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/027": {
+      "votes": {
+        "michael_j_lipetri_jr_": 22,
+        "greg_hach": 3,
+        "scattered": 0
+      },
+      "total": 25,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 76,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/033": {
+      "votes": {
+        "michael_j_lipetri_jr_": 23,
+        "greg_hach": 11,
+        "scattered": 0
+      },
+      "total": 34,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 35.3,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/034": {
+      "votes": {
+        "michael_j_lipetri_jr_": 41,
+        "greg_hach": 4,
+        "scattered": 0
+      },
+      "total": 45,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 82.2,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/036": {
+      "votes": {
+        "michael_j_lipetri_jr_": 30,
+        "greg_hach": 15,
+        "scattered": 0
+      },
+      "total": 45,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 33.3,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/037": {
+      "votes": {
+        "michael_j_lipetri_jr_": 10,
+        "greg_hach": 3,
+        "scattered": 0
+      },
+      "total": 13,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 53.8,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/038": {
+      "votes": {
+        "michael_j_lipetri_jr_": 15,
+        "greg_hach": 4,
+        "scattered": 0
+      },
+      "total": 19,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 57.9,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/039": {
+      "votes": {
+        "michael_j_lipetri_jr_": 15,
+        "greg_hach": 3,
+        "scattered": 0
+      },
+      "total": 18,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 66.7,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/040": {
+      "votes": {
+        "michael_j_lipetri_jr_": 16,
+        "greg_hach": 5,
+        "scattered": 0
+      },
+      "total": 21,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 52.4,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/041": {
+      "votes": {
+        "michael_j_lipetri_jr_": 16,
+        "greg_hach": 2,
+        "scattered": 2
+      },
+      "total": 20,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 70,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/042": {
+      "votes": {
+        "michael_j_lipetri_jr_": 22,
+        "greg_hach": 6,
+        "scattered": 0
+      },
+      "total": 28,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 57.1,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/043": {
+      "votes": {
+        "michael_j_lipetri_jr_": 28,
+        "greg_hach": 4,
+        "scattered": 0
+      },
+      "total": 32,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 75,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/044": {
+      "votes": {
+        "michael_j_lipetri_jr_": 18,
+        "greg_hach": 5,
+        "scattered": 0
+      },
+      "total": 23,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 56.5,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/045": {
+      "votes": {
+        "michael_j_lipetri_jr_": 41,
+        "greg_hach": 7,
+        "scattered": 0
+      },
+      "total": 48,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 70.8,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/046": {
+      "votes": {
+        "michael_j_lipetri_jr_": 17,
+        "greg_hach": 3,
+        "scattered": 0
+      },
+      "total": 20,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 70,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/048": {
+      "votes": {
+        "michael_j_lipetri_jr_": 30,
+        "greg_hach": 3,
+        "scattered": 0
+      },
+      "total": 33,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 81.8,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/049": {
+      "votes": {
+        "michael_j_lipetri_jr_": 29,
+        "greg_hach": 4,
+        "scattered": 0
+      },
+      "total": 33,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 75.8,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/050": {
+      "votes": {
+        "michael_j_lipetri_jr_": 48,
+        "greg_hach": 5,
+        "scattered": 0
+      },
+      "total": 53,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 81.1,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/051": {
+      "votes": {
+        "michael_j_lipetri_jr_": 8,
+        "greg_hach": 3,
+        "scattered": 0
+      },
+      "total": 11,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 45.5,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/052": {
+      "votes": {
+        "michael_j_lipetri_jr_": 15,
+        "greg_hach": 7,
+        "scattered": 0
+      },
+      "total": 22,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 36.4,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/053": {
+      "votes": {
+        "michael_j_lipetri_jr_": 14,
+        "greg_hach": 10,
+        "scattered": 0
+      },
+      "total": 24,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 16.7,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/054": {
+      "votes": {
+        "michael_j_lipetri_jr_": 11,
+        "greg_hach": 4,
+        "scattered": 0
+      },
+      "total": 15,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 46.7,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/055": {
+      "votes": {
+        "michael_j_lipetri_jr_": 38,
+        "greg_hach": 5,
+        "scattered": 1
+      },
+      "total": 44,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 75,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/056": {
+      "votes": {
+        "michael_j_lipetri_jr_": 30,
+        "greg_hach": 6,
+        "scattered": 1
+      },
+      "total": 37,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 64.9,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/057": {
+      "votes": {
+        "michael_j_lipetri_jr_": 21,
+        "greg_hach": 4,
+        "scattered": 0
+      },
+      "total": 25,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 68,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/063": {
+      "votes": {
+        "michael_j_lipetri_jr_": 0,
+        "greg_hach": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/065": {
+      "votes": {
+        "michael_j_lipetri_jr_": 0,
+        "greg_hach": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "27/001": {
+      "votes": {
+        "michael_j_lipetri_jr_": 12,
+        "greg_hach": 2,
+        "scattered": 0
+      },
+      "total": 14,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 71.4,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "27/042": {
+      "votes": {
+        "michael_j_lipetri_jr_": 52,
+        "greg_hach": 3,
+        "scattered": 0
+      },
+      "total": 55,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 89.1,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "27/043": {
+      "votes": {
+        "michael_j_lipetri_jr_": 29,
+        "greg_hach": 1,
+        "scattered": 0
+      },
+      "total": 30,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 93.3,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "27/044": {
+      "votes": {
+        "michael_j_lipetri_jr_": 41,
+        "greg_hach": 2,
+        "scattered": 0
+      },
+      "total": 43,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 90.7,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "27/045": {
+      "votes": {
+        "michael_j_lipetri_jr_": 42,
+        "greg_hach": 6,
+        "scattered": 0
+      },
+      "total": 48,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 75,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "27/048": {
+      "votes": {
+        "michael_j_lipetri_jr_": 30,
+        "greg_hach": 4,
+        "scattered": 0
+      },
+      "total": 34,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 76.5,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "27/049": {
+      "votes": {
+        "michael_j_lipetri_jr_": 11,
+        "greg_hach": 3,
+        "scattered": 0
+      },
+      "total": 14,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 57.1,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "27/050": {
+      "votes": {
+        "michael_j_lipetri_jr_": 33,
+        "greg_hach": 3,
+        "scattered": 0
+      },
+      "total": 36,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 83.3,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "27/051": {
+      "votes": {
+        "michael_j_lipetri_jr_": 29,
+        "greg_hach": 1,
+        "scattered": 1
+      },
+      "total": 31,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 90.3,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/001": {
+      "votes": {
+        "michael_j_lipetri_jr_": 13,
+        "greg_hach": 4,
+        "scattered": 0
+      },
+      "total": 17,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 52.9,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/002": {
+      "votes": {
+        "michael_j_lipetri_jr_": 16,
+        "greg_hach": 2,
+        "scattered": 1
+      },
+      "total": 19,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 73.7,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/003": {
+      "votes": {
+        "michael_j_lipetri_jr_": 7,
+        "greg_hach": 5,
+        "scattered": 0
+      },
+      "total": 12,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 16.7,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/004": {
+      "votes": {
+        "michael_j_lipetri_jr_": 7,
+        "greg_hach": 2,
+        "scattered": 0
+      },
+      "total": 9,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 55.6,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/005": {
+      "votes": {
+        "michael_j_lipetri_jr_": 9,
+        "greg_hach": 3,
+        "scattered": 0
+      },
+      "total": 12,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 50,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/006": {
+      "votes": {
+        "michael_j_lipetri_jr_": 11,
+        "greg_hach": 5,
+        "scattered": 0
+      },
+      "total": 16,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 37.5,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/007": {
+      "votes": {
+        "michael_j_lipetri_jr_": 14,
+        "greg_hach": 3,
+        "scattered": 0
+      },
+      "total": 17,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 64.7,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/008": {
+      "votes": {
+        "michael_j_lipetri_jr_": 17,
+        "greg_hach": 7,
+        "scattered": 0
+      },
+      "total": 24,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 41.7,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/009": {
+      "votes": {
+        "michael_j_lipetri_jr_": 8,
+        "greg_hach": 5,
+        "scattered": 1
+      },
+      "total": 14,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 21.4,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/010": {
+      "votes": {
+        "michael_j_lipetri_jr_": 9,
+        "greg_hach": 3,
+        "scattered": 0
+      },
+      "total": 12,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 50,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/011": {
+      "votes": {
+        "michael_j_lipetri_jr_": 2,
+        "greg_hach": 2,
+        "scattered": 0
+      },
+      "total": 4,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/012": {
+      "votes": {
+        "michael_j_lipetri_jr_": 9,
+        "greg_hach": 0,
+        "scattered": 0
+      },
+      "total": 9,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 100,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/014": {
+      "votes": {
+        "michael_j_lipetri_jr_": 5,
+        "greg_hach": 4,
+        "scattered": 0
+      },
+      "total": 9,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 11.1,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/015": {
+      "votes": {
+        "michael_j_lipetri_jr_": 4,
+        "greg_hach": 2,
+        "scattered": 0
+      },
+      "total": 6,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 33.3,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/016": {
+      "votes": {
+        "michael_j_lipetri_jr_": 1,
+        "greg_hach": 0,
+        "scattered": 2
+      },
+      "total": 3,
+      "winnerId": "scattered",
+      "margin": 33.3,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/017": {
+      "votes": {
+        "michael_j_lipetri_jr_": 6,
+        "greg_hach": 2,
+        "scattered": 0
+      },
+      "total": 8,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 50,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/020": {
+      "votes": {
+        "michael_j_lipetri_jr_": 1,
+        "greg_hach": 0,
+        "scattered": 0
+      },
+      "total": 1,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 100,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/024": {
+      "votes": {
+        "michael_j_lipetri_jr_": 9,
+        "greg_hach": 4,
+        "scattered": 0
+      },
+      "total": 13,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 38.5,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "40/025": {
+      "votes": {
+        "michael_j_lipetri_jr_": 31,
+        "greg_hach": 4,
+        "scattered": 0
+      },
+      "total": 35,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 77.1,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "40/035": {
+      "votes": {
+        "michael_j_lipetri_jr_": 25,
+        "greg_hach": 1,
+        "scattered": 0
+      },
+      "total": 26,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 92.3,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "40/037": {
+      "votes": {
+        "michael_j_lipetri_jr_": 16,
+        "greg_hach": 5,
+        "scattered": 0
+      },
+      "total": 21,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 52.4,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "40/038": {
+      "votes": {
+        "michael_j_lipetri_jr_": 13,
+        "greg_hach": 2,
+        "scattered": 0
+      },
+      "total": 15,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 73.3,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "40/039": {
+      "votes": {
+        "michael_j_lipetri_jr_": 3,
+        "greg_hach": 0,
+        "scattered": 0
+      },
+      "total": 3,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 100,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "40/040": {
+      "votes": {
+        "michael_j_lipetri_jr_": 8,
+        "greg_hach": 2,
+        "scattered": 0
+      },
+      "total": 10,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 60,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "40/041": {
+      "votes": {
+        "michael_j_lipetri_jr_": 32,
+        "greg_hach": 2,
+        "scattered": 0
+      },
+      "total": 34,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 88.2,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "40/042": {
+      "votes": {
+        "michael_j_lipetri_jr_": 0,
+        "greg_hach": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "40/043": {
+      "votes": {
+        "michael_j_lipetri_jr_": 17,
+        "greg_hach": 3,
+        "scattered": 0
+      },
+      "total": 20,
+      "winnerId": "michael_j_lipetri_jr_",
+      "margin": 70,
+      "candidates": [
+        {
+          "id": "michael_j_lipetri_jr_",
+          "name": "Michael J. LiPetri Jr.",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "greg_hach",
+          "name": "Greg Hach",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    }
+  }
+}

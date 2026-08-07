@@ -1,0 +1,4903 @@
+{
+  "id": "democratic_district_leader_28b",
+  "name": "2026 Primary - District Leader District 28B",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "Judicial & Party Offices",
+  "districtKey": "28B",
+  "districtType": "congressional",
+  "isUncontested": false,
+  "candidates": [
+    {
+      "id": "melissa_ann_san_pedro_(f)",
+      "name": "Melissa Ann San Pedro (F)",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#d97706"
+    },
+    {
+      "id": "nina_kulkarni_(f)",
+      "name": "Nina Kulkarni (F)",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#7c3aed"
+    },
+    {
+      "id": "sharon_levy_(f)",
+      "name": "Sharon Levy (F)",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#059669"
+    },
+    {
+      "id": "christopher_r_hanusa_(m)",
+      "name": "Christopher R. Hanusa (M)",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#0891b2"
+    },
+    {
+      "id": "maximillian_morquecho_(m)",
+      "name": "Maximillian Morquecho (M)",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#4f46e5"
+    },
+    {
+      "id": "scattered",
+      "name": "Scattered",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#db2777"
+    }
+  ],
+  "results": {
+    "28B": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 2281,
+        "nina_kulkarni_f_": 1693,
+        "sharon_levy_f_": 1408,
+        "christopher_r_hanusa_m_": 1314,
+        "maximillian_morquecho_m_": 586,
+        "scattered": 49
+      },
+      "total": 7331,
+      "winnerId": "melissa_ann_san_pedro_f_",
+      "margin": 8,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    }
+  },
+  "edResults": {
+    "28001": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 18,
+        "nina_kulkarni_f_": 10,
+        "sharon_levy_f_": 7,
+        "christopher_r_hanusa_m_": 14,
+        "maximillian_morquecho_m_": 4,
+        "scattered": 0
+      },
+      "total": 53,
+      "winnerId": "melissa_ann_san_pedro_f_",
+      "margin": 7.5,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "28002": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 122,
+        "nina_kulkarni_f_": 110,
+        "sharon_levy_f_": 60,
+        "christopher_r_hanusa_m_": 58,
+        "maximillian_morquecho_m_": 30,
+        "scattered": 3
+      },
+      "total": 383,
+      "winnerId": "melissa_ann_san_pedro_f_",
+      "margin": 3.1,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "28003": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 85,
+        "nina_kulkarni_f_": 125,
+        "sharon_levy_f_": 65,
+        "christopher_r_hanusa_m_": 62,
+        "maximillian_morquecho_m_": 23,
+        "scattered": 3
+      },
+      "total": 363,
+      "winnerId": "nina_kulkarni_f_",
+      "margin": 11,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "28004": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 96,
+        "nina_kulkarni_f_": 64,
+        "sharon_levy_f_": 47,
+        "christopher_r_hanusa_m_": 44,
+        "maximillian_morquecho_m_": 16,
+        "scattered": 1
+      },
+      "total": 268,
+      "winnerId": "melissa_ann_san_pedro_f_",
+      "margin": 11.9,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "28005": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 6,
+        "nina_kulkarni_f_": 4,
+        "sharon_levy_f_": 4,
+        "christopher_r_hanusa_m_": 4,
+        "maximillian_morquecho_m_": 3,
+        "scattered": 0
+      },
+      "total": 21,
+      "winnerId": "melissa_ann_san_pedro_f_",
+      "margin": 9.5,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "28006": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 10,
+        "nina_kulkarni_f_": 10,
+        "sharon_levy_f_": 16,
+        "christopher_r_hanusa_m_": 9,
+        "maximillian_morquecho_m_": 14,
+        "scattered": 3
+      },
+      "total": 62,
+      "winnerId": "sharon_levy_f_",
+      "margin": 3.2,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "28007": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 55,
+        "nina_kulkarni_f_": 47,
+        "sharon_levy_f_": 52,
+        "christopher_r_hanusa_m_": 29,
+        "maximillian_morquecho_m_": 26,
+        "scattered": 0
+      },
+      "total": 209,
+      "winnerId": "melissa_ann_san_pedro_f_",
+      "margin": 1.4,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "28008": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 47,
+        "nina_kulkarni_f_": 48,
+        "sharon_levy_f_": 32,
+        "christopher_r_hanusa_m_": 36,
+        "maximillian_morquecho_m_": 23,
+        "scattered": 0
+      },
+      "total": 186,
+      "winnerId": "nina_kulkarni_f_",
+      "margin": 0.5,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "28009": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 57,
+        "nina_kulkarni_f_": 42,
+        "sharon_levy_f_": 33,
+        "christopher_r_hanusa_m_": 25,
+        "maximillian_morquecho_m_": 14,
+        "scattered": 1
+      },
+      "total": 172,
+      "winnerId": "melissa_ann_san_pedro_f_",
+      "margin": 8.7,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "28011": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 34,
+        "nina_kulkarni_f_": 14,
+        "sharon_levy_f_": 25,
+        "christopher_r_hanusa_m_": 16,
+        "maximillian_morquecho_m_": 7,
+        "scattered": 0
+      },
+      "total": 96,
+      "winnerId": "melissa_ann_san_pedro_f_",
+      "margin": 9.4,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "28012": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 25,
+        "nina_kulkarni_f_": 26,
+        "sharon_levy_f_": 13,
+        "christopher_r_hanusa_m_": 10,
+        "maximillian_morquecho_m_": 3,
+        "scattered": 0
+      },
+      "total": 77,
+      "winnerId": "nina_kulkarni_f_",
+      "margin": 1.3,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "28013": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 27,
+        "nina_kulkarni_f_": 18,
+        "sharon_levy_f_": 10,
+        "christopher_r_hanusa_m_": 10,
+        "maximillian_morquecho_m_": 7,
+        "scattered": 0
+      },
+      "total": 72,
+      "winnerId": "melissa_ann_san_pedro_f_",
+      "margin": 12.5,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "28014": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 33,
+        "nina_kulkarni_f_": 17,
+        "sharon_levy_f_": 18,
+        "christopher_r_hanusa_m_": 9,
+        "maximillian_morquecho_m_": 12,
+        "scattered": 0
+      },
+      "total": 89,
+      "winnerId": "melissa_ann_san_pedro_f_",
+      "margin": 16.9,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "28015": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 32,
+        "nina_kulkarni_f_": 25,
+        "sharon_levy_f_": 22,
+        "christopher_r_hanusa_m_": 21,
+        "maximillian_morquecho_m_": 13,
+        "scattered": 0
+      },
+      "total": 113,
+      "winnerId": "melissa_ann_san_pedro_f_",
+      "margin": 6.2,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "28016": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 0,
+        "nina_kulkarni_f_": 0,
+        "sharon_levy_f_": 0,
+        "christopher_r_hanusa_m_": 0,
+        "maximillian_morquecho_m_": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "melissa_ann_san_pedro_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "28017": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 2,
+        "nina_kulkarni_f_": 2,
+        "sharon_levy_f_": 0,
+        "christopher_r_hanusa_m_": 0,
+        "maximillian_morquecho_m_": 0,
+        "scattered": 0
+      },
+      "total": 4,
+      "winnerId": "melissa_ann_san_pedro_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "28018": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 13,
+        "nina_kulkarni_f_": 8,
+        "sharon_levy_f_": 22,
+        "christopher_r_hanusa_m_": 8,
+        "maximillian_morquecho_m_": 13,
+        "scattered": 0
+      },
+      "total": 64,
+      "winnerId": "sharon_levy_f_",
+      "margin": 14.1,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "28019": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 64,
+        "nina_kulkarni_f_": 28,
+        "sharon_levy_f_": 13,
+        "christopher_r_hanusa_m_": 39,
+        "maximillian_morquecho_m_": 11,
+        "scattered": 1
+      },
+      "total": 156,
+      "winnerId": "melissa_ann_san_pedro_f_",
+      "margin": 16,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "28024": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 39,
+        "nina_kulkarni_f_": 33,
+        "sharon_levy_f_": 22,
+        "christopher_r_hanusa_m_": 21,
+        "maximillian_morquecho_m_": 13,
+        "scattered": 2
+      },
+      "total": 130,
+      "winnerId": "melissa_ann_san_pedro_f_",
+      "margin": 4.6,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "28027": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 22,
+        "nina_kulkarni_f_": 20,
+        "sharon_levy_f_": 13,
+        "christopher_r_hanusa_m_": 7,
+        "maximillian_morquecho_m_": 5,
+        "scattered": 2
+      },
+      "total": 69,
+      "winnerId": "melissa_ann_san_pedro_f_",
+      "margin": 2.9,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "28028": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 44,
+        "nina_kulkarni_f_": 34,
+        "sharon_levy_f_": 16,
+        "christopher_r_hanusa_m_": 22,
+        "maximillian_morquecho_m_": 8,
+        "scattered": 0
+      },
+      "total": 124,
+      "winnerId": "melissa_ann_san_pedro_f_",
+      "margin": 8.1,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "28029": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 95,
+        "nina_kulkarni_f_": 62,
+        "sharon_levy_f_": 44,
+        "christopher_r_hanusa_m_": 57,
+        "maximillian_morquecho_m_": 16,
+        "scattered": 3
+      },
+      "total": 277,
+      "winnerId": "melissa_ann_san_pedro_f_",
+      "margin": 11.9,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "28030": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 100,
+        "nina_kulkarni_f_": 81,
+        "sharon_levy_f_": 89,
+        "christopher_r_hanusa_m_": 53,
+        "maximillian_morquecho_m_": 36,
+        "scattered": 2
+      },
+      "total": 361,
+      "winnerId": "melissa_ann_san_pedro_f_",
+      "margin": 3,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "28031": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 123,
+        "nina_kulkarni_f_": 97,
+        "sharon_levy_f_": 63,
+        "christopher_r_hanusa_m_": 78,
+        "maximillian_morquecho_m_": 14,
+        "scattered": 2
+      },
+      "total": 377,
+      "winnerId": "melissa_ann_san_pedro_f_",
+      "margin": 6.9,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "28032": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 203,
+        "nina_kulkarni_f_": 118,
+        "sharon_levy_f_": 101,
+        "christopher_r_hanusa_m_": 129,
+        "maximillian_morquecho_m_": 40,
+        "scattered": 7
+      },
+      "total": 598,
+      "winnerId": "melissa_ann_san_pedro_f_",
+      "margin": 12.4,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "28033": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 147,
+        "nina_kulkarni_f_": 95,
+        "sharon_levy_f_": 60,
+        "christopher_r_hanusa_m_": 87,
+        "maximillian_morquecho_m_": 20,
+        "scattered": 1
+      },
+      "total": 410,
+      "winnerId": "melissa_ann_san_pedro_f_",
+      "margin": 12.7,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "28034": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 74,
+        "nina_kulkarni_f_": 58,
+        "sharon_levy_f_": 51,
+        "christopher_r_hanusa_m_": 38,
+        "maximillian_morquecho_m_": 12,
+        "scattered": 1
+      },
+      "total": 234,
+      "winnerId": "melissa_ann_san_pedro_f_",
+      "margin": 6.8,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "28052": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 68,
+        "nina_kulkarni_f_": 64,
+        "sharon_levy_f_": 69,
+        "christopher_r_hanusa_m_": 39,
+        "maximillian_morquecho_m_": 18,
+        "scattered": 1
+      },
+      "total": 259,
+      "winnerId": "sharon_levy_f_",
+      "margin": 0.4,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "28053": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 149,
+        "nina_kulkarni_f_": 85,
+        "sharon_levy_f_": 85,
+        "christopher_r_hanusa_m_": 87,
+        "maximillian_morquecho_m_": 30,
+        "scattered": 3
+      },
+      "total": 439,
+      "winnerId": "melissa_ann_san_pedro_f_",
+      "margin": 14.1,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "28054": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 103,
+        "nina_kulkarni_f_": 76,
+        "sharon_levy_f_": 75,
+        "christopher_r_hanusa_m_": 69,
+        "maximillian_morquecho_m_": 39,
+        "scattered": 0
+      },
+      "total": 362,
+      "winnerId": "melissa_ann_san_pedro_f_",
+      "margin": 7.5,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "28055": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 97,
+        "nina_kulkarni_f_": 50,
+        "sharon_levy_f_": 85,
+        "christopher_r_hanusa_m_": 59,
+        "maximillian_morquecho_m_": 50,
+        "scattered": 0
+      },
+      "total": 341,
+      "winnerId": "melissa_ann_san_pedro_f_",
+      "margin": 3.5,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "28056": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 65,
+        "nina_kulkarni_f_": 44,
+        "sharon_levy_f_": 48,
+        "christopher_r_hanusa_m_": 40,
+        "maximillian_morquecho_m_": 24,
+        "scattered": 1
+      },
+      "total": 222,
+      "winnerId": "melissa_ann_san_pedro_f_",
+      "margin": 7.7,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "28057": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 75,
+        "nina_kulkarni_f_": 75,
+        "sharon_levy_f_": 51,
+        "christopher_r_hanusa_m_": 37,
+        "maximillian_morquecho_m_": 14,
+        "scattered": 6
+      },
+      "total": 258,
+      "winnerId": "melissa_ann_san_pedro_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "28064": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 9,
+        "nina_kulkarni_f_": 6,
+        "sharon_levy_f_": 11,
+        "christopher_r_hanusa_m_": 6,
+        "maximillian_morquecho_m_": 3,
+        "scattered": 0
+      },
+      "total": 35,
+      "winnerId": "sharon_levy_f_",
+      "margin": 5.7,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "28065": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 24,
+        "nina_kulkarni_f_": 13,
+        "sharon_levy_f_": 11,
+        "christopher_r_hanusa_m_": 15,
+        "maximillian_morquecho_m_": 4,
+        "scattered": 1
+      },
+      "total": 68,
+      "winnerId": "melissa_ann_san_pedro_f_",
+      "margin": 13.2,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "28066": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 29,
+        "nina_kulkarni_f_": 16,
+        "sharon_levy_f_": 19,
+        "christopher_r_hanusa_m_": 22,
+        "maximillian_morquecho_m_": 7,
+        "scattered": 2
+      },
+      "total": 95,
+      "winnerId": "melissa_ann_san_pedro_f_",
+      "margin": 7.4,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "28067": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 8,
+        "nina_kulkarni_f_": 4,
+        "sharon_levy_f_": 7,
+        "christopher_r_hanusa_m_": 2,
+        "maximillian_morquecho_m_": 0,
+        "scattered": 0
+      },
+      "total": 21,
+      "winnerId": "melissa_ann_san_pedro_f_",
+      "margin": 4.8,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "28069": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 25,
+        "nina_kulkarni_f_": 21,
+        "sharon_levy_f_": 20,
+        "christopher_r_hanusa_m_": 19,
+        "maximillian_morquecho_m_": 9,
+        "scattered": 1
+      },
+      "total": 95,
+      "winnerId": "melissa_ann_san_pedro_f_",
+      "margin": 4.2,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "28071": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 6,
+        "nina_kulkarni_f_": 13,
+        "sharon_levy_f_": 7,
+        "christopher_r_hanusa_m_": 3,
+        "maximillian_morquecho_m_": 3,
+        "scattered": 0
+      },
+      "total": 32,
+      "winnerId": "nina_kulkarni_f_",
+      "margin": 18.8,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "28072": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 50,
+        "nina_kulkarni_f_": 30,
+        "sharon_levy_f_": 22,
+        "christopher_r_hanusa_m_": 30,
+        "maximillian_morquecho_m_": 2,
+        "scattered": 2
+      },
+      "total": 136,
+      "winnerId": "melissa_ann_san_pedro_f_",
+      "margin": 14.7,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "28073": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 0,
+        "nina_kulkarni_f_": 0,
+        "sharon_levy_f_": 0,
+        "christopher_r_hanusa_m_": 0,
+        "maximillian_morquecho_m_": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "melissa_ann_san_pedro_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "28075": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 0,
+        "nina_kulkarni_f_": 0,
+        "sharon_levy_f_": 0,
+        "christopher_r_hanusa_m_": 0,
+        "maximillian_morquecho_m_": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "melissa_ann_san_pedro_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "28/001": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 18,
+        "nina_kulkarni_f_": 10,
+        "sharon_levy_f_": 7,
+        "christopher_r_hanusa_m_": 14,
+        "maximillian_morquecho_m_": 4,
+        "scattered": 0
+      },
+      "total": 53,
+      "winnerId": "melissa_ann_san_pedro_f_",
+      "margin": 7.5,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "28/002": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 122,
+        "nina_kulkarni_f_": 110,
+        "sharon_levy_f_": 60,
+        "christopher_r_hanusa_m_": 58,
+        "maximillian_morquecho_m_": 30,
+        "scattered": 3
+      },
+      "total": 383,
+      "winnerId": "melissa_ann_san_pedro_f_",
+      "margin": 3.1,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "28/003": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 85,
+        "nina_kulkarni_f_": 125,
+        "sharon_levy_f_": 65,
+        "christopher_r_hanusa_m_": 62,
+        "maximillian_morquecho_m_": 23,
+        "scattered": 3
+      },
+      "total": 363,
+      "winnerId": "nina_kulkarni_f_",
+      "margin": 11,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "28/004": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 96,
+        "nina_kulkarni_f_": 64,
+        "sharon_levy_f_": 47,
+        "christopher_r_hanusa_m_": 44,
+        "maximillian_morquecho_m_": 16,
+        "scattered": 1
+      },
+      "total": 268,
+      "winnerId": "melissa_ann_san_pedro_f_",
+      "margin": 11.9,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "28/005": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 6,
+        "nina_kulkarni_f_": 4,
+        "sharon_levy_f_": 4,
+        "christopher_r_hanusa_m_": 4,
+        "maximillian_morquecho_m_": 3,
+        "scattered": 0
+      },
+      "total": 21,
+      "winnerId": "melissa_ann_san_pedro_f_",
+      "margin": 9.5,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "28/006": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 10,
+        "nina_kulkarni_f_": 10,
+        "sharon_levy_f_": 16,
+        "christopher_r_hanusa_m_": 9,
+        "maximillian_morquecho_m_": 14,
+        "scattered": 3
+      },
+      "total": 62,
+      "winnerId": "sharon_levy_f_",
+      "margin": 3.2,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "28/007": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 55,
+        "nina_kulkarni_f_": 47,
+        "sharon_levy_f_": 52,
+        "christopher_r_hanusa_m_": 29,
+        "maximillian_morquecho_m_": 26,
+        "scattered": 0
+      },
+      "total": 209,
+      "winnerId": "melissa_ann_san_pedro_f_",
+      "margin": 1.4,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "28/008": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 47,
+        "nina_kulkarni_f_": 48,
+        "sharon_levy_f_": 32,
+        "christopher_r_hanusa_m_": 36,
+        "maximillian_morquecho_m_": 23,
+        "scattered": 0
+      },
+      "total": 186,
+      "winnerId": "nina_kulkarni_f_",
+      "margin": 0.5,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "28/009": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 57,
+        "nina_kulkarni_f_": 42,
+        "sharon_levy_f_": 33,
+        "christopher_r_hanusa_m_": 25,
+        "maximillian_morquecho_m_": 14,
+        "scattered": 1
+      },
+      "total": 172,
+      "winnerId": "melissa_ann_san_pedro_f_",
+      "margin": 8.7,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "28/011": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 34,
+        "nina_kulkarni_f_": 14,
+        "sharon_levy_f_": 25,
+        "christopher_r_hanusa_m_": 16,
+        "maximillian_morquecho_m_": 7,
+        "scattered": 0
+      },
+      "total": 96,
+      "winnerId": "melissa_ann_san_pedro_f_",
+      "margin": 9.4,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "28/012": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 25,
+        "nina_kulkarni_f_": 26,
+        "sharon_levy_f_": 13,
+        "christopher_r_hanusa_m_": 10,
+        "maximillian_morquecho_m_": 3,
+        "scattered": 0
+      },
+      "total": 77,
+      "winnerId": "nina_kulkarni_f_",
+      "margin": 1.3,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "28/013": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 27,
+        "nina_kulkarni_f_": 18,
+        "sharon_levy_f_": 10,
+        "christopher_r_hanusa_m_": 10,
+        "maximillian_morquecho_m_": 7,
+        "scattered": 0
+      },
+      "total": 72,
+      "winnerId": "melissa_ann_san_pedro_f_",
+      "margin": 12.5,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "28/014": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 33,
+        "nina_kulkarni_f_": 17,
+        "sharon_levy_f_": 18,
+        "christopher_r_hanusa_m_": 9,
+        "maximillian_morquecho_m_": 12,
+        "scattered": 0
+      },
+      "total": 89,
+      "winnerId": "melissa_ann_san_pedro_f_",
+      "margin": 16.9,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "28/015": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 32,
+        "nina_kulkarni_f_": 25,
+        "sharon_levy_f_": 22,
+        "christopher_r_hanusa_m_": 21,
+        "maximillian_morquecho_m_": 13,
+        "scattered": 0
+      },
+      "total": 113,
+      "winnerId": "melissa_ann_san_pedro_f_",
+      "margin": 6.2,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "28/016": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 0,
+        "nina_kulkarni_f_": 0,
+        "sharon_levy_f_": 0,
+        "christopher_r_hanusa_m_": 0,
+        "maximillian_morquecho_m_": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "melissa_ann_san_pedro_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "28/017": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 2,
+        "nina_kulkarni_f_": 2,
+        "sharon_levy_f_": 0,
+        "christopher_r_hanusa_m_": 0,
+        "maximillian_morquecho_m_": 0,
+        "scattered": 0
+      },
+      "total": 4,
+      "winnerId": "melissa_ann_san_pedro_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "28/018": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 13,
+        "nina_kulkarni_f_": 8,
+        "sharon_levy_f_": 22,
+        "christopher_r_hanusa_m_": 8,
+        "maximillian_morquecho_m_": 13,
+        "scattered": 0
+      },
+      "total": 64,
+      "winnerId": "sharon_levy_f_",
+      "margin": 14.1,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "28/019": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 64,
+        "nina_kulkarni_f_": 28,
+        "sharon_levy_f_": 13,
+        "christopher_r_hanusa_m_": 39,
+        "maximillian_morquecho_m_": 11,
+        "scattered": 1
+      },
+      "total": 156,
+      "winnerId": "melissa_ann_san_pedro_f_",
+      "margin": 16,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "28/024": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 39,
+        "nina_kulkarni_f_": 33,
+        "sharon_levy_f_": 22,
+        "christopher_r_hanusa_m_": 21,
+        "maximillian_morquecho_m_": 13,
+        "scattered": 2
+      },
+      "total": 130,
+      "winnerId": "melissa_ann_san_pedro_f_",
+      "margin": 4.6,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "28/027": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 22,
+        "nina_kulkarni_f_": 20,
+        "sharon_levy_f_": 13,
+        "christopher_r_hanusa_m_": 7,
+        "maximillian_morquecho_m_": 5,
+        "scattered": 2
+      },
+      "total": 69,
+      "winnerId": "melissa_ann_san_pedro_f_",
+      "margin": 2.9,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "28/028": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 44,
+        "nina_kulkarni_f_": 34,
+        "sharon_levy_f_": 16,
+        "christopher_r_hanusa_m_": 22,
+        "maximillian_morquecho_m_": 8,
+        "scattered": 0
+      },
+      "total": 124,
+      "winnerId": "melissa_ann_san_pedro_f_",
+      "margin": 8.1,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "28/029": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 95,
+        "nina_kulkarni_f_": 62,
+        "sharon_levy_f_": 44,
+        "christopher_r_hanusa_m_": 57,
+        "maximillian_morquecho_m_": 16,
+        "scattered": 3
+      },
+      "total": 277,
+      "winnerId": "melissa_ann_san_pedro_f_",
+      "margin": 11.9,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "28/030": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 100,
+        "nina_kulkarni_f_": 81,
+        "sharon_levy_f_": 89,
+        "christopher_r_hanusa_m_": 53,
+        "maximillian_morquecho_m_": 36,
+        "scattered": 2
+      },
+      "total": 361,
+      "winnerId": "melissa_ann_san_pedro_f_",
+      "margin": 3,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "28/031": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 123,
+        "nina_kulkarni_f_": 97,
+        "sharon_levy_f_": 63,
+        "christopher_r_hanusa_m_": 78,
+        "maximillian_morquecho_m_": 14,
+        "scattered": 2
+      },
+      "total": 377,
+      "winnerId": "melissa_ann_san_pedro_f_",
+      "margin": 6.9,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "28/032": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 203,
+        "nina_kulkarni_f_": 118,
+        "sharon_levy_f_": 101,
+        "christopher_r_hanusa_m_": 129,
+        "maximillian_morquecho_m_": 40,
+        "scattered": 7
+      },
+      "total": 598,
+      "winnerId": "melissa_ann_san_pedro_f_",
+      "margin": 12.4,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "28/033": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 147,
+        "nina_kulkarni_f_": 95,
+        "sharon_levy_f_": 60,
+        "christopher_r_hanusa_m_": 87,
+        "maximillian_morquecho_m_": 20,
+        "scattered": 1
+      },
+      "total": 410,
+      "winnerId": "melissa_ann_san_pedro_f_",
+      "margin": 12.7,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "28/034": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 74,
+        "nina_kulkarni_f_": 58,
+        "sharon_levy_f_": 51,
+        "christopher_r_hanusa_m_": 38,
+        "maximillian_morquecho_m_": 12,
+        "scattered": 1
+      },
+      "total": 234,
+      "winnerId": "melissa_ann_san_pedro_f_",
+      "margin": 6.8,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "28/052": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 68,
+        "nina_kulkarni_f_": 64,
+        "sharon_levy_f_": 69,
+        "christopher_r_hanusa_m_": 39,
+        "maximillian_morquecho_m_": 18,
+        "scattered": 1
+      },
+      "total": 259,
+      "winnerId": "sharon_levy_f_",
+      "margin": 0.4,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "28/053": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 149,
+        "nina_kulkarni_f_": 85,
+        "sharon_levy_f_": 85,
+        "christopher_r_hanusa_m_": 87,
+        "maximillian_morquecho_m_": 30,
+        "scattered": 3
+      },
+      "total": 439,
+      "winnerId": "melissa_ann_san_pedro_f_",
+      "margin": 14.1,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "28/054": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 103,
+        "nina_kulkarni_f_": 76,
+        "sharon_levy_f_": 75,
+        "christopher_r_hanusa_m_": 69,
+        "maximillian_morquecho_m_": 39,
+        "scattered": 0
+      },
+      "total": 362,
+      "winnerId": "melissa_ann_san_pedro_f_",
+      "margin": 7.5,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "28/055": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 97,
+        "nina_kulkarni_f_": 50,
+        "sharon_levy_f_": 85,
+        "christopher_r_hanusa_m_": 59,
+        "maximillian_morquecho_m_": 50,
+        "scattered": 0
+      },
+      "total": 341,
+      "winnerId": "melissa_ann_san_pedro_f_",
+      "margin": 3.5,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "28/056": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 65,
+        "nina_kulkarni_f_": 44,
+        "sharon_levy_f_": 48,
+        "christopher_r_hanusa_m_": 40,
+        "maximillian_morquecho_m_": 24,
+        "scattered": 1
+      },
+      "total": 222,
+      "winnerId": "melissa_ann_san_pedro_f_",
+      "margin": 7.7,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "28/057": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 75,
+        "nina_kulkarni_f_": 75,
+        "sharon_levy_f_": 51,
+        "christopher_r_hanusa_m_": 37,
+        "maximillian_morquecho_m_": 14,
+        "scattered": 6
+      },
+      "total": 258,
+      "winnerId": "melissa_ann_san_pedro_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "28/064": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 9,
+        "nina_kulkarni_f_": 6,
+        "sharon_levy_f_": 11,
+        "christopher_r_hanusa_m_": 6,
+        "maximillian_morquecho_m_": 3,
+        "scattered": 0
+      },
+      "total": 35,
+      "winnerId": "sharon_levy_f_",
+      "margin": 5.7,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "28/065": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 24,
+        "nina_kulkarni_f_": 13,
+        "sharon_levy_f_": 11,
+        "christopher_r_hanusa_m_": 15,
+        "maximillian_morquecho_m_": 4,
+        "scattered": 1
+      },
+      "total": 68,
+      "winnerId": "melissa_ann_san_pedro_f_",
+      "margin": 13.2,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "28/066": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 29,
+        "nina_kulkarni_f_": 16,
+        "sharon_levy_f_": 19,
+        "christopher_r_hanusa_m_": 22,
+        "maximillian_morquecho_m_": 7,
+        "scattered": 2
+      },
+      "total": 95,
+      "winnerId": "melissa_ann_san_pedro_f_",
+      "margin": 7.4,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "28/067": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 8,
+        "nina_kulkarni_f_": 4,
+        "sharon_levy_f_": 7,
+        "christopher_r_hanusa_m_": 2,
+        "maximillian_morquecho_m_": 0,
+        "scattered": 0
+      },
+      "total": 21,
+      "winnerId": "melissa_ann_san_pedro_f_",
+      "margin": 4.8,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "28/069": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 25,
+        "nina_kulkarni_f_": 21,
+        "sharon_levy_f_": 20,
+        "christopher_r_hanusa_m_": 19,
+        "maximillian_morquecho_m_": 9,
+        "scattered": 1
+      },
+      "total": 95,
+      "winnerId": "melissa_ann_san_pedro_f_",
+      "margin": 4.2,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "28/071": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 6,
+        "nina_kulkarni_f_": 13,
+        "sharon_levy_f_": 7,
+        "christopher_r_hanusa_m_": 3,
+        "maximillian_morquecho_m_": 3,
+        "scattered": 0
+      },
+      "total": 32,
+      "winnerId": "nina_kulkarni_f_",
+      "margin": 18.8,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "28/072": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 50,
+        "nina_kulkarni_f_": 30,
+        "sharon_levy_f_": 22,
+        "christopher_r_hanusa_m_": 30,
+        "maximillian_morquecho_m_": 2,
+        "scattered": 2
+      },
+      "total": 136,
+      "winnerId": "melissa_ann_san_pedro_f_",
+      "margin": 14.7,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "28/073": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 0,
+        "nina_kulkarni_f_": 0,
+        "sharon_levy_f_": 0,
+        "christopher_r_hanusa_m_": 0,
+        "maximillian_morquecho_m_": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "melissa_ann_san_pedro_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "28/075": {
+      "votes": {
+        "melissa_ann_san_pedro_f_": 0,
+        "nina_kulkarni_f_": 0,
+        "sharon_levy_f_": 0,
+        "christopher_r_hanusa_m_": 0,
+        "maximillian_morquecho_m_": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "melissa_ann_san_pedro_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "melissa_ann_san_pedro_f_",
+          "name": "Melissa Ann San Pedro (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "nina_kulkarni_f_",
+          "name": "Nina Kulkarni (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sharon_levy_f_",
+          "name": "Sharon Levy (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "christopher_r_hanusa_m_",
+          "name": "Christopher R. Hanusa (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "maximillian_morquecho_m_",
+          "name": "Maximillian Morquecho (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    }
+  }
+}

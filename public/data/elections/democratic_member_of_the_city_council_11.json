@@ -1,0 +1,31 @@
+{
+  "id": "democratic_member_of_the_city_council_11",
+  "name": "2026 Primary - Member of the City Council District 11",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "City Council",
+  "districtKey": "11",
+  "districtType": "council",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "eric_dinowitz",
+      "name": "Eric Dinowitz",
+      "party": "Democratic",
+      "isIncumbent": true,
+      "color": "#2563eb"
+    }
+  ],
+  "results": {
+    "11": {
+      "votes": {
+        "uncontested_primary_council_11": 0
+      },
+      "total": 0,
+      "winnerId": "uncontested_primary_council_11",
+      "margin": 100,
+      "isUncontested": true
+    }
+  },
+  "edResults": {}
+}

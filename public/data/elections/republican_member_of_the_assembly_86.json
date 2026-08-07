@@ -1,0 +1,3238 @@
+{
+  "id": "republican_member_of_the_assembly_86",
+  "name": "2026 Primary - Member of the Assembly District 86",
+  "date": "2026-06-23",
+  "party": "Republican",
+  "officeCategory": "NY State Assembly",
+  "districtKey": "86",
+  "districtType": "assembly",
+  "isUncontested": false,
+  "candidates": [
+    {
+      "id": "maria_diaz",
+      "name": "Maria Diaz",
+      "party": "Republican",
+      "isIncumbent": false,
+      "color": "#d97706"
+    },
+    {
+      "id": "shery_a_olivo",
+      "name": "Shery A. Olivo",
+      "party": "Republican",
+      "isIncumbent": false,
+      "color": "#7c3aed"
+    },
+    {
+      "id": "scattered",
+      "name": "Scattered",
+      "party": "Republican",
+      "isIncumbent": false,
+      "color": "#059669"
+    }
+  ],
+  "results": {
+    "86": {
+      "votes": {
+        "maria_diaz": 122,
+        "shery_a_olivo": 76,
+        "scattered": 8
+      },
+      "total": 206,
+      "winnerId": "maria_diaz",
+      "margin": 22.3,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    }
+  },
+  "edResults": {
+    "86001": {
+      "votes": {
+        "maria_diaz": 3,
+        "shery_a_olivo": 1,
+        "scattered": 1
+      },
+      "total": 5,
+      "winnerId": "maria_diaz",
+      "margin": 40,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86002": {
+      "votes": {
+        "maria_diaz": 1,
+        "shery_a_olivo": 1,
+        "scattered": 0
+      },
+      "total": 2,
+      "winnerId": "maria_diaz",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86003": {
+      "votes": {
+        "maria_diaz": 2,
+        "shery_a_olivo": 2,
+        "scattered": 0
+      },
+      "total": 4,
+      "winnerId": "maria_diaz",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86004": {
+      "votes": {
+        "maria_diaz": 2,
+        "shery_a_olivo": 1,
+        "scattered": 0
+      },
+      "total": 3,
+      "winnerId": "maria_diaz",
+      "margin": 33.3,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86005": {
+      "votes": {
+        "maria_diaz": 1,
+        "shery_a_olivo": 0,
+        "scattered": 0
+      },
+      "total": 1,
+      "winnerId": "maria_diaz",
+      "margin": 100,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86006": {
+      "votes": {
+        "maria_diaz": 1,
+        "shery_a_olivo": 2,
+        "scattered": 0
+      },
+      "total": 3,
+      "winnerId": "shery_a_olivo",
+      "margin": 33.3,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86007": {
+      "votes": {
+        "maria_diaz": 14,
+        "shery_a_olivo": 2,
+        "scattered": 0
+      },
+      "total": 16,
+      "winnerId": "maria_diaz",
+      "margin": 75,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86008": {
+      "votes": {
+        "maria_diaz": 2,
+        "shery_a_olivo": 2,
+        "scattered": 0
+      },
+      "total": 4,
+      "winnerId": "maria_diaz",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86009": {
+      "votes": {
+        "maria_diaz": 4,
+        "shery_a_olivo": 7,
+        "scattered": 1
+      },
+      "total": 12,
+      "winnerId": "shery_a_olivo",
+      "margin": 25,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86010": {
+      "votes": {
+        "maria_diaz": 7,
+        "shery_a_olivo": 4,
+        "scattered": 0
+      },
+      "total": 11,
+      "winnerId": "maria_diaz",
+      "margin": 27.3,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86011": {
+      "votes": {
+        "maria_diaz": 0,
+        "shery_a_olivo": 1,
+        "scattered": 0
+      },
+      "total": 1,
+      "winnerId": "shery_a_olivo",
+      "margin": 100,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86012": {
+      "votes": {
+        "maria_diaz": 1,
+        "shery_a_olivo": 0,
+        "scattered": 0
+      },
+      "total": 1,
+      "winnerId": "maria_diaz",
+      "margin": 100,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86013": {
+      "votes": {
+        "maria_diaz": 4,
+        "shery_a_olivo": 5,
+        "scattered": 0
+      },
+      "total": 9,
+      "winnerId": "shery_a_olivo",
+      "margin": 11.1,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86014": {
+      "votes": {
+        "maria_diaz": 1,
+        "shery_a_olivo": 1,
+        "scattered": 1
+      },
+      "total": 3,
+      "winnerId": "maria_diaz",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86015": {
+      "votes": {
+        "maria_diaz": 1,
+        "shery_a_olivo": 5,
+        "scattered": 0
+      },
+      "total": 6,
+      "winnerId": "shery_a_olivo",
+      "margin": 66.7,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86016": {
+      "votes": {
+        "maria_diaz": 2,
+        "shery_a_olivo": 2,
+        "scattered": 0
+      },
+      "total": 4,
+      "winnerId": "maria_diaz",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86017": {
+      "votes": {
+        "maria_diaz": 1,
+        "shery_a_olivo": 1,
+        "scattered": 2
+      },
+      "total": 4,
+      "winnerId": "scattered",
+      "margin": 25,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86018": {
+      "votes": {
+        "maria_diaz": 1,
+        "shery_a_olivo": 0,
+        "scattered": 2
+      },
+      "total": 3,
+      "winnerId": "scattered",
+      "margin": 33.3,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86019": {
+      "votes": {
+        "maria_diaz": 1,
+        "shery_a_olivo": 1,
+        "scattered": 0
+      },
+      "total": 2,
+      "winnerId": "maria_diaz",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86020": {
+      "votes": {
+        "maria_diaz": 1,
+        "shery_a_olivo": 1,
+        "scattered": 0
+      },
+      "total": 2,
+      "winnerId": "maria_diaz",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86021": {
+      "votes": {
+        "maria_diaz": 2,
+        "shery_a_olivo": 3,
+        "scattered": 0
+      },
+      "total": 5,
+      "winnerId": "shery_a_olivo",
+      "margin": 20,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86022": {
+      "votes": {
+        "maria_diaz": 1,
+        "shery_a_olivo": 0,
+        "scattered": 0
+      },
+      "total": 1,
+      "winnerId": "maria_diaz",
+      "margin": 100,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86023": {
+      "votes": {
+        "maria_diaz": 3,
+        "shery_a_olivo": 0,
+        "scattered": 0
+      },
+      "total": 3,
+      "winnerId": "maria_diaz",
+      "margin": 100,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86024": {
+      "votes": {
+        "maria_diaz": 6,
+        "shery_a_olivo": 0,
+        "scattered": 0
+      },
+      "total": 6,
+      "winnerId": "maria_diaz",
+      "margin": 100,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86025": {
+      "votes": {
+        "maria_diaz": 4,
+        "shery_a_olivo": 1,
+        "scattered": 0
+      },
+      "total": 5,
+      "winnerId": "maria_diaz",
+      "margin": 60,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86026": {
+      "votes": {
+        "maria_diaz": 3,
+        "shery_a_olivo": 2,
+        "scattered": 0
+      },
+      "total": 5,
+      "winnerId": "maria_diaz",
+      "margin": 20,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86027": {
+      "votes": {
+        "maria_diaz": 0,
+        "shery_a_olivo": 4,
+        "scattered": 0
+      },
+      "total": 4,
+      "winnerId": "shery_a_olivo",
+      "margin": 100,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86028": {
+      "votes": {
+        "maria_diaz": 2,
+        "shery_a_olivo": 0,
+        "scattered": 0
+      },
+      "total": 2,
+      "winnerId": "maria_diaz",
+      "margin": 100,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86029": {
+      "votes": {
+        "maria_diaz": 1,
+        "shery_a_olivo": 3,
+        "scattered": 0
+      },
+      "total": 4,
+      "winnerId": "shery_a_olivo",
+      "margin": 50,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86030": {
+      "votes": {
+        "maria_diaz": 0,
+        "shery_a_olivo": 1,
+        "scattered": 0
+      },
+      "total": 1,
+      "winnerId": "shery_a_olivo",
+      "margin": 100,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86031": {
+      "votes": {
+        "maria_diaz": 2,
+        "shery_a_olivo": 0,
+        "scattered": 0
+      },
+      "total": 2,
+      "winnerId": "maria_diaz",
+      "margin": 100,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86032": {
+      "votes": {
+        "maria_diaz": 3,
+        "shery_a_olivo": 0,
+        "scattered": 0
+      },
+      "total": 3,
+      "winnerId": "maria_diaz",
+      "margin": 100,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86033": {
+      "votes": {
+        "maria_diaz": 6,
+        "shery_a_olivo": 1,
+        "scattered": 0
+      },
+      "total": 7,
+      "winnerId": "maria_diaz",
+      "margin": 71.4,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86034": {
+      "votes": {
+        "maria_diaz": 0,
+        "shery_a_olivo": 1,
+        "scattered": 0
+      },
+      "total": 1,
+      "winnerId": "shery_a_olivo",
+      "margin": 100,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86035": {
+      "votes": {
+        "maria_diaz": 1,
+        "shery_a_olivo": 1,
+        "scattered": 0
+      },
+      "total": 2,
+      "winnerId": "maria_diaz",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86036": {
+      "votes": {
+        "maria_diaz": 4,
+        "shery_a_olivo": 0,
+        "scattered": 0
+      },
+      "total": 4,
+      "winnerId": "maria_diaz",
+      "margin": 100,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86037": {
+      "votes": {
+        "maria_diaz": 1,
+        "shery_a_olivo": 0,
+        "scattered": 0
+      },
+      "total": 1,
+      "winnerId": "maria_diaz",
+      "margin": 100,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86038": {
+      "votes": {
+        "maria_diaz": 1,
+        "shery_a_olivo": 3,
+        "scattered": 0
+      },
+      "total": 4,
+      "winnerId": "shery_a_olivo",
+      "margin": 50,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86039": {
+      "votes": {
+        "maria_diaz": 7,
+        "shery_a_olivo": 0,
+        "scattered": 0
+      },
+      "total": 7,
+      "winnerId": "maria_diaz",
+      "margin": 100,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86040": {
+      "votes": {
+        "maria_diaz": 5,
+        "shery_a_olivo": 1,
+        "scattered": 0
+      },
+      "total": 6,
+      "winnerId": "maria_diaz",
+      "margin": 66.7,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86041": {
+      "votes": {
+        "maria_diaz": 2,
+        "shery_a_olivo": 1,
+        "scattered": 0
+      },
+      "total": 3,
+      "winnerId": "maria_diaz",
+      "margin": 33.3,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86042": {
+      "votes": {
+        "maria_diaz": 1,
+        "shery_a_olivo": 5,
+        "scattered": 1
+      },
+      "total": 7,
+      "winnerId": "shery_a_olivo",
+      "margin": 57.1,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86043": {
+      "votes": {
+        "maria_diaz": 4,
+        "shery_a_olivo": 7,
+        "scattered": 0
+      },
+      "total": 11,
+      "winnerId": "shery_a_olivo",
+      "margin": 27.3,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86044": {
+      "votes": {
+        "maria_diaz": 8,
+        "shery_a_olivo": 0,
+        "scattered": 0
+      },
+      "total": 8,
+      "winnerId": "maria_diaz",
+      "margin": 100,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86045": {
+      "votes": {
+        "maria_diaz": 0,
+        "shery_a_olivo": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "maria_diaz",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86046": {
+      "votes": {
+        "maria_diaz": 0,
+        "shery_a_olivo": 1,
+        "scattered": 0
+      },
+      "total": 1,
+      "winnerId": "shery_a_olivo",
+      "margin": 100,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86047": {
+      "votes": {
+        "maria_diaz": 3,
+        "shery_a_olivo": 2,
+        "scattered": 0
+      },
+      "total": 5,
+      "winnerId": "maria_diaz",
+      "margin": 20,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86048": {
+      "votes": {
+        "maria_diaz": 2,
+        "shery_a_olivo": 0,
+        "scattered": 0
+      },
+      "total": 2,
+      "winnerId": "maria_diaz",
+      "margin": 100,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86/001": {
+      "votes": {
+        "maria_diaz": 3,
+        "shery_a_olivo": 1,
+        "scattered": 1
+      },
+      "total": 5,
+      "winnerId": "maria_diaz",
+      "margin": 40,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86/002": {
+      "votes": {
+        "maria_diaz": 1,
+        "shery_a_olivo": 1,
+        "scattered": 0
+      },
+      "total": 2,
+      "winnerId": "maria_diaz",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86/003": {
+      "votes": {
+        "maria_diaz": 2,
+        "shery_a_olivo": 2,
+        "scattered": 0
+      },
+      "total": 4,
+      "winnerId": "maria_diaz",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86/004": {
+      "votes": {
+        "maria_diaz": 2,
+        "shery_a_olivo": 1,
+        "scattered": 0
+      },
+      "total": 3,
+      "winnerId": "maria_diaz",
+      "margin": 33.3,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86/005": {
+      "votes": {
+        "maria_diaz": 1,
+        "shery_a_olivo": 0,
+        "scattered": 0
+      },
+      "total": 1,
+      "winnerId": "maria_diaz",
+      "margin": 100,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86/006": {
+      "votes": {
+        "maria_diaz": 1,
+        "shery_a_olivo": 2,
+        "scattered": 0
+      },
+      "total": 3,
+      "winnerId": "shery_a_olivo",
+      "margin": 33.3,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86/007": {
+      "votes": {
+        "maria_diaz": 14,
+        "shery_a_olivo": 2,
+        "scattered": 0
+      },
+      "total": 16,
+      "winnerId": "maria_diaz",
+      "margin": 75,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86/008": {
+      "votes": {
+        "maria_diaz": 2,
+        "shery_a_olivo": 2,
+        "scattered": 0
+      },
+      "total": 4,
+      "winnerId": "maria_diaz",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86/009": {
+      "votes": {
+        "maria_diaz": 4,
+        "shery_a_olivo": 7,
+        "scattered": 1
+      },
+      "total": 12,
+      "winnerId": "shery_a_olivo",
+      "margin": 25,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86/010": {
+      "votes": {
+        "maria_diaz": 7,
+        "shery_a_olivo": 4,
+        "scattered": 0
+      },
+      "total": 11,
+      "winnerId": "maria_diaz",
+      "margin": 27.3,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86/011": {
+      "votes": {
+        "maria_diaz": 0,
+        "shery_a_olivo": 1,
+        "scattered": 0
+      },
+      "total": 1,
+      "winnerId": "shery_a_olivo",
+      "margin": 100,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86/012": {
+      "votes": {
+        "maria_diaz": 1,
+        "shery_a_olivo": 0,
+        "scattered": 0
+      },
+      "total": 1,
+      "winnerId": "maria_diaz",
+      "margin": 100,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86/013": {
+      "votes": {
+        "maria_diaz": 4,
+        "shery_a_olivo": 5,
+        "scattered": 0
+      },
+      "total": 9,
+      "winnerId": "shery_a_olivo",
+      "margin": 11.1,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86/014": {
+      "votes": {
+        "maria_diaz": 1,
+        "shery_a_olivo": 1,
+        "scattered": 1
+      },
+      "total": 3,
+      "winnerId": "maria_diaz",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86/015": {
+      "votes": {
+        "maria_diaz": 1,
+        "shery_a_olivo": 5,
+        "scattered": 0
+      },
+      "total": 6,
+      "winnerId": "shery_a_olivo",
+      "margin": 66.7,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86/016": {
+      "votes": {
+        "maria_diaz": 2,
+        "shery_a_olivo": 2,
+        "scattered": 0
+      },
+      "total": 4,
+      "winnerId": "maria_diaz",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86/017": {
+      "votes": {
+        "maria_diaz": 1,
+        "shery_a_olivo": 1,
+        "scattered": 2
+      },
+      "total": 4,
+      "winnerId": "scattered",
+      "margin": 25,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86/018": {
+      "votes": {
+        "maria_diaz": 1,
+        "shery_a_olivo": 0,
+        "scattered": 2
+      },
+      "total": 3,
+      "winnerId": "scattered",
+      "margin": 33.3,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86/019": {
+      "votes": {
+        "maria_diaz": 1,
+        "shery_a_olivo": 1,
+        "scattered": 0
+      },
+      "total": 2,
+      "winnerId": "maria_diaz",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86/020": {
+      "votes": {
+        "maria_diaz": 1,
+        "shery_a_olivo": 1,
+        "scattered": 0
+      },
+      "total": 2,
+      "winnerId": "maria_diaz",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86/021": {
+      "votes": {
+        "maria_diaz": 2,
+        "shery_a_olivo": 3,
+        "scattered": 0
+      },
+      "total": 5,
+      "winnerId": "shery_a_olivo",
+      "margin": 20,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86/022": {
+      "votes": {
+        "maria_diaz": 1,
+        "shery_a_olivo": 0,
+        "scattered": 0
+      },
+      "total": 1,
+      "winnerId": "maria_diaz",
+      "margin": 100,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86/023": {
+      "votes": {
+        "maria_diaz": 3,
+        "shery_a_olivo": 0,
+        "scattered": 0
+      },
+      "total": 3,
+      "winnerId": "maria_diaz",
+      "margin": 100,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86/024": {
+      "votes": {
+        "maria_diaz": 6,
+        "shery_a_olivo": 0,
+        "scattered": 0
+      },
+      "total": 6,
+      "winnerId": "maria_diaz",
+      "margin": 100,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86/025": {
+      "votes": {
+        "maria_diaz": 4,
+        "shery_a_olivo": 1,
+        "scattered": 0
+      },
+      "total": 5,
+      "winnerId": "maria_diaz",
+      "margin": 60,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86/026": {
+      "votes": {
+        "maria_diaz": 3,
+        "shery_a_olivo": 2,
+        "scattered": 0
+      },
+      "total": 5,
+      "winnerId": "maria_diaz",
+      "margin": 20,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86/027": {
+      "votes": {
+        "maria_diaz": 0,
+        "shery_a_olivo": 4,
+        "scattered": 0
+      },
+      "total": 4,
+      "winnerId": "shery_a_olivo",
+      "margin": 100,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86/028": {
+      "votes": {
+        "maria_diaz": 2,
+        "shery_a_olivo": 0,
+        "scattered": 0
+      },
+      "total": 2,
+      "winnerId": "maria_diaz",
+      "margin": 100,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86/029": {
+      "votes": {
+        "maria_diaz": 1,
+        "shery_a_olivo": 3,
+        "scattered": 0
+      },
+      "total": 4,
+      "winnerId": "shery_a_olivo",
+      "margin": 50,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86/030": {
+      "votes": {
+        "maria_diaz": 0,
+        "shery_a_olivo": 1,
+        "scattered": 0
+      },
+      "total": 1,
+      "winnerId": "shery_a_olivo",
+      "margin": 100,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86/031": {
+      "votes": {
+        "maria_diaz": 2,
+        "shery_a_olivo": 0,
+        "scattered": 0
+      },
+      "total": 2,
+      "winnerId": "maria_diaz",
+      "margin": 100,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86/032": {
+      "votes": {
+        "maria_diaz": 3,
+        "shery_a_olivo": 0,
+        "scattered": 0
+      },
+      "total": 3,
+      "winnerId": "maria_diaz",
+      "margin": 100,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86/033": {
+      "votes": {
+        "maria_diaz": 6,
+        "shery_a_olivo": 1,
+        "scattered": 0
+      },
+      "total": 7,
+      "winnerId": "maria_diaz",
+      "margin": 71.4,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86/034": {
+      "votes": {
+        "maria_diaz": 0,
+        "shery_a_olivo": 1,
+        "scattered": 0
+      },
+      "total": 1,
+      "winnerId": "shery_a_olivo",
+      "margin": 100,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86/035": {
+      "votes": {
+        "maria_diaz": 1,
+        "shery_a_olivo": 1,
+        "scattered": 0
+      },
+      "total": 2,
+      "winnerId": "maria_diaz",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86/036": {
+      "votes": {
+        "maria_diaz": 4,
+        "shery_a_olivo": 0,
+        "scattered": 0
+      },
+      "total": 4,
+      "winnerId": "maria_diaz",
+      "margin": 100,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86/037": {
+      "votes": {
+        "maria_diaz": 1,
+        "shery_a_olivo": 0,
+        "scattered": 0
+      },
+      "total": 1,
+      "winnerId": "maria_diaz",
+      "margin": 100,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86/038": {
+      "votes": {
+        "maria_diaz": 1,
+        "shery_a_olivo": 3,
+        "scattered": 0
+      },
+      "total": 4,
+      "winnerId": "shery_a_olivo",
+      "margin": 50,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86/039": {
+      "votes": {
+        "maria_diaz": 7,
+        "shery_a_olivo": 0,
+        "scattered": 0
+      },
+      "total": 7,
+      "winnerId": "maria_diaz",
+      "margin": 100,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86/040": {
+      "votes": {
+        "maria_diaz": 5,
+        "shery_a_olivo": 1,
+        "scattered": 0
+      },
+      "total": 6,
+      "winnerId": "maria_diaz",
+      "margin": 66.7,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86/041": {
+      "votes": {
+        "maria_diaz": 2,
+        "shery_a_olivo": 1,
+        "scattered": 0
+      },
+      "total": 3,
+      "winnerId": "maria_diaz",
+      "margin": 33.3,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86/042": {
+      "votes": {
+        "maria_diaz": 1,
+        "shery_a_olivo": 5,
+        "scattered": 1
+      },
+      "total": 7,
+      "winnerId": "shery_a_olivo",
+      "margin": 57.1,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86/043": {
+      "votes": {
+        "maria_diaz": 4,
+        "shery_a_olivo": 7,
+        "scattered": 0
+      },
+      "total": 11,
+      "winnerId": "shery_a_olivo",
+      "margin": 27.3,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86/044": {
+      "votes": {
+        "maria_diaz": 8,
+        "shery_a_olivo": 0,
+        "scattered": 0
+      },
+      "total": 8,
+      "winnerId": "maria_diaz",
+      "margin": 100,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86/045": {
+      "votes": {
+        "maria_diaz": 0,
+        "shery_a_olivo": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "maria_diaz",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86/046": {
+      "votes": {
+        "maria_diaz": 0,
+        "shery_a_olivo": 1,
+        "scattered": 0
+      },
+      "total": 1,
+      "winnerId": "shery_a_olivo",
+      "margin": 100,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86/047": {
+      "votes": {
+        "maria_diaz": 3,
+        "shery_a_olivo": 2,
+        "scattered": 0
+      },
+      "total": 5,
+      "winnerId": "maria_diaz",
+      "margin": 20,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "86/048": {
+      "votes": {
+        "maria_diaz": 2,
+        "shery_a_olivo": 0,
+        "scattered": 0
+      },
+      "total": 2,
+      "winnerId": "maria_diaz",
+      "margin": 100,
+      "candidates": [
+        {
+          "id": "maria_diaz",
+          "name": "Maria Diaz",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "shery_a_olivo",
+          "name": "Shery A. Olivo",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    }
+  }
+}

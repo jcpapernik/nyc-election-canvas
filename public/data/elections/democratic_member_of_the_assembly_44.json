@@ -1,0 +1,31 @@
+{
+  "id": "democratic_member_of_the_assembly_44",
+  "name": "2026 Primary - Member of the Assembly District 44",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "State Assembly",
+  "districtKey": "44",
+  "districtType": "assembly",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "robert_carroll",
+      "name": "Robert Carroll",
+      "party": "Democratic",
+      "isIncumbent": true,
+      "color": "#2563eb"
+    }
+  ],
+  "results": {
+    "44": {
+      "votes": {
+        "uncontested_primary_assembly_44": 0
+      },
+      "total": 0,
+      "winnerId": "uncontested_primary_assembly_44",
+      "margin": 100,
+      "isUncontested": true
+    }
+  },
+  "edResults": {}
+}

@@ -1,0 +1,260 @@
+{
+  "id": "democratic_county_committee_52024",
+  "name": "2026 Primary - County Committee District 52024",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "Judicial & Party Offices",
+  "districtKey": "52024",
+  "districtType": "congressional",
+  "isUncontested": false,
+  "candidates": [
+    {
+      "id": "david_s_yassky",
+      "name": "David S. Yassky",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#d97706"
+    },
+    {
+      "id": "hans_s_zhou",
+      "name": "Hans S. Zhou",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#7c3aed"
+    },
+    {
+      "id": "thomas_l_mcmahon",
+      "name": "Thomas L. McMahon",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#059669"
+    },
+    {
+      "id": "leo_t_mcmahon",
+      "name": "Leo T. McMahon",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#0891b2"
+    },
+    {
+      "id": "sabrina_rezzy",
+      "name": "Sabrina Rezzy",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#4f46e5"
+    },
+    {
+      "id": "david_mansur",
+      "name": "David Mansur",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#db2777"
+    },
+    {
+      "id": "scattered",
+      "name": "Scattered",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#64748b"
+    }
+  ],
+  "results": {
+    "52024": {
+      "votes": {
+        "david_s_yassky": 167,
+        "hans_s_zhou": 139,
+        "thomas_l_mcmahon": 130,
+        "leo_t_mcmahon": 117,
+        "sabrina_rezzy": 93,
+        "david_mansur": 58,
+        "scattered": 8
+      },
+      "total": 712,
+      "winnerId": "david_s_yassky",
+      "margin": 3.9,
+      "candidates": [
+        {
+          "id": "david_s_yassky",
+          "name": "David S. Yassky",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hans_s_zhou",
+          "name": "Hans S. Zhou",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "thomas_l_mcmahon",
+          "name": "Thomas L. McMahon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "leo_t_mcmahon",
+          "name": "Leo T. McMahon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "sabrina_rezzy",
+          "name": "Sabrina Rezzy",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "david_mansur",
+          "name": "David Mansur",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#64748b"
+        }
+      ]
+    }
+  },
+  "edResults": {
+    "52024": {
+      "votes": {
+        "david_s_yassky": 167,
+        "hans_s_zhou": 139,
+        "thomas_l_mcmahon": 130,
+        "leo_t_mcmahon": 117,
+        "sabrina_rezzy": 93,
+        "david_mansur": 58,
+        "scattered": 8
+      },
+      "total": 712,
+      "winnerId": "david_s_yassky",
+      "margin": 3.9,
+      "candidates": [
+        {
+          "id": "david_s_yassky",
+          "name": "David S. Yassky",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hans_s_zhou",
+          "name": "Hans S. Zhou",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "thomas_l_mcmahon",
+          "name": "Thomas L. McMahon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "leo_t_mcmahon",
+          "name": "Leo T. McMahon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "sabrina_rezzy",
+          "name": "Sabrina Rezzy",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "david_mansur",
+          "name": "David Mansur",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#64748b"
+        }
+      ]
+    },
+    "52/024": {
+      "votes": {
+        "david_s_yassky": 167,
+        "hans_s_zhou": 139,
+        "thomas_l_mcmahon": 130,
+        "leo_t_mcmahon": 117,
+        "sabrina_rezzy": 93,
+        "david_mansur": 58,
+        "scattered": 8
+      },
+      "total": 712,
+      "winnerId": "david_s_yassky",
+      "margin": 3.9,
+      "candidates": [
+        {
+          "id": "david_s_yassky",
+          "name": "David S. Yassky",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hans_s_zhou",
+          "name": "Hans S. Zhou",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "thomas_l_mcmahon",
+          "name": "Thomas L. McMahon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "leo_t_mcmahon",
+          "name": "Leo T. McMahon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "sabrina_rezzy",
+          "name": "Sabrina Rezzy",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "david_mansur",
+          "name": "David Mansur",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#64748b"
+        }
+      ]
+    }
+  }
+}

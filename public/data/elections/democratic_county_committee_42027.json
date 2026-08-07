@@ -1,0 +1,198 @@
+{
+  "id": "democratic_county_committee_42027",
+  "name": "2026 Primary - County Committee District 42027",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "Judicial & Party Offices",
+  "districtKey": "42027",
+  "districtType": "congressional",
+  "isUncontested": false,
+  "candidates": [
+    {
+      "id": "gina_s_anderson",
+      "name": "Gina S. Anderson",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#d97706"
+    },
+    {
+      "id": "robin_l_finkelstein",
+      "name": "Robin L. Finkelstein",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#7c3aed"
+    },
+    {
+      "id": "peter_dinhofer",
+      "name": "Peter Dinhofer",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#059669"
+    },
+    {
+      "id": "menachem_rosenbaum",
+      "name": "Menachem Rosenbaum",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#0891b2"
+    },
+    {
+      "id": "scattered",
+      "name": "Scattered",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#4f46e5"
+    }
+  ],
+  "results": {
+    "42027": {
+      "votes": {
+        "gina_s_anderson": 60,
+        "robin_l_finkelstein": 51,
+        "peter_dinhofer": 11,
+        "menachem_rosenbaum": 7,
+        "scattered": 2
+      },
+      "total": 131,
+      "winnerId": "gina_s_anderson",
+      "margin": 6.9,
+      "candidates": [
+        {
+          "id": "gina_s_anderson",
+          "name": "Gina S. Anderson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "robin_l_finkelstein",
+          "name": "Robin L. Finkelstein",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "peter_dinhofer",
+          "name": "Peter Dinhofer",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "menachem_rosenbaum",
+          "name": "Menachem Rosenbaum",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    }
+  },
+  "edResults": {
+    "42027": {
+      "votes": {
+        "gina_s_anderson": 60,
+        "robin_l_finkelstein": 51,
+        "peter_dinhofer": 11,
+        "menachem_rosenbaum": 7,
+        "scattered": 2
+      },
+      "total": 131,
+      "winnerId": "gina_s_anderson",
+      "margin": 6.9,
+      "candidates": [
+        {
+          "id": "gina_s_anderson",
+          "name": "Gina S. Anderson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "robin_l_finkelstein",
+          "name": "Robin L. Finkelstein",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "peter_dinhofer",
+          "name": "Peter Dinhofer",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "menachem_rosenbaum",
+          "name": "Menachem Rosenbaum",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "42/027": {
+      "votes": {
+        "gina_s_anderson": 60,
+        "robin_l_finkelstein": 51,
+        "peter_dinhofer": 11,
+        "menachem_rosenbaum": 7,
+        "scattered": 2
+      },
+      "total": 131,
+      "winnerId": "gina_s_anderson",
+      "margin": 6.9,
+      "candidates": [
+        {
+          "id": "gina_s_anderson",
+          "name": "Gina S. Anderson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "robin_l_finkelstein",
+          "name": "Robin L. Finkelstein",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "peter_dinhofer",
+          "name": "Peter Dinhofer",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "menachem_rosenbaum",
+          "name": "Menachem Rosenbaum",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    }
+  }
+}

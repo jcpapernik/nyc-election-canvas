@@ -1,0 +1,4030 @@
+{
+  "id": "democratic_member_of_the_assembly_54",
+  "name": "2026 Primary - Member of the Assembly District 54",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "NY State Assembly",
+  "districtKey": "54",
+  "districtType": "assembly",
+  "isUncontested": false,
+  "candidates": [
+    {
+      "id": "christian_celeste_tate",
+      "name": "Christian Celeste Tate",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#d97706"
+    },
+    {
+      "id": "erik_martin_dilan",
+      "name": "Erik Martin Dilan",
+      "party": "Democratic",
+      "isIncumbent": true,
+      "color": "#7c3aed"
+    },
+    {
+      "id": "scattered",
+      "name": "Scattered",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#059669"
+    }
+  ],
+  "results": {
+    "54": {
+      "votes": {
+        "christian_celeste_tate": 4192,
+        "erik_martin_dilan": 2550,
+        "scattered": 16
+      },
+      "total": 6758,
+      "winnerId": "christian_celeste_tate",
+      "margin": 24.3,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    }
+  },
+  "edResults": {
+    "54001": {
+      "votes": {
+        "christian_celeste_tate": 3,
+        "erik_martin_dilan": 9,
+        "scattered": 0
+      },
+      "total": 12,
+      "winnerId": "erik_martin_dilan",
+      "margin": 50,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54002": {
+      "votes": {
+        "christian_celeste_tate": 34,
+        "erik_martin_dilan": 38,
+        "scattered": 0
+      },
+      "total": 72,
+      "winnerId": "erik_martin_dilan",
+      "margin": 5.6,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54003": {
+      "votes": {
+        "christian_celeste_tate": 27,
+        "erik_martin_dilan": 30,
+        "scattered": 0
+      },
+      "total": 57,
+      "winnerId": "erik_martin_dilan",
+      "margin": 5.3,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54004": {
+      "votes": {
+        "christian_celeste_tate": 17,
+        "erik_martin_dilan": 55,
+        "scattered": 1
+      },
+      "total": 73,
+      "winnerId": "erik_martin_dilan",
+      "margin": 52.1,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54005": {
+      "votes": {
+        "christian_celeste_tate": 11,
+        "erik_martin_dilan": 20,
+        "scattered": 0
+      },
+      "total": 31,
+      "winnerId": "erik_martin_dilan",
+      "margin": 29,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54006": {
+      "votes": {
+        "christian_celeste_tate": 19,
+        "erik_martin_dilan": 35,
+        "scattered": 0
+      },
+      "total": 54,
+      "winnerId": "erik_martin_dilan",
+      "margin": 29.6,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54007": {
+      "votes": {
+        "christian_celeste_tate": 26,
+        "erik_martin_dilan": 34,
+        "scattered": 0
+      },
+      "total": 60,
+      "winnerId": "erik_martin_dilan",
+      "margin": 13.3,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54008": {
+      "votes": {
+        "christian_celeste_tate": 23,
+        "erik_martin_dilan": 49,
+        "scattered": 0
+      },
+      "total": 72,
+      "winnerId": "erik_martin_dilan",
+      "margin": 36.1,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54009": {
+      "votes": {
+        "christian_celeste_tate": 15,
+        "erik_martin_dilan": 23,
+        "scattered": 0
+      },
+      "total": 38,
+      "winnerId": "erik_martin_dilan",
+      "margin": 21.1,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54010": {
+      "votes": {
+        "christian_celeste_tate": 24,
+        "erik_martin_dilan": 38,
+        "scattered": 0
+      },
+      "total": 62,
+      "winnerId": "erik_martin_dilan",
+      "margin": 22.6,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54011": {
+      "votes": {
+        "christian_celeste_tate": 15,
+        "erik_martin_dilan": 40,
+        "scattered": 0
+      },
+      "total": 55,
+      "winnerId": "erik_martin_dilan",
+      "margin": 45.5,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54012": {
+      "votes": {
+        "christian_celeste_tate": 26,
+        "erik_martin_dilan": 29,
+        "scattered": 0
+      },
+      "total": 55,
+      "winnerId": "erik_martin_dilan",
+      "margin": 5.5,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54013": {
+      "votes": {
+        "christian_celeste_tate": 17,
+        "erik_martin_dilan": 29,
+        "scattered": 0
+      },
+      "total": 46,
+      "winnerId": "erik_martin_dilan",
+      "margin": 26.1,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54014": {
+      "votes": {
+        "christian_celeste_tate": 16,
+        "erik_martin_dilan": 37,
+        "scattered": 0
+      },
+      "total": 53,
+      "winnerId": "erik_martin_dilan",
+      "margin": 39.6,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54015": {
+      "votes": {
+        "christian_celeste_tate": 37,
+        "erik_martin_dilan": 40,
+        "scattered": 1
+      },
+      "total": 78,
+      "winnerId": "erik_martin_dilan",
+      "margin": 3.8,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54016": {
+      "votes": {
+        "christian_celeste_tate": 16,
+        "erik_martin_dilan": 30,
+        "scattered": 0
+      },
+      "total": 46,
+      "winnerId": "erik_martin_dilan",
+      "margin": 30.4,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54017": {
+      "votes": {
+        "christian_celeste_tate": 14,
+        "erik_martin_dilan": 28,
+        "scattered": 0
+      },
+      "total": 42,
+      "winnerId": "erik_martin_dilan",
+      "margin": 33.3,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54018": {
+      "votes": {
+        "christian_celeste_tate": 57,
+        "erik_martin_dilan": 61,
+        "scattered": 1
+      },
+      "total": 119,
+      "winnerId": "erik_martin_dilan",
+      "margin": 3.4,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54019": {
+      "votes": {
+        "christian_celeste_tate": 27,
+        "erik_martin_dilan": 41,
+        "scattered": 2
+      },
+      "total": 70,
+      "winnerId": "erik_martin_dilan",
+      "margin": 20,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54020": {
+      "votes": {
+        "christian_celeste_tate": 17,
+        "erik_martin_dilan": 20,
+        "scattered": 0
+      },
+      "total": 37,
+      "winnerId": "erik_martin_dilan",
+      "margin": 8.1,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54021": {
+      "votes": {
+        "christian_celeste_tate": 9,
+        "erik_martin_dilan": 21,
+        "scattered": 1
+      },
+      "total": 31,
+      "winnerId": "erik_martin_dilan",
+      "margin": 38.7,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54022": {
+      "votes": {
+        "christian_celeste_tate": 32,
+        "erik_martin_dilan": 21,
+        "scattered": 1
+      },
+      "total": 54,
+      "winnerId": "christian_celeste_tate",
+      "margin": 20.4,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54023": {
+      "votes": {
+        "christian_celeste_tate": 31,
+        "erik_martin_dilan": 57,
+        "scattered": 0
+      },
+      "total": 88,
+      "winnerId": "erik_martin_dilan",
+      "margin": 29.5,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54024": {
+      "votes": {
+        "christian_celeste_tate": 26,
+        "erik_martin_dilan": 27,
+        "scattered": 0
+      },
+      "total": 53,
+      "winnerId": "erik_martin_dilan",
+      "margin": 1.9,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54025": {
+      "votes": {
+        "christian_celeste_tate": 32,
+        "erik_martin_dilan": 31,
+        "scattered": 0
+      },
+      "total": 63,
+      "winnerId": "christian_celeste_tate",
+      "margin": 1.6,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54026": {
+      "votes": {
+        "christian_celeste_tate": 26,
+        "erik_martin_dilan": 24,
+        "scattered": 0
+      },
+      "total": 50,
+      "winnerId": "christian_celeste_tate",
+      "margin": 4,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54027": {
+      "votes": {
+        "christian_celeste_tate": 33,
+        "erik_martin_dilan": 35,
+        "scattered": 0
+      },
+      "total": 68,
+      "winnerId": "erik_martin_dilan",
+      "margin": 2.9,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54028": {
+      "votes": {
+        "christian_celeste_tate": 37,
+        "erik_martin_dilan": 30,
+        "scattered": 0
+      },
+      "total": 67,
+      "winnerId": "christian_celeste_tate",
+      "margin": 10.4,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54029": {
+      "votes": {
+        "christian_celeste_tate": 44,
+        "erik_martin_dilan": 46,
+        "scattered": 0
+      },
+      "total": 90,
+      "winnerId": "erik_martin_dilan",
+      "margin": 2.2,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54030": {
+      "votes": {
+        "christian_celeste_tate": 23,
+        "erik_martin_dilan": 35,
+        "scattered": 1
+      },
+      "total": 59,
+      "winnerId": "erik_martin_dilan",
+      "margin": 20.3,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54031": {
+      "votes": {
+        "christian_celeste_tate": 29,
+        "erik_martin_dilan": 75,
+        "scattered": 0
+      },
+      "total": 104,
+      "winnerId": "erik_martin_dilan",
+      "margin": 44.2,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54032": {
+      "votes": {
+        "christian_celeste_tate": 21,
+        "erik_martin_dilan": 47,
+        "scattered": 0
+      },
+      "total": 68,
+      "winnerId": "erik_martin_dilan",
+      "margin": 38.2,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54033": {
+      "votes": {
+        "christian_celeste_tate": 36,
+        "erik_martin_dilan": 77,
+        "scattered": 0
+      },
+      "total": 113,
+      "winnerId": "erik_martin_dilan",
+      "margin": 36.3,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54034": {
+      "votes": {
+        "christian_celeste_tate": 28,
+        "erik_martin_dilan": 58,
+        "scattered": 0
+      },
+      "total": 86,
+      "winnerId": "erik_martin_dilan",
+      "margin": 34.9,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54035": {
+      "votes": {
+        "christian_celeste_tate": 76,
+        "erik_martin_dilan": 61,
+        "scattered": 0
+      },
+      "total": 137,
+      "winnerId": "christian_celeste_tate",
+      "margin": 10.9,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54036": {
+      "votes": {
+        "christian_celeste_tate": 87,
+        "erik_martin_dilan": 91,
+        "scattered": 0
+      },
+      "total": 178,
+      "winnerId": "erik_martin_dilan",
+      "margin": 2.2,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54037": {
+      "votes": {
+        "christian_celeste_tate": 90,
+        "erik_martin_dilan": 38,
+        "scattered": 0
+      },
+      "total": 128,
+      "winnerId": "christian_celeste_tate",
+      "margin": 40.6,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54038": {
+      "votes": {
+        "christian_celeste_tate": 166,
+        "erik_martin_dilan": 86,
+        "scattered": 0
+      },
+      "total": 252,
+      "winnerId": "christian_celeste_tate",
+      "margin": 31.7,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54039": {
+      "votes": {
+        "christian_celeste_tate": 200,
+        "erik_martin_dilan": 55,
+        "scattered": 0
+      },
+      "total": 255,
+      "winnerId": "christian_celeste_tate",
+      "margin": 56.9,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54040": {
+      "votes": {
+        "christian_celeste_tate": 150,
+        "erik_martin_dilan": 53,
+        "scattered": 3
+      },
+      "total": 206,
+      "winnerId": "christian_celeste_tate",
+      "margin": 47.1,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54041": {
+      "votes": {
+        "christian_celeste_tate": 162,
+        "erik_martin_dilan": 46,
+        "scattered": 2
+      },
+      "total": 210,
+      "winnerId": "christian_celeste_tate",
+      "margin": 55.2,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54042": {
+      "votes": {
+        "christian_celeste_tate": 123,
+        "erik_martin_dilan": 39,
+        "scattered": 0
+      },
+      "total": 162,
+      "winnerId": "christian_celeste_tate",
+      "margin": 51.9,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54043": {
+      "votes": {
+        "christian_celeste_tate": 178,
+        "erik_martin_dilan": 58,
+        "scattered": 0
+      },
+      "total": 236,
+      "winnerId": "christian_celeste_tate",
+      "margin": 50.8,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54044": {
+      "votes": {
+        "christian_celeste_tate": 186,
+        "erik_martin_dilan": 57,
+        "scattered": 0
+      },
+      "total": 243,
+      "winnerId": "christian_celeste_tate",
+      "margin": 53.1,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54045": {
+      "votes": {
+        "christian_celeste_tate": 158,
+        "erik_martin_dilan": 72,
+        "scattered": 0
+      },
+      "total": 230,
+      "winnerId": "christian_celeste_tate",
+      "margin": 37.4,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54046": {
+      "votes": {
+        "christian_celeste_tate": 156,
+        "erik_martin_dilan": 46,
+        "scattered": 0
+      },
+      "total": 202,
+      "winnerId": "christian_celeste_tate",
+      "margin": 54.5,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54047": {
+      "votes": {
+        "christian_celeste_tate": 194,
+        "erik_martin_dilan": 50,
+        "scattered": 1
+      },
+      "total": 245,
+      "winnerId": "christian_celeste_tate",
+      "margin": 58.8,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54048": {
+      "votes": {
+        "christian_celeste_tate": 167,
+        "erik_martin_dilan": 65,
+        "scattered": 0
+      },
+      "total": 232,
+      "winnerId": "christian_celeste_tate",
+      "margin": 44,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54049": {
+      "votes": {
+        "christian_celeste_tate": 161,
+        "erik_martin_dilan": 50,
+        "scattered": 0
+      },
+      "total": 211,
+      "winnerId": "christian_celeste_tate",
+      "margin": 52.6,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54050": {
+      "votes": {
+        "christian_celeste_tate": 194,
+        "erik_martin_dilan": 41,
+        "scattered": 0
+      },
+      "total": 235,
+      "winnerId": "christian_celeste_tate",
+      "margin": 65.1,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54051": {
+      "votes": {
+        "christian_celeste_tate": 135,
+        "erik_martin_dilan": 64,
+        "scattered": 0
+      },
+      "total": 199,
+      "winnerId": "christian_celeste_tate",
+      "margin": 35.7,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54052": {
+      "votes": {
+        "christian_celeste_tate": 114,
+        "erik_martin_dilan": 54,
+        "scattered": 0
+      },
+      "total": 168,
+      "winnerId": "christian_celeste_tate",
+      "margin": 35.7,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54053": {
+      "votes": {
+        "christian_celeste_tate": 130,
+        "erik_martin_dilan": 38,
+        "scattered": 0
+      },
+      "total": 168,
+      "winnerId": "christian_celeste_tate",
+      "margin": 54.8,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54054": {
+      "votes": {
+        "christian_celeste_tate": 125,
+        "erik_martin_dilan": 32,
+        "scattered": 0
+      },
+      "total": 157,
+      "winnerId": "christian_celeste_tate",
+      "margin": 59.2,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54055": {
+      "votes": {
+        "christian_celeste_tate": 88,
+        "erik_martin_dilan": 58,
+        "scattered": 1
+      },
+      "total": 147,
+      "winnerId": "christian_celeste_tate",
+      "margin": 20.4,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54056": {
+      "votes": {
+        "christian_celeste_tate": 160,
+        "erik_martin_dilan": 46,
+        "scattered": 0
+      },
+      "total": 206,
+      "winnerId": "christian_celeste_tate",
+      "margin": 55.3,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54057": {
+      "votes": {
+        "christian_celeste_tate": 128,
+        "erik_martin_dilan": 71,
+        "scattered": 1
+      },
+      "total": 200,
+      "winnerId": "christian_celeste_tate",
+      "margin": 28.5,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54058": {
+      "votes": {
+        "christian_celeste_tate": 15,
+        "erik_martin_dilan": 9,
+        "scattered": 0
+      },
+      "total": 24,
+      "winnerId": "christian_celeste_tate",
+      "margin": 25,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54059": {
+      "votes": {
+        "christian_celeste_tate": 1,
+        "erik_martin_dilan": 0,
+        "scattered": 0
+      },
+      "total": 1,
+      "winnerId": "christian_celeste_tate",
+      "margin": 100,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54060": {
+      "votes": {
+        "christian_celeste_tate": 0,
+        "erik_martin_dilan": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "christian_celeste_tate",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54/001": {
+      "votes": {
+        "christian_celeste_tate": 3,
+        "erik_martin_dilan": 9,
+        "scattered": 0
+      },
+      "total": 12,
+      "winnerId": "erik_martin_dilan",
+      "margin": 50,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54/002": {
+      "votes": {
+        "christian_celeste_tate": 34,
+        "erik_martin_dilan": 38,
+        "scattered": 0
+      },
+      "total": 72,
+      "winnerId": "erik_martin_dilan",
+      "margin": 5.6,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54/003": {
+      "votes": {
+        "christian_celeste_tate": 27,
+        "erik_martin_dilan": 30,
+        "scattered": 0
+      },
+      "total": 57,
+      "winnerId": "erik_martin_dilan",
+      "margin": 5.3,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54/004": {
+      "votes": {
+        "christian_celeste_tate": 17,
+        "erik_martin_dilan": 55,
+        "scattered": 1
+      },
+      "total": 73,
+      "winnerId": "erik_martin_dilan",
+      "margin": 52.1,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54/005": {
+      "votes": {
+        "christian_celeste_tate": 11,
+        "erik_martin_dilan": 20,
+        "scattered": 0
+      },
+      "total": 31,
+      "winnerId": "erik_martin_dilan",
+      "margin": 29,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54/006": {
+      "votes": {
+        "christian_celeste_tate": 19,
+        "erik_martin_dilan": 35,
+        "scattered": 0
+      },
+      "total": 54,
+      "winnerId": "erik_martin_dilan",
+      "margin": 29.6,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54/007": {
+      "votes": {
+        "christian_celeste_tate": 26,
+        "erik_martin_dilan": 34,
+        "scattered": 0
+      },
+      "total": 60,
+      "winnerId": "erik_martin_dilan",
+      "margin": 13.3,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54/008": {
+      "votes": {
+        "christian_celeste_tate": 23,
+        "erik_martin_dilan": 49,
+        "scattered": 0
+      },
+      "total": 72,
+      "winnerId": "erik_martin_dilan",
+      "margin": 36.1,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54/009": {
+      "votes": {
+        "christian_celeste_tate": 15,
+        "erik_martin_dilan": 23,
+        "scattered": 0
+      },
+      "total": 38,
+      "winnerId": "erik_martin_dilan",
+      "margin": 21.1,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54/010": {
+      "votes": {
+        "christian_celeste_tate": 24,
+        "erik_martin_dilan": 38,
+        "scattered": 0
+      },
+      "total": 62,
+      "winnerId": "erik_martin_dilan",
+      "margin": 22.6,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54/011": {
+      "votes": {
+        "christian_celeste_tate": 15,
+        "erik_martin_dilan": 40,
+        "scattered": 0
+      },
+      "total": 55,
+      "winnerId": "erik_martin_dilan",
+      "margin": 45.5,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54/012": {
+      "votes": {
+        "christian_celeste_tate": 26,
+        "erik_martin_dilan": 29,
+        "scattered": 0
+      },
+      "total": 55,
+      "winnerId": "erik_martin_dilan",
+      "margin": 5.5,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54/013": {
+      "votes": {
+        "christian_celeste_tate": 17,
+        "erik_martin_dilan": 29,
+        "scattered": 0
+      },
+      "total": 46,
+      "winnerId": "erik_martin_dilan",
+      "margin": 26.1,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54/014": {
+      "votes": {
+        "christian_celeste_tate": 16,
+        "erik_martin_dilan": 37,
+        "scattered": 0
+      },
+      "total": 53,
+      "winnerId": "erik_martin_dilan",
+      "margin": 39.6,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54/015": {
+      "votes": {
+        "christian_celeste_tate": 37,
+        "erik_martin_dilan": 40,
+        "scattered": 1
+      },
+      "total": 78,
+      "winnerId": "erik_martin_dilan",
+      "margin": 3.8,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54/016": {
+      "votes": {
+        "christian_celeste_tate": 16,
+        "erik_martin_dilan": 30,
+        "scattered": 0
+      },
+      "total": 46,
+      "winnerId": "erik_martin_dilan",
+      "margin": 30.4,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54/017": {
+      "votes": {
+        "christian_celeste_tate": 14,
+        "erik_martin_dilan": 28,
+        "scattered": 0
+      },
+      "total": 42,
+      "winnerId": "erik_martin_dilan",
+      "margin": 33.3,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54/018": {
+      "votes": {
+        "christian_celeste_tate": 57,
+        "erik_martin_dilan": 61,
+        "scattered": 1
+      },
+      "total": 119,
+      "winnerId": "erik_martin_dilan",
+      "margin": 3.4,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54/019": {
+      "votes": {
+        "christian_celeste_tate": 27,
+        "erik_martin_dilan": 41,
+        "scattered": 2
+      },
+      "total": 70,
+      "winnerId": "erik_martin_dilan",
+      "margin": 20,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54/020": {
+      "votes": {
+        "christian_celeste_tate": 17,
+        "erik_martin_dilan": 20,
+        "scattered": 0
+      },
+      "total": 37,
+      "winnerId": "erik_martin_dilan",
+      "margin": 8.1,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54/021": {
+      "votes": {
+        "christian_celeste_tate": 9,
+        "erik_martin_dilan": 21,
+        "scattered": 1
+      },
+      "total": 31,
+      "winnerId": "erik_martin_dilan",
+      "margin": 38.7,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54/022": {
+      "votes": {
+        "christian_celeste_tate": 32,
+        "erik_martin_dilan": 21,
+        "scattered": 1
+      },
+      "total": 54,
+      "winnerId": "christian_celeste_tate",
+      "margin": 20.4,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54/023": {
+      "votes": {
+        "christian_celeste_tate": 31,
+        "erik_martin_dilan": 57,
+        "scattered": 0
+      },
+      "total": 88,
+      "winnerId": "erik_martin_dilan",
+      "margin": 29.5,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54/024": {
+      "votes": {
+        "christian_celeste_tate": 26,
+        "erik_martin_dilan": 27,
+        "scattered": 0
+      },
+      "total": 53,
+      "winnerId": "erik_martin_dilan",
+      "margin": 1.9,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54/025": {
+      "votes": {
+        "christian_celeste_tate": 32,
+        "erik_martin_dilan": 31,
+        "scattered": 0
+      },
+      "total": 63,
+      "winnerId": "christian_celeste_tate",
+      "margin": 1.6,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54/026": {
+      "votes": {
+        "christian_celeste_tate": 26,
+        "erik_martin_dilan": 24,
+        "scattered": 0
+      },
+      "total": 50,
+      "winnerId": "christian_celeste_tate",
+      "margin": 4,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54/027": {
+      "votes": {
+        "christian_celeste_tate": 33,
+        "erik_martin_dilan": 35,
+        "scattered": 0
+      },
+      "total": 68,
+      "winnerId": "erik_martin_dilan",
+      "margin": 2.9,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54/028": {
+      "votes": {
+        "christian_celeste_tate": 37,
+        "erik_martin_dilan": 30,
+        "scattered": 0
+      },
+      "total": 67,
+      "winnerId": "christian_celeste_tate",
+      "margin": 10.4,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54/029": {
+      "votes": {
+        "christian_celeste_tate": 44,
+        "erik_martin_dilan": 46,
+        "scattered": 0
+      },
+      "total": 90,
+      "winnerId": "erik_martin_dilan",
+      "margin": 2.2,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54/030": {
+      "votes": {
+        "christian_celeste_tate": 23,
+        "erik_martin_dilan": 35,
+        "scattered": 1
+      },
+      "total": 59,
+      "winnerId": "erik_martin_dilan",
+      "margin": 20.3,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54/031": {
+      "votes": {
+        "christian_celeste_tate": 29,
+        "erik_martin_dilan": 75,
+        "scattered": 0
+      },
+      "total": 104,
+      "winnerId": "erik_martin_dilan",
+      "margin": 44.2,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54/032": {
+      "votes": {
+        "christian_celeste_tate": 21,
+        "erik_martin_dilan": 47,
+        "scattered": 0
+      },
+      "total": 68,
+      "winnerId": "erik_martin_dilan",
+      "margin": 38.2,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54/033": {
+      "votes": {
+        "christian_celeste_tate": 36,
+        "erik_martin_dilan": 77,
+        "scattered": 0
+      },
+      "total": 113,
+      "winnerId": "erik_martin_dilan",
+      "margin": 36.3,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54/034": {
+      "votes": {
+        "christian_celeste_tate": 28,
+        "erik_martin_dilan": 58,
+        "scattered": 0
+      },
+      "total": 86,
+      "winnerId": "erik_martin_dilan",
+      "margin": 34.9,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54/035": {
+      "votes": {
+        "christian_celeste_tate": 76,
+        "erik_martin_dilan": 61,
+        "scattered": 0
+      },
+      "total": 137,
+      "winnerId": "christian_celeste_tate",
+      "margin": 10.9,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54/036": {
+      "votes": {
+        "christian_celeste_tate": 87,
+        "erik_martin_dilan": 91,
+        "scattered": 0
+      },
+      "total": 178,
+      "winnerId": "erik_martin_dilan",
+      "margin": 2.2,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54/037": {
+      "votes": {
+        "christian_celeste_tate": 90,
+        "erik_martin_dilan": 38,
+        "scattered": 0
+      },
+      "total": 128,
+      "winnerId": "christian_celeste_tate",
+      "margin": 40.6,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54/038": {
+      "votes": {
+        "christian_celeste_tate": 166,
+        "erik_martin_dilan": 86,
+        "scattered": 0
+      },
+      "total": 252,
+      "winnerId": "christian_celeste_tate",
+      "margin": 31.7,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54/039": {
+      "votes": {
+        "christian_celeste_tate": 200,
+        "erik_martin_dilan": 55,
+        "scattered": 0
+      },
+      "total": 255,
+      "winnerId": "christian_celeste_tate",
+      "margin": 56.9,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54/040": {
+      "votes": {
+        "christian_celeste_tate": 150,
+        "erik_martin_dilan": 53,
+        "scattered": 3
+      },
+      "total": 206,
+      "winnerId": "christian_celeste_tate",
+      "margin": 47.1,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54/041": {
+      "votes": {
+        "christian_celeste_tate": 162,
+        "erik_martin_dilan": 46,
+        "scattered": 2
+      },
+      "total": 210,
+      "winnerId": "christian_celeste_tate",
+      "margin": 55.2,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54/042": {
+      "votes": {
+        "christian_celeste_tate": 123,
+        "erik_martin_dilan": 39,
+        "scattered": 0
+      },
+      "total": 162,
+      "winnerId": "christian_celeste_tate",
+      "margin": 51.9,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54/043": {
+      "votes": {
+        "christian_celeste_tate": 178,
+        "erik_martin_dilan": 58,
+        "scattered": 0
+      },
+      "total": 236,
+      "winnerId": "christian_celeste_tate",
+      "margin": 50.8,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54/044": {
+      "votes": {
+        "christian_celeste_tate": 186,
+        "erik_martin_dilan": 57,
+        "scattered": 0
+      },
+      "total": 243,
+      "winnerId": "christian_celeste_tate",
+      "margin": 53.1,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54/045": {
+      "votes": {
+        "christian_celeste_tate": 158,
+        "erik_martin_dilan": 72,
+        "scattered": 0
+      },
+      "total": 230,
+      "winnerId": "christian_celeste_tate",
+      "margin": 37.4,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54/046": {
+      "votes": {
+        "christian_celeste_tate": 156,
+        "erik_martin_dilan": 46,
+        "scattered": 0
+      },
+      "total": 202,
+      "winnerId": "christian_celeste_tate",
+      "margin": 54.5,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54/047": {
+      "votes": {
+        "christian_celeste_tate": 194,
+        "erik_martin_dilan": 50,
+        "scattered": 1
+      },
+      "total": 245,
+      "winnerId": "christian_celeste_tate",
+      "margin": 58.8,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54/048": {
+      "votes": {
+        "christian_celeste_tate": 167,
+        "erik_martin_dilan": 65,
+        "scattered": 0
+      },
+      "total": 232,
+      "winnerId": "christian_celeste_tate",
+      "margin": 44,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54/049": {
+      "votes": {
+        "christian_celeste_tate": 161,
+        "erik_martin_dilan": 50,
+        "scattered": 0
+      },
+      "total": 211,
+      "winnerId": "christian_celeste_tate",
+      "margin": 52.6,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54/050": {
+      "votes": {
+        "christian_celeste_tate": 194,
+        "erik_martin_dilan": 41,
+        "scattered": 0
+      },
+      "total": 235,
+      "winnerId": "christian_celeste_tate",
+      "margin": 65.1,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54/051": {
+      "votes": {
+        "christian_celeste_tate": 135,
+        "erik_martin_dilan": 64,
+        "scattered": 0
+      },
+      "total": 199,
+      "winnerId": "christian_celeste_tate",
+      "margin": 35.7,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54/052": {
+      "votes": {
+        "christian_celeste_tate": 114,
+        "erik_martin_dilan": 54,
+        "scattered": 0
+      },
+      "total": 168,
+      "winnerId": "christian_celeste_tate",
+      "margin": 35.7,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54/053": {
+      "votes": {
+        "christian_celeste_tate": 130,
+        "erik_martin_dilan": 38,
+        "scattered": 0
+      },
+      "total": 168,
+      "winnerId": "christian_celeste_tate",
+      "margin": 54.8,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54/054": {
+      "votes": {
+        "christian_celeste_tate": 125,
+        "erik_martin_dilan": 32,
+        "scattered": 0
+      },
+      "total": 157,
+      "winnerId": "christian_celeste_tate",
+      "margin": 59.2,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54/055": {
+      "votes": {
+        "christian_celeste_tate": 88,
+        "erik_martin_dilan": 58,
+        "scattered": 1
+      },
+      "total": 147,
+      "winnerId": "christian_celeste_tate",
+      "margin": 20.4,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54/056": {
+      "votes": {
+        "christian_celeste_tate": 160,
+        "erik_martin_dilan": 46,
+        "scattered": 0
+      },
+      "total": 206,
+      "winnerId": "christian_celeste_tate",
+      "margin": 55.3,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54/057": {
+      "votes": {
+        "christian_celeste_tate": 128,
+        "erik_martin_dilan": 71,
+        "scattered": 1
+      },
+      "total": 200,
+      "winnerId": "christian_celeste_tate",
+      "margin": 28.5,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54/058": {
+      "votes": {
+        "christian_celeste_tate": 15,
+        "erik_martin_dilan": 9,
+        "scattered": 0
+      },
+      "total": 24,
+      "winnerId": "christian_celeste_tate",
+      "margin": 25,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54/059": {
+      "votes": {
+        "christian_celeste_tate": 1,
+        "erik_martin_dilan": 0,
+        "scattered": 0
+      },
+      "total": 1,
+      "winnerId": "christian_celeste_tate",
+      "margin": 100,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "54/060": {
+      "votes": {
+        "christian_celeste_tate": 0,
+        "erik_martin_dilan": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "christian_celeste_tate",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "christian_celeste_tate",
+          "name": "Christian Celeste Tate",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "erik_martin_dilan",
+          "name": "Erik Martin Dilan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    }
+  }
+}

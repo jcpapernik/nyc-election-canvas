@@ -1,0 +1,5497 @@
+{
+  "id": "democratic_state_committee_59",
+  "name": "2026 Primary - State Committee District 59",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "Judicial & Party Offices",
+  "districtKey": "59",
+  "districtType": "congressional",
+  "isUncontested": false,
+  "candidates": [
+    {
+      "id": "jaime_r_williams_(f)",
+      "name": "Jaime R. Williams (F)",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#d97706"
+    },
+    {
+      "id": "frank_r_seddio_(m)",
+      "name": "Frank R. Seddio (M)",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#7c3aed"
+    },
+    {
+      "id": "stanley_scutt_(m)",
+      "name": "Stanley Scutt (M)",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#059669"
+    },
+    {
+      "id": "scattered",
+      "name": "Scattered",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#0891b2"
+    }
+  ],
+  "results": {
+    "59": {
+      "votes": {
+        "jaime_r_williams_f_": 5375,
+        "frank_r_seddio_m_": 3210,
+        "stanley_scutt_m_": 1618,
+        "scattered": 93
+      },
+      "total": 10296,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 21,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    }
+  },
+  "edResults": {
+    "59001": {
+      "votes": {
+        "jaime_r_williams_f_": 59,
+        "frank_r_seddio_m_": 30,
+        "stanley_scutt_m_": 19,
+        "scattered": 1
+      },
+      "total": 109,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 26.6,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59002": {
+      "votes": {
+        "jaime_r_williams_f_": 98,
+        "frank_r_seddio_m_": 69,
+        "stanley_scutt_m_": 31,
+        "scattered": 2
+      },
+      "total": 200,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 14.5,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59003": {
+      "votes": {
+        "jaime_r_williams_f_": 84,
+        "frank_r_seddio_m_": 42,
+        "stanley_scutt_m_": 57,
+        "scattered": 3
+      },
+      "total": 186,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 14.5,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59004": {
+      "votes": {
+        "jaime_r_williams_f_": 138,
+        "frank_r_seddio_m_": 84,
+        "stanley_scutt_m_": 53,
+        "scattered": 1
+      },
+      "total": 276,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 19.6,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59005": {
+      "votes": {
+        "jaime_r_williams_f_": 97,
+        "frank_r_seddio_m_": 49,
+        "stanley_scutt_m_": 30,
+        "scattered": 4
+      },
+      "total": 180,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 26.7,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59006": {
+      "votes": {
+        "jaime_r_williams_f_": 102,
+        "frank_r_seddio_m_": 71,
+        "stanley_scutt_m_": 28,
+        "scattered": 1
+      },
+      "total": 202,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 15.3,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59007": {
+      "votes": {
+        "jaime_r_williams_f_": 120,
+        "frank_r_seddio_m_": 67,
+        "stanley_scutt_m_": 51,
+        "scattered": 6
+      },
+      "total": 244,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 21.7,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59008": {
+      "votes": {
+        "jaime_r_williams_f_": 112,
+        "frank_r_seddio_m_": 63,
+        "stanley_scutt_m_": 40,
+        "scattered": 1
+      },
+      "total": 216,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 22.7,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59009": {
+      "votes": {
+        "jaime_r_williams_f_": 139,
+        "frank_r_seddio_m_": 76,
+        "stanley_scutt_m_": 39,
+        "scattered": 1
+      },
+      "total": 255,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 24.7,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59010": {
+      "votes": {
+        "jaime_r_williams_f_": 94,
+        "frank_r_seddio_m_": 55,
+        "stanley_scutt_m_": 42,
+        "scattered": 3
+      },
+      "total": 194,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 20.1,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59011": {
+      "votes": {
+        "jaime_r_williams_f_": 91,
+        "frank_r_seddio_m_": 47,
+        "stanley_scutt_m_": 30,
+        "scattered": 2
+      },
+      "total": 170,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 25.9,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59012": {
+      "votes": {
+        "jaime_r_williams_f_": 131,
+        "frank_r_seddio_m_": 74,
+        "stanley_scutt_m_": 51,
+        "scattered": 3
+      },
+      "total": 259,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 22,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59013": {
+      "votes": {
+        "jaime_r_williams_f_": 128,
+        "frank_r_seddio_m_": 69,
+        "stanley_scutt_m_": 44,
+        "scattered": 0
+      },
+      "total": 241,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 24.5,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59014": {
+      "votes": {
+        "jaime_r_williams_f_": 78,
+        "frank_r_seddio_m_": 39,
+        "stanley_scutt_m_": 39,
+        "scattered": 1
+      },
+      "total": 157,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 24.8,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59015": {
+      "votes": {
+        "jaime_r_williams_f_": 57,
+        "frank_r_seddio_m_": 33,
+        "stanley_scutt_m_": 25,
+        "scattered": 0
+      },
+      "total": 115,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 20.9,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59016": {
+      "votes": {
+        "jaime_r_williams_f_": 79,
+        "frank_r_seddio_m_": 42,
+        "stanley_scutt_m_": 29,
+        "scattered": 2
+      },
+      "total": 152,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 24.3,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59017": {
+      "votes": {
+        "jaime_r_williams_f_": 129,
+        "frank_r_seddio_m_": 79,
+        "stanley_scutt_m_": 36,
+        "scattered": 3
+      },
+      "total": 247,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 20.2,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59018": {
+      "votes": {
+        "jaime_r_williams_f_": 141,
+        "frank_r_seddio_m_": 77,
+        "stanley_scutt_m_": 56,
+        "scattered": 2
+      },
+      "total": 276,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 23.2,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59019": {
+      "votes": {
+        "jaime_r_williams_f_": 146,
+        "frank_r_seddio_m_": 80,
+        "stanley_scutt_m_": 41,
+        "scattered": 1
+      },
+      "total": 268,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 24.6,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59020": {
+      "votes": {
+        "jaime_r_williams_f_": 96,
+        "frank_r_seddio_m_": 60,
+        "stanley_scutt_m_": 34,
+        "scattered": 1
+      },
+      "total": 191,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 18.8,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59021": {
+      "votes": {
+        "jaime_r_williams_f_": 110,
+        "frank_r_seddio_m_": 54,
+        "stanley_scutt_m_": 37,
+        "scattered": 0
+      },
+      "total": 201,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 27.9,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59022": {
+      "votes": {
+        "jaime_r_williams_f_": 117,
+        "frank_r_seddio_m_": 80,
+        "stanley_scutt_m_": 53,
+        "scattered": 2
+      },
+      "total": 252,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 14.7,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59023": {
+      "votes": {
+        "jaime_r_williams_f_": 56,
+        "frank_r_seddio_m_": 33,
+        "stanley_scutt_m_": 10,
+        "scattered": 0
+      },
+      "total": 99,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 23.2,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59024": {
+      "votes": {
+        "jaime_r_williams_f_": 61,
+        "frank_r_seddio_m_": 18,
+        "stanley_scutt_m_": 16,
+        "scattered": 2
+      },
+      "total": 97,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 44.3,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59025": {
+      "votes": {
+        "jaime_r_williams_f_": 49,
+        "frank_r_seddio_m_": 24,
+        "stanley_scutt_m_": 12,
+        "scattered": 2
+      },
+      "total": 87,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 28.7,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59026": {
+      "votes": {
+        "jaime_r_williams_f_": 97,
+        "frank_r_seddio_m_": 36,
+        "stanley_scutt_m_": 39,
+        "scattered": 1
+      },
+      "total": 173,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 33.5,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59027": {
+      "votes": {
+        "jaime_r_williams_f_": 115,
+        "frank_r_seddio_m_": 51,
+        "stanley_scutt_m_": 42,
+        "scattered": 0
+      },
+      "total": 208,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 30.8,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59028": {
+      "votes": {
+        "jaime_r_williams_f_": 67,
+        "frank_r_seddio_m_": 35,
+        "stanley_scutt_m_": 22,
+        "scattered": 2
+      },
+      "total": 126,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 25.4,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59029": {
+      "votes": {
+        "jaime_r_williams_f_": 89,
+        "frank_r_seddio_m_": 48,
+        "stanley_scutt_m_": 17,
+        "scattered": 2
+      },
+      "total": 156,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 26.3,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59030": {
+      "votes": {
+        "jaime_r_williams_f_": 98,
+        "frank_r_seddio_m_": 54,
+        "stanley_scutt_m_": 32,
+        "scattered": 2
+      },
+      "total": 186,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 23.7,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59031": {
+      "votes": {
+        "jaime_r_williams_f_": 34,
+        "frank_r_seddio_m_": 17,
+        "stanley_scutt_m_": 6,
+        "scattered": 0
+      },
+      "total": 57,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 29.8,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59032": {
+      "votes": {
+        "jaime_r_williams_f_": 127,
+        "frank_r_seddio_m_": 77,
+        "stanley_scutt_m_": 29,
+        "scattered": 1
+      },
+      "total": 234,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 21.4,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59033": {
+      "votes": {
+        "jaime_r_williams_f_": 91,
+        "frank_r_seddio_m_": 46,
+        "stanley_scutt_m_": 24,
+        "scattered": 0
+      },
+      "total": 161,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 28,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59034": {
+      "votes": {
+        "jaime_r_williams_f_": 81,
+        "frank_r_seddio_m_": 52,
+        "stanley_scutt_m_": 22,
+        "scattered": 0
+      },
+      "total": 155,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 18.7,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59035": {
+      "votes": {
+        "jaime_r_williams_f_": 35,
+        "frank_r_seddio_m_": 15,
+        "stanley_scutt_m_": 12,
+        "scattered": 2
+      },
+      "total": 64,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 31.3,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59036": {
+      "votes": {
+        "jaime_r_williams_f_": 131,
+        "frank_r_seddio_m_": 62,
+        "stanley_scutt_m_": 39,
+        "scattered": 1
+      },
+      "total": 233,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 29.6,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59037": {
+      "votes": {
+        "jaime_r_williams_f_": 144,
+        "frank_r_seddio_m_": 75,
+        "stanley_scutt_m_": 50,
+        "scattered": 0
+      },
+      "total": 269,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 25.7,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59038": {
+      "votes": {
+        "jaime_r_williams_f_": 86,
+        "frank_r_seddio_m_": 58,
+        "stanley_scutt_m_": 32,
+        "scattered": 1
+      },
+      "total": 177,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 15.8,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59039": {
+      "votes": {
+        "jaime_r_williams_f_": 177,
+        "frank_r_seddio_m_": 112,
+        "stanley_scutt_m_": 39,
+        "scattered": 3
+      },
+      "total": 331,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 19.6,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59040": {
+      "votes": {
+        "jaime_r_williams_f_": 14,
+        "frank_r_seddio_m_": 11,
+        "stanley_scutt_m_": 1,
+        "scattered": 0
+      },
+      "total": 26,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 11.5,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59041": {
+      "votes": {
+        "jaime_r_williams_f_": 91,
+        "frank_r_seddio_m_": 64,
+        "stanley_scutt_m_": 27,
+        "scattered": 2
+      },
+      "total": 184,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 14.7,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59042": {
+      "votes": {
+        "jaime_r_williams_f_": 56,
+        "frank_r_seddio_m_": 31,
+        "stanley_scutt_m_": 9,
+        "scattered": 0
+      },
+      "total": 96,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 26,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59043": {
+      "votes": {
+        "jaime_r_williams_f_": 99,
+        "frank_r_seddio_m_": 63,
+        "stanley_scutt_m_": 27,
+        "scattered": 3
+      },
+      "total": 192,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 18.8,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59044": {
+      "votes": {
+        "jaime_r_williams_f_": 41,
+        "frank_r_seddio_m_": 28,
+        "stanley_scutt_m_": 10,
+        "scattered": 1
+      },
+      "total": 80,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 16.3,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59045": {
+      "votes": {
+        "jaime_r_williams_f_": 123,
+        "frank_r_seddio_m_": 82,
+        "stanley_scutt_m_": 23,
+        "scattered": 5
+      },
+      "total": 233,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 17.6,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59046": {
+      "votes": {
+        "jaime_r_williams_f_": 82,
+        "frank_r_seddio_m_": 61,
+        "stanley_scutt_m_": 14,
+        "scattered": 4
+      },
+      "total": 161,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 13,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59047": {
+      "votes": {
+        "jaime_r_williams_f_": 52,
+        "frank_r_seddio_m_": 44,
+        "stanley_scutt_m_": 3,
+        "scattered": 2
+      },
+      "total": 101,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 7.9,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59048": {
+      "votes": {
+        "jaime_r_williams_f_": 70,
+        "frank_r_seddio_m_": 69,
+        "stanley_scutt_m_": 2,
+        "scattered": 0
+      },
+      "total": 141,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 0.7,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59049": {
+      "votes": {
+        "jaime_r_williams_f_": 60,
+        "frank_r_seddio_m_": 55,
+        "stanley_scutt_m_": 5,
+        "scattered": 1
+      },
+      "total": 121,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 4.1,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59050": {
+      "votes": {
+        "jaime_r_williams_f_": 61,
+        "frank_r_seddio_m_": 60,
+        "stanley_scutt_m_": 6,
+        "scattered": 1
+      },
+      "total": 128,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 0.8,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59051": {
+      "votes": {
+        "jaime_r_williams_f_": 38,
+        "frank_r_seddio_m_": 27,
+        "stanley_scutt_m_": 8,
+        "scattered": 4
+      },
+      "total": 77,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 14.3,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59052": {
+      "votes": {
+        "jaime_r_williams_f_": 93,
+        "frank_r_seddio_m_": 60,
+        "stanley_scutt_m_": 23,
+        "scattered": 1
+      },
+      "total": 177,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 18.6,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59053": {
+      "votes": {
+        "jaime_r_williams_f_": 65,
+        "frank_r_seddio_m_": 50,
+        "stanley_scutt_m_": 17,
+        "scattered": 0
+      },
+      "total": 132,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 11.4,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59054": {
+      "votes": {
+        "jaime_r_williams_f_": 44,
+        "frank_r_seddio_m_": 35,
+        "stanley_scutt_m_": 11,
+        "scattered": 1
+      },
+      "total": 91,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 9.9,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59055": {
+      "votes": {
+        "jaime_r_williams_f_": 82,
+        "frank_r_seddio_m_": 58,
+        "stanley_scutt_m_": 23,
+        "scattered": 1
+      },
+      "total": 164,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 14.6,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59056": {
+      "votes": {
+        "jaime_r_williams_f_": 114,
+        "frank_r_seddio_m_": 79,
+        "stanley_scutt_m_": 22,
+        "scattered": 2
+      },
+      "total": 217,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 16.1,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59057": {
+      "votes": {
+        "jaime_r_williams_f_": 81,
+        "frank_r_seddio_m_": 54,
+        "stanley_scutt_m_": 23,
+        "scattered": 2
+      },
+      "total": 160,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 16.9,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59058": {
+      "votes": {
+        "jaime_r_williams_f_": 32,
+        "frank_r_seddio_m_": 23,
+        "stanley_scutt_m_": 6,
+        "scattered": 0
+      },
+      "total": 61,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 14.8,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59059": {
+      "votes": {
+        "jaime_r_williams_f_": 33,
+        "frank_r_seddio_m_": 22,
+        "stanley_scutt_m_": 7,
+        "scattered": 1
+      },
+      "total": 63,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 17.5,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59060": {
+      "votes": {
+        "jaime_r_williams_f_": 36,
+        "frank_r_seddio_m_": 20,
+        "stanley_scutt_m_": 9,
+        "scattered": 0
+      },
+      "total": 65,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 24.6,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59061": {
+      "votes": {
+        "jaime_r_williams_f_": 17,
+        "frank_r_seddio_m_": 9,
+        "stanley_scutt_m_": 8,
+        "scattered": 0
+      },
+      "total": 34,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 23.5,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59062": {
+      "votes": {
+        "jaime_r_williams_f_": 26,
+        "frank_r_seddio_m_": 18,
+        "stanley_scutt_m_": 4,
+        "scattered": 0
+      },
+      "total": 48,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 16.7,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59063": {
+      "votes": {
+        "jaime_r_williams_f_": 43,
+        "frank_r_seddio_m_": 14,
+        "stanley_scutt_m_": 12,
+        "scattered": 2
+      },
+      "total": 71,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 40.8,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59065": {
+      "votes": {
+        "jaime_r_williams_f_": 38,
+        "frank_r_seddio_m_": 20,
+        "stanley_scutt_m_": 10,
+        "scattered": 1
+      },
+      "total": 69,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 26.1,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59066": {
+      "votes": {
+        "jaime_r_williams_f_": 0,
+        "frank_r_seddio_m_": 0,
+        "stanley_scutt_m_": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59068": {
+      "votes": {
+        "jaime_r_williams_f_": 0,
+        "frank_r_seddio_m_": 0,
+        "stanley_scutt_m_": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59/001": {
+      "votes": {
+        "jaime_r_williams_f_": 59,
+        "frank_r_seddio_m_": 30,
+        "stanley_scutt_m_": 19,
+        "scattered": 1
+      },
+      "total": 109,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 26.6,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59/002": {
+      "votes": {
+        "jaime_r_williams_f_": 98,
+        "frank_r_seddio_m_": 69,
+        "stanley_scutt_m_": 31,
+        "scattered": 2
+      },
+      "total": 200,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 14.5,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59/003": {
+      "votes": {
+        "jaime_r_williams_f_": 84,
+        "frank_r_seddio_m_": 42,
+        "stanley_scutt_m_": 57,
+        "scattered": 3
+      },
+      "total": 186,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 14.5,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59/004": {
+      "votes": {
+        "jaime_r_williams_f_": 138,
+        "frank_r_seddio_m_": 84,
+        "stanley_scutt_m_": 53,
+        "scattered": 1
+      },
+      "total": 276,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 19.6,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59/005": {
+      "votes": {
+        "jaime_r_williams_f_": 97,
+        "frank_r_seddio_m_": 49,
+        "stanley_scutt_m_": 30,
+        "scattered": 4
+      },
+      "total": 180,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 26.7,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59/006": {
+      "votes": {
+        "jaime_r_williams_f_": 102,
+        "frank_r_seddio_m_": 71,
+        "stanley_scutt_m_": 28,
+        "scattered": 1
+      },
+      "total": 202,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 15.3,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59/007": {
+      "votes": {
+        "jaime_r_williams_f_": 120,
+        "frank_r_seddio_m_": 67,
+        "stanley_scutt_m_": 51,
+        "scattered": 6
+      },
+      "total": 244,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 21.7,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59/008": {
+      "votes": {
+        "jaime_r_williams_f_": 112,
+        "frank_r_seddio_m_": 63,
+        "stanley_scutt_m_": 40,
+        "scattered": 1
+      },
+      "total": 216,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 22.7,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59/009": {
+      "votes": {
+        "jaime_r_williams_f_": 139,
+        "frank_r_seddio_m_": 76,
+        "stanley_scutt_m_": 39,
+        "scattered": 1
+      },
+      "total": 255,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 24.7,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59/010": {
+      "votes": {
+        "jaime_r_williams_f_": 94,
+        "frank_r_seddio_m_": 55,
+        "stanley_scutt_m_": 42,
+        "scattered": 3
+      },
+      "total": 194,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 20.1,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59/011": {
+      "votes": {
+        "jaime_r_williams_f_": 91,
+        "frank_r_seddio_m_": 47,
+        "stanley_scutt_m_": 30,
+        "scattered": 2
+      },
+      "total": 170,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 25.9,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59/012": {
+      "votes": {
+        "jaime_r_williams_f_": 131,
+        "frank_r_seddio_m_": 74,
+        "stanley_scutt_m_": 51,
+        "scattered": 3
+      },
+      "total": 259,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 22,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59/013": {
+      "votes": {
+        "jaime_r_williams_f_": 128,
+        "frank_r_seddio_m_": 69,
+        "stanley_scutt_m_": 44,
+        "scattered": 0
+      },
+      "total": 241,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 24.5,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59/014": {
+      "votes": {
+        "jaime_r_williams_f_": 78,
+        "frank_r_seddio_m_": 39,
+        "stanley_scutt_m_": 39,
+        "scattered": 1
+      },
+      "total": 157,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 24.8,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59/015": {
+      "votes": {
+        "jaime_r_williams_f_": 57,
+        "frank_r_seddio_m_": 33,
+        "stanley_scutt_m_": 25,
+        "scattered": 0
+      },
+      "total": 115,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 20.9,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59/016": {
+      "votes": {
+        "jaime_r_williams_f_": 79,
+        "frank_r_seddio_m_": 42,
+        "stanley_scutt_m_": 29,
+        "scattered": 2
+      },
+      "total": 152,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 24.3,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59/017": {
+      "votes": {
+        "jaime_r_williams_f_": 129,
+        "frank_r_seddio_m_": 79,
+        "stanley_scutt_m_": 36,
+        "scattered": 3
+      },
+      "total": 247,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 20.2,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59/018": {
+      "votes": {
+        "jaime_r_williams_f_": 141,
+        "frank_r_seddio_m_": 77,
+        "stanley_scutt_m_": 56,
+        "scattered": 2
+      },
+      "total": 276,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 23.2,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59/019": {
+      "votes": {
+        "jaime_r_williams_f_": 146,
+        "frank_r_seddio_m_": 80,
+        "stanley_scutt_m_": 41,
+        "scattered": 1
+      },
+      "total": 268,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 24.6,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59/020": {
+      "votes": {
+        "jaime_r_williams_f_": 96,
+        "frank_r_seddio_m_": 60,
+        "stanley_scutt_m_": 34,
+        "scattered": 1
+      },
+      "total": 191,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 18.8,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59/021": {
+      "votes": {
+        "jaime_r_williams_f_": 110,
+        "frank_r_seddio_m_": 54,
+        "stanley_scutt_m_": 37,
+        "scattered": 0
+      },
+      "total": 201,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 27.9,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59/022": {
+      "votes": {
+        "jaime_r_williams_f_": 117,
+        "frank_r_seddio_m_": 80,
+        "stanley_scutt_m_": 53,
+        "scattered": 2
+      },
+      "total": 252,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 14.7,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59/023": {
+      "votes": {
+        "jaime_r_williams_f_": 56,
+        "frank_r_seddio_m_": 33,
+        "stanley_scutt_m_": 10,
+        "scattered": 0
+      },
+      "total": 99,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 23.2,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59/024": {
+      "votes": {
+        "jaime_r_williams_f_": 61,
+        "frank_r_seddio_m_": 18,
+        "stanley_scutt_m_": 16,
+        "scattered": 2
+      },
+      "total": 97,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 44.3,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59/025": {
+      "votes": {
+        "jaime_r_williams_f_": 49,
+        "frank_r_seddio_m_": 24,
+        "stanley_scutt_m_": 12,
+        "scattered": 2
+      },
+      "total": 87,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 28.7,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59/026": {
+      "votes": {
+        "jaime_r_williams_f_": 97,
+        "frank_r_seddio_m_": 36,
+        "stanley_scutt_m_": 39,
+        "scattered": 1
+      },
+      "total": 173,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 33.5,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59/027": {
+      "votes": {
+        "jaime_r_williams_f_": 115,
+        "frank_r_seddio_m_": 51,
+        "stanley_scutt_m_": 42,
+        "scattered": 0
+      },
+      "total": 208,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 30.8,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59/028": {
+      "votes": {
+        "jaime_r_williams_f_": 67,
+        "frank_r_seddio_m_": 35,
+        "stanley_scutt_m_": 22,
+        "scattered": 2
+      },
+      "total": 126,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 25.4,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59/029": {
+      "votes": {
+        "jaime_r_williams_f_": 89,
+        "frank_r_seddio_m_": 48,
+        "stanley_scutt_m_": 17,
+        "scattered": 2
+      },
+      "total": 156,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 26.3,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59/030": {
+      "votes": {
+        "jaime_r_williams_f_": 98,
+        "frank_r_seddio_m_": 54,
+        "stanley_scutt_m_": 32,
+        "scattered": 2
+      },
+      "total": 186,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 23.7,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59/031": {
+      "votes": {
+        "jaime_r_williams_f_": 34,
+        "frank_r_seddio_m_": 17,
+        "stanley_scutt_m_": 6,
+        "scattered": 0
+      },
+      "total": 57,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 29.8,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59/032": {
+      "votes": {
+        "jaime_r_williams_f_": 127,
+        "frank_r_seddio_m_": 77,
+        "stanley_scutt_m_": 29,
+        "scattered": 1
+      },
+      "total": 234,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 21.4,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59/033": {
+      "votes": {
+        "jaime_r_williams_f_": 91,
+        "frank_r_seddio_m_": 46,
+        "stanley_scutt_m_": 24,
+        "scattered": 0
+      },
+      "total": 161,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 28,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59/034": {
+      "votes": {
+        "jaime_r_williams_f_": 81,
+        "frank_r_seddio_m_": 52,
+        "stanley_scutt_m_": 22,
+        "scattered": 0
+      },
+      "total": 155,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 18.7,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59/035": {
+      "votes": {
+        "jaime_r_williams_f_": 35,
+        "frank_r_seddio_m_": 15,
+        "stanley_scutt_m_": 12,
+        "scattered": 2
+      },
+      "total": 64,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 31.3,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59/036": {
+      "votes": {
+        "jaime_r_williams_f_": 131,
+        "frank_r_seddio_m_": 62,
+        "stanley_scutt_m_": 39,
+        "scattered": 1
+      },
+      "total": 233,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 29.6,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59/037": {
+      "votes": {
+        "jaime_r_williams_f_": 144,
+        "frank_r_seddio_m_": 75,
+        "stanley_scutt_m_": 50,
+        "scattered": 0
+      },
+      "total": 269,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 25.7,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59/038": {
+      "votes": {
+        "jaime_r_williams_f_": 86,
+        "frank_r_seddio_m_": 58,
+        "stanley_scutt_m_": 32,
+        "scattered": 1
+      },
+      "total": 177,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 15.8,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59/039": {
+      "votes": {
+        "jaime_r_williams_f_": 177,
+        "frank_r_seddio_m_": 112,
+        "stanley_scutt_m_": 39,
+        "scattered": 3
+      },
+      "total": 331,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 19.6,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59/040": {
+      "votes": {
+        "jaime_r_williams_f_": 14,
+        "frank_r_seddio_m_": 11,
+        "stanley_scutt_m_": 1,
+        "scattered": 0
+      },
+      "total": 26,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 11.5,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59/041": {
+      "votes": {
+        "jaime_r_williams_f_": 91,
+        "frank_r_seddio_m_": 64,
+        "stanley_scutt_m_": 27,
+        "scattered": 2
+      },
+      "total": 184,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 14.7,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59/042": {
+      "votes": {
+        "jaime_r_williams_f_": 56,
+        "frank_r_seddio_m_": 31,
+        "stanley_scutt_m_": 9,
+        "scattered": 0
+      },
+      "total": 96,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 26,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59/043": {
+      "votes": {
+        "jaime_r_williams_f_": 99,
+        "frank_r_seddio_m_": 63,
+        "stanley_scutt_m_": 27,
+        "scattered": 3
+      },
+      "total": 192,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 18.8,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59/044": {
+      "votes": {
+        "jaime_r_williams_f_": 41,
+        "frank_r_seddio_m_": 28,
+        "stanley_scutt_m_": 10,
+        "scattered": 1
+      },
+      "total": 80,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 16.3,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59/045": {
+      "votes": {
+        "jaime_r_williams_f_": 123,
+        "frank_r_seddio_m_": 82,
+        "stanley_scutt_m_": 23,
+        "scattered": 5
+      },
+      "total": 233,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 17.6,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59/046": {
+      "votes": {
+        "jaime_r_williams_f_": 82,
+        "frank_r_seddio_m_": 61,
+        "stanley_scutt_m_": 14,
+        "scattered": 4
+      },
+      "total": 161,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 13,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59/047": {
+      "votes": {
+        "jaime_r_williams_f_": 52,
+        "frank_r_seddio_m_": 44,
+        "stanley_scutt_m_": 3,
+        "scattered": 2
+      },
+      "total": 101,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 7.9,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59/048": {
+      "votes": {
+        "jaime_r_williams_f_": 70,
+        "frank_r_seddio_m_": 69,
+        "stanley_scutt_m_": 2,
+        "scattered": 0
+      },
+      "total": 141,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 0.7,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59/049": {
+      "votes": {
+        "jaime_r_williams_f_": 60,
+        "frank_r_seddio_m_": 55,
+        "stanley_scutt_m_": 5,
+        "scattered": 1
+      },
+      "total": 121,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 4.1,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59/050": {
+      "votes": {
+        "jaime_r_williams_f_": 61,
+        "frank_r_seddio_m_": 60,
+        "stanley_scutt_m_": 6,
+        "scattered": 1
+      },
+      "total": 128,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 0.8,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59/051": {
+      "votes": {
+        "jaime_r_williams_f_": 38,
+        "frank_r_seddio_m_": 27,
+        "stanley_scutt_m_": 8,
+        "scattered": 4
+      },
+      "total": 77,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 14.3,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59/052": {
+      "votes": {
+        "jaime_r_williams_f_": 93,
+        "frank_r_seddio_m_": 60,
+        "stanley_scutt_m_": 23,
+        "scattered": 1
+      },
+      "total": 177,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 18.6,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59/053": {
+      "votes": {
+        "jaime_r_williams_f_": 65,
+        "frank_r_seddio_m_": 50,
+        "stanley_scutt_m_": 17,
+        "scattered": 0
+      },
+      "total": 132,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 11.4,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59/054": {
+      "votes": {
+        "jaime_r_williams_f_": 44,
+        "frank_r_seddio_m_": 35,
+        "stanley_scutt_m_": 11,
+        "scattered": 1
+      },
+      "total": 91,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 9.9,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59/055": {
+      "votes": {
+        "jaime_r_williams_f_": 82,
+        "frank_r_seddio_m_": 58,
+        "stanley_scutt_m_": 23,
+        "scattered": 1
+      },
+      "total": 164,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 14.6,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59/056": {
+      "votes": {
+        "jaime_r_williams_f_": 114,
+        "frank_r_seddio_m_": 79,
+        "stanley_scutt_m_": 22,
+        "scattered": 2
+      },
+      "total": 217,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 16.1,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59/057": {
+      "votes": {
+        "jaime_r_williams_f_": 81,
+        "frank_r_seddio_m_": 54,
+        "stanley_scutt_m_": 23,
+        "scattered": 2
+      },
+      "total": 160,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 16.9,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59/058": {
+      "votes": {
+        "jaime_r_williams_f_": 32,
+        "frank_r_seddio_m_": 23,
+        "stanley_scutt_m_": 6,
+        "scattered": 0
+      },
+      "total": 61,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 14.8,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59/059": {
+      "votes": {
+        "jaime_r_williams_f_": 33,
+        "frank_r_seddio_m_": 22,
+        "stanley_scutt_m_": 7,
+        "scattered": 1
+      },
+      "total": 63,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 17.5,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59/060": {
+      "votes": {
+        "jaime_r_williams_f_": 36,
+        "frank_r_seddio_m_": 20,
+        "stanley_scutt_m_": 9,
+        "scattered": 0
+      },
+      "total": 65,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 24.6,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59/061": {
+      "votes": {
+        "jaime_r_williams_f_": 17,
+        "frank_r_seddio_m_": 9,
+        "stanley_scutt_m_": 8,
+        "scattered": 0
+      },
+      "total": 34,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 23.5,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59/062": {
+      "votes": {
+        "jaime_r_williams_f_": 26,
+        "frank_r_seddio_m_": 18,
+        "stanley_scutt_m_": 4,
+        "scattered": 0
+      },
+      "total": 48,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 16.7,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59/063": {
+      "votes": {
+        "jaime_r_williams_f_": 43,
+        "frank_r_seddio_m_": 14,
+        "stanley_scutt_m_": 12,
+        "scattered": 2
+      },
+      "total": 71,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 40.8,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59/065": {
+      "votes": {
+        "jaime_r_williams_f_": 38,
+        "frank_r_seddio_m_": 20,
+        "stanley_scutt_m_": 10,
+        "scattered": 1
+      },
+      "total": 69,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 26.1,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59/066": {
+      "votes": {
+        "jaime_r_williams_f_": 0,
+        "frank_r_seddio_m_": 0,
+        "stanley_scutt_m_": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "59/068": {
+      "votes": {
+        "jaime_r_williams_f_": 0,
+        "frank_r_seddio_m_": 0,
+        "stanley_scutt_m_": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "jaime_r_williams_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "jaime_r_williams_f_",
+          "name": "Jaime R. Williams (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "frank_r_seddio_m_",
+          "name": "Frank R. Seddio (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stanley_scutt_m_",
+          "name": "Stanley Scutt (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    }
+  }
+}

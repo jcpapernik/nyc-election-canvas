@@ -1,0 +1,31 @@
+{
+  "id": "democratic_member_of_the_assembly_49",
+  "name": "2026 Primary - Member of the Assembly District 49",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "State Assembly",
+  "districtKey": "49",
+  "districtType": "assembly",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "lester_chang",
+      "name": "Lester Chang",
+      "party": "Democratic",
+      "isIncumbent": true,
+      "color": "#2563eb"
+    }
+  ],
+  "results": {
+    "49": {
+      "votes": {
+        "uncontested_primary_assembly_49": 0
+      },
+      "total": 0,
+      "winnerId": "uncontested_primary_assembly_49",
+      "margin": 100,
+      "isUncontested": true
+    }
+  },
+  "edResults": {}
+}

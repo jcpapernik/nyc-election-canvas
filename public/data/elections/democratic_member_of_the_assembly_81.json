@@ -1,0 +1,3832 @@
+{
+  "id": "democratic_member_of_the_assembly_81",
+  "name": "2026 Primary - Member of the Assembly District 81",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "NY State Assembly",
+  "districtKey": "81",
+  "districtType": "assembly",
+  "isUncontested": false,
+  "candidates": [
+    {
+      "id": "jeffrey_dinowitz",
+      "name": "Jeffrey Dinowitz",
+      "party": "Democratic",
+      "isIncumbent": true,
+      "color": "#d97706"
+    },
+    {
+      "id": "morgan_evers",
+      "name": "Morgan Evers",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#7c3aed"
+    },
+    {
+      "id": "scattered",
+      "name": "Scattered",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#059669"
+    }
+  ],
+  "results": {
+    "81": {
+      "votes": {
+        "jeffrey_dinowitz": 7791,
+        "morgan_evers": 4225,
+        "scattered": 29
+      },
+      "total": 12045,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 29.6,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    }
+  },
+  "edResults": {
+    "81001": {
+      "votes": {
+        "jeffrey_dinowitz": 57,
+        "morgan_evers": 36,
+        "scattered": 0
+      },
+      "total": 93,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 22.6,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81002": {
+      "votes": {
+        "jeffrey_dinowitz": 63,
+        "morgan_evers": 58,
+        "scattered": 0
+      },
+      "total": 121,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 4.1,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81003": {
+      "votes": {
+        "jeffrey_dinowitz": 70,
+        "morgan_evers": 28,
+        "scattered": 0
+      },
+      "total": 98,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 42.9,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81004": {
+      "votes": {
+        "jeffrey_dinowitz": 76,
+        "morgan_evers": 11,
+        "scattered": 0
+      },
+      "total": 87,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 74.7,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81005": {
+      "votes": {
+        "jeffrey_dinowitz": 87,
+        "morgan_evers": 71,
+        "scattered": 1
+      },
+      "total": 159,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 10.1,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81006": {
+      "votes": {
+        "jeffrey_dinowitz": 110,
+        "morgan_evers": 56,
+        "scattered": 0
+      },
+      "total": 166,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 32.5,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81007": {
+      "votes": {
+        "jeffrey_dinowitz": 44,
+        "morgan_evers": 64,
+        "scattered": 1
+      },
+      "total": 109,
+      "winnerId": "morgan_evers",
+      "margin": 18.3,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81008": {
+      "votes": {
+        "jeffrey_dinowitz": 107,
+        "morgan_evers": 58,
+        "scattered": 0
+      },
+      "total": 165,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 29.7,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81009": {
+      "votes": {
+        "jeffrey_dinowitz": 118,
+        "morgan_evers": 68,
+        "scattered": 1
+      },
+      "total": 187,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 26.7,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81010": {
+      "votes": {
+        "jeffrey_dinowitz": 109,
+        "morgan_evers": 71,
+        "scattered": 0
+      },
+      "total": 180,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 21.1,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81011": {
+      "votes": {
+        "jeffrey_dinowitz": 91,
+        "morgan_evers": 83,
+        "scattered": 0
+      },
+      "total": 174,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 4.6,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81012": {
+      "votes": {
+        "jeffrey_dinowitz": 97,
+        "morgan_evers": 75,
+        "scattered": 1
+      },
+      "total": 173,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 12.7,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81013": {
+      "votes": {
+        "jeffrey_dinowitz": 13,
+        "morgan_evers": 12,
+        "scattered": 0
+      },
+      "total": 25,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 4,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81014": {
+      "votes": {
+        "jeffrey_dinowitz": 262,
+        "morgan_evers": 154,
+        "scattered": 0
+      },
+      "total": 416,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 26,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81015": {
+      "votes": {
+        "jeffrey_dinowitz": 248,
+        "morgan_evers": 94,
+        "scattered": 0
+      },
+      "total": 342,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 45,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81016": {
+      "votes": {
+        "jeffrey_dinowitz": 141,
+        "morgan_evers": 76,
+        "scattered": 1
+      },
+      "total": 218,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 29.8,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81017": {
+      "votes": {
+        "jeffrey_dinowitz": 103,
+        "morgan_evers": 133,
+        "scattered": 1
+      },
+      "total": 237,
+      "winnerId": "morgan_evers",
+      "margin": 12.7,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81018": {
+      "votes": {
+        "jeffrey_dinowitz": 51,
+        "morgan_evers": 17,
+        "scattered": 0
+      },
+      "total": 68,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 50,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81019": {
+      "votes": {
+        "jeffrey_dinowitz": 240,
+        "morgan_evers": 112,
+        "scattered": 1
+      },
+      "total": 353,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 36.3,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81020": {
+      "votes": {
+        "jeffrey_dinowitz": 145,
+        "morgan_evers": 151,
+        "scattered": 0
+      },
+      "total": 296,
+      "winnerId": "morgan_evers",
+      "margin": 2,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81021": {
+      "votes": {
+        "jeffrey_dinowitz": 184,
+        "morgan_evers": 146,
+        "scattered": 0
+      },
+      "total": 330,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 11.5,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81022": {
+      "votes": {
+        "jeffrey_dinowitz": 294,
+        "morgan_evers": 108,
+        "scattered": 1
+      },
+      "total": 403,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 46.2,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81023": {
+      "votes": {
+        "jeffrey_dinowitz": 79,
+        "morgan_evers": 112,
+        "scattered": 0
+      },
+      "total": 191,
+      "winnerId": "morgan_evers",
+      "margin": 17.3,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81024": {
+      "votes": {
+        "jeffrey_dinowitz": 60,
+        "morgan_evers": 14,
+        "scattered": 1
+      },
+      "total": 75,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 61.3,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81025": {
+      "votes": {
+        "jeffrey_dinowitz": 249,
+        "morgan_evers": 47,
+        "scattered": 0
+      },
+      "total": 296,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 68.2,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81026": {
+      "votes": {
+        "jeffrey_dinowitz": 89,
+        "morgan_evers": 118,
+        "scattered": 0
+      },
+      "total": 207,
+      "winnerId": "morgan_evers",
+      "margin": 14,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81027": {
+      "votes": {
+        "jeffrey_dinowitz": 254,
+        "morgan_evers": 105,
+        "scattered": 0
+      },
+      "total": 359,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 41.5,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81028": {
+      "votes": {
+        "jeffrey_dinowitz": 344,
+        "morgan_evers": 130,
+        "scattered": 3
+      },
+      "total": 477,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 44.9,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81029": {
+      "votes": {
+        "jeffrey_dinowitz": 375,
+        "morgan_evers": 167,
+        "scattered": 0
+      },
+      "total": 542,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 38.4,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81030": {
+      "votes": {
+        "jeffrey_dinowitz": 327,
+        "morgan_evers": 131,
+        "scattered": 1
+      },
+      "total": 459,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 42.7,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81031": {
+      "votes": {
+        "jeffrey_dinowitz": 418,
+        "morgan_evers": 110,
+        "scattered": 2
+      },
+      "total": 530,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 58.1,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81032": {
+      "votes": {
+        "jeffrey_dinowitz": 282,
+        "morgan_evers": 80,
+        "scattered": 0
+      },
+      "total": 362,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 55.8,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81033": {
+      "votes": {
+        "jeffrey_dinowitz": 157,
+        "morgan_evers": 44,
+        "scattered": 0
+      },
+      "total": 201,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 56.2,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81034": {
+      "votes": {
+        "jeffrey_dinowitz": 226,
+        "morgan_evers": 95,
+        "scattered": 2
+      },
+      "total": 323,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 40.6,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81035": {
+      "votes": {
+        "jeffrey_dinowitz": 211,
+        "morgan_evers": 99,
+        "scattered": 2
+      },
+      "total": 312,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 35.9,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81036": {
+      "votes": {
+        "jeffrey_dinowitz": 172,
+        "morgan_evers": 121,
+        "scattered": 0
+      },
+      "total": 293,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 17.4,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81037": {
+      "votes": {
+        "jeffrey_dinowitz": 177,
+        "morgan_evers": 107,
+        "scattered": 1
+      },
+      "total": 285,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 24.6,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81038": {
+      "votes": {
+        "jeffrey_dinowitz": 104,
+        "morgan_evers": 102,
+        "scattered": 2
+      },
+      "total": 208,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 1,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81039": {
+      "votes": {
+        "jeffrey_dinowitz": 69,
+        "morgan_evers": 13,
+        "scattered": 0
+      },
+      "total": 82,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 68.3,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81040": {
+      "votes": {
+        "jeffrey_dinowitz": 145,
+        "morgan_evers": 128,
+        "scattered": 1
+      },
+      "total": 274,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 6.2,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81041": {
+      "votes": {
+        "jeffrey_dinowitz": 45,
+        "morgan_evers": 71,
+        "scattered": 0
+      },
+      "total": 116,
+      "winnerId": "morgan_evers",
+      "margin": 22.4,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81042": {
+      "votes": {
+        "jeffrey_dinowitz": 65,
+        "morgan_evers": 73,
+        "scattered": 0
+      },
+      "total": 138,
+      "winnerId": "morgan_evers",
+      "margin": 5.8,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81043": {
+      "votes": {
+        "jeffrey_dinowitz": 50,
+        "morgan_evers": 80,
+        "scattered": 1
+      },
+      "total": 131,
+      "winnerId": "morgan_evers",
+      "margin": 22.9,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81044": {
+      "votes": {
+        "jeffrey_dinowitz": 98,
+        "morgan_evers": 34,
+        "scattered": 0
+      },
+      "total": 132,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 48.5,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81045": {
+      "votes": {
+        "jeffrey_dinowitz": 65,
+        "morgan_evers": 54,
+        "scattered": 0
+      },
+      "total": 119,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 9.2,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81046": {
+      "votes": {
+        "jeffrey_dinowitz": 89,
+        "morgan_evers": 43,
+        "scattered": 0
+      },
+      "total": 132,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 34.8,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81047": {
+      "votes": {
+        "jeffrey_dinowitz": 67,
+        "morgan_evers": 32,
+        "scattered": 0
+      },
+      "total": 99,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 35.4,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81048": {
+      "votes": {
+        "jeffrey_dinowitz": 117,
+        "morgan_evers": 49,
+        "scattered": 0
+      },
+      "total": 166,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 41,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81049": {
+      "votes": {
+        "jeffrey_dinowitz": 74,
+        "morgan_evers": 24,
+        "scattered": 0
+      },
+      "total": 98,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 51,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81050": {
+      "votes": {
+        "jeffrey_dinowitz": 52,
+        "morgan_evers": 25,
+        "scattered": 0
+      },
+      "total": 77,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 35.1,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81051": {
+      "votes": {
+        "jeffrey_dinowitz": 61,
+        "morgan_evers": 50,
+        "scattered": 0
+      },
+      "total": 111,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 9.9,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81052": {
+      "votes": {
+        "jeffrey_dinowitz": 80,
+        "morgan_evers": 22,
+        "scattered": 0
+      },
+      "total": 102,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 56.9,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81053": {
+      "votes": {
+        "jeffrey_dinowitz": 99,
+        "morgan_evers": 66,
+        "scattered": 2
+      },
+      "total": 167,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 19.8,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81054": {
+      "votes": {
+        "jeffrey_dinowitz": 162,
+        "morgan_evers": 89,
+        "scattered": 1
+      },
+      "total": 252,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 29,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81055": {
+      "votes": {
+        "jeffrey_dinowitz": 67,
+        "morgan_evers": 16,
+        "scattered": 0
+      },
+      "total": 83,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 61.4,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81056": {
+      "votes": {
+        "jeffrey_dinowitz": 152,
+        "morgan_evers": 92,
+        "scattered": 2
+      },
+      "total": 246,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 24.4,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81059": {
+      "votes": {
+        "jeffrey_dinowitz": 0,
+        "morgan_evers": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81/001": {
+      "votes": {
+        "jeffrey_dinowitz": 57,
+        "morgan_evers": 36,
+        "scattered": 0
+      },
+      "total": 93,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 22.6,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81/002": {
+      "votes": {
+        "jeffrey_dinowitz": 63,
+        "morgan_evers": 58,
+        "scattered": 0
+      },
+      "total": 121,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 4.1,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81/003": {
+      "votes": {
+        "jeffrey_dinowitz": 70,
+        "morgan_evers": 28,
+        "scattered": 0
+      },
+      "total": 98,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 42.9,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81/004": {
+      "votes": {
+        "jeffrey_dinowitz": 76,
+        "morgan_evers": 11,
+        "scattered": 0
+      },
+      "total": 87,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 74.7,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81/005": {
+      "votes": {
+        "jeffrey_dinowitz": 87,
+        "morgan_evers": 71,
+        "scattered": 1
+      },
+      "total": 159,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 10.1,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81/006": {
+      "votes": {
+        "jeffrey_dinowitz": 110,
+        "morgan_evers": 56,
+        "scattered": 0
+      },
+      "total": 166,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 32.5,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81/007": {
+      "votes": {
+        "jeffrey_dinowitz": 44,
+        "morgan_evers": 64,
+        "scattered": 1
+      },
+      "total": 109,
+      "winnerId": "morgan_evers",
+      "margin": 18.3,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81/008": {
+      "votes": {
+        "jeffrey_dinowitz": 107,
+        "morgan_evers": 58,
+        "scattered": 0
+      },
+      "total": 165,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 29.7,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81/009": {
+      "votes": {
+        "jeffrey_dinowitz": 118,
+        "morgan_evers": 68,
+        "scattered": 1
+      },
+      "total": 187,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 26.7,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81/010": {
+      "votes": {
+        "jeffrey_dinowitz": 109,
+        "morgan_evers": 71,
+        "scattered": 0
+      },
+      "total": 180,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 21.1,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81/011": {
+      "votes": {
+        "jeffrey_dinowitz": 91,
+        "morgan_evers": 83,
+        "scattered": 0
+      },
+      "total": 174,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 4.6,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81/012": {
+      "votes": {
+        "jeffrey_dinowitz": 97,
+        "morgan_evers": 75,
+        "scattered": 1
+      },
+      "total": 173,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 12.7,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81/013": {
+      "votes": {
+        "jeffrey_dinowitz": 13,
+        "morgan_evers": 12,
+        "scattered": 0
+      },
+      "total": 25,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 4,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81/014": {
+      "votes": {
+        "jeffrey_dinowitz": 262,
+        "morgan_evers": 154,
+        "scattered": 0
+      },
+      "total": 416,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 26,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81/015": {
+      "votes": {
+        "jeffrey_dinowitz": 248,
+        "morgan_evers": 94,
+        "scattered": 0
+      },
+      "total": 342,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 45,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81/016": {
+      "votes": {
+        "jeffrey_dinowitz": 141,
+        "morgan_evers": 76,
+        "scattered": 1
+      },
+      "total": 218,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 29.8,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81/017": {
+      "votes": {
+        "jeffrey_dinowitz": 103,
+        "morgan_evers": 133,
+        "scattered": 1
+      },
+      "total": 237,
+      "winnerId": "morgan_evers",
+      "margin": 12.7,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81/018": {
+      "votes": {
+        "jeffrey_dinowitz": 51,
+        "morgan_evers": 17,
+        "scattered": 0
+      },
+      "total": 68,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 50,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81/019": {
+      "votes": {
+        "jeffrey_dinowitz": 240,
+        "morgan_evers": 112,
+        "scattered": 1
+      },
+      "total": 353,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 36.3,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81/020": {
+      "votes": {
+        "jeffrey_dinowitz": 145,
+        "morgan_evers": 151,
+        "scattered": 0
+      },
+      "total": 296,
+      "winnerId": "morgan_evers",
+      "margin": 2,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81/021": {
+      "votes": {
+        "jeffrey_dinowitz": 184,
+        "morgan_evers": 146,
+        "scattered": 0
+      },
+      "total": 330,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 11.5,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81/022": {
+      "votes": {
+        "jeffrey_dinowitz": 294,
+        "morgan_evers": 108,
+        "scattered": 1
+      },
+      "total": 403,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 46.2,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81/023": {
+      "votes": {
+        "jeffrey_dinowitz": 79,
+        "morgan_evers": 112,
+        "scattered": 0
+      },
+      "total": 191,
+      "winnerId": "morgan_evers",
+      "margin": 17.3,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81/024": {
+      "votes": {
+        "jeffrey_dinowitz": 60,
+        "morgan_evers": 14,
+        "scattered": 1
+      },
+      "total": 75,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 61.3,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81/025": {
+      "votes": {
+        "jeffrey_dinowitz": 249,
+        "morgan_evers": 47,
+        "scattered": 0
+      },
+      "total": 296,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 68.2,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81/026": {
+      "votes": {
+        "jeffrey_dinowitz": 89,
+        "morgan_evers": 118,
+        "scattered": 0
+      },
+      "total": 207,
+      "winnerId": "morgan_evers",
+      "margin": 14,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81/027": {
+      "votes": {
+        "jeffrey_dinowitz": 254,
+        "morgan_evers": 105,
+        "scattered": 0
+      },
+      "total": 359,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 41.5,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81/028": {
+      "votes": {
+        "jeffrey_dinowitz": 344,
+        "morgan_evers": 130,
+        "scattered": 3
+      },
+      "total": 477,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 44.9,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81/029": {
+      "votes": {
+        "jeffrey_dinowitz": 375,
+        "morgan_evers": 167,
+        "scattered": 0
+      },
+      "total": 542,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 38.4,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81/030": {
+      "votes": {
+        "jeffrey_dinowitz": 327,
+        "morgan_evers": 131,
+        "scattered": 1
+      },
+      "total": 459,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 42.7,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81/031": {
+      "votes": {
+        "jeffrey_dinowitz": 418,
+        "morgan_evers": 110,
+        "scattered": 2
+      },
+      "total": 530,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 58.1,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81/032": {
+      "votes": {
+        "jeffrey_dinowitz": 282,
+        "morgan_evers": 80,
+        "scattered": 0
+      },
+      "total": 362,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 55.8,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81/033": {
+      "votes": {
+        "jeffrey_dinowitz": 157,
+        "morgan_evers": 44,
+        "scattered": 0
+      },
+      "total": 201,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 56.2,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81/034": {
+      "votes": {
+        "jeffrey_dinowitz": 226,
+        "morgan_evers": 95,
+        "scattered": 2
+      },
+      "total": 323,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 40.6,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81/035": {
+      "votes": {
+        "jeffrey_dinowitz": 211,
+        "morgan_evers": 99,
+        "scattered": 2
+      },
+      "total": 312,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 35.9,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81/036": {
+      "votes": {
+        "jeffrey_dinowitz": 172,
+        "morgan_evers": 121,
+        "scattered": 0
+      },
+      "total": 293,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 17.4,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81/037": {
+      "votes": {
+        "jeffrey_dinowitz": 177,
+        "morgan_evers": 107,
+        "scattered": 1
+      },
+      "total": 285,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 24.6,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81/038": {
+      "votes": {
+        "jeffrey_dinowitz": 104,
+        "morgan_evers": 102,
+        "scattered": 2
+      },
+      "total": 208,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 1,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81/039": {
+      "votes": {
+        "jeffrey_dinowitz": 69,
+        "morgan_evers": 13,
+        "scattered": 0
+      },
+      "total": 82,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 68.3,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81/040": {
+      "votes": {
+        "jeffrey_dinowitz": 145,
+        "morgan_evers": 128,
+        "scattered": 1
+      },
+      "total": 274,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 6.2,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81/041": {
+      "votes": {
+        "jeffrey_dinowitz": 45,
+        "morgan_evers": 71,
+        "scattered": 0
+      },
+      "total": 116,
+      "winnerId": "morgan_evers",
+      "margin": 22.4,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81/042": {
+      "votes": {
+        "jeffrey_dinowitz": 65,
+        "morgan_evers": 73,
+        "scattered": 0
+      },
+      "total": 138,
+      "winnerId": "morgan_evers",
+      "margin": 5.8,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81/043": {
+      "votes": {
+        "jeffrey_dinowitz": 50,
+        "morgan_evers": 80,
+        "scattered": 1
+      },
+      "total": 131,
+      "winnerId": "morgan_evers",
+      "margin": 22.9,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81/044": {
+      "votes": {
+        "jeffrey_dinowitz": 98,
+        "morgan_evers": 34,
+        "scattered": 0
+      },
+      "total": 132,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 48.5,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81/045": {
+      "votes": {
+        "jeffrey_dinowitz": 65,
+        "morgan_evers": 54,
+        "scattered": 0
+      },
+      "total": 119,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 9.2,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81/046": {
+      "votes": {
+        "jeffrey_dinowitz": 89,
+        "morgan_evers": 43,
+        "scattered": 0
+      },
+      "total": 132,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 34.8,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81/047": {
+      "votes": {
+        "jeffrey_dinowitz": 67,
+        "morgan_evers": 32,
+        "scattered": 0
+      },
+      "total": 99,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 35.4,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81/048": {
+      "votes": {
+        "jeffrey_dinowitz": 117,
+        "morgan_evers": 49,
+        "scattered": 0
+      },
+      "total": 166,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 41,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81/049": {
+      "votes": {
+        "jeffrey_dinowitz": 74,
+        "morgan_evers": 24,
+        "scattered": 0
+      },
+      "total": 98,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 51,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81/050": {
+      "votes": {
+        "jeffrey_dinowitz": 52,
+        "morgan_evers": 25,
+        "scattered": 0
+      },
+      "total": 77,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 35.1,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81/051": {
+      "votes": {
+        "jeffrey_dinowitz": 61,
+        "morgan_evers": 50,
+        "scattered": 0
+      },
+      "total": 111,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 9.9,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81/052": {
+      "votes": {
+        "jeffrey_dinowitz": 80,
+        "morgan_evers": 22,
+        "scattered": 0
+      },
+      "total": 102,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 56.9,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81/053": {
+      "votes": {
+        "jeffrey_dinowitz": 99,
+        "morgan_evers": 66,
+        "scattered": 2
+      },
+      "total": 167,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 19.8,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81/054": {
+      "votes": {
+        "jeffrey_dinowitz": 162,
+        "morgan_evers": 89,
+        "scattered": 1
+      },
+      "total": 252,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 29,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81/055": {
+      "votes": {
+        "jeffrey_dinowitz": 67,
+        "morgan_evers": 16,
+        "scattered": 0
+      },
+      "total": 83,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 61.4,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81/056": {
+      "votes": {
+        "jeffrey_dinowitz": 152,
+        "morgan_evers": 92,
+        "scattered": 2
+      },
+      "total": 246,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 24.4,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "81/059": {
+      "votes": {
+        "jeffrey_dinowitz": 0,
+        "morgan_evers": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "jeffrey_dinowitz",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "jeffrey_dinowitz",
+          "name": "Jeffrey Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "morgan_evers",
+          "name": "Morgan Evers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    }
+  }
+}

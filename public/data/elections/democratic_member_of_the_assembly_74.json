@@ -1,0 +1,4096 @@
+{
+  "id": "democratic_member_of_the_assembly_74",
+  "name": "2026 Primary - Member of the Assembly District 74",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "NY State Assembly",
+  "districtKey": "74",
+  "districtType": "assembly",
+  "isUncontested": false,
+  "candidates": [
+    {
+      "id": "keith_powers",
+      "name": "Keith Powers",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#d97706"
+    },
+    {
+      "id": "joseph_w_foley",
+      "name": "Joseph W. Foley",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#7c3aed"
+    },
+    {
+      "id": "scattered",
+      "name": "Scattered",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#059669"
+    }
+  ],
+  "results": {
+    "74": {
+      "votes": {
+        "keith_powers": 4203,
+        "joseph_w_foley": 839,
+        "scattered": 51
+      },
+      "total": 5093,
+      "winnerId": "keith_powers",
+      "margin": 66.1,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    }
+  },
+  "edResults": {
+    "74001": {
+      "votes": {
+        "keith_powers": 67,
+        "joseph_w_foley": 11,
+        "scattered": 0
+      },
+      "total": 78,
+      "winnerId": "keith_powers",
+      "margin": 71.8,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74002": {
+      "votes": {
+        "keith_powers": 105,
+        "joseph_w_foley": 23,
+        "scattered": 1
+      },
+      "total": 129,
+      "winnerId": "keith_powers",
+      "margin": 63.6,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74003": {
+      "votes": {
+        "keith_powers": 75,
+        "joseph_w_foley": 18,
+        "scattered": 1
+      },
+      "total": 94,
+      "winnerId": "keith_powers",
+      "margin": 60.6,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74004": {
+      "votes": {
+        "keith_powers": 51,
+        "joseph_w_foley": 9,
+        "scattered": 0
+      },
+      "total": 60,
+      "winnerId": "keith_powers",
+      "margin": 70,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74005": {
+      "votes": {
+        "keith_powers": 57,
+        "joseph_w_foley": 18,
+        "scattered": 1
+      },
+      "total": 76,
+      "winnerId": "keith_powers",
+      "margin": 51.3,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74006": {
+      "votes": {
+        "keith_powers": 37,
+        "joseph_w_foley": 13,
+        "scattered": 0
+      },
+      "total": 50,
+      "winnerId": "keith_powers",
+      "margin": 48,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74007": {
+      "votes": {
+        "keith_powers": 110,
+        "joseph_w_foley": 15,
+        "scattered": 1
+      },
+      "total": 126,
+      "winnerId": "keith_powers",
+      "margin": 75.4,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74008": {
+      "votes": {
+        "keith_powers": 55,
+        "joseph_w_foley": 7,
+        "scattered": 0
+      },
+      "total": 62,
+      "winnerId": "keith_powers",
+      "margin": 77.4,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74009": {
+      "votes": {
+        "keith_powers": 24,
+        "joseph_w_foley": 7,
+        "scattered": 0
+      },
+      "total": 31,
+      "winnerId": "keith_powers",
+      "margin": 54.8,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74010": {
+      "votes": {
+        "keith_powers": 57,
+        "joseph_w_foley": 11,
+        "scattered": 0
+      },
+      "total": 68,
+      "winnerId": "keith_powers",
+      "margin": 67.6,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74011": {
+      "votes": {
+        "keith_powers": 125,
+        "joseph_w_foley": 32,
+        "scattered": 0
+      },
+      "total": 157,
+      "winnerId": "keith_powers",
+      "margin": 59.2,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74012": {
+      "votes": {
+        "keith_powers": 92,
+        "joseph_w_foley": 11,
+        "scattered": 1
+      },
+      "total": 104,
+      "winnerId": "keith_powers",
+      "margin": 77.9,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74013": {
+      "votes": {
+        "keith_powers": 52,
+        "joseph_w_foley": 13,
+        "scattered": 2
+      },
+      "total": 67,
+      "winnerId": "keith_powers",
+      "margin": 58.2,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74014": {
+      "votes": {
+        "keith_powers": 88,
+        "joseph_w_foley": 14,
+        "scattered": 1
+      },
+      "total": 103,
+      "winnerId": "keith_powers",
+      "margin": 71.8,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74015": {
+      "votes": {
+        "keith_powers": 134,
+        "joseph_w_foley": 37,
+        "scattered": 0
+      },
+      "total": 171,
+      "winnerId": "keith_powers",
+      "margin": 56.7,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74016": {
+      "votes": {
+        "keith_powers": 161,
+        "joseph_w_foley": 32,
+        "scattered": 3
+      },
+      "total": 196,
+      "winnerId": "keith_powers",
+      "margin": 65.8,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74017": {
+      "votes": {
+        "keith_powers": 150,
+        "joseph_w_foley": 25,
+        "scattered": 2
+      },
+      "total": 177,
+      "winnerId": "keith_powers",
+      "margin": 70.6,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74018": {
+      "votes": {
+        "keith_powers": 194,
+        "joseph_w_foley": 21,
+        "scattered": 0
+      },
+      "total": 215,
+      "winnerId": "keith_powers",
+      "margin": 80.5,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74019": {
+      "votes": {
+        "keith_powers": 154,
+        "joseph_w_foley": 24,
+        "scattered": 2
+      },
+      "total": 180,
+      "winnerId": "keith_powers",
+      "margin": 72.2,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74020": {
+      "votes": {
+        "keith_powers": 120,
+        "joseph_w_foley": 12,
+        "scattered": 4
+      },
+      "total": 136,
+      "winnerId": "keith_powers",
+      "margin": 79.4,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74021": {
+      "votes": {
+        "keith_powers": 66,
+        "joseph_w_foley": 14,
+        "scattered": 4
+      },
+      "total": 84,
+      "winnerId": "keith_powers",
+      "margin": 61.9,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74022": {
+      "votes": {
+        "keith_powers": 139,
+        "joseph_w_foley": 27,
+        "scattered": 2
+      },
+      "total": 168,
+      "winnerId": "keith_powers",
+      "margin": 66.7,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74023": {
+      "votes": {
+        "keith_powers": 188,
+        "joseph_w_foley": 43,
+        "scattered": 1
+      },
+      "total": 232,
+      "winnerId": "keith_powers",
+      "margin": 62.5,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74024": {
+      "votes": {
+        "keith_powers": 138,
+        "joseph_w_foley": 19,
+        "scattered": 2
+      },
+      "total": 159,
+      "winnerId": "keith_powers",
+      "margin": 74.8,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74025": {
+      "votes": {
+        "keith_powers": 46,
+        "joseph_w_foley": 9,
+        "scattered": 0
+      },
+      "total": 55,
+      "winnerId": "keith_powers",
+      "margin": 67.3,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74026": {
+      "votes": {
+        "keith_powers": 50,
+        "joseph_w_foley": 6,
+        "scattered": 0
+      },
+      "total": 56,
+      "winnerId": "keith_powers",
+      "margin": 78.6,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74027": {
+      "votes": {
+        "keith_powers": 62,
+        "joseph_w_foley": 9,
+        "scattered": 2
+      },
+      "total": 73,
+      "winnerId": "keith_powers",
+      "margin": 72.6,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74028": {
+      "votes": {
+        "keith_powers": 50,
+        "joseph_w_foley": 4,
+        "scattered": 0
+      },
+      "total": 54,
+      "winnerId": "keith_powers",
+      "margin": 85.2,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74029": {
+      "votes": {
+        "keith_powers": 19,
+        "joseph_w_foley": 3,
+        "scattered": 1
+      },
+      "total": 23,
+      "winnerId": "keith_powers",
+      "margin": 69.6,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74030": {
+      "votes": {
+        "keith_powers": 81,
+        "joseph_w_foley": 14,
+        "scattered": 1
+      },
+      "total": 96,
+      "winnerId": "keith_powers",
+      "margin": 69.8,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74031": {
+      "votes": {
+        "keith_powers": 53,
+        "joseph_w_foley": 6,
+        "scattered": 3
+      },
+      "total": 62,
+      "winnerId": "keith_powers",
+      "margin": 75.8,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74032": {
+      "votes": {
+        "keith_powers": 15,
+        "joseph_w_foley": 3,
+        "scattered": 0
+      },
+      "total": 18,
+      "winnerId": "keith_powers",
+      "margin": 66.7,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74033": {
+      "votes": {
+        "keith_powers": 47,
+        "joseph_w_foley": 4,
+        "scattered": 3
+      },
+      "total": 54,
+      "winnerId": "keith_powers",
+      "margin": 79.6,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74034": {
+      "votes": {
+        "keith_powers": 35,
+        "joseph_w_foley": 4,
+        "scattered": 2
+      },
+      "total": 41,
+      "winnerId": "keith_powers",
+      "margin": 75.6,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74035": {
+      "votes": {
+        "keith_powers": 33,
+        "joseph_w_foley": 6,
+        "scattered": 2
+      },
+      "total": 41,
+      "winnerId": "keith_powers",
+      "margin": 65.9,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74036": {
+      "votes": {
+        "keith_powers": 48,
+        "joseph_w_foley": 1,
+        "scattered": 1
+      },
+      "total": 50,
+      "winnerId": "keith_powers",
+      "margin": 94,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74037": {
+      "votes": {
+        "keith_powers": 7,
+        "joseph_w_foley": 0,
+        "scattered": 0
+      },
+      "total": 7,
+      "winnerId": "keith_powers",
+      "margin": 100,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74038": {
+      "votes": {
+        "keith_powers": 12,
+        "joseph_w_foley": 4,
+        "scattered": 0
+      },
+      "total": 16,
+      "winnerId": "keith_powers",
+      "margin": 50,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74039": {
+      "votes": {
+        "keith_powers": 9,
+        "joseph_w_foley": 3,
+        "scattered": 0
+      },
+      "total": 12,
+      "winnerId": "keith_powers",
+      "margin": 50,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74040": {
+      "votes": {
+        "keith_powers": 9,
+        "joseph_w_foley": 0,
+        "scattered": 0
+      },
+      "total": 9,
+      "winnerId": "keith_powers",
+      "margin": 100,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74041": {
+      "votes": {
+        "keith_powers": 61,
+        "joseph_w_foley": 7,
+        "scattered": 1
+      },
+      "total": 69,
+      "winnerId": "keith_powers",
+      "margin": 78.3,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74042": {
+      "votes": {
+        "keith_powers": 81,
+        "joseph_w_foley": 39,
+        "scattered": 0
+      },
+      "total": 120,
+      "winnerId": "keith_powers",
+      "margin": 35,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74043": {
+      "votes": {
+        "keith_powers": 43,
+        "joseph_w_foley": 5,
+        "scattered": 0
+      },
+      "total": 48,
+      "winnerId": "keith_powers",
+      "margin": 79.2,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74044": {
+      "votes": {
+        "keith_powers": 10,
+        "joseph_w_foley": 6,
+        "scattered": 0
+      },
+      "total": 16,
+      "winnerId": "keith_powers",
+      "margin": 25,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74045": {
+      "votes": {
+        "keith_powers": 45,
+        "joseph_w_foley": 17,
+        "scattered": 0
+      },
+      "total": 62,
+      "winnerId": "keith_powers",
+      "margin": 45.2,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74046": {
+      "votes": {
+        "keith_powers": 34,
+        "joseph_w_foley": 8,
+        "scattered": 0
+      },
+      "total": 42,
+      "winnerId": "keith_powers",
+      "margin": 61.9,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74047": {
+      "votes": {
+        "keith_powers": 101,
+        "joseph_w_foley": 27,
+        "scattered": 3
+      },
+      "total": 131,
+      "winnerId": "keith_powers",
+      "margin": 56.5,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74048": {
+      "votes": {
+        "keith_powers": 40,
+        "joseph_w_foley": 17,
+        "scattered": 0
+      },
+      "total": 57,
+      "winnerId": "keith_powers",
+      "margin": 40.4,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74049": {
+      "votes": {
+        "keith_powers": 65,
+        "joseph_w_foley": 17,
+        "scattered": 0
+      },
+      "total": 82,
+      "winnerId": "keith_powers",
+      "margin": 58.5,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74050": {
+      "votes": {
+        "keith_powers": 45,
+        "joseph_w_foley": 8,
+        "scattered": 1
+      },
+      "total": 54,
+      "winnerId": "keith_powers",
+      "margin": 68.5,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74051": {
+      "votes": {
+        "keith_powers": 83,
+        "joseph_w_foley": 12,
+        "scattered": 0
+      },
+      "total": 95,
+      "winnerId": "keith_powers",
+      "margin": 74.7,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74052": {
+      "votes": {
+        "keith_powers": 37,
+        "joseph_w_foley": 11,
+        "scattered": 0
+      },
+      "total": 48,
+      "winnerId": "keith_powers",
+      "margin": 54.2,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74053": {
+      "votes": {
+        "keith_powers": 48,
+        "joseph_w_foley": 6,
+        "scattered": 1
+      },
+      "total": 55,
+      "winnerId": "keith_powers",
+      "margin": 76.4,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74054": {
+      "votes": {
+        "keith_powers": 33,
+        "joseph_w_foley": 7,
+        "scattered": 0
+      },
+      "total": 40,
+      "winnerId": "keith_powers",
+      "margin": 65,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74055": {
+      "votes": {
+        "keith_powers": 121,
+        "joseph_w_foley": 26,
+        "scattered": 0
+      },
+      "total": 147,
+      "winnerId": "keith_powers",
+      "margin": 64.6,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74056": {
+      "votes": {
+        "keith_powers": 37,
+        "joseph_w_foley": 20,
+        "scattered": 0
+      },
+      "total": 57,
+      "winnerId": "keith_powers",
+      "margin": 29.8,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74057": {
+      "votes": {
+        "keith_powers": 109,
+        "joseph_w_foley": 23,
+        "scattered": 1
+      },
+      "total": 133,
+      "winnerId": "keith_powers",
+      "margin": 64.7,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74058": {
+      "votes": {
+        "keith_powers": 58,
+        "joseph_w_foley": 16,
+        "scattered": 0
+      },
+      "total": 74,
+      "winnerId": "keith_powers",
+      "margin": 56.8,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74059": {
+      "votes": {
+        "keith_powers": 57,
+        "joseph_w_foley": 17,
+        "scattered": 0
+      },
+      "total": 74,
+      "winnerId": "keith_powers",
+      "margin": 54.1,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74061": {
+      "votes": {
+        "keith_powers": 60,
+        "joseph_w_foley": 10,
+        "scattered": 1
+      },
+      "total": 71,
+      "winnerId": "keith_powers",
+      "margin": 70.4,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74062": {
+      "votes": {
+        "keith_powers": 20,
+        "joseph_w_foley": 8,
+        "scattered": 0
+      },
+      "total": 28,
+      "winnerId": "keith_powers",
+      "margin": 42.9,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74/001": {
+      "votes": {
+        "keith_powers": 67,
+        "joseph_w_foley": 11,
+        "scattered": 0
+      },
+      "total": 78,
+      "winnerId": "keith_powers",
+      "margin": 71.8,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74/002": {
+      "votes": {
+        "keith_powers": 105,
+        "joseph_w_foley": 23,
+        "scattered": 1
+      },
+      "total": 129,
+      "winnerId": "keith_powers",
+      "margin": 63.6,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74/003": {
+      "votes": {
+        "keith_powers": 75,
+        "joseph_w_foley": 18,
+        "scattered": 1
+      },
+      "total": 94,
+      "winnerId": "keith_powers",
+      "margin": 60.6,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74/004": {
+      "votes": {
+        "keith_powers": 51,
+        "joseph_w_foley": 9,
+        "scattered": 0
+      },
+      "total": 60,
+      "winnerId": "keith_powers",
+      "margin": 70,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74/005": {
+      "votes": {
+        "keith_powers": 57,
+        "joseph_w_foley": 18,
+        "scattered": 1
+      },
+      "total": 76,
+      "winnerId": "keith_powers",
+      "margin": 51.3,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74/006": {
+      "votes": {
+        "keith_powers": 37,
+        "joseph_w_foley": 13,
+        "scattered": 0
+      },
+      "total": 50,
+      "winnerId": "keith_powers",
+      "margin": 48,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74/007": {
+      "votes": {
+        "keith_powers": 110,
+        "joseph_w_foley": 15,
+        "scattered": 1
+      },
+      "total": 126,
+      "winnerId": "keith_powers",
+      "margin": 75.4,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74/008": {
+      "votes": {
+        "keith_powers": 55,
+        "joseph_w_foley": 7,
+        "scattered": 0
+      },
+      "total": 62,
+      "winnerId": "keith_powers",
+      "margin": 77.4,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74/009": {
+      "votes": {
+        "keith_powers": 24,
+        "joseph_w_foley": 7,
+        "scattered": 0
+      },
+      "total": 31,
+      "winnerId": "keith_powers",
+      "margin": 54.8,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74/010": {
+      "votes": {
+        "keith_powers": 57,
+        "joseph_w_foley": 11,
+        "scattered": 0
+      },
+      "total": 68,
+      "winnerId": "keith_powers",
+      "margin": 67.6,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74/011": {
+      "votes": {
+        "keith_powers": 125,
+        "joseph_w_foley": 32,
+        "scattered": 0
+      },
+      "total": 157,
+      "winnerId": "keith_powers",
+      "margin": 59.2,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74/012": {
+      "votes": {
+        "keith_powers": 92,
+        "joseph_w_foley": 11,
+        "scattered": 1
+      },
+      "total": 104,
+      "winnerId": "keith_powers",
+      "margin": 77.9,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74/013": {
+      "votes": {
+        "keith_powers": 52,
+        "joseph_w_foley": 13,
+        "scattered": 2
+      },
+      "total": 67,
+      "winnerId": "keith_powers",
+      "margin": 58.2,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74/014": {
+      "votes": {
+        "keith_powers": 88,
+        "joseph_w_foley": 14,
+        "scattered": 1
+      },
+      "total": 103,
+      "winnerId": "keith_powers",
+      "margin": 71.8,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74/015": {
+      "votes": {
+        "keith_powers": 134,
+        "joseph_w_foley": 37,
+        "scattered": 0
+      },
+      "total": 171,
+      "winnerId": "keith_powers",
+      "margin": 56.7,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74/016": {
+      "votes": {
+        "keith_powers": 161,
+        "joseph_w_foley": 32,
+        "scattered": 3
+      },
+      "total": 196,
+      "winnerId": "keith_powers",
+      "margin": 65.8,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74/017": {
+      "votes": {
+        "keith_powers": 150,
+        "joseph_w_foley": 25,
+        "scattered": 2
+      },
+      "total": 177,
+      "winnerId": "keith_powers",
+      "margin": 70.6,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74/018": {
+      "votes": {
+        "keith_powers": 194,
+        "joseph_w_foley": 21,
+        "scattered": 0
+      },
+      "total": 215,
+      "winnerId": "keith_powers",
+      "margin": 80.5,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74/019": {
+      "votes": {
+        "keith_powers": 154,
+        "joseph_w_foley": 24,
+        "scattered": 2
+      },
+      "total": 180,
+      "winnerId": "keith_powers",
+      "margin": 72.2,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74/020": {
+      "votes": {
+        "keith_powers": 120,
+        "joseph_w_foley": 12,
+        "scattered": 4
+      },
+      "total": 136,
+      "winnerId": "keith_powers",
+      "margin": 79.4,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74/021": {
+      "votes": {
+        "keith_powers": 66,
+        "joseph_w_foley": 14,
+        "scattered": 4
+      },
+      "total": 84,
+      "winnerId": "keith_powers",
+      "margin": 61.9,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74/022": {
+      "votes": {
+        "keith_powers": 139,
+        "joseph_w_foley": 27,
+        "scattered": 2
+      },
+      "total": 168,
+      "winnerId": "keith_powers",
+      "margin": 66.7,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74/023": {
+      "votes": {
+        "keith_powers": 188,
+        "joseph_w_foley": 43,
+        "scattered": 1
+      },
+      "total": 232,
+      "winnerId": "keith_powers",
+      "margin": 62.5,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74/024": {
+      "votes": {
+        "keith_powers": 138,
+        "joseph_w_foley": 19,
+        "scattered": 2
+      },
+      "total": 159,
+      "winnerId": "keith_powers",
+      "margin": 74.8,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74/025": {
+      "votes": {
+        "keith_powers": 46,
+        "joseph_w_foley": 9,
+        "scattered": 0
+      },
+      "total": 55,
+      "winnerId": "keith_powers",
+      "margin": 67.3,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74/026": {
+      "votes": {
+        "keith_powers": 50,
+        "joseph_w_foley": 6,
+        "scattered": 0
+      },
+      "total": 56,
+      "winnerId": "keith_powers",
+      "margin": 78.6,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74/027": {
+      "votes": {
+        "keith_powers": 62,
+        "joseph_w_foley": 9,
+        "scattered": 2
+      },
+      "total": 73,
+      "winnerId": "keith_powers",
+      "margin": 72.6,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74/028": {
+      "votes": {
+        "keith_powers": 50,
+        "joseph_w_foley": 4,
+        "scattered": 0
+      },
+      "total": 54,
+      "winnerId": "keith_powers",
+      "margin": 85.2,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74/029": {
+      "votes": {
+        "keith_powers": 19,
+        "joseph_w_foley": 3,
+        "scattered": 1
+      },
+      "total": 23,
+      "winnerId": "keith_powers",
+      "margin": 69.6,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74/030": {
+      "votes": {
+        "keith_powers": 81,
+        "joseph_w_foley": 14,
+        "scattered": 1
+      },
+      "total": 96,
+      "winnerId": "keith_powers",
+      "margin": 69.8,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74/031": {
+      "votes": {
+        "keith_powers": 53,
+        "joseph_w_foley": 6,
+        "scattered": 3
+      },
+      "total": 62,
+      "winnerId": "keith_powers",
+      "margin": 75.8,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74/032": {
+      "votes": {
+        "keith_powers": 15,
+        "joseph_w_foley": 3,
+        "scattered": 0
+      },
+      "total": 18,
+      "winnerId": "keith_powers",
+      "margin": 66.7,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74/033": {
+      "votes": {
+        "keith_powers": 47,
+        "joseph_w_foley": 4,
+        "scattered": 3
+      },
+      "total": 54,
+      "winnerId": "keith_powers",
+      "margin": 79.6,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74/034": {
+      "votes": {
+        "keith_powers": 35,
+        "joseph_w_foley": 4,
+        "scattered": 2
+      },
+      "total": 41,
+      "winnerId": "keith_powers",
+      "margin": 75.6,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74/035": {
+      "votes": {
+        "keith_powers": 33,
+        "joseph_w_foley": 6,
+        "scattered": 2
+      },
+      "total": 41,
+      "winnerId": "keith_powers",
+      "margin": 65.9,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74/036": {
+      "votes": {
+        "keith_powers": 48,
+        "joseph_w_foley": 1,
+        "scattered": 1
+      },
+      "total": 50,
+      "winnerId": "keith_powers",
+      "margin": 94,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74/037": {
+      "votes": {
+        "keith_powers": 7,
+        "joseph_w_foley": 0,
+        "scattered": 0
+      },
+      "total": 7,
+      "winnerId": "keith_powers",
+      "margin": 100,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74/038": {
+      "votes": {
+        "keith_powers": 12,
+        "joseph_w_foley": 4,
+        "scattered": 0
+      },
+      "total": 16,
+      "winnerId": "keith_powers",
+      "margin": 50,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74/039": {
+      "votes": {
+        "keith_powers": 9,
+        "joseph_w_foley": 3,
+        "scattered": 0
+      },
+      "total": 12,
+      "winnerId": "keith_powers",
+      "margin": 50,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74/040": {
+      "votes": {
+        "keith_powers": 9,
+        "joseph_w_foley": 0,
+        "scattered": 0
+      },
+      "total": 9,
+      "winnerId": "keith_powers",
+      "margin": 100,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74/041": {
+      "votes": {
+        "keith_powers": 61,
+        "joseph_w_foley": 7,
+        "scattered": 1
+      },
+      "total": 69,
+      "winnerId": "keith_powers",
+      "margin": 78.3,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74/042": {
+      "votes": {
+        "keith_powers": 81,
+        "joseph_w_foley": 39,
+        "scattered": 0
+      },
+      "total": 120,
+      "winnerId": "keith_powers",
+      "margin": 35,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74/043": {
+      "votes": {
+        "keith_powers": 43,
+        "joseph_w_foley": 5,
+        "scattered": 0
+      },
+      "total": 48,
+      "winnerId": "keith_powers",
+      "margin": 79.2,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74/044": {
+      "votes": {
+        "keith_powers": 10,
+        "joseph_w_foley": 6,
+        "scattered": 0
+      },
+      "total": 16,
+      "winnerId": "keith_powers",
+      "margin": 25,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74/045": {
+      "votes": {
+        "keith_powers": 45,
+        "joseph_w_foley": 17,
+        "scattered": 0
+      },
+      "total": 62,
+      "winnerId": "keith_powers",
+      "margin": 45.2,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74/046": {
+      "votes": {
+        "keith_powers": 34,
+        "joseph_w_foley": 8,
+        "scattered": 0
+      },
+      "total": 42,
+      "winnerId": "keith_powers",
+      "margin": 61.9,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74/047": {
+      "votes": {
+        "keith_powers": 101,
+        "joseph_w_foley": 27,
+        "scattered": 3
+      },
+      "total": 131,
+      "winnerId": "keith_powers",
+      "margin": 56.5,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74/048": {
+      "votes": {
+        "keith_powers": 40,
+        "joseph_w_foley": 17,
+        "scattered": 0
+      },
+      "total": 57,
+      "winnerId": "keith_powers",
+      "margin": 40.4,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74/049": {
+      "votes": {
+        "keith_powers": 65,
+        "joseph_w_foley": 17,
+        "scattered": 0
+      },
+      "total": 82,
+      "winnerId": "keith_powers",
+      "margin": 58.5,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74/050": {
+      "votes": {
+        "keith_powers": 45,
+        "joseph_w_foley": 8,
+        "scattered": 1
+      },
+      "total": 54,
+      "winnerId": "keith_powers",
+      "margin": 68.5,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74/051": {
+      "votes": {
+        "keith_powers": 83,
+        "joseph_w_foley": 12,
+        "scattered": 0
+      },
+      "total": 95,
+      "winnerId": "keith_powers",
+      "margin": 74.7,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74/052": {
+      "votes": {
+        "keith_powers": 37,
+        "joseph_w_foley": 11,
+        "scattered": 0
+      },
+      "total": 48,
+      "winnerId": "keith_powers",
+      "margin": 54.2,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74/053": {
+      "votes": {
+        "keith_powers": 48,
+        "joseph_w_foley": 6,
+        "scattered": 1
+      },
+      "total": 55,
+      "winnerId": "keith_powers",
+      "margin": 76.4,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74/054": {
+      "votes": {
+        "keith_powers": 33,
+        "joseph_w_foley": 7,
+        "scattered": 0
+      },
+      "total": 40,
+      "winnerId": "keith_powers",
+      "margin": 65,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74/055": {
+      "votes": {
+        "keith_powers": 121,
+        "joseph_w_foley": 26,
+        "scattered": 0
+      },
+      "total": 147,
+      "winnerId": "keith_powers",
+      "margin": 64.6,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74/056": {
+      "votes": {
+        "keith_powers": 37,
+        "joseph_w_foley": 20,
+        "scattered": 0
+      },
+      "total": 57,
+      "winnerId": "keith_powers",
+      "margin": 29.8,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74/057": {
+      "votes": {
+        "keith_powers": 109,
+        "joseph_w_foley": 23,
+        "scattered": 1
+      },
+      "total": 133,
+      "winnerId": "keith_powers",
+      "margin": 64.7,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74/058": {
+      "votes": {
+        "keith_powers": 58,
+        "joseph_w_foley": 16,
+        "scattered": 0
+      },
+      "total": 74,
+      "winnerId": "keith_powers",
+      "margin": 56.8,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74/059": {
+      "votes": {
+        "keith_powers": 57,
+        "joseph_w_foley": 17,
+        "scattered": 0
+      },
+      "total": 74,
+      "winnerId": "keith_powers",
+      "margin": 54.1,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74/061": {
+      "votes": {
+        "keith_powers": 60,
+        "joseph_w_foley": 10,
+        "scattered": 1
+      },
+      "total": 71,
+      "winnerId": "keith_powers",
+      "margin": 70.4,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "74/062": {
+      "votes": {
+        "keith_powers": 20,
+        "joseph_w_foley": 8,
+        "scattered": 0
+      },
+      "total": 28,
+      "winnerId": "keith_powers",
+      "margin": 42.9,
+      "candidates": [
+        {
+          "id": "keith_powers",
+          "name": "Keith Powers",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "joseph_w_foley",
+          "name": "Joseph W. Foley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    }
+  }
+}

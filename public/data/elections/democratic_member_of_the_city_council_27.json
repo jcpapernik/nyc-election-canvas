@@ -1,0 +1,31 @@
+{
+  "id": "democratic_member_of_the_city_council_27",
+  "name": "2026 Primary - Member of the City Council District 27",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "City Council",
+  "districtKey": "27",
+  "districtType": "council",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "nantasha_williams",
+      "name": "Nantasha Williams",
+      "party": "Democratic",
+      "isIncumbent": true,
+      "color": "#2563eb"
+    }
+  ],
+  "results": {
+    "27": {
+      "votes": {
+        "uncontested_primary_council_27": 0
+      },
+      "total": 0,
+      "winnerId": "uncontested_primary_council_27",
+      "margin": 100,
+      "isUncontested": true
+    }
+  },
+  "edResults": {}
+}

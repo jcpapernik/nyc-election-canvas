@@ -1,0 +1,3502 @@
+{
+  "id": "democratic_member_of_the_assembly_87",
+  "name": "2026 Primary - Member of the Assembly District 87",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "NY State Assembly",
+  "districtKey": "87",
+  "districtType": "assembly",
+  "isUncontested": false,
+  "candidates": [
+    {
+      "id": "karines_reyes",
+      "name": "Karines Reyes",
+      "party": "Democratic",
+      "isIncumbent": true,
+      "color": "#d97706"
+    },
+    {
+      "id": "zakir_choudhury",
+      "name": "Zakir Choudhury",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#7c3aed"
+    },
+    {
+      "id": "scattered",
+      "name": "Scattered",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#059669"
+    }
+  ],
+  "results": {
+    "87": {
+      "votes": {
+        "karines_reyes": 4221,
+        "zakir_choudhury": 1654,
+        "scattered": 18
+      },
+      "total": 5893,
+      "winnerId": "karines_reyes",
+      "margin": 43.6,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    }
+  },
+  "edResults": {
+    "87001": {
+      "votes": {
+        "karines_reyes": 60,
+        "zakir_choudhury": 8,
+        "scattered": 2
+      },
+      "total": 70,
+      "winnerId": "karines_reyes",
+      "margin": 74.3,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87002": {
+      "votes": {
+        "karines_reyes": 71,
+        "zakir_choudhury": 7,
+        "scattered": 0
+      },
+      "total": 78,
+      "winnerId": "karines_reyes",
+      "margin": 82.1,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87003": {
+      "votes": {
+        "karines_reyes": 56,
+        "zakir_choudhury": 6,
+        "scattered": 2
+      },
+      "total": 64,
+      "winnerId": "karines_reyes",
+      "margin": 78.1,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87004": {
+      "votes": {
+        "karines_reyes": 62,
+        "zakir_choudhury": 6,
+        "scattered": 0
+      },
+      "total": 68,
+      "winnerId": "karines_reyes",
+      "margin": 82.4,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87005": {
+      "votes": {
+        "karines_reyes": 60,
+        "zakir_choudhury": 14,
+        "scattered": 0
+      },
+      "total": 74,
+      "winnerId": "karines_reyes",
+      "margin": 62.2,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87006": {
+      "votes": {
+        "karines_reyes": 68,
+        "zakir_choudhury": 9,
+        "scattered": 1
+      },
+      "total": 78,
+      "winnerId": "karines_reyes",
+      "margin": 75.6,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87007": {
+      "votes": {
+        "karines_reyes": 86,
+        "zakir_choudhury": 3,
+        "scattered": 0
+      },
+      "total": 89,
+      "winnerId": "karines_reyes",
+      "margin": 93.3,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87008": {
+      "votes": {
+        "karines_reyes": 31,
+        "zakir_choudhury": 33,
+        "scattered": 0
+      },
+      "total": 64,
+      "winnerId": "zakir_choudhury",
+      "margin": 3.1,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87009": {
+      "votes": {
+        "karines_reyes": 61,
+        "zakir_choudhury": 24,
+        "scattered": 0
+      },
+      "total": 85,
+      "winnerId": "karines_reyes",
+      "margin": 43.5,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87010": {
+      "votes": {
+        "karines_reyes": 52,
+        "zakir_choudhury": 11,
+        "scattered": 0
+      },
+      "total": 63,
+      "winnerId": "karines_reyes",
+      "margin": 65.1,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87011": {
+      "votes": {
+        "karines_reyes": 41,
+        "zakir_choudhury": 7,
+        "scattered": 0
+      },
+      "total": 48,
+      "winnerId": "karines_reyes",
+      "margin": 70.8,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87012": {
+      "votes": {
+        "karines_reyes": 62,
+        "zakir_choudhury": 10,
+        "scattered": 0
+      },
+      "total": 72,
+      "winnerId": "karines_reyes",
+      "margin": 72.2,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87013": {
+      "votes": {
+        "karines_reyes": 74,
+        "zakir_choudhury": 52,
+        "scattered": 1
+      },
+      "total": 127,
+      "winnerId": "karines_reyes",
+      "margin": 17.3,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87014": {
+      "votes": {
+        "karines_reyes": 89,
+        "zakir_choudhury": 43,
+        "scattered": 0
+      },
+      "total": 132,
+      "winnerId": "karines_reyes",
+      "margin": 34.8,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87015": {
+      "votes": {
+        "karines_reyes": 148,
+        "zakir_choudhury": 21,
+        "scattered": 0
+      },
+      "total": 169,
+      "winnerId": "karines_reyes",
+      "margin": 75.1,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87016": {
+      "votes": {
+        "karines_reyes": 110,
+        "zakir_choudhury": 34,
+        "scattered": 1
+      },
+      "total": 145,
+      "winnerId": "karines_reyes",
+      "margin": 52.4,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87017": {
+      "votes": {
+        "karines_reyes": 82,
+        "zakir_choudhury": 26,
+        "scattered": 0
+      },
+      "total": 108,
+      "winnerId": "karines_reyes",
+      "margin": 51.9,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87018": {
+      "votes": {
+        "karines_reyes": 188,
+        "zakir_choudhury": 45,
+        "scattered": 0
+      },
+      "total": 233,
+      "winnerId": "karines_reyes",
+      "margin": 61.4,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87019": {
+      "votes": {
+        "karines_reyes": 140,
+        "zakir_choudhury": 26,
+        "scattered": 0
+      },
+      "total": 166,
+      "winnerId": "karines_reyes",
+      "margin": 68.7,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87020": {
+      "votes": {
+        "karines_reyes": 125,
+        "zakir_choudhury": 24,
+        "scattered": 1
+      },
+      "total": 150,
+      "winnerId": "karines_reyes",
+      "margin": 67.3,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87021": {
+      "votes": {
+        "karines_reyes": 137,
+        "zakir_choudhury": 36,
+        "scattered": 0
+      },
+      "total": 173,
+      "winnerId": "karines_reyes",
+      "margin": 58.4,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87022": {
+      "votes": {
+        "karines_reyes": 146,
+        "zakir_choudhury": 44,
+        "scattered": 0
+      },
+      "total": 190,
+      "winnerId": "karines_reyes",
+      "margin": 53.7,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87023": {
+      "votes": {
+        "karines_reyes": 162,
+        "zakir_choudhury": 87,
+        "scattered": 0
+      },
+      "total": 249,
+      "winnerId": "karines_reyes",
+      "margin": 30.1,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87024": {
+      "votes": {
+        "karines_reyes": 140,
+        "zakir_choudhury": 52,
+        "scattered": 0
+      },
+      "total": 192,
+      "winnerId": "karines_reyes",
+      "margin": 45.8,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87025": {
+      "votes": {
+        "karines_reyes": 145,
+        "zakir_choudhury": 77,
+        "scattered": 0
+      },
+      "total": 222,
+      "winnerId": "karines_reyes",
+      "margin": 30.6,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87026": {
+      "votes": {
+        "karines_reyes": 137,
+        "zakir_choudhury": 57,
+        "scattered": 0
+      },
+      "total": 194,
+      "winnerId": "karines_reyes",
+      "margin": 41.2,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87027": {
+      "votes": {
+        "karines_reyes": 65,
+        "zakir_choudhury": 82,
+        "scattered": 0
+      },
+      "total": 147,
+      "winnerId": "zakir_choudhury",
+      "margin": 11.6,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87028": {
+      "votes": {
+        "karines_reyes": 61,
+        "zakir_choudhury": 47,
+        "scattered": 0
+      },
+      "total": 108,
+      "winnerId": "karines_reyes",
+      "margin": 13,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87029": {
+      "votes": {
+        "karines_reyes": 49,
+        "zakir_choudhury": 81,
+        "scattered": 0
+      },
+      "total": 130,
+      "winnerId": "zakir_choudhury",
+      "margin": 24.6,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87030": {
+      "votes": {
+        "karines_reyes": 54,
+        "zakir_choudhury": 76,
+        "scattered": 2
+      },
+      "total": 132,
+      "winnerId": "zakir_choudhury",
+      "margin": 16.7,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87031": {
+      "votes": {
+        "karines_reyes": 60,
+        "zakir_choudhury": 63,
+        "scattered": 0
+      },
+      "total": 123,
+      "winnerId": "zakir_choudhury",
+      "margin": 2.4,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87032": {
+      "votes": {
+        "karines_reyes": 47,
+        "zakir_choudhury": 37,
+        "scattered": 2
+      },
+      "total": 86,
+      "winnerId": "karines_reyes",
+      "margin": 11.6,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87033": {
+      "votes": {
+        "karines_reyes": 3,
+        "zakir_choudhury": 0,
+        "scattered": 0
+      },
+      "total": 3,
+      "winnerId": "karines_reyes",
+      "margin": 100,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87034": {
+      "votes": {
+        "karines_reyes": 133,
+        "zakir_choudhury": 17,
+        "scattered": 1
+      },
+      "total": 151,
+      "winnerId": "karines_reyes",
+      "margin": 76.8,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87035": {
+      "votes": {
+        "karines_reyes": 67,
+        "zakir_choudhury": 10,
+        "scattered": 0
+      },
+      "total": 77,
+      "winnerId": "karines_reyes",
+      "margin": 74,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87037": {
+      "votes": {
+        "karines_reyes": 82,
+        "zakir_choudhury": 15,
+        "scattered": 0
+      },
+      "total": 97,
+      "winnerId": "karines_reyes",
+      "margin": 69.1,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87038": {
+      "votes": {
+        "karines_reyes": 76,
+        "zakir_choudhury": 34,
+        "scattered": 1
+      },
+      "total": 111,
+      "winnerId": "karines_reyes",
+      "margin": 37.8,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87039": {
+      "votes": {
+        "karines_reyes": 34,
+        "zakir_choudhury": 76,
+        "scattered": 1
+      },
+      "total": 111,
+      "winnerId": "zakir_choudhury",
+      "margin": 37.8,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87040": {
+      "votes": {
+        "karines_reyes": 62,
+        "zakir_choudhury": 23,
+        "scattered": 0
+      },
+      "total": 85,
+      "winnerId": "karines_reyes",
+      "margin": 45.9,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87041": {
+      "votes": {
+        "karines_reyes": 41,
+        "zakir_choudhury": 57,
+        "scattered": 2
+      },
+      "total": 100,
+      "winnerId": "zakir_choudhury",
+      "margin": 16,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87042": {
+      "votes": {
+        "karines_reyes": 74,
+        "zakir_choudhury": 50,
+        "scattered": 0
+      },
+      "total": 124,
+      "winnerId": "karines_reyes",
+      "margin": 19.4,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87043": {
+      "votes": {
+        "karines_reyes": 73,
+        "zakir_choudhury": 61,
+        "scattered": 0
+      },
+      "total": 134,
+      "winnerId": "karines_reyes",
+      "margin": 9,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87044": {
+      "votes": {
+        "karines_reyes": 48,
+        "zakir_choudhury": 27,
+        "scattered": 0
+      },
+      "total": 75,
+      "winnerId": "karines_reyes",
+      "margin": 28,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87045": {
+      "votes": {
+        "karines_reyes": 54,
+        "zakir_choudhury": 47,
+        "scattered": 0
+      },
+      "total": 101,
+      "winnerId": "karines_reyes",
+      "margin": 6.9,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87046": {
+      "votes": {
+        "karines_reyes": 95,
+        "zakir_choudhury": 16,
+        "scattered": 1
+      },
+      "total": 112,
+      "winnerId": "karines_reyes",
+      "margin": 70.5,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87047": {
+      "votes": {
+        "karines_reyes": 64,
+        "zakir_choudhury": 20,
+        "scattered": 0
+      },
+      "total": 84,
+      "winnerId": "karines_reyes",
+      "margin": 52.4,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87048": {
+      "votes": {
+        "karines_reyes": 98,
+        "zakir_choudhury": 30,
+        "scattered": 0
+      },
+      "total": 128,
+      "winnerId": "karines_reyes",
+      "margin": 53.1,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87049": {
+      "votes": {
+        "karines_reyes": 186,
+        "zakir_choudhury": 7,
+        "scattered": 0
+      },
+      "total": 193,
+      "winnerId": "karines_reyes",
+      "margin": 92.7,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87050": {
+      "votes": {
+        "karines_reyes": 52,
+        "zakir_choudhury": 8,
+        "scattered": 0
+      },
+      "total": 60,
+      "winnerId": "karines_reyes",
+      "margin": 73.3,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87051": {
+      "votes": {
+        "karines_reyes": 67,
+        "zakir_choudhury": 5,
+        "scattered": 0
+      },
+      "total": 72,
+      "winnerId": "karines_reyes",
+      "margin": 86.1,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87052": {
+      "votes": {
+        "karines_reyes": 43,
+        "zakir_choudhury": 3,
+        "scattered": 0
+      },
+      "total": 46,
+      "winnerId": "karines_reyes",
+      "margin": 87,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87055": {
+      "votes": {
+        "karines_reyes": 0,
+        "zakir_choudhury": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "karines_reyes",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87/001": {
+      "votes": {
+        "karines_reyes": 60,
+        "zakir_choudhury": 8,
+        "scattered": 2
+      },
+      "total": 70,
+      "winnerId": "karines_reyes",
+      "margin": 74.3,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87/002": {
+      "votes": {
+        "karines_reyes": 71,
+        "zakir_choudhury": 7,
+        "scattered": 0
+      },
+      "total": 78,
+      "winnerId": "karines_reyes",
+      "margin": 82.1,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87/003": {
+      "votes": {
+        "karines_reyes": 56,
+        "zakir_choudhury": 6,
+        "scattered": 2
+      },
+      "total": 64,
+      "winnerId": "karines_reyes",
+      "margin": 78.1,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87/004": {
+      "votes": {
+        "karines_reyes": 62,
+        "zakir_choudhury": 6,
+        "scattered": 0
+      },
+      "total": 68,
+      "winnerId": "karines_reyes",
+      "margin": 82.4,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87/005": {
+      "votes": {
+        "karines_reyes": 60,
+        "zakir_choudhury": 14,
+        "scattered": 0
+      },
+      "total": 74,
+      "winnerId": "karines_reyes",
+      "margin": 62.2,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87/006": {
+      "votes": {
+        "karines_reyes": 68,
+        "zakir_choudhury": 9,
+        "scattered": 1
+      },
+      "total": 78,
+      "winnerId": "karines_reyes",
+      "margin": 75.6,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87/007": {
+      "votes": {
+        "karines_reyes": 86,
+        "zakir_choudhury": 3,
+        "scattered": 0
+      },
+      "total": 89,
+      "winnerId": "karines_reyes",
+      "margin": 93.3,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87/008": {
+      "votes": {
+        "karines_reyes": 31,
+        "zakir_choudhury": 33,
+        "scattered": 0
+      },
+      "total": 64,
+      "winnerId": "zakir_choudhury",
+      "margin": 3.1,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87/009": {
+      "votes": {
+        "karines_reyes": 61,
+        "zakir_choudhury": 24,
+        "scattered": 0
+      },
+      "total": 85,
+      "winnerId": "karines_reyes",
+      "margin": 43.5,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87/010": {
+      "votes": {
+        "karines_reyes": 52,
+        "zakir_choudhury": 11,
+        "scattered": 0
+      },
+      "total": 63,
+      "winnerId": "karines_reyes",
+      "margin": 65.1,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87/011": {
+      "votes": {
+        "karines_reyes": 41,
+        "zakir_choudhury": 7,
+        "scattered": 0
+      },
+      "total": 48,
+      "winnerId": "karines_reyes",
+      "margin": 70.8,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87/012": {
+      "votes": {
+        "karines_reyes": 62,
+        "zakir_choudhury": 10,
+        "scattered": 0
+      },
+      "total": 72,
+      "winnerId": "karines_reyes",
+      "margin": 72.2,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87/013": {
+      "votes": {
+        "karines_reyes": 74,
+        "zakir_choudhury": 52,
+        "scattered": 1
+      },
+      "total": 127,
+      "winnerId": "karines_reyes",
+      "margin": 17.3,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87/014": {
+      "votes": {
+        "karines_reyes": 89,
+        "zakir_choudhury": 43,
+        "scattered": 0
+      },
+      "total": 132,
+      "winnerId": "karines_reyes",
+      "margin": 34.8,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87/015": {
+      "votes": {
+        "karines_reyes": 148,
+        "zakir_choudhury": 21,
+        "scattered": 0
+      },
+      "total": 169,
+      "winnerId": "karines_reyes",
+      "margin": 75.1,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87/016": {
+      "votes": {
+        "karines_reyes": 110,
+        "zakir_choudhury": 34,
+        "scattered": 1
+      },
+      "total": 145,
+      "winnerId": "karines_reyes",
+      "margin": 52.4,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87/017": {
+      "votes": {
+        "karines_reyes": 82,
+        "zakir_choudhury": 26,
+        "scattered": 0
+      },
+      "total": 108,
+      "winnerId": "karines_reyes",
+      "margin": 51.9,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87/018": {
+      "votes": {
+        "karines_reyes": 188,
+        "zakir_choudhury": 45,
+        "scattered": 0
+      },
+      "total": 233,
+      "winnerId": "karines_reyes",
+      "margin": 61.4,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87/019": {
+      "votes": {
+        "karines_reyes": 140,
+        "zakir_choudhury": 26,
+        "scattered": 0
+      },
+      "total": 166,
+      "winnerId": "karines_reyes",
+      "margin": 68.7,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87/020": {
+      "votes": {
+        "karines_reyes": 125,
+        "zakir_choudhury": 24,
+        "scattered": 1
+      },
+      "total": 150,
+      "winnerId": "karines_reyes",
+      "margin": 67.3,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87/021": {
+      "votes": {
+        "karines_reyes": 137,
+        "zakir_choudhury": 36,
+        "scattered": 0
+      },
+      "total": 173,
+      "winnerId": "karines_reyes",
+      "margin": 58.4,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87/022": {
+      "votes": {
+        "karines_reyes": 146,
+        "zakir_choudhury": 44,
+        "scattered": 0
+      },
+      "total": 190,
+      "winnerId": "karines_reyes",
+      "margin": 53.7,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87/023": {
+      "votes": {
+        "karines_reyes": 162,
+        "zakir_choudhury": 87,
+        "scattered": 0
+      },
+      "total": 249,
+      "winnerId": "karines_reyes",
+      "margin": 30.1,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87/024": {
+      "votes": {
+        "karines_reyes": 140,
+        "zakir_choudhury": 52,
+        "scattered": 0
+      },
+      "total": 192,
+      "winnerId": "karines_reyes",
+      "margin": 45.8,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87/025": {
+      "votes": {
+        "karines_reyes": 145,
+        "zakir_choudhury": 77,
+        "scattered": 0
+      },
+      "total": 222,
+      "winnerId": "karines_reyes",
+      "margin": 30.6,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87/026": {
+      "votes": {
+        "karines_reyes": 137,
+        "zakir_choudhury": 57,
+        "scattered": 0
+      },
+      "total": 194,
+      "winnerId": "karines_reyes",
+      "margin": 41.2,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87/027": {
+      "votes": {
+        "karines_reyes": 65,
+        "zakir_choudhury": 82,
+        "scattered": 0
+      },
+      "total": 147,
+      "winnerId": "zakir_choudhury",
+      "margin": 11.6,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87/028": {
+      "votes": {
+        "karines_reyes": 61,
+        "zakir_choudhury": 47,
+        "scattered": 0
+      },
+      "total": 108,
+      "winnerId": "karines_reyes",
+      "margin": 13,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87/029": {
+      "votes": {
+        "karines_reyes": 49,
+        "zakir_choudhury": 81,
+        "scattered": 0
+      },
+      "total": 130,
+      "winnerId": "zakir_choudhury",
+      "margin": 24.6,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87/030": {
+      "votes": {
+        "karines_reyes": 54,
+        "zakir_choudhury": 76,
+        "scattered": 2
+      },
+      "total": 132,
+      "winnerId": "zakir_choudhury",
+      "margin": 16.7,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87/031": {
+      "votes": {
+        "karines_reyes": 60,
+        "zakir_choudhury": 63,
+        "scattered": 0
+      },
+      "total": 123,
+      "winnerId": "zakir_choudhury",
+      "margin": 2.4,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87/032": {
+      "votes": {
+        "karines_reyes": 47,
+        "zakir_choudhury": 37,
+        "scattered": 2
+      },
+      "total": 86,
+      "winnerId": "karines_reyes",
+      "margin": 11.6,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87/033": {
+      "votes": {
+        "karines_reyes": 3,
+        "zakir_choudhury": 0,
+        "scattered": 0
+      },
+      "total": 3,
+      "winnerId": "karines_reyes",
+      "margin": 100,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87/034": {
+      "votes": {
+        "karines_reyes": 133,
+        "zakir_choudhury": 17,
+        "scattered": 1
+      },
+      "total": 151,
+      "winnerId": "karines_reyes",
+      "margin": 76.8,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87/035": {
+      "votes": {
+        "karines_reyes": 67,
+        "zakir_choudhury": 10,
+        "scattered": 0
+      },
+      "total": 77,
+      "winnerId": "karines_reyes",
+      "margin": 74,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87/037": {
+      "votes": {
+        "karines_reyes": 82,
+        "zakir_choudhury": 15,
+        "scattered": 0
+      },
+      "total": 97,
+      "winnerId": "karines_reyes",
+      "margin": 69.1,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87/038": {
+      "votes": {
+        "karines_reyes": 76,
+        "zakir_choudhury": 34,
+        "scattered": 1
+      },
+      "total": 111,
+      "winnerId": "karines_reyes",
+      "margin": 37.8,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87/039": {
+      "votes": {
+        "karines_reyes": 34,
+        "zakir_choudhury": 76,
+        "scattered": 1
+      },
+      "total": 111,
+      "winnerId": "zakir_choudhury",
+      "margin": 37.8,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87/040": {
+      "votes": {
+        "karines_reyes": 62,
+        "zakir_choudhury": 23,
+        "scattered": 0
+      },
+      "total": 85,
+      "winnerId": "karines_reyes",
+      "margin": 45.9,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87/041": {
+      "votes": {
+        "karines_reyes": 41,
+        "zakir_choudhury": 57,
+        "scattered": 2
+      },
+      "total": 100,
+      "winnerId": "zakir_choudhury",
+      "margin": 16,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87/042": {
+      "votes": {
+        "karines_reyes": 74,
+        "zakir_choudhury": 50,
+        "scattered": 0
+      },
+      "total": 124,
+      "winnerId": "karines_reyes",
+      "margin": 19.4,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87/043": {
+      "votes": {
+        "karines_reyes": 73,
+        "zakir_choudhury": 61,
+        "scattered": 0
+      },
+      "total": 134,
+      "winnerId": "karines_reyes",
+      "margin": 9,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87/044": {
+      "votes": {
+        "karines_reyes": 48,
+        "zakir_choudhury": 27,
+        "scattered": 0
+      },
+      "total": 75,
+      "winnerId": "karines_reyes",
+      "margin": 28,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87/045": {
+      "votes": {
+        "karines_reyes": 54,
+        "zakir_choudhury": 47,
+        "scattered": 0
+      },
+      "total": 101,
+      "winnerId": "karines_reyes",
+      "margin": 6.9,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87/046": {
+      "votes": {
+        "karines_reyes": 95,
+        "zakir_choudhury": 16,
+        "scattered": 1
+      },
+      "total": 112,
+      "winnerId": "karines_reyes",
+      "margin": 70.5,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87/047": {
+      "votes": {
+        "karines_reyes": 64,
+        "zakir_choudhury": 20,
+        "scattered": 0
+      },
+      "total": 84,
+      "winnerId": "karines_reyes",
+      "margin": 52.4,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87/048": {
+      "votes": {
+        "karines_reyes": 98,
+        "zakir_choudhury": 30,
+        "scattered": 0
+      },
+      "total": 128,
+      "winnerId": "karines_reyes",
+      "margin": 53.1,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87/049": {
+      "votes": {
+        "karines_reyes": 186,
+        "zakir_choudhury": 7,
+        "scattered": 0
+      },
+      "total": 193,
+      "winnerId": "karines_reyes",
+      "margin": 92.7,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87/050": {
+      "votes": {
+        "karines_reyes": 52,
+        "zakir_choudhury": 8,
+        "scattered": 0
+      },
+      "total": 60,
+      "winnerId": "karines_reyes",
+      "margin": 73.3,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87/051": {
+      "votes": {
+        "karines_reyes": 67,
+        "zakir_choudhury": 5,
+        "scattered": 0
+      },
+      "total": 72,
+      "winnerId": "karines_reyes",
+      "margin": 86.1,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87/052": {
+      "votes": {
+        "karines_reyes": 43,
+        "zakir_choudhury": 3,
+        "scattered": 0
+      },
+      "total": 46,
+      "winnerId": "karines_reyes",
+      "margin": 87,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "87/055": {
+      "votes": {
+        "karines_reyes": 0,
+        "zakir_choudhury": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "karines_reyes",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "karines_reyes",
+          "name": "Karines Reyes",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "zakir_choudhury",
+          "name": "Zakir Choudhury",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    }
+  }
+}

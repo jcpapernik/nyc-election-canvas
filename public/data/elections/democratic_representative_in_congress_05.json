@@ -1,0 +1,31 @@
+{
+  "id": "democratic_representative_in_congress_05",
+  "name": "2026 Primary - Representative in Congress District 05",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "US House (Congressional)",
+  "districtKey": "5",
+  "districtType": "congressional",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "gregory_meeks",
+      "name": "Gregory Meeks",
+      "party": "Democratic",
+      "isIncumbent": true,
+      "color": "#2563eb"
+    }
+  ],
+  "results": {
+    "5": {
+      "votes": {
+        "uncontested_primary_congressional_5": 0
+      },
+      "total": 0,
+      "winnerId": "uncontested_primary_congressional_5",
+      "margin": 100,
+      "isUncontested": true
+    }
+  },
+  "edResults": {}
+}

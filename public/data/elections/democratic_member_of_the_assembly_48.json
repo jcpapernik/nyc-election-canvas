@@ -1,0 +1,31 @@
+{
+  "id": "democratic_member_of_the_assembly_48",
+  "name": "2026 Primary - Member of the Assembly District 48",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "State Assembly",
+  "districtKey": "48",
+  "districtType": "assembly",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "simcha_eichenstein",
+      "name": "Simcha Eichenstein",
+      "party": "Democratic",
+      "isIncumbent": true,
+      "color": "#2563eb"
+    }
+  ],
+  "results": {
+    "48": {
+      "votes": {
+        "uncontested_primary_assembly_48": 0
+      },
+      "total": 0,
+      "winnerId": "uncontested_primary_assembly_48",
+      "margin": 100,
+      "isUncontested": true
+    }
+  },
+  "edResults": {}
+}

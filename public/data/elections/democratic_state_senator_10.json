@@ -1,0 +1,31 @@
+{
+  "id": "democratic_state_senator_10",
+  "name": "2026 Primary - State Senator District 10",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "State Senate",
+  "districtKey": "10",
+  "districtType": "senate",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "james_sanders_jr",
+      "name": "James Sanders Jr.",
+      "party": "Democratic",
+      "isIncumbent": true,
+      "color": "#2563eb"
+    }
+  ],
+  "results": {
+    "10": {
+      "votes": {
+        "uncontested_primary_senate_10": 0
+      },
+      "total": 0,
+      "winnerId": "uncontested_primary_senate_10",
+      "margin": 100,
+      "isUncontested": true
+    }
+  },
+  "edResults": {}
+}

@@ -1,0 +1,5661 @@
+{
+  "id": "democratic_member_of_the_assembly_37",
+  "name": "2026 Primary - Member of the Assembly District 37",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "NY State Assembly",
+  "districtKey": "37",
+  "districtType": "assembly",
+  "isUncontested": false,
+  "candidates": [
+    {
+      "id": "samantha_kattan",
+      "name": "Samantha Kattan",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#d97706"
+    },
+    {
+      "id": "melissa_orlando",
+      "name": "Melissa Orlando",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#7c3aed"
+    },
+    {
+      "id": "pia_rahman",
+      "name": "Pia Rahman",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#059669"
+    },
+    {
+      "id": "scattered",
+      "name": "Scattered",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#0891b2"
+    }
+  ],
+  "results": {
+    "37": {
+      "votes": {
+        "samantha_kattan": 8031,
+        "melissa_orlando": 2028,
+        "pia_rahman": 1904,
+        "scattered": 46
+      },
+      "total": 12009,
+      "winnerId": "samantha_kattan",
+      "margin": 50,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    }
+  },
+  "edResults": {
+    "37001": {
+      "votes": {
+        "samantha_kattan": 114,
+        "melissa_orlando": 30,
+        "pia_rahman": 31,
+        "scattered": 1
+      },
+      "total": 176,
+      "winnerId": "samantha_kattan",
+      "margin": 47.2,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37002": {
+      "votes": {
+        "samantha_kattan": 151,
+        "melissa_orlando": 34,
+        "pia_rahman": 66,
+        "scattered": 2
+      },
+      "total": 253,
+      "winnerId": "samantha_kattan",
+      "margin": 33.6,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37003": {
+      "votes": {
+        "samantha_kattan": 181,
+        "melissa_orlando": 67,
+        "pia_rahman": 67,
+        "scattered": 3
+      },
+      "total": 318,
+      "winnerId": "samantha_kattan",
+      "margin": 35.8,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37004": {
+      "votes": {
+        "samantha_kattan": 145,
+        "melissa_orlando": 65,
+        "pia_rahman": 48,
+        "scattered": 2
+      },
+      "total": 260,
+      "winnerId": "samantha_kattan",
+      "margin": 30.8,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37005": {
+      "votes": {
+        "samantha_kattan": 87,
+        "melissa_orlando": 21,
+        "pia_rahman": 51,
+        "scattered": 0
+      },
+      "total": 159,
+      "winnerId": "samantha_kattan",
+      "margin": 22.6,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37006": {
+      "votes": {
+        "samantha_kattan": 109,
+        "melissa_orlando": 31,
+        "pia_rahman": 53,
+        "scattered": 0
+      },
+      "total": 193,
+      "winnerId": "samantha_kattan",
+      "margin": 29,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37007": {
+      "votes": {
+        "samantha_kattan": 214,
+        "melissa_orlando": 36,
+        "pia_rahman": 84,
+        "scattered": 1
+      },
+      "total": 335,
+      "winnerId": "samantha_kattan",
+      "margin": 38.8,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37008": {
+      "votes": {
+        "samantha_kattan": 144,
+        "melissa_orlando": 25,
+        "pia_rahman": 50,
+        "scattered": 1
+      },
+      "total": 220,
+      "winnerId": "samantha_kattan",
+      "margin": 42.7,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37009": {
+      "votes": {
+        "samantha_kattan": 87,
+        "melissa_orlando": 11,
+        "pia_rahman": 39,
+        "scattered": 1
+      },
+      "total": 138,
+      "winnerId": "samantha_kattan",
+      "margin": 34.8,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37010": {
+      "votes": {
+        "samantha_kattan": 0,
+        "melissa_orlando": 0,
+        "pia_rahman": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "samantha_kattan",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37011": {
+      "votes": {
+        "samantha_kattan": 20,
+        "melissa_orlando": 6,
+        "pia_rahman": 6,
+        "scattered": 1
+      },
+      "total": 33,
+      "winnerId": "samantha_kattan",
+      "margin": 42.4,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37012": {
+      "votes": {
+        "samantha_kattan": 211,
+        "melissa_orlando": 19,
+        "pia_rahman": 28,
+        "scattered": 2
+      },
+      "total": 260,
+      "winnerId": "samantha_kattan",
+      "margin": 70.4,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37013": {
+      "votes": {
+        "samantha_kattan": 151,
+        "melissa_orlando": 42,
+        "pia_rahman": 58,
+        "scattered": 0
+      },
+      "total": 251,
+      "winnerId": "samantha_kattan",
+      "margin": 37.1,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37014": {
+      "votes": {
+        "samantha_kattan": 108,
+        "melissa_orlando": 58,
+        "pia_rahman": 22,
+        "scattered": 0
+      },
+      "total": 188,
+      "winnerId": "samantha_kattan",
+      "margin": 26.6,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37015": {
+      "votes": {
+        "samantha_kattan": 23,
+        "melissa_orlando": 10,
+        "pia_rahman": 14,
+        "scattered": 0
+      },
+      "total": 47,
+      "winnerId": "samantha_kattan",
+      "margin": 19.1,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37016": {
+      "votes": {
+        "samantha_kattan": 72,
+        "melissa_orlando": 31,
+        "pia_rahman": 21,
+        "scattered": 0
+      },
+      "total": 124,
+      "winnerId": "samantha_kattan",
+      "margin": 33.1,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37017": {
+      "votes": {
+        "samantha_kattan": 48,
+        "melissa_orlando": 38,
+        "pia_rahman": 12,
+        "scattered": 0
+      },
+      "total": 98,
+      "winnerId": "samantha_kattan",
+      "margin": 10.2,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37018": {
+      "votes": {
+        "samantha_kattan": 76,
+        "melissa_orlando": 45,
+        "pia_rahman": 27,
+        "scattered": 0
+      },
+      "total": 148,
+      "winnerId": "samantha_kattan",
+      "margin": 20.9,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37019": {
+      "votes": {
+        "samantha_kattan": 173,
+        "melissa_orlando": 41,
+        "pia_rahman": 40,
+        "scattered": 0
+      },
+      "total": 254,
+      "winnerId": "samantha_kattan",
+      "margin": 52,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37020": {
+      "votes": {
+        "samantha_kattan": 162,
+        "melissa_orlando": 69,
+        "pia_rahman": 23,
+        "scattered": 0
+      },
+      "total": 254,
+      "winnerId": "samantha_kattan",
+      "margin": 36.6,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37021": {
+      "votes": {
+        "samantha_kattan": 189,
+        "melissa_orlando": 71,
+        "pia_rahman": 42,
+        "scattered": 0
+      },
+      "total": 302,
+      "winnerId": "samantha_kattan",
+      "margin": 39.1,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37022": {
+      "votes": {
+        "samantha_kattan": 200,
+        "melissa_orlando": 67,
+        "pia_rahman": 52,
+        "scattered": 1
+      },
+      "total": 320,
+      "winnerId": "samantha_kattan",
+      "margin": 41.6,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37023": {
+      "votes": {
+        "samantha_kattan": 203,
+        "melissa_orlando": 63,
+        "pia_rahman": 43,
+        "scattered": 2
+      },
+      "total": 311,
+      "winnerId": "samantha_kattan",
+      "margin": 45,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37024": {
+      "votes": {
+        "samantha_kattan": 123,
+        "melissa_orlando": 36,
+        "pia_rahman": 33,
+        "scattered": 0
+      },
+      "total": 192,
+      "winnerId": "samantha_kattan",
+      "margin": 45.3,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37025": {
+      "votes": {
+        "samantha_kattan": 183,
+        "melissa_orlando": 76,
+        "pia_rahman": 50,
+        "scattered": 1
+      },
+      "total": 310,
+      "winnerId": "samantha_kattan",
+      "margin": 34.5,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37026": {
+      "votes": {
+        "samantha_kattan": 133,
+        "melissa_orlando": 52,
+        "pia_rahman": 58,
+        "scattered": 0
+      },
+      "total": 243,
+      "winnerId": "samantha_kattan",
+      "margin": 30.9,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37027": {
+      "votes": {
+        "samantha_kattan": 238,
+        "melissa_orlando": 57,
+        "pia_rahman": 61,
+        "scattered": 3
+      },
+      "total": 359,
+      "winnerId": "samantha_kattan",
+      "margin": 49.3,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37028": {
+      "votes": {
+        "samantha_kattan": 207,
+        "melissa_orlando": 50,
+        "pia_rahman": 66,
+        "scattered": 0
+      },
+      "total": 323,
+      "winnerId": "samantha_kattan",
+      "margin": 43.7,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37029": {
+      "votes": {
+        "samantha_kattan": 159,
+        "melissa_orlando": 46,
+        "pia_rahman": 44,
+        "scattered": 3
+      },
+      "total": 252,
+      "winnerId": "samantha_kattan",
+      "margin": 44.8,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37030": {
+      "votes": {
+        "samantha_kattan": 154,
+        "melissa_orlando": 45,
+        "pia_rahman": 42,
+        "scattered": 0
+      },
+      "total": 241,
+      "winnerId": "samantha_kattan",
+      "margin": 45.2,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37031": {
+      "votes": {
+        "samantha_kattan": 186,
+        "melissa_orlando": 52,
+        "pia_rahman": 54,
+        "scattered": 2
+      },
+      "total": 294,
+      "winnerId": "samantha_kattan",
+      "margin": 44.9,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37032": {
+      "votes": {
+        "samantha_kattan": 73,
+        "melissa_orlando": 22,
+        "pia_rahman": 28,
+        "scattered": 0
+      },
+      "total": 123,
+      "winnerId": "samantha_kattan",
+      "margin": 36.6,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37033": {
+      "votes": {
+        "samantha_kattan": 85,
+        "melissa_orlando": 39,
+        "pia_rahman": 35,
+        "scattered": 2
+      },
+      "total": 161,
+      "winnerId": "samantha_kattan",
+      "margin": 28.6,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37034": {
+      "votes": {
+        "samantha_kattan": 1,
+        "melissa_orlando": 0,
+        "pia_rahman": 0,
+        "scattered": 0
+      },
+      "total": 1,
+      "winnerId": "samantha_kattan",
+      "margin": 100,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37035": {
+      "votes": {
+        "samantha_kattan": 226,
+        "melissa_orlando": 124,
+        "pia_rahman": 81,
+        "scattered": 0
+      },
+      "total": 431,
+      "winnerId": "samantha_kattan",
+      "margin": 23.7,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37036": {
+      "votes": {
+        "samantha_kattan": 169,
+        "melissa_orlando": 93,
+        "pia_rahman": 63,
+        "scattered": 3
+      },
+      "total": 328,
+      "winnerId": "samantha_kattan",
+      "margin": 23.2,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37037": {
+      "votes": {
+        "samantha_kattan": 84,
+        "melissa_orlando": 26,
+        "pia_rahman": 15,
+        "scattered": 1
+      },
+      "total": 126,
+      "winnerId": "samantha_kattan",
+      "margin": 46,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37039": {
+      "votes": {
+        "samantha_kattan": 29,
+        "melissa_orlando": 20,
+        "pia_rahman": 2,
+        "scattered": 0
+      },
+      "total": 51,
+      "winnerId": "samantha_kattan",
+      "margin": 17.6,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37040": {
+      "votes": {
+        "samantha_kattan": 34,
+        "melissa_orlando": 18,
+        "pia_rahman": 6,
+        "scattered": 1
+      },
+      "total": 59,
+      "winnerId": "samantha_kattan",
+      "margin": 27.1,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37041": {
+      "votes": {
+        "samantha_kattan": 212,
+        "melissa_orlando": 20,
+        "pia_rahman": 18,
+        "scattered": 0
+      },
+      "total": 250,
+      "winnerId": "samantha_kattan",
+      "margin": 76.8,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37042": {
+      "votes": {
+        "samantha_kattan": 88,
+        "melissa_orlando": 20,
+        "pia_rahman": 14,
+        "scattered": 3
+      },
+      "total": 125,
+      "winnerId": "samantha_kattan",
+      "margin": 54.4,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37043": {
+      "votes": {
+        "samantha_kattan": 54,
+        "melissa_orlando": 13,
+        "pia_rahman": 17,
+        "scattered": 0
+      },
+      "total": 84,
+      "winnerId": "samantha_kattan",
+      "margin": 44,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37044": {
+      "votes": {
+        "samantha_kattan": 127,
+        "melissa_orlando": 30,
+        "pia_rahman": 24,
+        "scattered": 1
+      },
+      "total": 182,
+      "winnerId": "samantha_kattan",
+      "margin": 53.3,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37045": {
+      "votes": {
+        "samantha_kattan": 28,
+        "melissa_orlando": 11,
+        "pia_rahman": 5,
+        "scattered": 0
+      },
+      "total": 44,
+      "winnerId": "samantha_kattan",
+      "margin": 38.6,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37046": {
+      "votes": {
+        "samantha_kattan": 3,
+        "melissa_orlando": 2,
+        "pia_rahman": 2,
+        "scattered": 0
+      },
+      "total": 7,
+      "winnerId": "samantha_kattan",
+      "margin": 14.3,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37047": {
+      "votes": {
+        "samantha_kattan": 26,
+        "melissa_orlando": 22,
+        "pia_rahman": 19,
+        "scattered": 1
+      },
+      "total": 68,
+      "winnerId": "samantha_kattan",
+      "margin": 5.9,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37048": {
+      "votes": {
+        "samantha_kattan": 42,
+        "melissa_orlando": 13,
+        "pia_rahman": 3,
+        "scattered": 1
+      },
+      "total": 59,
+      "winnerId": "samantha_kattan",
+      "margin": 49.2,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37049": {
+      "votes": {
+        "samantha_kattan": 36,
+        "melissa_orlando": 17,
+        "pia_rahman": 8,
+        "scattered": 1
+      },
+      "total": 62,
+      "winnerId": "samantha_kattan",
+      "margin": 30.6,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37050": {
+      "votes": {
+        "samantha_kattan": 53,
+        "melissa_orlando": 10,
+        "pia_rahman": 16,
+        "scattered": 0
+      },
+      "total": 79,
+      "winnerId": "samantha_kattan",
+      "margin": 46.8,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37051": {
+      "votes": {
+        "samantha_kattan": 34,
+        "melissa_orlando": 28,
+        "pia_rahman": 19,
+        "scattered": 1
+      },
+      "total": 82,
+      "winnerId": "samantha_kattan",
+      "margin": 7.3,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37052": {
+      "votes": {
+        "samantha_kattan": 133,
+        "melissa_orlando": 19,
+        "pia_rahman": 14,
+        "scattered": 1
+      },
+      "total": 167,
+      "winnerId": "samantha_kattan",
+      "margin": 68.3,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37053": {
+      "votes": {
+        "samantha_kattan": 194,
+        "melissa_orlando": 16,
+        "pia_rahman": 17,
+        "scattered": 0
+      },
+      "total": 227,
+      "winnerId": "samantha_kattan",
+      "margin": 78,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37054": {
+      "votes": {
+        "samantha_kattan": 235,
+        "melissa_orlando": 15,
+        "pia_rahman": 26,
+        "scattered": 1
+      },
+      "total": 277,
+      "winnerId": "samantha_kattan",
+      "margin": 75.5,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37055": {
+      "votes": {
+        "samantha_kattan": 192,
+        "melissa_orlando": 17,
+        "pia_rahman": 16,
+        "scattered": 0
+      },
+      "total": 225,
+      "winnerId": "samantha_kattan",
+      "margin": 77.8,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37056": {
+      "votes": {
+        "samantha_kattan": 145,
+        "melissa_orlando": 15,
+        "pia_rahman": 20,
+        "scattered": 1
+      },
+      "total": 181,
+      "winnerId": "samantha_kattan",
+      "margin": 69.1,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37057": {
+      "votes": {
+        "samantha_kattan": 281,
+        "melissa_orlando": 20,
+        "pia_rahman": 12,
+        "scattered": 0
+      },
+      "total": 313,
+      "winnerId": "samantha_kattan",
+      "margin": 83.4,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37058": {
+      "votes": {
+        "samantha_kattan": 111,
+        "melissa_orlando": 7,
+        "pia_rahman": 17,
+        "scattered": 0
+      },
+      "total": 135,
+      "winnerId": "samantha_kattan",
+      "margin": 69.6,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37059": {
+      "votes": {
+        "samantha_kattan": 160,
+        "melissa_orlando": 18,
+        "pia_rahman": 15,
+        "scattered": 0
+      },
+      "total": 193,
+      "winnerId": "samantha_kattan",
+      "margin": 73.6,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37060": {
+      "votes": {
+        "samantha_kattan": 103,
+        "melissa_orlando": 8,
+        "pia_rahman": 14,
+        "scattered": 0
+      },
+      "total": 125,
+      "winnerId": "samantha_kattan",
+      "margin": 71.2,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37061": {
+      "votes": {
+        "samantha_kattan": 188,
+        "melissa_orlando": 13,
+        "pia_rahman": 18,
+        "scattered": 0
+      },
+      "total": 219,
+      "winnerId": "samantha_kattan",
+      "margin": 77.6,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37062": {
+      "votes": {
+        "samantha_kattan": 122,
+        "melissa_orlando": 17,
+        "pia_rahman": 14,
+        "scattered": 1
+      },
+      "total": 154,
+      "winnerId": "samantha_kattan",
+      "margin": 68.2,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37063": {
+      "votes": {
+        "samantha_kattan": 219,
+        "melissa_orlando": 21,
+        "pia_rahman": 30,
+        "scattered": 0
+      },
+      "total": 270,
+      "winnerId": "samantha_kattan",
+      "margin": 70,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37064": {
+      "votes": {
+        "samantha_kattan": 293,
+        "melissa_orlando": 20,
+        "pia_rahman": 31,
+        "scattered": 1
+      },
+      "total": 345,
+      "winnerId": "samantha_kattan",
+      "margin": 75.9,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37065": {
+      "votes": {
+        "samantha_kattan": 0,
+        "melissa_orlando": 0,
+        "pia_rahman": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "samantha_kattan",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37067": {
+      "votes": {
+        "samantha_kattan": 0,
+        "melissa_orlando": 0,
+        "pia_rahman": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "samantha_kattan",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37068": {
+      "votes": {
+        "samantha_kattan": 0,
+        "melissa_orlando": 0,
+        "pia_rahman": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "samantha_kattan",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37069": {
+      "votes": {
+        "samantha_kattan": 0,
+        "melissa_orlando": 0,
+        "pia_rahman": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "samantha_kattan",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37070": {
+      "votes": {
+        "samantha_kattan": 0,
+        "melissa_orlando": 0,
+        "pia_rahman": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "samantha_kattan",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37/067": {
+      "votes": {
+        "samantha_kattan": 0,
+        "melissa_orlando": 0,
+        "pia_rahman": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "samantha_kattan",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37/001": {
+      "votes": {
+        "samantha_kattan": 114,
+        "melissa_orlando": 30,
+        "pia_rahman": 31,
+        "scattered": 1
+      },
+      "total": 176,
+      "winnerId": "samantha_kattan",
+      "margin": 47.2,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37/002": {
+      "votes": {
+        "samantha_kattan": 151,
+        "melissa_orlando": 34,
+        "pia_rahman": 66,
+        "scattered": 2
+      },
+      "total": 253,
+      "winnerId": "samantha_kattan",
+      "margin": 33.6,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37/003": {
+      "votes": {
+        "samantha_kattan": 181,
+        "melissa_orlando": 67,
+        "pia_rahman": 67,
+        "scattered": 3
+      },
+      "total": 318,
+      "winnerId": "samantha_kattan",
+      "margin": 35.8,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37/004": {
+      "votes": {
+        "samantha_kattan": 145,
+        "melissa_orlando": 65,
+        "pia_rahman": 48,
+        "scattered": 2
+      },
+      "total": 260,
+      "winnerId": "samantha_kattan",
+      "margin": 30.8,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37/005": {
+      "votes": {
+        "samantha_kattan": 87,
+        "melissa_orlando": 21,
+        "pia_rahman": 51,
+        "scattered": 0
+      },
+      "total": 159,
+      "winnerId": "samantha_kattan",
+      "margin": 22.6,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37/006": {
+      "votes": {
+        "samantha_kattan": 109,
+        "melissa_orlando": 31,
+        "pia_rahman": 53,
+        "scattered": 0
+      },
+      "total": 193,
+      "winnerId": "samantha_kattan",
+      "margin": 29,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37/007": {
+      "votes": {
+        "samantha_kattan": 214,
+        "melissa_orlando": 36,
+        "pia_rahman": 84,
+        "scattered": 1
+      },
+      "total": 335,
+      "winnerId": "samantha_kattan",
+      "margin": 38.8,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37/008": {
+      "votes": {
+        "samantha_kattan": 144,
+        "melissa_orlando": 25,
+        "pia_rahman": 50,
+        "scattered": 1
+      },
+      "total": 220,
+      "winnerId": "samantha_kattan",
+      "margin": 42.7,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37/009": {
+      "votes": {
+        "samantha_kattan": 87,
+        "melissa_orlando": 11,
+        "pia_rahman": 39,
+        "scattered": 1
+      },
+      "total": 138,
+      "winnerId": "samantha_kattan",
+      "margin": 34.8,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37/010": {
+      "votes": {
+        "samantha_kattan": 0,
+        "melissa_orlando": 0,
+        "pia_rahman": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "samantha_kattan",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37/011": {
+      "votes": {
+        "samantha_kattan": 20,
+        "melissa_orlando": 6,
+        "pia_rahman": 6,
+        "scattered": 1
+      },
+      "total": 33,
+      "winnerId": "samantha_kattan",
+      "margin": 42.4,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37/012": {
+      "votes": {
+        "samantha_kattan": 211,
+        "melissa_orlando": 19,
+        "pia_rahman": 28,
+        "scattered": 2
+      },
+      "total": 260,
+      "winnerId": "samantha_kattan",
+      "margin": 70.4,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37/013": {
+      "votes": {
+        "samantha_kattan": 151,
+        "melissa_orlando": 42,
+        "pia_rahman": 58,
+        "scattered": 0
+      },
+      "total": 251,
+      "winnerId": "samantha_kattan",
+      "margin": 37.1,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37/014": {
+      "votes": {
+        "samantha_kattan": 108,
+        "melissa_orlando": 58,
+        "pia_rahman": 22,
+        "scattered": 0
+      },
+      "total": 188,
+      "winnerId": "samantha_kattan",
+      "margin": 26.6,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37/015": {
+      "votes": {
+        "samantha_kattan": 23,
+        "melissa_orlando": 10,
+        "pia_rahman": 14,
+        "scattered": 0
+      },
+      "total": 47,
+      "winnerId": "samantha_kattan",
+      "margin": 19.1,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37/016": {
+      "votes": {
+        "samantha_kattan": 72,
+        "melissa_orlando": 31,
+        "pia_rahman": 21,
+        "scattered": 0
+      },
+      "total": 124,
+      "winnerId": "samantha_kattan",
+      "margin": 33.1,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37/017": {
+      "votes": {
+        "samantha_kattan": 48,
+        "melissa_orlando": 38,
+        "pia_rahman": 12,
+        "scattered": 0
+      },
+      "total": 98,
+      "winnerId": "samantha_kattan",
+      "margin": 10.2,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37/018": {
+      "votes": {
+        "samantha_kattan": 76,
+        "melissa_orlando": 45,
+        "pia_rahman": 27,
+        "scattered": 0
+      },
+      "total": 148,
+      "winnerId": "samantha_kattan",
+      "margin": 20.9,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37/019": {
+      "votes": {
+        "samantha_kattan": 173,
+        "melissa_orlando": 41,
+        "pia_rahman": 40,
+        "scattered": 0
+      },
+      "total": 254,
+      "winnerId": "samantha_kattan",
+      "margin": 52,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37/020": {
+      "votes": {
+        "samantha_kattan": 162,
+        "melissa_orlando": 69,
+        "pia_rahman": 23,
+        "scattered": 0
+      },
+      "total": 254,
+      "winnerId": "samantha_kattan",
+      "margin": 36.6,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37/021": {
+      "votes": {
+        "samantha_kattan": 189,
+        "melissa_orlando": 71,
+        "pia_rahman": 42,
+        "scattered": 0
+      },
+      "total": 302,
+      "winnerId": "samantha_kattan",
+      "margin": 39.1,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37/022": {
+      "votes": {
+        "samantha_kattan": 200,
+        "melissa_orlando": 67,
+        "pia_rahman": 52,
+        "scattered": 1
+      },
+      "total": 320,
+      "winnerId": "samantha_kattan",
+      "margin": 41.6,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37/023": {
+      "votes": {
+        "samantha_kattan": 203,
+        "melissa_orlando": 63,
+        "pia_rahman": 43,
+        "scattered": 2
+      },
+      "total": 311,
+      "winnerId": "samantha_kattan",
+      "margin": 45,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37/024": {
+      "votes": {
+        "samantha_kattan": 123,
+        "melissa_orlando": 36,
+        "pia_rahman": 33,
+        "scattered": 0
+      },
+      "total": 192,
+      "winnerId": "samantha_kattan",
+      "margin": 45.3,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37/025": {
+      "votes": {
+        "samantha_kattan": 183,
+        "melissa_orlando": 76,
+        "pia_rahman": 50,
+        "scattered": 1
+      },
+      "total": 310,
+      "winnerId": "samantha_kattan",
+      "margin": 34.5,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37/026": {
+      "votes": {
+        "samantha_kattan": 133,
+        "melissa_orlando": 52,
+        "pia_rahman": 58,
+        "scattered": 0
+      },
+      "total": 243,
+      "winnerId": "samantha_kattan",
+      "margin": 30.9,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37/027": {
+      "votes": {
+        "samantha_kattan": 238,
+        "melissa_orlando": 57,
+        "pia_rahman": 61,
+        "scattered": 3
+      },
+      "total": 359,
+      "winnerId": "samantha_kattan",
+      "margin": 49.3,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37/028": {
+      "votes": {
+        "samantha_kattan": 207,
+        "melissa_orlando": 50,
+        "pia_rahman": 66,
+        "scattered": 0
+      },
+      "total": 323,
+      "winnerId": "samantha_kattan",
+      "margin": 43.7,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37/029": {
+      "votes": {
+        "samantha_kattan": 159,
+        "melissa_orlando": 46,
+        "pia_rahman": 44,
+        "scattered": 3
+      },
+      "total": 252,
+      "winnerId": "samantha_kattan",
+      "margin": 44.8,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37/030": {
+      "votes": {
+        "samantha_kattan": 154,
+        "melissa_orlando": 45,
+        "pia_rahman": 42,
+        "scattered": 0
+      },
+      "total": 241,
+      "winnerId": "samantha_kattan",
+      "margin": 45.2,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37/031": {
+      "votes": {
+        "samantha_kattan": 186,
+        "melissa_orlando": 52,
+        "pia_rahman": 54,
+        "scattered": 2
+      },
+      "total": 294,
+      "winnerId": "samantha_kattan",
+      "margin": 44.9,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37/032": {
+      "votes": {
+        "samantha_kattan": 73,
+        "melissa_orlando": 22,
+        "pia_rahman": 28,
+        "scattered": 0
+      },
+      "total": 123,
+      "winnerId": "samantha_kattan",
+      "margin": 36.6,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37/033": {
+      "votes": {
+        "samantha_kattan": 85,
+        "melissa_orlando": 39,
+        "pia_rahman": 35,
+        "scattered": 2
+      },
+      "total": 161,
+      "winnerId": "samantha_kattan",
+      "margin": 28.6,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37/034": {
+      "votes": {
+        "samantha_kattan": 1,
+        "melissa_orlando": 0,
+        "pia_rahman": 0,
+        "scattered": 0
+      },
+      "total": 1,
+      "winnerId": "samantha_kattan",
+      "margin": 100,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37/035": {
+      "votes": {
+        "samantha_kattan": 226,
+        "melissa_orlando": 124,
+        "pia_rahman": 81,
+        "scattered": 0
+      },
+      "total": 431,
+      "winnerId": "samantha_kattan",
+      "margin": 23.7,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37/036": {
+      "votes": {
+        "samantha_kattan": 169,
+        "melissa_orlando": 93,
+        "pia_rahman": 63,
+        "scattered": 3
+      },
+      "total": 328,
+      "winnerId": "samantha_kattan",
+      "margin": 23.2,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37/037": {
+      "votes": {
+        "samantha_kattan": 84,
+        "melissa_orlando": 26,
+        "pia_rahman": 15,
+        "scattered": 1
+      },
+      "total": 126,
+      "winnerId": "samantha_kattan",
+      "margin": 46,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37/039": {
+      "votes": {
+        "samantha_kattan": 29,
+        "melissa_orlando": 20,
+        "pia_rahman": 2,
+        "scattered": 0
+      },
+      "total": 51,
+      "winnerId": "samantha_kattan",
+      "margin": 17.6,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37/040": {
+      "votes": {
+        "samantha_kattan": 34,
+        "melissa_orlando": 18,
+        "pia_rahman": 6,
+        "scattered": 1
+      },
+      "total": 59,
+      "winnerId": "samantha_kattan",
+      "margin": 27.1,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37/041": {
+      "votes": {
+        "samantha_kattan": 212,
+        "melissa_orlando": 20,
+        "pia_rahman": 18,
+        "scattered": 0
+      },
+      "total": 250,
+      "winnerId": "samantha_kattan",
+      "margin": 76.8,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37/042": {
+      "votes": {
+        "samantha_kattan": 88,
+        "melissa_orlando": 20,
+        "pia_rahman": 14,
+        "scattered": 3
+      },
+      "total": 125,
+      "winnerId": "samantha_kattan",
+      "margin": 54.4,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37/043": {
+      "votes": {
+        "samantha_kattan": 54,
+        "melissa_orlando": 13,
+        "pia_rahman": 17,
+        "scattered": 0
+      },
+      "total": 84,
+      "winnerId": "samantha_kattan",
+      "margin": 44,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37/044": {
+      "votes": {
+        "samantha_kattan": 127,
+        "melissa_orlando": 30,
+        "pia_rahman": 24,
+        "scattered": 1
+      },
+      "total": 182,
+      "winnerId": "samantha_kattan",
+      "margin": 53.3,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37/045": {
+      "votes": {
+        "samantha_kattan": 28,
+        "melissa_orlando": 11,
+        "pia_rahman": 5,
+        "scattered": 0
+      },
+      "total": 44,
+      "winnerId": "samantha_kattan",
+      "margin": 38.6,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37/046": {
+      "votes": {
+        "samantha_kattan": 3,
+        "melissa_orlando": 2,
+        "pia_rahman": 2,
+        "scattered": 0
+      },
+      "total": 7,
+      "winnerId": "samantha_kattan",
+      "margin": 14.3,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37/047": {
+      "votes": {
+        "samantha_kattan": 26,
+        "melissa_orlando": 22,
+        "pia_rahman": 19,
+        "scattered": 1
+      },
+      "total": 68,
+      "winnerId": "samantha_kattan",
+      "margin": 5.9,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37/048": {
+      "votes": {
+        "samantha_kattan": 42,
+        "melissa_orlando": 13,
+        "pia_rahman": 3,
+        "scattered": 1
+      },
+      "total": 59,
+      "winnerId": "samantha_kattan",
+      "margin": 49.2,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37/049": {
+      "votes": {
+        "samantha_kattan": 36,
+        "melissa_orlando": 17,
+        "pia_rahman": 8,
+        "scattered": 1
+      },
+      "total": 62,
+      "winnerId": "samantha_kattan",
+      "margin": 30.6,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37/050": {
+      "votes": {
+        "samantha_kattan": 53,
+        "melissa_orlando": 10,
+        "pia_rahman": 16,
+        "scattered": 0
+      },
+      "total": 79,
+      "winnerId": "samantha_kattan",
+      "margin": 46.8,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37/051": {
+      "votes": {
+        "samantha_kattan": 34,
+        "melissa_orlando": 28,
+        "pia_rahman": 19,
+        "scattered": 1
+      },
+      "total": 82,
+      "winnerId": "samantha_kattan",
+      "margin": 7.3,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37/052": {
+      "votes": {
+        "samantha_kattan": 133,
+        "melissa_orlando": 19,
+        "pia_rahman": 14,
+        "scattered": 1
+      },
+      "total": 167,
+      "winnerId": "samantha_kattan",
+      "margin": 68.3,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37/053": {
+      "votes": {
+        "samantha_kattan": 194,
+        "melissa_orlando": 16,
+        "pia_rahman": 17,
+        "scattered": 0
+      },
+      "total": 227,
+      "winnerId": "samantha_kattan",
+      "margin": 78,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37/054": {
+      "votes": {
+        "samantha_kattan": 235,
+        "melissa_orlando": 15,
+        "pia_rahman": 26,
+        "scattered": 1
+      },
+      "total": 277,
+      "winnerId": "samantha_kattan",
+      "margin": 75.5,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37/055": {
+      "votes": {
+        "samantha_kattan": 192,
+        "melissa_orlando": 17,
+        "pia_rahman": 16,
+        "scattered": 0
+      },
+      "total": 225,
+      "winnerId": "samantha_kattan",
+      "margin": 77.8,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37/056": {
+      "votes": {
+        "samantha_kattan": 145,
+        "melissa_orlando": 15,
+        "pia_rahman": 20,
+        "scattered": 1
+      },
+      "total": 181,
+      "winnerId": "samantha_kattan",
+      "margin": 69.1,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37/057": {
+      "votes": {
+        "samantha_kattan": 281,
+        "melissa_orlando": 20,
+        "pia_rahman": 12,
+        "scattered": 0
+      },
+      "total": 313,
+      "winnerId": "samantha_kattan",
+      "margin": 83.4,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37/058": {
+      "votes": {
+        "samantha_kattan": 111,
+        "melissa_orlando": 7,
+        "pia_rahman": 17,
+        "scattered": 0
+      },
+      "total": 135,
+      "winnerId": "samantha_kattan",
+      "margin": 69.6,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37/059": {
+      "votes": {
+        "samantha_kattan": 160,
+        "melissa_orlando": 18,
+        "pia_rahman": 15,
+        "scattered": 0
+      },
+      "total": 193,
+      "winnerId": "samantha_kattan",
+      "margin": 73.6,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37/060": {
+      "votes": {
+        "samantha_kattan": 103,
+        "melissa_orlando": 8,
+        "pia_rahman": 14,
+        "scattered": 0
+      },
+      "total": 125,
+      "winnerId": "samantha_kattan",
+      "margin": 71.2,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37/061": {
+      "votes": {
+        "samantha_kattan": 188,
+        "melissa_orlando": 13,
+        "pia_rahman": 18,
+        "scattered": 0
+      },
+      "total": 219,
+      "winnerId": "samantha_kattan",
+      "margin": 77.6,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37/062": {
+      "votes": {
+        "samantha_kattan": 122,
+        "melissa_orlando": 17,
+        "pia_rahman": 14,
+        "scattered": 1
+      },
+      "total": 154,
+      "winnerId": "samantha_kattan",
+      "margin": 68.2,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37/063": {
+      "votes": {
+        "samantha_kattan": 219,
+        "melissa_orlando": 21,
+        "pia_rahman": 30,
+        "scattered": 0
+      },
+      "total": 270,
+      "winnerId": "samantha_kattan",
+      "margin": 70,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37/064": {
+      "votes": {
+        "samantha_kattan": 293,
+        "melissa_orlando": 20,
+        "pia_rahman": 31,
+        "scattered": 1
+      },
+      "total": 345,
+      "winnerId": "samantha_kattan",
+      "margin": 75.9,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37/065": {
+      "votes": {
+        "samantha_kattan": 0,
+        "melissa_orlando": 0,
+        "pia_rahman": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "samantha_kattan",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37/068": {
+      "votes": {
+        "samantha_kattan": 0,
+        "melissa_orlando": 0,
+        "pia_rahman": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "samantha_kattan",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37/069": {
+      "votes": {
+        "samantha_kattan": 0,
+        "melissa_orlando": 0,
+        "pia_rahman": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "samantha_kattan",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "37/070": {
+      "votes": {
+        "samantha_kattan": 0,
+        "melissa_orlando": 0,
+        "pia_rahman": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "samantha_kattan",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "samantha_kattan",
+          "name": "Samantha Kattan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "melissa_orlando",
+          "name": "Melissa Orlando",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "pia_rahman",
+          "name": "Pia Rahman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    }
+  }
+}

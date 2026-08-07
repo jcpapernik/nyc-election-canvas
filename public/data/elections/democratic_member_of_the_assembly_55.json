@@ -1,0 +1,31 @@
+{
+  "id": "democratic_member_of_the_assembly_55",
+  "name": "2026 Primary - Member of the Assembly District 55",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "State Assembly",
+  "districtKey": "55",
+  "districtType": "assembly",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "latrice_walker",
+      "name": "Latrice Walker",
+      "party": "Democratic",
+      "isIncumbent": true,
+      "color": "#2563eb"
+    }
+  ],
+  "results": {
+    "55": {
+      "votes": {
+        "uncontested_primary_assembly_55": 0
+      },
+      "total": 0,
+      "winnerId": "uncontested_primary_assembly_55",
+      "margin": 100,
+      "isUncontested": true
+    }
+  },
+  "edResults": {}
+}

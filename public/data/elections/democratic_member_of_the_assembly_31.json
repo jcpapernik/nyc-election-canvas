@@ -1,0 +1,31 @@
+{
+  "id": "democratic_member_of_the_assembly_31",
+  "name": "2026 Primary - Member of the Assembly District 31",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "State Assembly",
+  "districtKey": "31",
+  "districtType": "assembly",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "khaleel_anderson",
+      "name": "Khaleel Anderson",
+      "party": "Democratic",
+      "isIncumbent": true,
+      "color": "#2563eb"
+    }
+  ],
+  "results": {
+    "31": {
+      "votes": {
+        "uncontested_primary_assembly_31": 0
+      },
+      "total": 0,
+      "winnerId": "uncontested_primary_assembly_31",
+      "margin": 100,
+      "isUncontested": true
+    }
+  },
+  "edResults": {}
+}

@@ -1,0 +1,31 @@
+{
+  "id": "democratic_state_senator_16",
+  "name": "2026 Primary - State Senator District 16",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "State Senate",
+  "districtKey": "16",
+  "districtType": "senate",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "john_liu",
+      "name": "John Liu",
+      "party": "Democratic",
+      "isIncumbent": true,
+      "color": "#2563eb"
+    }
+  ],
+  "results": {
+    "16": {
+      "votes": {
+        "uncontested_primary_senate_16": 0
+      },
+      "total": 0,
+      "winnerId": "uncontested_primary_senate_16",
+      "margin": 100,
+      "isUncontested": true
+    }
+  },
+  "edResults": {}
+}

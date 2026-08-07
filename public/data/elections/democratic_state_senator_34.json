@@ -1,0 +1,31 @@
+{
+  "id": "democratic_state_senator_34",
+  "name": "2026 Primary - State Senator District 34",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "State Senate",
+  "districtKey": "34",
+  "districtType": "senate",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "nathalia_fernandez",
+      "name": "Nathalia Fernandez",
+      "party": "Democratic",
+      "isIncumbent": true,
+      "color": "#2563eb"
+    }
+  ],
+  "results": {
+    "34": {
+      "votes": {
+        "uncontested_primary_senate_34": 0
+      },
+      "total": 0,
+      "winnerId": "uncontested_primary_senate_34",
+      "margin": 100,
+      "isUncontested": true
+    }
+  },
+  "edResults": {}
+}

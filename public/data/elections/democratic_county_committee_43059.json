@@ -1,0 +1,260 @@
+{
+  "id": "democratic_county_committee_43059",
+  "name": "2026 Primary - County Committee District 43059",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "Judicial & Party Offices",
+  "districtKey": "43059",
+  "districtType": "congressional",
+  "isUncontested": false,
+  "candidates": [
+    {
+      "id": "rita_c_joseph",
+      "name": "Rita C. Joseph",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#d97706"
+    },
+    {
+      "id": "jeanne__m_baron",
+      "name": "Jeanne  M. Baron",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#7c3aed"
+    },
+    {
+      "id": "timothy_g_hunter",
+      "name": "Timothy G. Hunter",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#059669"
+    },
+    {
+      "id": "john_h_sagan",
+      "name": "John H. Sagan",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#0891b2"
+    },
+    {
+      "id": "leda_f_davis",
+      "name": "Leda F. Davis",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#4f46e5"
+    },
+    {
+      "id": "eula_m_dixon",
+      "name": "Eula M. Dixon",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#db2777"
+    },
+    {
+      "id": "scattered",
+      "name": "Scattered",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#64748b"
+    }
+  ],
+  "results": {
+    "43059": {
+      "votes": {
+        "rita_c_joseph": 182,
+        "jeanne_m_baron": 120,
+        "timothy_g_hunter": 108,
+        "john_h_sagan": 91,
+        "leda_f_davis": 68,
+        "eula_m_dixon": 63,
+        "scattered": 4
+      },
+      "total": 636,
+      "winnerId": "rita_c_joseph",
+      "margin": 9.7,
+      "candidates": [
+        {
+          "id": "rita_c_joseph",
+          "name": "Rita C. Joseph",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jeanne_m_baron",
+          "name": "Jeanne  M. Baron",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "timothy_g_hunter",
+          "name": "Timothy G. Hunter",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "john_h_sagan",
+          "name": "John H. Sagan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "leda_f_davis",
+          "name": "Leda F. Davis",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "eula_m_dixon",
+          "name": "Eula M. Dixon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#64748b"
+        }
+      ]
+    }
+  },
+  "edResults": {
+    "43059": {
+      "votes": {
+        "rita_c_joseph": 182,
+        "jeanne_m_baron": 120,
+        "timothy_g_hunter": 108,
+        "john_h_sagan": 91,
+        "leda_f_davis": 68,
+        "eula_m_dixon": 63,
+        "scattered": 4
+      },
+      "total": 636,
+      "winnerId": "rita_c_joseph",
+      "margin": 9.7,
+      "candidates": [
+        {
+          "id": "rita_c_joseph",
+          "name": "Rita C. Joseph",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jeanne_m_baron",
+          "name": "Jeanne  M. Baron",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "timothy_g_hunter",
+          "name": "Timothy G. Hunter",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "john_h_sagan",
+          "name": "John H. Sagan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "leda_f_davis",
+          "name": "Leda F. Davis",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "eula_m_dixon",
+          "name": "Eula M. Dixon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#64748b"
+        }
+      ]
+    },
+    "43/059": {
+      "votes": {
+        "rita_c_joseph": 182,
+        "jeanne_m_baron": 120,
+        "timothy_g_hunter": 108,
+        "john_h_sagan": 91,
+        "leda_f_davis": 68,
+        "eula_m_dixon": 63,
+        "scattered": 4
+      },
+      "total": 636,
+      "winnerId": "rita_c_joseph",
+      "margin": 9.7,
+      "candidates": [
+        {
+          "id": "rita_c_joseph",
+          "name": "Rita C. Joseph",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jeanne_m_baron",
+          "name": "Jeanne  M. Baron",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "timothy_g_hunter",
+          "name": "Timothy G. Hunter",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "john_h_sagan",
+          "name": "John H. Sagan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "leda_f_davis",
+          "name": "Leda F. Davis",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "eula_m_dixon",
+          "name": "Eula M. Dixon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#64748b"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "democratic_member_of_the_assembly_51",
+  "name": "2026 Primary - Member of the Assembly District 51",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "State Assembly",
+  "districtKey": "51",
+  "districtType": "assembly",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "marcela_mitaynes",
+      "name": "Marcela Mitaynes",
+      "party": "Democratic",
+      "isIncumbent": true,
+      "color": "#2563eb"
+    }
+  ],
+  "results": {
+    "51": {
+      "votes": {
+        "uncontested_primary_assembly_51": 0
+      },
+      "total": 0,
+      "winnerId": "uncontested_primary_assembly_51",
+      "margin": 100,
+      "isUncontested": true
+    }
+  },
+  "edResults": {}
+}

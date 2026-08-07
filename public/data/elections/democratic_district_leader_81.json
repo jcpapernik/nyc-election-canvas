@@ -1,0 +1,5686 @@
+{
+  "id": "democratic_district_leader_81",
+  "name": "2026 Primary - District Leader District 81",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "Judicial & Party Offices",
+  "districtKey": "81",
+  "districtType": "congressional",
+  "isUncontested": false,
+  "candidates": [
+    {
+      "id": "abigail_martin_(f)",
+      "name": "Abigail Martin (F)",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#d97706"
+    },
+    {
+      "id": "ben_jackson_(m)",
+      "name": "Ben Jackson (M)",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#7c3aed"
+    },
+    {
+      "id": "virginia_krompinger_(f)",
+      "name": "Virginia Krompinger (F)",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#059669"
+    },
+    {
+      "id": "izaiah_zeek_barrow_(m)",
+      "name": "Izaiah Zeek Barrow (M)",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#0891b2"
+    },
+    {
+      "id": "scattered",
+      "name": "Scattered",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#4f46e5"
+    }
+  ],
+  "results": {
+    "81": {
+      "votes": {
+        "abigail_martin_f_": 5840,
+        "ben_jackson_m_": 5346,
+        "virginia_krompinger_f_": 5201,
+        "izaiah_zeek_barrow_m_": 3027,
+        "scattered": 64
+      },
+      "total": 19478,
+      "winnerId": "abigail_martin_f_",
+      "margin": 2.5,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    }
+  },
+  "edResults": {
+    "81001": {
+      "votes": {
+        "abigail_martin_f_": 50,
+        "ben_jackson_m_": 35,
+        "virginia_krompinger_f_": 27,
+        "izaiah_zeek_barrow_m_": 45,
+        "scattered": 0
+      },
+      "total": 157,
+      "winnerId": "abigail_martin_f_",
+      "margin": 3.2,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81002": {
+      "votes": {
+        "abigail_martin_f_": 58,
+        "ben_jackson_m_": 49,
+        "virginia_krompinger_f_": 38,
+        "izaiah_zeek_barrow_m_": 39,
+        "scattered": 1
+      },
+      "total": 185,
+      "winnerId": "abigail_martin_f_",
+      "margin": 4.9,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81003": {
+      "votes": {
+        "abigail_martin_f_": 63,
+        "ben_jackson_m_": 41,
+        "virginia_krompinger_f_": 21,
+        "izaiah_zeek_barrow_m_": 25,
+        "scattered": 0
+      },
+      "total": 150,
+      "winnerId": "abigail_martin_f_",
+      "margin": 14.7,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81004": {
+      "votes": {
+        "abigail_martin_f_": 41,
+        "ben_jackson_m_": 37,
+        "virginia_krompinger_f_": 28,
+        "izaiah_zeek_barrow_m_": 14,
+        "scattered": 0
+      },
+      "total": 120,
+      "winnerId": "abigail_martin_f_",
+      "margin": 3.3,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81005": {
+      "votes": {
+        "abigail_martin_f_": 77,
+        "ben_jackson_m_": 55,
+        "virginia_krompinger_f_": 48,
+        "izaiah_zeek_barrow_m_": 48,
+        "scattered": 0
+      },
+      "total": 228,
+      "winnerId": "abigail_martin_f_",
+      "margin": 9.6,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81006": {
+      "votes": {
+        "abigail_martin_f_": 85,
+        "ben_jackson_m_": 66,
+        "virginia_krompinger_f_": 50,
+        "izaiah_zeek_barrow_m_": 30,
+        "scattered": 0
+      },
+      "total": 231,
+      "winnerId": "abigail_martin_f_",
+      "margin": 8.2,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81007": {
+      "votes": {
+        "abigail_martin_f_": 70,
+        "ben_jackson_m_": 38,
+        "virginia_krompinger_f_": 33,
+        "izaiah_zeek_barrow_m_": 42,
+        "scattered": 0
+      },
+      "total": 183,
+      "winnerId": "abigail_martin_f_",
+      "margin": 15.3,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81008": {
+      "votes": {
+        "abigail_martin_f_": 82,
+        "ben_jackson_m_": 77,
+        "virginia_krompinger_f_": 51,
+        "izaiah_zeek_barrow_m_": 40,
+        "scattered": 2
+      },
+      "total": 252,
+      "winnerId": "abigail_martin_f_",
+      "margin": 2,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81009": {
+      "votes": {
+        "abigail_martin_f_": 87,
+        "ben_jackson_m_": 81,
+        "virginia_krompinger_f_": 69,
+        "izaiah_zeek_barrow_m_": 36,
+        "scattered": 2
+      },
+      "total": 275,
+      "winnerId": "abigail_martin_f_",
+      "margin": 2.2,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81010": {
+      "votes": {
+        "abigail_martin_f_": 107,
+        "ben_jackson_m_": 59,
+        "virginia_krompinger_f_": 59,
+        "izaiah_zeek_barrow_m_": 51,
+        "scattered": 1
+      },
+      "total": 277,
+      "winnerId": "abigail_martin_f_",
+      "margin": 17.3,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81011": {
+      "votes": {
+        "abigail_martin_f_": 113,
+        "ben_jackson_m_": 66,
+        "virginia_krompinger_f_": 45,
+        "izaiah_zeek_barrow_m_": 65,
+        "scattered": 0
+      },
+      "total": 289,
+      "winnerId": "abigail_martin_f_",
+      "margin": 16.3,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81012": {
+      "votes": {
+        "abigail_martin_f_": 106,
+        "ben_jackson_m_": 70,
+        "virginia_krompinger_f_": 53,
+        "izaiah_zeek_barrow_m_": 66,
+        "scattered": 1
+      },
+      "total": 296,
+      "winnerId": "abigail_martin_f_",
+      "margin": 12.2,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81013": {
+      "votes": {
+        "abigail_martin_f_": 16,
+        "ben_jackson_m_": 9,
+        "virginia_krompinger_f_": 4,
+        "izaiah_zeek_barrow_m_": 8,
+        "scattered": 2
+      },
+      "total": 39,
+      "winnerId": "abigail_martin_f_",
+      "margin": 17.9,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81014": {
+      "votes": {
+        "abigail_martin_f_": 190,
+        "ben_jackson_m_": 185,
+        "virginia_krompinger_f_": 202,
+        "izaiah_zeek_barrow_m_": 102,
+        "scattered": 2
+      },
+      "total": 681,
+      "winnerId": "virginia_krompinger_f_",
+      "margin": 1.8,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81015": {
+      "votes": {
+        "abigail_martin_f_": 134,
+        "ben_jackson_m_": 159,
+        "virginia_krompinger_f_": 179,
+        "izaiah_zeek_barrow_m_": 57,
+        "scattered": 0
+      },
+      "total": 529,
+      "winnerId": "virginia_krompinger_f_",
+      "margin": 3.8,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81016": {
+      "votes": {
+        "abigail_martin_f_": 102,
+        "ben_jackson_m_": 97,
+        "virginia_krompinger_f_": 101,
+        "izaiah_zeek_barrow_m_": 53,
+        "scattered": 0
+      },
+      "total": 353,
+      "winnerId": "abigail_martin_f_",
+      "margin": 0.3,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81017": {
+      "votes": {
+        "abigail_martin_f_": 146,
+        "ben_jackson_m_": 76,
+        "virginia_krompinger_f_": 100,
+        "izaiah_zeek_barrow_m_": 72,
+        "scattered": 3
+      },
+      "total": 397,
+      "winnerId": "abigail_martin_f_",
+      "margin": 11.6,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81018": {
+      "votes": {
+        "abigail_martin_f_": 37,
+        "ben_jackson_m_": 25,
+        "virginia_krompinger_f_": 13,
+        "izaiah_zeek_barrow_m_": 17,
+        "scattered": 0
+      },
+      "total": 92,
+      "winnerId": "abigail_martin_f_",
+      "margin": 13,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81019": {
+      "votes": {
+        "abigail_martin_f_": 160,
+        "ben_jackson_m_": 166,
+        "virginia_krompinger_f_": 170,
+        "izaiah_zeek_barrow_m_": 69,
+        "scattered": 3
+      },
+      "total": 568,
+      "winnerId": "virginia_krompinger_f_",
+      "margin": 0.7,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81020": {
+      "votes": {
+        "abigail_martin_f_": 166,
+        "ben_jackson_m_": 121,
+        "virginia_krompinger_f_": 120,
+        "izaiah_zeek_barrow_m_": 118,
+        "scattered": 1
+      },
+      "total": 526,
+      "winnerId": "abigail_martin_f_",
+      "margin": 8.6,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81021": {
+      "votes": {
+        "abigail_martin_f_": 175,
+        "ben_jackson_m_": 132,
+        "virginia_krompinger_f_": 138,
+        "izaiah_zeek_barrow_m_": 110,
+        "scattered": 1
+      },
+      "total": 556,
+      "winnerId": "abigail_martin_f_",
+      "margin": 6.7,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81022": {
+      "votes": {
+        "abigail_martin_f_": 157,
+        "ben_jackson_m_": 193,
+        "virginia_krompinger_f_": 215,
+        "izaiah_zeek_barrow_m_": 73,
+        "scattered": 2
+      },
+      "total": 640,
+      "winnerId": "virginia_krompinger_f_",
+      "margin": 3.4,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81023": {
+      "votes": {
+        "abigail_martin_f_": 134,
+        "ben_jackson_m_": 57,
+        "virginia_krompinger_f_": 57,
+        "izaiah_zeek_barrow_m_": 93,
+        "scattered": 0
+      },
+      "total": 341,
+      "winnerId": "abigail_martin_f_",
+      "margin": 12,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81024": {
+      "votes": {
+        "abigail_martin_f_": 41,
+        "ben_jackson_m_": 41,
+        "virginia_krompinger_f_": 17,
+        "izaiah_zeek_barrow_m_": 19,
+        "scattered": 0
+      },
+      "total": 118,
+      "winnerId": "abigail_martin_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81025": {
+      "votes": {
+        "abigail_martin_f_": 73,
+        "ben_jackson_m_": 191,
+        "virginia_krompinger_f_": 174,
+        "izaiah_zeek_barrow_m_": 29,
+        "scattered": 0
+      },
+      "total": 467,
+      "winnerId": "ben_jackson_m_",
+      "margin": 3.6,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81026": {
+      "votes": {
+        "abigail_martin_f_": 128,
+        "ben_jackson_m_": 66,
+        "virginia_krompinger_f_": 74,
+        "izaiah_zeek_barrow_m_": 81,
+        "scattered": 5
+      },
+      "total": 354,
+      "winnerId": "abigail_martin_f_",
+      "margin": 13.3,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81027": {
+      "votes": {
+        "abigail_martin_f_": 163,
+        "ben_jackson_m_": 174,
+        "virginia_krompinger_f_": 181,
+        "izaiah_zeek_barrow_m_": 83,
+        "scattered": 0
+      },
+      "total": 601,
+      "winnerId": "virginia_krompinger_f_",
+      "margin": 1.2,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81028": {
+      "votes": {
+        "abigail_martin_f_": 187,
+        "ben_jackson_m_": 239,
+        "virginia_krompinger_f_": 253,
+        "izaiah_zeek_barrow_m_": 93,
+        "scattered": 6
+      },
+      "total": 778,
+      "winnerId": "virginia_krompinger_f_",
+      "margin": 1.8,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81029": {
+      "votes": {
+        "abigail_martin_f_": 187,
+        "ben_jackson_m_": 279,
+        "virginia_krompinger_f_": 276,
+        "izaiah_zeek_barrow_m_": 123,
+        "scattered": 0
+      },
+      "total": 865,
+      "winnerId": "ben_jackson_m_",
+      "margin": 0.3,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81030": {
+      "votes": {
+        "abigail_martin_f_": 160,
+        "ben_jackson_m_": 256,
+        "virginia_krompinger_f_": 260,
+        "izaiah_zeek_barrow_m_": 101,
+        "scattered": 1
+      },
+      "total": 778,
+      "winnerId": "virginia_krompinger_f_",
+      "margin": 0.5,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81031": {
+      "votes": {
+        "abigail_martin_f_": 185,
+        "ben_jackson_m_": 296,
+        "virginia_krompinger_f_": 312,
+        "izaiah_zeek_barrow_m_": 92,
+        "scattered": 2
+      },
+      "total": 887,
+      "winnerId": "virginia_krompinger_f_",
+      "margin": 1.8,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81032": {
+      "votes": {
+        "abigail_martin_f_": 122,
+        "ben_jackson_m_": 198,
+        "virginia_krompinger_f_": 202,
+        "izaiah_zeek_barrow_m_": 50,
+        "scattered": 0
+      },
+      "total": 572,
+      "winnerId": "virginia_krompinger_f_",
+      "margin": 0.7,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81033": {
+      "votes": {
+        "abigail_martin_f_": 77,
+        "ben_jackson_m_": 85,
+        "virginia_krompinger_f_": 101,
+        "izaiah_zeek_barrow_m_": 36,
+        "scattered": 0
+      },
+      "total": 299,
+      "winnerId": "virginia_krompinger_f_",
+      "margin": 5.4,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81034": {
+      "votes": {
+        "abigail_martin_f_": 160,
+        "ben_jackson_m_": 153,
+        "virginia_krompinger_f_": 150,
+        "izaiah_zeek_barrow_m_": 71,
+        "scattered": 5
+      },
+      "total": 539,
+      "winnerId": "abigail_martin_f_",
+      "margin": 1.3,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81035": {
+      "votes": {
+        "abigail_martin_f_": 158,
+        "ben_jackson_m_": 138,
+        "virginia_krompinger_f_": 154,
+        "izaiah_zeek_barrow_m_": 68,
+        "scattered": 3
+      },
+      "total": 521,
+      "winnerId": "abigail_martin_f_",
+      "margin": 0.8,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81036": {
+      "votes": {
+        "abigail_martin_f_": 156,
+        "ben_jackson_m_": 125,
+        "virginia_krompinger_f_": 131,
+        "izaiah_zeek_barrow_m_": 84,
+        "scattered": 1
+      },
+      "total": 497,
+      "winnerId": "abigail_martin_f_",
+      "margin": 5,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81037": {
+      "votes": {
+        "abigail_martin_f_": 153,
+        "ben_jackson_m_": 113,
+        "virginia_krompinger_f_": 109,
+        "izaiah_zeek_barrow_m_": 77,
+        "scattered": 3
+      },
+      "total": 455,
+      "winnerId": "abigail_martin_f_",
+      "margin": 8.8,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81038": {
+      "votes": {
+        "abigail_martin_f_": 121,
+        "ben_jackson_m_": 82,
+        "virginia_krompinger_f_": 78,
+        "izaiah_zeek_barrow_m_": 75,
+        "scattered": 4
+      },
+      "total": 360,
+      "winnerId": "abigail_martin_f_",
+      "margin": 10.8,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81039": {
+      "votes": {
+        "abigail_martin_f_": 39,
+        "ben_jackson_m_": 39,
+        "virginia_krompinger_f_": 23,
+        "izaiah_zeek_barrow_m_": 11,
+        "scattered": 2
+      },
+      "total": 114,
+      "winnerId": "abigail_martin_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81040": {
+      "votes": {
+        "abigail_martin_f_": 155,
+        "ben_jackson_m_": 107,
+        "virginia_krompinger_f_": 96,
+        "izaiah_zeek_barrow_m_": 96,
+        "scattered": 0
+      },
+      "total": 454,
+      "winnerId": "abigail_martin_f_",
+      "margin": 10.6,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81041": {
+      "votes": {
+        "abigail_martin_f_": 70,
+        "ben_jackson_m_": 31,
+        "virginia_krompinger_f_": 56,
+        "izaiah_zeek_barrow_m_": 33,
+        "scattered": 1
+      },
+      "total": 191,
+      "winnerId": "abigail_martin_f_",
+      "margin": 7.3,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81042": {
+      "votes": {
+        "abigail_martin_f_": 83,
+        "ben_jackson_m_": 32,
+        "virginia_krompinger_f_": 42,
+        "izaiah_zeek_barrow_m_": 46,
+        "scattered": 1
+      },
+      "total": 204,
+      "winnerId": "abigail_martin_f_",
+      "margin": 18.1,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81043": {
+      "votes": {
+        "abigail_martin_f_": 92,
+        "ben_jackson_m_": 39,
+        "virginia_krompinger_f_": 53,
+        "izaiah_zeek_barrow_m_": 39,
+        "scattered": 0
+      },
+      "total": 223,
+      "winnerId": "abigail_martin_f_",
+      "margin": 17.5,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81044": {
+      "votes": {
+        "abigail_martin_f_": 75,
+        "ben_jackson_m_": 75,
+        "virginia_krompinger_f_": 57,
+        "izaiah_zeek_barrow_m_": 25,
+        "scattered": 0
+      },
+      "total": 232,
+      "winnerId": "abigail_martin_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81045": {
+      "votes": {
+        "abigail_martin_f_": 81,
+        "ben_jackson_m_": 44,
+        "virginia_krompinger_f_": 41,
+        "izaiah_zeek_barrow_m_": 36,
+        "scattered": 1
+      },
+      "total": 203,
+      "winnerId": "abigail_martin_f_",
+      "margin": 18.2,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81046": {
+      "votes": {
+        "abigail_martin_f_": 69,
+        "ben_jackson_m_": 61,
+        "virginia_krompinger_f_": 48,
+        "izaiah_zeek_barrow_m_": 38,
+        "scattered": 0
+      },
+      "total": 216,
+      "winnerId": "abigail_martin_f_",
+      "margin": 3.7,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81047": {
+      "votes": {
+        "abigail_martin_f_": 54,
+        "ben_jackson_m_": 34,
+        "virginia_krompinger_f_": 33,
+        "izaiah_zeek_barrow_m_": 21,
+        "scattered": 1
+      },
+      "total": 143,
+      "winnerId": "abigail_martin_f_",
+      "margin": 14,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81048": {
+      "votes": {
+        "abigail_martin_f_": 93,
+        "ben_jackson_m_": 76,
+        "virginia_krompinger_f_": 59,
+        "izaiah_zeek_barrow_m_": 35,
+        "scattered": 0
+      },
+      "total": 263,
+      "winnerId": "abigail_martin_f_",
+      "margin": 6.5,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81049": {
+      "votes": {
+        "abigail_martin_f_": 53,
+        "ben_jackson_m_": 41,
+        "virginia_krompinger_f_": 43,
+        "izaiah_zeek_barrow_m_": 22,
+        "scattered": 0
+      },
+      "total": 159,
+      "winnerId": "abigail_martin_f_",
+      "margin": 6.3,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81050": {
+      "votes": {
+        "abigail_martin_f_": 41,
+        "ben_jackson_m_": 33,
+        "virginia_krompinger_f_": 30,
+        "izaiah_zeek_barrow_m_": 19,
+        "scattered": 0
+      },
+      "total": 123,
+      "winnerId": "abigail_martin_f_",
+      "margin": 6.5,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81051": {
+      "votes": {
+        "abigail_martin_f_": 56,
+        "ben_jackson_m_": 37,
+        "virginia_krompinger_f_": 38,
+        "izaiah_zeek_barrow_m_": 31,
+        "scattered": 0
+      },
+      "total": 162,
+      "winnerId": "abigail_martin_f_",
+      "margin": 11.1,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81052": {
+      "votes": {
+        "abigail_martin_f_": 57,
+        "ben_jackson_m_": 59,
+        "virginia_krompinger_f_": 34,
+        "izaiah_zeek_barrow_m_": 21,
+        "scattered": 1
+      },
+      "total": 172,
+      "winnerId": "ben_jackson_m_",
+      "margin": 1.2,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81053": {
+      "votes": {
+        "abigail_martin_f_": 97,
+        "ben_jackson_m_": 70,
+        "virginia_krompinger_f_": 63,
+        "izaiah_zeek_barrow_m_": 46,
+        "scattered": 5
+      },
+      "total": 281,
+      "winnerId": "abigail_martin_f_",
+      "margin": 9.6,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81054": {
+      "votes": {
+        "abigail_martin_f_": 118,
+        "ben_jackson_m_": 119,
+        "virginia_krompinger_f_": 90,
+        "izaiah_zeek_barrow_m_": 57,
+        "scattered": 0
+      },
+      "total": 384,
+      "winnerId": "ben_jackson_m_",
+      "margin": 0.3,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81055": {
+      "votes": {
+        "abigail_martin_f_": 33,
+        "ben_jackson_m_": 34,
+        "virginia_krompinger_f_": 24,
+        "izaiah_zeek_barrow_m_": 16,
+        "scattered": 0
+      },
+      "total": 107,
+      "winnerId": "ben_jackson_m_",
+      "margin": 0.9,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81056": {
+      "votes": {
+        "abigail_martin_f_": 147,
+        "ben_jackson_m_": 85,
+        "virginia_krompinger_f_": 78,
+        "izaiah_zeek_barrow_m_": 80,
+        "scattered": 1
+      },
+      "total": 391,
+      "winnerId": "abigail_martin_f_",
+      "margin": 15.9,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81059": {
+      "votes": {
+        "abigail_martin_f_": 0,
+        "ben_jackson_m_": 0,
+        "virginia_krompinger_f_": 0,
+        "izaiah_zeek_barrow_m_": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "abigail_martin_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/001": {
+      "votes": {
+        "abigail_martin_f_": 50,
+        "ben_jackson_m_": 35,
+        "virginia_krompinger_f_": 27,
+        "izaiah_zeek_barrow_m_": 45,
+        "scattered": 0
+      },
+      "total": 157,
+      "winnerId": "abigail_martin_f_",
+      "margin": 3.2,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/002": {
+      "votes": {
+        "abigail_martin_f_": 58,
+        "ben_jackson_m_": 49,
+        "virginia_krompinger_f_": 38,
+        "izaiah_zeek_barrow_m_": 39,
+        "scattered": 1
+      },
+      "total": 185,
+      "winnerId": "abigail_martin_f_",
+      "margin": 4.9,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/003": {
+      "votes": {
+        "abigail_martin_f_": 63,
+        "ben_jackson_m_": 41,
+        "virginia_krompinger_f_": 21,
+        "izaiah_zeek_barrow_m_": 25,
+        "scattered": 0
+      },
+      "total": 150,
+      "winnerId": "abigail_martin_f_",
+      "margin": 14.7,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/004": {
+      "votes": {
+        "abigail_martin_f_": 41,
+        "ben_jackson_m_": 37,
+        "virginia_krompinger_f_": 28,
+        "izaiah_zeek_barrow_m_": 14,
+        "scattered": 0
+      },
+      "total": 120,
+      "winnerId": "abigail_martin_f_",
+      "margin": 3.3,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/005": {
+      "votes": {
+        "abigail_martin_f_": 77,
+        "ben_jackson_m_": 55,
+        "virginia_krompinger_f_": 48,
+        "izaiah_zeek_barrow_m_": 48,
+        "scattered": 0
+      },
+      "total": 228,
+      "winnerId": "abigail_martin_f_",
+      "margin": 9.6,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/006": {
+      "votes": {
+        "abigail_martin_f_": 85,
+        "ben_jackson_m_": 66,
+        "virginia_krompinger_f_": 50,
+        "izaiah_zeek_barrow_m_": 30,
+        "scattered": 0
+      },
+      "total": 231,
+      "winnerId": "abigail_martin_f_",
+      "margin": 8.2,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/007": {
+      "votes": {
+        "abigail_martin_f_": 70,
+        "ben_jackson_m_": 38,
+        "virginia_krompinger_f_": 33,
+        "izaiah_zeek_barrow_m_": 42,
+        "scattered": 0
+      },
+      "total": 183,
+      "winnerId": "abigail_martin_f_",
+      "margin": 15.3,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/008": {
+      "votes": {
+        "abigail_martin_f_": 82,
+        "ben_jackson_m_": 77,
+        "virginia_krompinger_f_": 51,
+        "izaiah_zeek_barrow_m_": 40,
+        "scattered": 2
+      },
+      "total": 252,
+      "winnerId": "abigail_martin_f_",
+      "margin": 2,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/009": {
+      "votes": {
+        "abigail_martin_f_": 87,
+        "ben_jackson_m_": 81,
+        "virginia_krompinger_f_": 69,
+        "izaiah_zeek_barrow_m_": 36,
+        "scattered": 2
+      },
+      "total": 275,
+      "winnerId": "abigail_martin_f_",
+      "margin": 2.2,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/010": {
+      "votes": {
+        "abigail_martin_f_": 107,
+        "ben_jackson_m_": 59,
+        "virginia_krompinger_f_": 59,
+        "izaiah_zeek_barrow_m_": 51,
+        "scattered": 1
+      },
+      "total": 277,
+      "winnerId": "abigail_martin_f_",
+      "margin": 17.3,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/011": {
+      "votes": {
+        "abigail_martin_f_": 113,
+        "ben_jackson_m_": 66,
+        "virginia_krompinger_f_": 45,
+        "izaiah_zeek_barrow_m_": 65,
+        "scattered": 0
+      },
+      "total": 289,
+      "winnerId": "abigail_martin_f_",
+      "margin": 16.3,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/012": {
+      "votes": {
+        "abigail_martin_f_": 106,
+        "ben_jackson_m_": 70,
+        "virginia_krompinger_f_": 53,
+        "izaiah_zeek_barrow_m_": 66,
+        "scattered": 1
+      },
+      "total": 296,
+      "winnerId": "abigail_martin_f_",
+      "margin": 12.2,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/013": {
+      "votes": {
+        "abigail_martin_f_": 16,
+        "ben_jackson_m_": 9,
+        "virginia_krompinger_f_": 4,
+        "izaiah_zeek_barrow_m_": 8,
+        "scattered": 2
+      },
+      "total": 39,
+      "winnerId": "abigail_martin_f_",
+      "margin": 17.9,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/014": {
+      "votes": {
+        "abigail_martin_f_": 190,
+        "ben_jackson_m_": 185,
+        "virginia_krompinger_f_": 202,
+        "izaiah_zeek_barrow_m_": 102,
+        "scattered": 2
+      },
+      "total": 681,
+      "winnerId": "virginia_krompinger_f_",
+      "margin": 1.8,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/015": {
+      "votes": {
+        "abigail_martin_f_": 134,
+        "ben_jackson_m_": 159,
+        "virginia_krompinger_f_": 179,
+        "izaiah_zeek_barrow_m_": 57,
+        "scattered": 0
+      },
+      "total": 529,
+      "winnerId": "virginia_krompinger_f_",
+      "margin": 3.8,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/016": {
+      "votes": {
+        "abigail_martin_f_": 102,
+        "ben_jackson_m_": 97,
+        "virginia_krompinger_f_": 101,
+        "izaiah_zeek_barrow_m_": 53,
+        "scattered": 0
+      },
+      "total": 353,
+      "winnerId": "abigail_martin_f_",
+      "margin": 0.3,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/017": {
+      "votes": {
+        "abigail_martin_f_": 146,
+        "ben_jackson_m_": 76,
+        "virginia_krompinger_f_": 100,
+        "izaiah_zeek_barrow_m_": 72,
+        "scattered": 3
+      },
+      "total": 397,
+      "winnerId": "abigail_martin_f_",
+      "margin": 11.6,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/018": {
+      "votes": {
+        "abigail_martin_f_": 37,
+        "ben_jackson_m_": 25,
+        "virginia_krompinger_f_": 13,
+        "izaiah_zeek_barrow_m_": 17,
+        "scattered": 0
+      },
+      "total": 92,
+      "winnerId": "abigail_martin_f_",
+      "margin": 13,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/019": {
+      "votes": {
+        "abigail_martin_f_": 160,
+        "ben_jackson_m_": 166,
+        "virginia_krompinger_f_": 170,
+        "izaiah_zeek_barrow_m_": 69,
+        "scattered": 3
+      },
+      "total": 568,
+      "winnerId": "virginia_krompinger_f_",
+      "margin": 0.7,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/020": {
+      "votes": {
+        "abigail_martin_f_": 166,
+        "ben_jackson_m_": 121,
+        "virginia_krompinger_f_": 120,
+        "izaiah_zeek_barrow_m_": 118,
+        "scattered": 1
+      },
+      "total": 526,
+      "winnerId": "abigail_martin_f_",
+      "margin": 8.6,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/021": {
+      "votes": {
+        "abigail_martin_f_": 175,
+        "ben_jackson_m_": 132,
+        "virginia_krompinger_f_": 138,
+        "izaiah_zeek_barrow_m_": 110,
+        "scattered": 1
+      },
+      "total": 556,
+      "winnerId": "abigail_martin_f_",
+      "margin": 6.7,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/022": {
+      "votes": {
+        "abigail_martin_f_": 157,
+        "ben_jackson_m_": 193,
+        "virginia_krompinger_f_": 215,
+        "izaiah_zeek_barrow_m_": 73,
+        "scattered": 2
+      },
+      "total": 640,
+      "winnerId": "virginia_krompinger_f_",
+      "margin": 3.4,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/023": {
+      "votes": {
+        "abigail_martin_f_": 134,
+        "ben_jackson_m_": 57,
+        "virginia_krompinger_f_": 57,
+        "izaiah_zeek_barrow_m_": 93,
+        "scattered": 0
+      },
+      "total": 341,
+      "winnerId": "abigail_martin_f_",
+      "margin": 12,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/024": {
+      "votes": {
+        "abigail_martin_f_": 41,
+        "ben_jackson_m_": 41,
+        "virginia_krompinger_f_": 17,
+        "izaiah_zeek_barrow_m_": 19,
+        "scattered": 0
+      },
+      "total": 118,
+      "winnerId": "abigail_martin_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/025": {
+      "votes": {
+        "abigail_martin_f_": 73,
+        "ben_jackson_m_": 191,
+        "virginia_krompinger_f_": 174,
+        "izaiah_zeek_barrow_m_": 29,
+        "scattered": 0
+      },
+      "total": 467,
+      "winnerId": "ben_jackson_m_",
+      "margin": 3.6,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/026": {
+      "votes": {
+        "abigail_martin_f_": 128,
+        "ben_jackson_m_": 66,
+        "virginia_krompinger_f_": 74,
+        "izaiah_zeek_barrow_m_": 81,
+        "scattered": 5
+      },
+      "total": 354,
+      "winnerId": "abigail_martin_f_",
+      "margin": 13.3,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/027": {
+      "votes": {
+        "abigail_martin_f_": 163,
+        "ben_jackson_m_": 174,
+        "virginia_krompinger_f_": 181,
+        "izaiah_zeek_barrow_m_": 83,
+        "scattered": 0
+      },
+      "total": 601,
+      "winnerId": "virginia_krompinger_f_",
+      "margin": 1.2,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/028": {
+      "votes": {
+        "abigail_martin_f_": 187,
+        "ben_jackson_m_": 239,
+        "virginia_krompinger_f_": 253,
+        "izaiah_zeek_barrow_m_": 93,
+        "scattered": 6
+      },
+      "total": 778,
+      "winnerId": "virginia_krompinger_f_",
+      "margin": 1.8,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/029": {
+      "votes": {
+        "abigail_martin_f_": 187,
+        "ben_jackson_m_": 279,
+        "virginia_krompinger_f_": 276,
+        "izaiah_zeek_barrow_m_": 123,
+        "scattered": 0
+      },
+      "total": 865,
+      "winnerId": "ben_jackson_m_",
+      "margin": 0.3,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/030": {
+      "votes": {
+        "abigail_martin_f_": 160,
+        "ben_jackson_m_": 256,
+        "virginia_krompinger_f_": 260,
+        "izaiah_zeek_barrow_m_": 101,
+        "scattered": 1
+      },
+      "total": 778,
+      "winnerId": "virginia_krompinger_f_",
+      "margin": 0.5,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/031": {
+      "votes": {
+        "abigail_martin_f_": 185,
+        "ben_jackson_m_": 296,
+        "virginia_krompinger_f_": 312,
+        "izaiah_zeek_barrow_m_": 92,
+        "scattered": 2
+      },
+      "total": 887,
+      "winnerId": "virginia_krompinger_f_",
+      "margin": 1.8,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/032": {
+      "votes": {
+        "abigail_martin_f_": 122,
+        "ben_jackson_m_": 198,
+        "virginia_krompinger_f_": 202,
+        "izaiah_zeek_barrow_m_": 50,
+        "scattered": 0
+      },
+      "total": 572,
+      "winnerId": "virginia_krompinger_f_",
+      "margin": 0.7,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/033": {
+      "votes": {
+        "abigail_martin_f_": 77,
+        "ben_jackson_m_": 85,
+        "virginia_krompinger_f_": 101,
+        "izaiah_zeek_barrow_m_": 36,
+        "scattered": 0
+      },
+      "total": 299,
+      "winnerId": "virginia_krompinger_f_",
+      "margin": 5.4,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/034": {
+      "votes": {
+        "abigail_martin_f_": 160,
+        "ben_jackson_m_": 153,
+        "virginia_krompinger_f_": 150,
+        "izaiah_zeek_barrow_m_": 71,
+        "scattered": 5
+      },
+      "total": 539,
+      "winnerId": "abigail_martin_f_",
+      "margin": 1.3,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/035": {
+      "votes": {
+        "abigail_martin_f_": 158,
+        "ben_jackson_m_": 138,
+        "virginia_krompinger_f_": 154,
+        "izaiah_zeek_barrow_m_": 68,
+        "scattered": 3
+      },
+      "total": 521,
+      "winnerId": "abigail_martin_f_",
+      "margin": 0.8,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/036": {
+      "votes": {
+        "abigail_martin_f_": 156,
+        "ben_jackson_m_": 125,
+        "virginia_krompinger_f_": 131,
+        "izaiah_zeek_barrow_m_": 84,
+        "scattered": 1
+      },
+      "total": 497,
+      "winnerId": "abigail_martin_f_",
+      "margin": 5,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/037": {
+      "votes": {
+        "abigail_martin_f_": 153,
+        "ben_jackson_m_": 113,
+        "virginia_krompinger_f_": 109,
+        "izaiah_zeek_barrow_m_": 77,
+        "scattered": 3
+      },
+      "total": 455,
+      "winnerId": "abigail_martin_f_",
+      "margin": 8.8,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/038": {
+      "votes": {
+        "abigail_martin_f_": 121,
+        "ben_jackson_m_": 82,
+        "virginia_krompinger_f_": 78,
+        "izaiah_zeek_barrow_m_": 75,
+        "scattered": 4
+      },
+      "total": 360,
+      "winnerId": "abigail_martin_f_",
+      "margin": 10.8,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/039": {
+      "votes": {
+        "abigail_martin_f_": 39,
+        "ben_jackson_m_": 39,
+        "virginia_krompinger_f_": 23,
+        "izaiah_zeek_barrow_m_": 11,
+        "scattered": 2
+      },
+      "total": 114,
+      "winnerId": "abigail_martin_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/040": {
+      "votes": {
+        "abigail_martin_f_": 155,
+        "ben_jackson_m_": 107,
+        "virginia_krompinger_f_": 96,
+        "izaiah_zeek_barrow_m_": 96,
+        "scattered": 0
+      },
+      "total": 454,
+      "winnerId": "abigail_martin_f_",
+      "margin": 10.6,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/041": {
+      "votes": {
+        "abigail_martin_f_": 70,
+        "ben_jackson_m_": 31,
+        "virginia_krompinger_f_": 56,
+        "izaiah_zeek_barrow_m_": 33,
+        "scattered": 1
+      },
+      "total": 191,
+      "winnerId": "abigail_martin_f_",
+      "margin": 7.3,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/042": {
+      "votes": {
+        "abigail_martin_f_": 83,
+        "ben_jackson_m_": 32,
+        "virginia_krompinger_f_": 42,
+        "izaiah_zeek_barrow_m_": 46,
+        "scattered": 1
+      },
+      "total": 204,
+      "winnerId": "abigail_martin_f_",
+      "margin": 18.1,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/043": {
+      "votes": {
+        "abigail_martin_f_": 92,
+        "ben_jackson_m_": 39,
+        "virginia_krompinger_f_": 53,
+        "izaiah_zeek_barrow_m_": 39,
+        "scattered": 0
+      },
+      "total": 223,
+      "winnerId": "abigail_martin_f_",
+      "margin": 17.5,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/044": {
+      "votes": {
+        "abigail_martin_f_": 75,
+        "ben_jackson_m_": 75,
+        "virginia_krompinger_f_": 57,
+        "izaiah_zeek_barrow_m_": 25,
+        "scattered": 0
+      },
+      "total": 232,
+      "winnerId": "abigail_martin_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/045": {
+      "votes": {
+        "abigail_martin_f_": 81,
+        "ben_jackson_m_": 44,
+        "virginia_krompinger_f_": 41,
+        "izaiah_zeek_barrow_m_": 36,
+        "scattered": 1
+      },
+      "total": 203,
+      "winnerId": "abigail_martin_f_",
+      "margin": 18.2,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/046": {
+      "votes": {
+        "abigail_martin_f_": 69,
+        "ben_jackson_m_": 61,
+        "virginia_krompinger_f_": 48,
+        "izaiah_zeek_barrow_m_": 38,
+        "scattered": 0
+      },
+      "total": 216,
+      "winnerId": "abigail_martin_f_",
+      "margin": 3.7,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/047": {
+      "votes": {
+        "abigail_martin_f_": 54,
+        "ben_jackson_m_": 34,
+        "virginia_krompinger_f_": 33,
+        "izaiah_zeek_barrow_m_": 21,
+        "scattered": 1
+      },
+      "total": 143,
+      "winnerId": "abigail_martin_f_",
+      "margin": 14,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/048": {
+      "votes": {
+        "abigail_martin_f_": 93,
+        "ben_jackson_m_": 76,
+        "virginia_krompinger_f_": 59,
+        "izaiah_zeek_barrow_m_": 35,
+        "scattered": 0
+      },
+      "total": 263,
+      "winnerId": "abigail_martin_f_",
+      "margin": 6.5,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/049": {
+      "votes": {
+        "abigail_martin_f_": 53,
+        "ben_jackson_m_": 41,
+        "virginia_krompinger_f_": 43,
+        "izaiah_zeek_barrow_m_": 22,
+        "scattered": 0
+      },
+      "total": 159,
+      "winnerId": "abigail_martin_f_",
+      "margin": 6.3,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/050": {
+      "votes": {
+        "abigail_martin_f_": 41,
+        "ben_jackson_m_": 33,
+        "virginia_krompinger_f_": 30,
+        "izaiah_zeek_barrow_m_": 19,
+        "scattered": 0
+      },
+      "total": 123,
+      "winnerId": "abigail_martin_f_",
+      "margin": 6.5,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/051": {
+      "votes": {
+        "abigail_martin_f_": 56,
+        "ben_jackson_m_": 37,
+        "virginia_krompinger_f_": 38,
+        "izaiah_zeek_barrow_m_": 31,
+        "scattered": 0
+      },
+      "total": 162,
+      "winnerId": "abigail_martin_f_",
+      "margin": 11.1,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/052": {
+      "votes": {
+        "abigail_martin_f_": 57,
+        "ben_jackson_m_": 59,
+        "virginia_krompinger_f_": 34,
+        "izaiah_zeek_barrow_m_": 21,
+        "scattered": 1
+      },
+      "total": 172,
+      "winnerId": "ben_jackson_m_",
+      "margin": 1.2,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/053": {
+      "votes": {
+        "abigail_martin_f_": 97,
+        "ben_jackson_m_": 70,
+        "virginia_krompinger_f_": 63,
+        "izaiah_zeek_barrow_m_": 46,
+        "scattered": 5
+      },
+      "total": 281,
+      "winnerId": "abigail_martin_f_",
+      "margin": 9.6,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/054": {
+      "votes": {
+        "abigail_martin_f_": 118,
+        "ben_jackson_m_": 119,
+        "virginia_krompinger_f_": 90,
+        "izaiah_zeek_barrow_m_": 57,
+        "scattered": 0
+      },
+      "total": 384,
+      "winnerId": "ben_jackson_m_",
+      "margin": 0.3,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/055": {
+      "votes": {
+        "abigail_martin_f_": 33,
+        "ben_jackson_m_": 34,
+        "virginia_krompinger_f_": 24,
+        "izaiah_zeek_barrow_m_": 16,
+        "scattered": 0
+      },
+      "total": 107,
+      "winnerId": "ben_jackson_m_",
+      "margin": 0.9,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/056": {
+      "votes": {
+        "abigail_martin_f_": 147,
+        "ben_jackson_m_": 85,
+        "virginia_krompinger_f_": 78,
+        "izaiah_zeek_barrow_m_": 80,
+        "scattered": 1
+      },
+      "total": 391,
+      "winnerId": "abigail_martin_f_",
+      "margin": 15.9,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "81/059": {
+      "votes": {
+        "abigail_martin_f_": 0,
+        "ben_jackson_m_": 0,
+        "virginia_krompinger_f_": 0,
+        "izaiah_zeek_barrow_m_": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "abigail_martin_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "abigail_martin_f_",
+          "name": "Abigail Martin (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ben_jackson_m_",
+          "name": "Ben Jackson (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "virginia_krompinger_f_",
+          "name": "Virginia Krompinger (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "izaiah_zeek_barrow_m_",
+          "name": "Izaiah Zeek Barrow (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    }
+  }
+}

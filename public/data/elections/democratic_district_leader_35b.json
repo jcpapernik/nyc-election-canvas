@@ -1,0 +1,2217 @@
+{
+  "id": "democratic_district_leader_35b",
+  "name": "2026 Primary - District Leader District 35B",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "Judicial & Party Offices",
+  "districtKey": "35B",
+  "districtType": "congressional",
+  "isUncontested": false,
+  "candidates": [
+    {
+      "id": "michelle_dunston_(f)",
+      "name": "Michelle Dunston (F)",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#d97706"
+    },
+    {
+      "id": "jose_m_morillo_(m)",
+      "name": "Jose M. Morillo (M)",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#7c3aed"
+    },
+    {
+      "id": "james_b_fogle_(m)",
+      "name": "James B. Fogle (M)",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#059669"
+    },
+    {
+      "id": "scattered",
+      "name": "Scattered",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#0891b2"
+    }
+  ],
+  "results": {
+    "35B": {
+      "votes": {
+        "michelle_dunston_f_": 1385,
+        "jose_m_morillo_m_": 971,
+        "james_b_fogle_m_": 808,
+        "scattered": 37
+      },
+      "total": 3201,
+      "winnerId": "michelle_dunston_f_",
+      "margin": 12.9,
+      "candidates": [
+        {
+          "id": "michelle_dunston_f_",
+          "name": "Michelle Dunston (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jose_m_morillo_m_",
+          "name": "Jose M. Morillo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "james_b_fogle_m_",
+          "name": "James B. Fogle (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    }
+  },
+  "edResults": {
+    "35009": {
+      "votes": {
+        "michelle_dunston_f_": 47,
+        "jose_m_morillo_m_": 41,
+        "james_b_fogle_m_": 32,
+        "scattered": 2
+      },
+      "total": 122,
+      "winnerId": "michelle_dunston_f_",
+      "margin": 4.9,
+      "candidates": [
+        {
+          "id": "michelle_dunston_f_",
+          "name": "Michelle Dunston (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jose_m_morillo_m_",
+          "name": "Jose M. Morillo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "james_b_fogle_m_",
+          "name": "James B. Fogle (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35023": {
+      "votes": {
+        "michelle_dunston_f_": 19,
+        "jose_m_morillo_m_": 28,
+        "james_b_fogle_m_": 13,
+        "scattered": 2
+      },
+      "total": 62,
+      "winnerId": "jose_m_morillo_m_",
+      "margin": 14.5,
+      "candidates": [
+        {
+          "id": "michelle_dunston_f_",
+          "name": "Michelle Dunston (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jose_m_morillo_m_",
+          "name": "Jose M. Morillo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "james_b_fogle_m_",
+          "name": "James B. Fogle (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35024": {
+      "votes": {
+        "michelle_dunston_f_": 27,
+        "jose_m_morillo_m_": 36,
+        "james_b_fogle_m_": 19,
+        "scattered": 1
+      },
+      "total": 83,
+      "winnerId": "jose_m_morillo_m_",
+      "margin": 10.8,
+      "candidates": [
+        {
+          "id": "michelle_dunston_f_",
+          "name": "Michelle Dunston (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jose_m_morillo_m_",
+          "name": "Jose M. Morillo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "james_b_fogle_m_",
+          "name": "James B. Fogle (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35025": {
+      "votes": {
+        "michelle_dunston_f_": 82,
+        "jose_m_morillo_m_": 62,
+        "james_b_fogle_m_": 53,
+        "scattered": 2
+      },
+      "total": 199,
+      "winnerId": "michelle_dunston_f_",
+      "margin": 10.1,
+      "candidates": [
+        {
+          "id": "michelle_dunston_f_",
+          "name": "Michelle Dunston (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jose_m_morillo_m_",
+          "name": "Jose M. Morillo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "james_b_fogle_m_",
+          "name": "James B. Fogle (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35026": {
+      "votes": {
+        "michelle_dunston_f_": 82,
+        "jose_m_morillo_m_": 44,
+        "james_b_fogle_m_": 41,
+        "scattered": 4
+      },
+      "total": 171,
+      "winnerId": "michelle_dunston_f_",
+      "margin": 22.2,
+      "candidates": [
+        {
+          "id": "michelle_dunston_f_",
+          "name": "Michelle Dunston (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jose_m_morillo_m_",
+          "name": "Jose M. Morillo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "james_b_fogle_m_",
+          "name": "James B. Fogle (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35027": {
+      "votes": {
+        "michelle_dunston_f_": 9,
+        "jose_m_morillo_m_": 8,
+        "james_b_fogle_m_": 8,
+        "scattered": 0
+      },
+      "total": 25,
+      "winnerId": "michelle_dunston_f_",
+      "margin": 4,
+      "candidates": [
+        {
+          "id": "michelle_dunston_f_",
+          "name": "Michelle Dunston (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jose_m_morillo_m_",
+          "name": "Jose M. Morillo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "james_b_fogle_m_",
+          "name": "James B. Fogle (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35028": {
+      "votes": {
+        "michelle_dunston_f_": 3,
+        "jose_m_morillo_m_": 6,
+        "james_b_fogle_m_": 8,
+        "scattered": 0
+      },
+      "total": 17,
+      "winnerId": "james_b_fogle_m_",
+      "margin": 11.8,
+      "candidates": [
+        {
+          "id": "michelle_dunston_f_",
+          "name": "Michelle Dunston (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jose_m_morillo_m_",
+          "name": "Jose M. Morillo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "james_b_fogle_m_",
+          "name": "James B. Fogle (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35029": {
+      "votes": {
+        "michelle_dunston_f_": 40,
+        "jose_m_morillo_m_": 40,
+        "james_b_fogle_m_": 23,
+        "scattered": 0
+      },
+      "total": 103,
+      "winnerId": "michelle_dunston_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "michelle_dunston_f_",
+          "name": "Michelle Dunston (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jose_m_morillo_m_",
+          "name": "Jose M. Morillo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "james_b_fogle_m_",
+          "name": "James B. Fogle (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35030": {
+      "votes": {
+        "michelle_dunston_f_": 68,
+        "jose_m_morillo_m_": 42,
+        "james_b_fogle_m_": 51,
+        "scattered": 1
+      },
+      "total": 162,
+      "winnerId": "michelle_dunston_f_",
+      "margin": 10.5,
+      "candidates": [
+        {
+          "id": "michelle_dunston_f_",
+          "name": "Michelle Dunston (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jose_m_morillo_m_",
+          "name": "Jose M. Morillo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "james_b_fogle_m_",
+          "name": "James B. Fogle (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35031": {
+      "votes": {
+        "michelle_dunston_f_": 38,
+        "jose_m_morillo_m_": 19,
+        "james_b_fogle_m_": 22,
+        "scattered": 1
+      },
+      "total": 80,
+      "winnerId": "michelle_dunston_f_",
+      "margin": 20,
+      "candidates": [
+        {
+          "id": "michelle_dunston_f_",
+          "name": "Michelle Dunston (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jose_m_morillo_m_",
+          "name": "Jose M. Morillo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "james_b_fogle_m_",
+          "name": "James B. Fogle (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35032": {
+      "votes": {
+        "michelle_dunston_f_": 89,
+        "jose_m_morillo_m_": 64,
+        "james_b_fogle_m_": 51,
+        "scattered": 1
+      },
+      "total": 205,
+      "winnerId": "michelle_dunston_f_",
+      "margin": 12.2,
+      "candidates": [
+        {
+          "id": "michelle_dunston_f_",
+          "name": "Michelle Dunston (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jose_m_morillo_m_",
+          "name": "Jose M. Morillo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "james_b_fogle_m_",
+          "name": "James B. Fogle (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35033": {
+      "votes": {
+        "michelle_dunston_f_": 104,
+        "jose_m_morillo_m_": 65,
+        "james_b_fogle_m_": 61,
+        "scattered": 3
+      },
+      "total": 233,
+      "winnerId": "michelle_dunston_f_",
+      "margin": 16.7,
+      "candidates": [
+        {
+          "id": "michelle_dunston_f_",
+          "name": "Michelle Dunston (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jose_m_morillo_m_",
+          "name": "Jose M. Morillo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "james_b_fogle_m_",
+          "name": "James B. Fogle (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35034": {
+      "votes": {
+        "michelle_dunston_f_": 92,
+        "jose_m_morillo_m_": 57,
+        "james_b_fogle_m_": 48,
+        "scattered": 1
+      },
+      "total": 198,
+      "winnerId": "michelle_dunston_f_",
+      "margin": 17.7,
+      "candidates": [
+        {
+          "id": "michelle_dunston_f_",
+          "name": "Michelle Dunston (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jose_m_morillo_m_",
+          "name": "Jose M. Morillo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "james_b_fogle_m_",
+          "name": "James B. Fogle (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35035": {
+      "votes": {
+        "michelle_dunston_f_": 98,
+        "jose_m_morillo_m_": 47,
+        "james_b_fogle_m_": 43,
+        "scattered": 1
+      },
+      "total": 189,
+      "winnerId": "michelle_dunston_f_",
+      "margin": 27,
+      "candidates": [
+        {
+          "id": "michelle_dunston_f_",
+          "name": "Michelle Dunston (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jose_m_morillo_m_",
+          "name": "Jose M. Morillo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "james_b_fogle_m_",
+          "name": "James B. Fogle (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35036": {
+      "votes": {
+        "michelle_dunston_f_": 97,
+        "jose_m_morillo_m_": 54,
+        "james_b_fogle_m_": 38,
+        "scattered": 3
+      },
+      "total": 192,
+      "winnerId": "michelle_dunston_f_",
+      "margin": 22.4,
+      "candidates": [
+        {
+          "id": "michelle_dunston_f_",
+          "name": "Michelle Dunston (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jose_m_morillo_m_",
+          "name": "Jose M. Morillo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "james_b_fogle_m_",
+          "name": "James B. Fogle (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35037": {
+      "votes": {
+        "michelle_dunston_f_": 50,
+        "jose_m_morillo_m_": 40,
+        "james_b_fogle_m_": 34,
+        "scattered": 0
+      },
+      "total": 124,
+      "winnerId": "michelle_dunston_f_",
+      "margin": 8.1,
+      "candidates": [
+        {
+          "id": "michelle_dunston_f_",
+          "name": "Michelle Dunston (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jose_m_morillo_m_",
+          "name": "Jose M. Morillo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "james_b_fogle_m_",
+          "name": "James B. Fogle (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35038": {
+      "votes": {
+        "michelle_dunston_f_": 59,
+        "jose_m_morillo_m_": 46,
+        "james_b_fogle_m_": 34,
+        "scattered": 1
+      },
+      "total": 140,
+      "winnerId": "michelle_dunston_f_",
+      "margin": 9.3,
+      "candidates": [
+        {
+          "id": "michelle_dunston_f_",
+          "name": "Michelle Dunston (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jose_m_morillo_m_",
+          "name": "Jose M. Morillo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "james_b_fogle_m_",
+          "name": "James B. Fogle (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35039": {
+      "votes": {
+        "michelle_dunston_f_": 82,
+        "jose_m_morillo_m_": 51,
+        "james_b_fogle_m_": 57,
+        "scattered": 0
+      },
+      "total": 190,
+      "winnerId": "michelle_dunston_f_",
+      "margin": 13.2,
+      "candidates": [
+        {
+          "id": "michelle_dunston_f_",
+          "name": "Michelle Dunston (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jose_m_morillo_m_",
+          "name": "Jose M. Morillo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "james_b_fogle_m_",
+          "name": "James B. Fogle (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35040": {
+      "votes": {
+        "michelle_dunston_f_": 54,
+        "jose_m_morillo_m_": 28,
+        "james_b_fogle_m_": 26,
+        "scattered": 2
+      },
+      "total": 110,
+      "winnerId": "michelle_dunston_f_",
+      "margin": 23.6,
+      "candidates": [
+        {
+          "id": "michelle_dunston_f_",
+          "name": "Michelle Dunston (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jose_m_morillo_m_",
+          "name": "Jose M. Morillo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "james_b_fogle_m_",
+          "name": "James B. Fogle (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35041": {
+      "votes": {
+        "michelle_dunston_f_": 47,
+        "jose_m_morillo_m_": 37,
+        "james_b_fogle_m_": 31,
+        "scattered": 1
+      },
+      "total": 116,
+      "winnerId": "michelle_dunston_f_",
+      "margin": 8.6,
+      "candidates": [
+        {
+          "id": "michelle_dunston_f_",
+          "name": "Michelle Dunston (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jose_m_morillo_m_",
+          "name": "Jose M. Morillo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "james_b_fogle_m_",
+          "name": "James B. Fogle (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35042": {
+      "votes": {
+        "michelle_dunston_f_": 52,
+        "jose_m_morillo_m_": 47,
+        "james_b_fogle_m_": 26,
+        "scattered": 7
+      },
+      "total": 132,
+      "winnerId": "michelle_dunston_f_",
+      "margin": 3.8,
+      "candidates": [
+        {
+          "id": "michelle_dunston_f_",
+          "name": "Michelle Dunston (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jose_m_morillo_m_",
+          "name": "Jose M. Morillo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "james_b_fogle_m_",
+          "name": "James B. Fogle (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35043": {
+      "votes": {
+        "michelle_dunston_f_": 22,
+        "jose_m_morillo_m_": 16,
+        "james_b_fogle_m_": 12,
+        "scattered": 0
+      },
+      "total": 50,
+      "winnerId": "michelle_dunston_f_",
+      "margin": 12,
+      "candidates": [
+        {
+          "id": "michelle_dunston_f_",
+          "name": "Michelle Dunston (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jose_m_morillo_m_",
+          "name": "Jose M. Morillo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "james_b_fogle_m_",
+          "name": "James B. Fogle (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35044": {
+      "votes": {
+        "michelle_dunston_f_": 38,
+        "jose_m_morillo_m_": 40,
+        "james_b_fogle_m_": 23,
+        "scattered": 1
+      },
+      "total": 102,
+      "winnerId": "jose_m_morillo_m_",
+      "margin": 2,
+      "candidates": [
+        {
+          "id": "michelle_dunston_f_",
+          "name": "Michelle Dunston (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jose_m_morillo_m_",
+          "name": "Jose M. Morillo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "james_b_fogle_m_",
+          "name": "James B. Fogle (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35045": {
+      "votes": {
+        "michelle_dunston_f_": 21,
+        "jose_m_morillo_m_": 15,
+        "james_b_fogle_m_": 14,
+        "scattered": 0
+      },
+      "total": 50,
+      "winnerId": "michelle_dunston_f_",
+      "margin": 12,
+      "candidates": [
+        {
+          "id": "michelle_dunston_f_",
+          "name": "Michelle Dunston (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jose_m_morillo_m_",
+          "name": "Jose M. Morillo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "james_b_fogle_m_",
+          "name": "James B. Fogle (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35046": {
+      "votes": {
+        "michelle_dunston_f_": 50,
+        "jose_m_morillo_m_": 32,
+        "james_b_fogle_m_": 29,
+        "scattered": 2
+      },
+      "total": 113,
+      "winnerId": "michelle_dunston_f_",
+      "margin": 15.9,
+      "candidates": [
+        {
+          "id": "michelle_dunston_f_",
+          "name": "Michelle Dunston (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jose_m_morillo_m_",
+          "name": "Jose M. Morillo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "james_b_fogle_m_",
+          "name": "James B. Fogle (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35048": {
+      "votes": {
+        "michelle_dunston_f_": 15,
+        "jose_m_morillo_m_": 6,
+        "james_b_fogle_m_": 11,
+        "scattered": 1
+      },
+      "total": 33,
+      "winnerId": "michelle_dunston_f_",
+      "margin": 12.1,
+      "candidates": [
+        {
+          "id": "michelle_dunston_f_",
+          "name": "Michelle Dunston (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jose_m_morillo_m_",
+          "name": "Jose M. Morillo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "james_b_fogle_m_",
+          "name": "James B. Fogle (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35/009": {
+      "votes": {
+        "michelle_dunston_f_": 47,
+        "jose_m_morillo_m_": 41,
+        "james_b_fogle_m_": 32,
+        "scattered": 2
+      },
+      "total": 122,
+      "winnerId": "michelle_dunston_f_",
+      "margin": 4.9,
+      "candidates": [
+        {
+          "id": "michelle_dunston_f_",
+          "name": "Michelle Dunston (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jose_m_morillo_m_",
+          "name": "Jose M. Morillo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "james_b_fogle_m_",
+          "name": "James B. Fogle (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35/023": {
+      "votes": {
+        "michelle_dunston_f_": 19,
+        "jose_m_morillo_m_": 28,
+        "james_b_fogle_m_": 13,
+        "scattered": 2
+      },
+      "total": 62,
+      "winnerId": "jose_m_morillo_m_",
+      "margin": 14.5,
+      "candidates": [
+        {
+          "id": "michelle_dunston_f_",
+          "name": "Michelle Dunston (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jose_m_morillo_m_",
+          "name": "Jose M. Morillo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "james_b_fogle_m_",
+          "name": "James B. Fogle (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35/024": {
+      "votes": {
+        "michelle_dunston_f_": 27,
+        "jose_m_morillo_m_": 36,
+        "james_b_fogle_m_": 19,
+        "scattered": 1
+      },
+      "total": 83,
+      "winnerId": "jose_m_morillo_m_",
+      "margin": 10.8,
+      "candidates": [
+        {
+          "id": "michelle_dunston_f_",
+          "name": "Michelle Dunston (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jose_m_morillo_m_",
+          "name": "Jose M. Morillo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "james_b_fogle_m_",
+          "name": "James B. Fogle (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35/025": {
+      "votes": {
+        "michelle_dunston_f_": 82,
+        "jose_m_morillo_m_": 62,
+        "james_b_fogle_m_": 53,
+        "scattered": 2
+      },
+      "total": 199,
+      "winnerId": "michelle_dunston_f_",
+      "margin": 10.1,
+      "candidates": [
+        {
+          "id": "michelle_dunston_f_",
+          "name": "Michelle Dunston (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jose_m_morillo_m_",
+          "name": "Jose M. Morillo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "james_b_fogle_m_",
+          "name": "James B. Fogle (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35/026": {
+      "votes": {
+        "michelle_dunston_f_": 82,
+        "jose_m_morillo_m_": 44,
+        "james_b_fogle_m_": 41,
+        "scattered": 4
+      },
+      "total": 171,
+      "winnerId": "michelle_dunston_f_",
+      "margin": 22.2,
+      "candidates": [
+        {
+          "id": "michelle_dunston_f_",
+          "name": "Michelle Dunston (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jose_m_morillo_m_",
+          "name": "Jose M. Morillo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "james_b_fogle_m_",
+          "name": "James B. Fogle (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35/027": {
+      "votes": {
+        "michelle_dunston_f_": 9,
+        "jose_m_morillo_m_": 8,
+        "james_b_fogle_m_": 8,
+        "scattered": 0
+      },
+      "total": 25,
+      "winnerId": "michelle_dunston_f_",
+      "margin": 4,
+      "candidates": [
+        {
+          "id": "michelle_dunston_f_",
+          "name": "Michelle Dunston (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jose_m_morillo_m_",
+          "name": "Jose M. Morillo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "james_b_fogle_m_",
+          "name": "James B. Fogle (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35/028": {
+      "votes": {
+        "michelle_dunston_f_": 3,
+        "jose_m_morillo_m_": 6,
+        "james_b_fogle_m_": 8,
+        "scattered": 0
+      },
+      "total": 17,
+      "winnerId": "james_b_fogle_m_",
+      "margin": 11.8,
+      "candidates": [
+        {
+          "id": "michelle_dunston_f_",
+          "name": "Michelle Dunston (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jose_m_morillo_m_",
+          "name": "Jose M. Morillo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "james_b_fogle_m_",
+          "name": "James B. Fogle (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35/029": {
+      "votes": {
+        "michelle_dunston_f_": 40,
+        "jose_m_morillo_m_": 40,
+        "james_b_fogle_m_": 23,
+        "scattered": 0
+      },
+      "total": 103,
+      "winnerId": "michelle_dunston_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "michelle_dunston_f_",
+          "name": "Michelle Dunston (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jose_m_morillo_m_",
+          "name": "Jose M. Morillo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "james_b_fogle_m_",
+          "name": "James B. Fogle (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35/030": {
+      "votes": {
+        "michelle_dunston_f_": 68,
+        "jose_m_morillo_m_": 42,
+        "james_b_fogle_m_": 51,
+        "scattered": 1
+      },
+      "total": 162,
+      "winnerId": "michelle_dunston_f_",
+      "margin": 10.5,
+      "candidates": [
+        {
+          "id": "michelle_dunston_f_",
+          "name": "Michelle Dunston (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jose_m_morillo_m_",
+          "name": "Jose M. Morillo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "james_b_fogle_m_",
+          "name": "James B. Fogle (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35/031": {
+      "votes": {
+        "michelle_dunston_f_": 38,
+        "jose_m_morillo_m_": 19,
+        "james_b_fogle_m_": 22,
+        "scattered": 1
+      },
+      "total": 80,
+      "winnerId": "michelle_dunston_f_",
+      "margin": 20,
+      "candidates": [
+        {
+          "id": "michelle_dunston_f_",
+          "name": "Michelle Dunston (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jose_m_morillo_m_",
+          "name": "Jose M. Morillo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "james_b_fogle_m_",
+          "name": "James B. Fogle (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35/032": {
+      "votes": {
+        "michelle_dunston_f_": 89,
+        "jose_m_morillo_m_": 64,
+        "james_b_fogle_m_": 51,
+        "scattered": 1
+      },
+      "total": 205,
+      "winnerId": "michelle_dunston_f_",
+      "margin": 12.2,
+      "candidates": [
+        {
+          "id": "michelle_dunston_f_",
+          "name": "Michelle Dunston (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jose_m_morillo_m_",
+          "name": "Jose M. Morillo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "james_b_fogle_m_",
+          "name": "James B. Fogle (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35/033": {
+      "votes": {
+        "michelle_dunston_f_": 104,
+        "jose_m_morillo_m_": 65,
+        "james_b_fogle_m_": 61,
+        "scattered": 3
+      },
+      "total": 233,
+      "winnerId": "michelle_dunston_f_",
+      "margin": 16.7,
+      "candidates": [
+        {
+          "id": "michelle_dunston_f_",
+          "name": "Michelle Dunston (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jose_m_morillo_m_",
+          "name": "Jose M. Morillo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "james_b_fogle_m_",
+          "name": "James B. Fogle (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35/034": {
+      "votes": {
+        "michelle_dunston_f_": 92,
+        "jose_m_morillo_m_": 57,
+        "james_b_fogle_m_": 48,
+        "scattered": 1
+      },
+      "total": 198,
+      "winnerId": "michelle_dunston_f_",
+      "margin": 17.7,
+      "candidates": [
+        {
+          "id": "michelle_dunston_f_",
+          "name": "Michelle Dunston (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jose_m_morillo_m_",
+          "name": "Jose M. Morillo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "james_b_fogle_m_",
+          "name": "James B. Fogle (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35/035": {
+      "votes": {
+        "michelle_dunston_f_": 98,
+        "jose_m_morillo_m_": 47,
+        "james_b_fogle_m_": 43,
+        "scattered": 1
+      },
+      "total": 189,
+      "winnerId": "michelle_dunston_f_",
+      "margin": 27,
+      "candidates": [
+        {
+          "id": "michelle_dunston_f_",
+          "name": "Michelle Dunston (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jose_m_morillo_m_",
+          "name": "Jose M. Morillo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "james_b_fogle_m_",
+          "name": "James B. Fogle (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35/036": {
+      "votes": {
+        "michelle_dunston_f_": 97,
+        "jose_m_morillo_m_": 54,
+        "james_b_fogle_m_": 38,
+        "scattered": 3
+      },
+      "total": 192,
+      "winnerId": "michelle_dunston_f_",
+      "margin": 22.4,
+      "candidates": [
+        {
+          "id": "michelle_dunston_f_",
+          "name": "Michelle Dunston (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jose_m_morillo_m_",
+          "name": "Jose M. Morillo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "james_b_fogle_m_",
+          "name": "James B. Fogle (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35/037": {
+      "votes": {
+        "michelle_dunston_f_": 50,
+        "jose_m_morillo_m_": 40,
+        "james_b_fogle_m_": 34,
+        "scattered": 0
+      },
+      "total": 124,
+      "winnerId": "michelle_dunston_f_",
+      "margin": 8.1,
+      "candidates": [
+        {
+          "id": "michelle_dunston_f_",
+          "name": "Michelle Dunston (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jose_m_morillo_m_",
+          "name": "Jose M. Morillo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "james_b_fogle_m_",
+          "name": "James B. Fogle (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35/038": {
+      "votes": {
+        "michelle_dunston_f_": 59,
+        "jose_m_morillo_m_": 46,
+        "james_b_fogle_m_": 34,
+        "scattered": 1
+      },
+      "total": 140,
+      "winnerId": "michelle_dunston_f_",
+      "margin": 9.3,
+      "candidates": [
+        {
+          "id": "michelle_dunston_f_",
+          "name": "Michelle Dunston (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jose_m_morillo_m_",
+          "name": "Jose M. Morillo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "james_b_fogle_m_",
+          "name": "James B. Fogle (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35/039": {
+      "votes": {
+        "michelle_dunston_f_": 82,
+        "jose_m_morillo_m_": 51,
+        "james_b_fogle_m_": 57,
+        "scattered": 0
+      },
+      "total": 190,
+      "winnerId": "michelle_dunston_f_",
+      "margin": 13.2,
+      "candidates": [
+        {
+          "id": "michelle_dunston_f_",
+          "name": "Michelle Dunston (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jose_m_morillo_m_",
+          "name": "Jose M. Morillo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "james_b_fogle_m_",
+          "name": "James B. Fogle (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35/040": {
+      "votes": {
+        "michelle_dunston_f_": 54,
+        "jose_m_morillo_m_": 28,
+        "james_b_fogle_m_": 26,
+        "scattered": 2
+      },
+      "total": 110,
+      "winnerId": "michelle_dunston_f_",
+      "margin": 23.6,
+      "candidates": [
+        {
+          "id": "michelle_dunston_f_",
+          "name": "Michelle Dunston (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jose_m_morillo_m_",
+          "name": "Jose M. Morillo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "james_b_fogle_m_",
+          "name": "James B. Fogle (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35/041": {
+      "votes": {
+        "michelle_dunston_f_": 47,
+        "jose_m_morillo_m_": 37,
+        "james_b_fogle_m_": 31,
+        "scattered": 1
+      },
+      "total": 116,
+      "winnerId": "michelle_dunston_f_",
+      "margin": 8.6,
+      "candidates": [
+        {
+          "id": "michelle_dunston_f_",
+          "name": "Michelle Dunston (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jose_m_morillo_m_",
+          "name": "Jose M. Morillo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "james_b_fogle_m_",
+          "name": "James B. Fogle (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35/042": {
+      "votes": {
+        "michelle_dunston_f_": 52,
+        "jose_m_morillo_m_": 47,
+        "james_b_fogle_m_": 26,
+        "scattered": 7
+      },
+      "total": 132,
+      "winnerId": "michelle_dunston_f_",
+      "margin": 3.8,
+      "candidates": [
+        {
+          "id": "michelle_dunston_f_",
+          "name": "Michelle Dunston (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jose_m_morillo_m_",
+          "name": "Jose M. Morillo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "james_b_fogle_m_",
+          "name": "James B. Fogle (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35/043": {
+      "votes": {
+        "michelle_dunston_f_": 22,
+        "jose_m_morillo_m_": 16,
+        "james_b_fogle_m_": 12,
+        "scattered": 0
+      },
+      "total": 50,
+      "winnerId": "michelle_dunston_f_",
+      "margin": 12,
+      "candidates": [
+        {
+          "id": "michelle_dunston_f_",
+          "name": "Michelle Dunston (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jose_m_morillo_m_",
+          "name": "Jose M. Morillo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "james_b_fogle_m_",
+          "name": "James B. Fogle (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35/044": {
+      "votes": {
+        "michelle_dunston_f_": 38,
+        "jose_m_morillo_m_": 40,
+        "james_b_fogle_m_": 23,
+        "scattered": 1
+      },
+      "total": 102,
+      "winnerId": "jose_m_morillo_m_",
+      "margin": 2,
+      "candidates": [
+        {
+          "id": "michelle_dunston_f_",
+          "name": "Michelle Dunston (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jose_m_morillo_m_",
+          "name": "Jose M. Morillo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "james_b_fogle_m_",
+          "name": "James B. Fogle (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35/045": {
+      "votes": {
+        "michelle_dunston_f_": 21,
+        "jose_m_morillo_m_": 15,
+        "james_b_fogle_m_": 14,
+        "scattered": 0
+      },
+      "total": 50,
+      "winnerId": "michelle_dunston_f_",
+      "margin": 12,
+      "candidates": [
+        {
+          "id": "michelle_dunston_f_",
+          "name": "Michelle Dunston (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jose_m_morillo_m_",
+          "name": "Jose M. Morillo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "james_b_fogle_m_",
+          "name": "James B. Fogle (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35/046": {
+      "votes": {
+        "michelle_dunston_f_": 50,
+        "jose_m_morillo_m_": 32,
+        "james_b_fogle_m_": 29,
+        "scattered": 2
+      },
+      "total": 113,
+      "winnerId": "michelle_dunston_f_",
+      "margin": 15.9,
+      "candidates": [
+        {
+          "id": "michelle_dunston_f_",
+          "name": "Michelle Dunston (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jose_m_morillo_m_",
+          "name": "Jose M. Morillo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "james_b_fogle_m_",
+          "name": "James B. Fogle (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35/048": {
+      "votes": {
+        "michelle_dunston_f_": 15,
+        "jose_m_morillo_m_": 6,
+        "james_b_fogle_m_": 11,
+        "scattered": 1
+      },
+      "total": 33,
+      "winnerId": "michelle_dunston_f_",
+      "margin": 12.1,
+      "candidates": [
+        {
+          "id": "michelle_dunston_f_",
+          "name": "Michelle Dunston (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jose_m_morillo_m_",
+          "name": "Jose M. Morillo (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "james_b_fogle_m_",
+          "name": "James B. Fogle (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    }
+  }
+}

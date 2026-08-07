@@ -1,0 +1,31 @@
+{
+  "id": "democratic_representative_in_congress_04",
+  "name": "2026 Primary - Representative in Congress District 04",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "US House (Congressional)",
+  "districtKey": "4",
+  "districtType": "congressional",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "laura_gillen",
+      "name": "Laura Gillen",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#2563eb"
+    }
+  ],
+  "results": {
+    "4": {
+      "votes": {
+        "uncontested_primary_congressional_4": 0
+      },
+      "total": 0,
+      "winnerId": "uncontested_primary_congressional_4",
+      "margin": 100,
+      "isUncontested": true
+    }
+  },
+  "edResults": {}
+}

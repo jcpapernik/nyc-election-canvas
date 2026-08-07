@@ -1,0 +1,5218 @@
+{
+  "id": "democratic_member_of_the_assembly_57",
+  "name": "2026 Primary - Member of the Assembly District 57",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "NY State Assembly",
+  "districtKey": "57",
+  "districtType": "assembly",
+  "isUncontested": false,
+  "candidates": [
+    {
+      "id": "phara_souffrant_forrest",
+      "name": "Phara Souffrant Forrest",
+      "party": "Democratic",
+      "isIncumbent": true,
+      "color": "#d97706"
+    },
+    {
+      "id": "samantha_n_johnson",
+      "name": "Samantha N. Johnson",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#7c3aed"
+    },
+    {
+      "id": "scattered",
+      "name": "Scattered",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#059669"
+    }
+  ],
+  "results": {
+    "57": {
+      "votes": {
+        "phara_souffrant_forrest": 12866,
+        "samantha_n_johnson": 3386,
+        "scattered": 135
+      },
+      "total": 16387,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 57.9,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    }
+  },
+  "edResults": {
+    "57001": {
+      "votes": {
+        "phara_souffrant_forrest": 34,
+        "samantha_n_johnson": 50,
+        "scattered": 0
+      },
+      "total": 84,
+      "winnerId": "samantha_n_johnson",
+      "margin": 19,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57002": {
+      "votes": {
+        "phara_souffrant_forrest": 39,
+        "samantha_n_johnson": 61,
+        "scattered": 0
+      },
+      "total": 100,
+      "winnerId": "samantha_n_johnson",
+      "margin": 22,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57003": {
+      "votes": {
+        "phara_souffrant_forrest": 20,
+        "samantha_n_johnson": 68,
+        "scattered": 2
+      },
+      "total": 90,
+      "winnerId": "samantha_n_johnson",
+      "margin": 53.3,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57004": {
+      "votes": {
+        "phara_souffrant_forrest": 37,
+        "samantha_n_johnson": 54,
+        "scattered": 0
+      },
+      "total": 91,
+      "winnerId": "samantha_n_johnson",
+      "margin": 18.7,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57005": {
+      "votes": {
+        "phara_souffrant_forrest": 11,
+        "samantha_n_johnson": 19,
+        "scattered": 0
+      },
+      "total": 30,
+      "winnerId": "samantha_n_johnson",
+      "margin": 26.7,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57006": {
+      "votes": {
+        "phara_souffrant_forrest": 32,
+        "samantha_n_johnson": 38,
+        "scattered": 1
+      },
+      "total": 71,
+      "winnerId": "samantha_n_johnson",
+      "margin": 8.5,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57007": {
+      "votes": {
+        "phara_souffrant_forrest": 24,
+        "samantha_n_johnson": 42,
+        "scattered": 0
+      },
+      "total": 66,
+      "winnerId": "samantha_n_johnson",
+      "margin": 27.3,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57008": {
+      "votes": {
+        "phara_souffrant_forrest": 253,
+        "samantha_n_johnson": 53,
+        "scattered": 2
+      },
+      "total": 308,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 64.9,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57009": {
+      "votes": {
+        "phara_souffrant_forrest": 222,
+        "samantha_n_johnson": 52,
+        "scattered": 1
+      },
+      "total": 275,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 61.8,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57010": {
+      "votes": {
+        "phara_souffrant_forrest": 279,
+        "samantha_n_johnson": 85,
+        "scattered": 0
+      },
+      "total": 364,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 53.3,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57011": {
+      "votes": {
+        "phara_souffrant_forrest": 357,
+        "samantha_n_johnson": 72,
+        "scattered": 1
+      },
+      "total": 430,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 66.3,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57012": {
+      "votes": {
+        "phara_souffrant_forrest": 69,
+        "samantha_n_johnson": 52,
+        "scattered": 9
+      },
+      "total": 130,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 13.1,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57013": {
+      "votes": {
+        "phara_souffrant_forrest": 29,
+        "samantha_n_johnson": 39,
+        "scattered": 14
+      },
+      "total": 82,
+      "winnerId": "samantha_n_johnson",
+      "margin": 12.2,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57014": {
+      "votes": {
+        "phara_souffrant_forrest": 49,
+        "samantha_n_johnson": 44,
+        "scattered": 11
+      },
+      "total": 104,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 4.8,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57015": {
+      "votes": {
+        "phara_souffrant_forrest": 191,
+        "samantha_n_johnson": 64,
+        "scattered": 2
+      },
+      "total": 257,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 49.4,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57016": {
+      "votes": {
+        "phara_souffrant_forrest": 243,
+        "samantha_n_johnson": 85,
+        "scattered": 0
+      },
+      "total": 328,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 48.2,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57017": {
+      "votes": {
+        "phara_souffrant_forrest": 258,
+        "samantha_n_johnson": 65,
+        "scattered": 1
+      },
+      "total": 324,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 59.6,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57018": {
+      "votes": {
+        "phara_souffrant_forrest": 95,
+        "samantha_n_johnson": 25,
+        "scattered": 0
+      },
+      "total": 120,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 58.3,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57019": {
+      "votes": {
+        "phara_souffrant_forrest": 167,
+        "samantha_n_johnson": 37,
+        "scattered": 0
+      },
+      "total": 204,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 63.7,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57020": {
+      "votes": {
+        "phara_souffrant_forrest": 264,
+        "samantha_n_johnson": 67,
+        "scattered": 1
+      },
+      "total": 332,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 59.3,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57021": {
+      "votes": {
+        "phara_souffrant_forrest": 281,
+        "samantha_n_johnson": 43,
+        "scattered": 0
+      },
+      "total": 324,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 73.5,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57022": {
+      "votes": {
+        "phara_souffrant_forrest": 322,
+        "samantha_n_johnson": 86,
+        "scattered": 1
+      },
+      "total": 409,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 57.7,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57023": {
+      "votes": {
+        "phara_souffrant_forrest": 223,
+        "samantha_n_johnson": 43,
+        "scattered": 0
+      },
+      "total": 266,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 67.7,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57024": {
+      "votes": {
+        "phara_souffrant_forrest": 172,
+        "samantha_n_johnson": 31,
+        "scattered": 0
+      },
+      "total": 203,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 69.5,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57025": {
+      "votes": {
+        "phara_souffrant_forrest": 111,
+        "samantha_n_johnson": 57,
+        "scattered": 17
+      },
+      "total": 185,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 29.2,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57026": {
+      "votes": {
+        "phara_souffrant_forrest": 165,
+        "samantha_n_johnson": 38,
+        "scattered": 2
+      },
+      "total": 205,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 62,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57027": {
+      "votes": {
+        "phara_souffrant_forrest": 143,
+        "samantha_n_johnson": 36,
+        "scattered": 0
+      },
+      "total": 179,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 59.8,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57028": {
+      "votes": {
+        "phara_souffrant_forrest": 109,
+        "samantha_n_johnson": 68,
+        "scattered": 0
+      },
+      "total": 177,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 23.2,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57029": {
+      "votes": {
+        "phara_souffrant_forrest": 221,
+        "samantha_n_johnson": 59,
+        "scattered": 3
+      },
+      "total": 283,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 57.2,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57030": {
+      "votes": {
+        "phara_souffrant_forrest": 236,
+        "samantha_n_johnson": 150,
+        "scattered": 0
+      },
+      "total": 386,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 22.3,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57031": {
+      "votes": {
+        "phara_souffrant_forrest": 50,
+        "samantha_n_johnson": 52,
+        "scattered": 1
+      },
+      "total": 103,
+      "winnerId": "samantha_n_johnson",
+      "margin": 1.9,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57032": {
+      "votes": {
+        "phara_souffrant_forrest": 190,
+        "samantha_n_johnson": 36,
+        "scattered": 2
+      },
+      "total": 228,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 67.5,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57033": {
+      "votes": {
+        "phara_souffrant_forrest": 252,
+        "samantha_n_johnson": 32,
+        "scattered": 1
+      },
+      "total": 285,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 77.2,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57034": {
+      "votes": {
+        "phara_souffrant_forrest": 254,
+        "samantha_n_johnson": 39,
+        "scattered": 5
+      },
+      "total": 298,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 72.1,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57035": {
+      "votes": {
+        "phara_souffrant_forrest": 224,
+        "samantha_n_johnson": 49,
+        "scattered": 1
+      },
+      "total": 274,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 63.9,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57036": {
+      "votes": {
+        "phara_souffrant_forrest": 220,
+        "samantha_n_johnson": 41,
+        "scattered": 0
+      },
+      "total": 261,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 68.6,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57037": {
+      "votes": {
+        "phara_souffrant_forrest": 193,
+        "samantha_n_johnson": 40,
+        "scattered": 1
+      },
+      "total": 234,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 65.4,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57038": {
+      "votes": {
+        "phara_souffrant_forrest": 146,
+        "samantha_n_johnson": 26,
+        "scattered": 1
+      },
+      "total": 173,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 69.4,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57039": {
+      "votes": {
+        "phara_souffrant_forrest": 152,
+        "samantha_n_johnson": 22,
+        "scattered": 0
+      },
+      "total": 174,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 74.7,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57040": {
+      "votes": {
+        "phara_souffrant_forrest": 110,
+        "samantha_n_johnson": 25,
+        "scattered": 1
+      },
+      "total": 136,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 62.5,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57041": {
+      "votes": {
+        "phara_souffrant_forrest": 134,
+        "samantha_n_johnson": 11,
+        "scattered": 0
+      },
+      "total": 145,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 84.8,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57042": {
+      "votes": {
+        "phara_souffrant_forrest": 115,
+        "samantha_n_johnson": 17,
+        "scattered": 4
+      },
+      "total": 136,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 72.1,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57043": {
+      "votes": {
+        "phara_souffrant_forrest": 324,
+        "samantha_n_johnson": 87,
+        "scattered": 0
+      },
+      "total": 411,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 57.7,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57044": {
+      "votes": {
+        "phara_souffrant_forrest": 199,
+        "samantha_n_johnson": 57,
+        "scattered": 2
+      },
+      "total": 258,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 55,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57045": {
+      "votes": {
+        "phara_souffrant_forrest": 188,
+        "samantha_n_johnson": 51,
+        "scattered": 0
+      },
+      "total": 239,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 57.3,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57046": {
+      "votes": {
+        "phara_souffrant_forrest": 220,
+        "samantha_n_johnson": 50,
+        "scattered": 0
+      },
+      "total": 270,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 63,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57047": {
+      "votes": {
+        "phara_souffrant_forrest": 261,
+        "samantha_n_johnson": 32,
+        "scattered": 1
+      },
+      "total": 294,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 77.9,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57048": {
+      "votes": {
+        "phara_souffrant_forrest": 231,
+        "samantha_n_johnson": 28,
+        "scattered": 2
+      },
+      "total": 261,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 77.8,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57049": {
+      "votes": {
+        "phara_souffrant_forrest": 293,
+        "samantha_n_johnson": 50,
+        "scattered": 0
+      },
+      "total": 343,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 70.8,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57050": {
+      "votes": {
+        "phara_souffrant_forrest": 222,
+        "samantha_n_johnson": 41,
+        "scattered": 0
+      },
+      "total": 263,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 68.8,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57051": {
+      "votes": {
+        "phara_souffrant_forrest": 212,
+        "samantha_n_johnson": 41,
+        "scattered": 1
+      },
+      "total": 254,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 67.3,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57052": {
+      "votes": {
+        "phara_souffrant_forrest": 231,
+        "samantha_n_johnson": 25,
+        "scattered": 0
+      },
+      "total": 256,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 80.5,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57053": {
+      "votes": {
+        "phara_souffrant_forrest": 138,
+        "samantha_n_johnson": 30,
+        "scattered": 2
+      },
+      "total": 170,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 63.5,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57054": {
+      "votes": {
+        "phara_souffrant_forrest": 261,
+        "samantha_n_johnson": 24,
+        "scattered": 2
+      },
+      "total": 287,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 82.6,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57055": {
+      "votes": {
+        "phara_souffrant_forrest": 245,
+        "samantha_n_johnson": 44,
+        "scattered": 1
+      },
+      "total": 290,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 69.3,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57056": {
+      "votes": {
+        "phara_souffrant_forrest": 211,
+        "samantha_n_johnson": 51,
+        "scattered": 2
+      },
+      "total": 264,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 60.6,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57057": {
+      "votes": {
+        "phara_souffrant_forrest": 208,
+        "samantha_n_johnson": 51,
+        "scattered": 2
+      },
+      "total": 261,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 60.2,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57058": {
+      "votes": {
+        "phara_souffrant_forrest": 215,
+        "samantha_n_johnson": 29,
+        "scattered": 2
+      },
+      "total": 246,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 75.6,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57059": {
+      "votes": {
+        "phara_souffrant_forrest": 160,
+        "samantha_n_johnson": 26,
+        "scattered": 2
+      },
+      "total": 188,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 71.3,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57060": {
+      "votes": {
+        "phara_souffrant_forrest": 273,
+        "samantha_n_johnson": 59,
+        "scattered": 1
+      },
+      "total": 333,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 64.3,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57061": {
+      "votes": {
+        "phara_souffrant_forrest": 218,
+        "samantha_n_johnson": 29,
+        "scattered": 0
+      },
+      "total": 247,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 76.5,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57062": {
+      "votes": {
+        "phara_souffrant_forrest": 163,
+        "samantha_n_johnson": 38,
+        "scattered": 1
+      },
+      "total": 202,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 61.9,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57063": {
+      "votes": {
+        "phara_souffrant_forrest": 226,
+        "samantha_n_johnson": 42,
+        "scattered": 2
+      },
+      "total": 270,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 68.1,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57064": {
+      "votes": {
+        "phara_souffrant_forrest": 105,
+        "samantha_n_johnson": 47,
+        "scattered": 0
+      },
+      "total": 152,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 38.2,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57065": {
+      "votes": {
+        "phara_souffrant_forrest": 111,
+        "samantha_n_johnson": 63,
+        "scattered": 0
+      },
+      "total": 174,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 27.6,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57066": {
+      "votes": {
+        "phara_souffrant_forrest": 128,
+        "samantha_n_johnson": 29,
+        "scattered": 2
+      },
+      "total": 159,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 62.3,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57067": {
+      "votes": {
+        "phara_souffrant_forrest": 14,
+        "samantha_n_johnson": 7,
+        "scattered": 0
+      },
+      "total": 21,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 33.3,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57068": {
+      "votes": {
+        "phara_souffrant_forrest": 88,
+        "samantha_n_johnson": 15,
+        "scattered": 0
+      },
+      "total": 103,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 70.9,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57069": {
+      "votes": {
+        "phara_souffrant_forrest": 133,
+        "samantha_n_johnson": 29,
+        "scattered": 1
+      },
+      "total": 163,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 63.8,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57070": {
+      "votes": {
+        "phara_souffrant_forrest": 117,
+        "samantha_n_johnson": 32,
+        "scattered": 1
+      },
+      "total": 150,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 56.7,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57071": {
+      "votes": {
+        "phara_souffrant_forrest": 34,
+        "samantha_n_johnson": 40,
+        "scattered": 17
+      },
+      "total": 91,
+      "winnerId": "samantha_n_johnson",
+      "margin": 6.6,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57072": {
+      "votes": {
+        "phara_souffrant_forrest": 93,
+        "samantha_n_johnson": 21,
+        "scattered": 2
+      },
+      "total": 116,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 62.1,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57073": {
+      "votes": {
+        "phara_souffrant_forrest": 257,
+        "samantha_n_johnson": 53,
+        "scattered": 2
+      },
+      "total": 312,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 65.4,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57074": {
+      "votes": {
+        "phara_souffrant_forrest": 149,
+        "samantha_n_johnson": 43,
+        "scattered": 1
+      },
+      "total": 193,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 54.9,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57075": {
+      "votes": {
+        "phara_souffrant_forrest": 12,
+        "samantha_n_johnson": 2,
+        "scattered": 1
+      },
+      "total": 15,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 66.7,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57077": {
+      "votes": {
+        "phara_souffrant_forrest": 230,
+        "samantha_n_johnson": 47,
+        "scattered": 0
+      },
+      "total": 277,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 66.1,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57079": {
+      "votes": {
+        "phara_souffrant_forrest": 0,
+        "samantha_n_johnson": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57080": {
+      "votes": {
+        "phara_souffrant_forrest": 0,
+        "samantha_n_johnson": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57/001": {
+      "votes": {
+        "phara_souffrant_forrest": 34,
+        "samantha_n_johnson": 50,
+        "scattered": 0
+      },
+      "total": 84,
+      "winnerId": "samantha_n_johnson",
+      "margin": 19,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57/002": {
+      "votes": {
+        "phara_souffrant_forrest": 39,
+        "samantha_n_johnson": 61,
+        "scattered": 0
+      },
+      "total": 100,
+      "winnerId": "samantha_n_johnson",
+      "margin": 22,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57/003": {
+      "votes": {
+        "phara_souffrant_forrest": 20,
+        "samantha_n_johnson": 68,
+        "scattered": 2
+      },
+      "total": 90,
+      "winnerId": "samantha_n_johnson",
+      "margin": 53.3,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57/004": {
+      "votes": {
+        "phara_souffrant_forrest": 37,
+        "samantha_n_johnson": 54,
+        "scattered": 0
+      },
+      "total": 91,
+      "winnerId": "samantha_n_johnson",
+      "margin": 18.7,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57/005": {
+      "votes": {
+        "phara_souffrant_forrest": 11,
+        "samantha_n_johnson": 19,
+        "scattered": 0
+      },
+      "total": 30,
+      "winnerId": "samantha_n_johnson",
+      "margin": 26.7,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57/006": {
+      "votes": {
+        "phara_souffrant_forrest": 32,
+        "samantha_n_johnson": 38,
+        "scattered": 1
+      },
+      "total": 71,
+      "winnerId": "samantha_n_johnson",
+      "margin": 8.5,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57/007": {
+      "votes": {
+        "phara_souffrant_forrest": 24,
+        "samantha_n_johnson": 42,
+        "scattered": 0
+      },
+      "total": 66,
+      "winnerId": "samantha_n_johnson",
+      "margin": 27.3,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57/008": {
+      "votes": {
+        "phara_souffrant_forrest": 253,
+        "samantha_n_johnson": 53,
+        "scattered": 2
+      },
+      "total": 308,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 64.9,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57/009": {
+      "votes": {
+        "phara_souffrant_forrest": 222,
+        "samantha_n_johnson": 52,
+        "scattered": 1
+      },
+      "total": 275,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 61.8,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57/010": {
+      "votes": {
+        "phara_souffrant_forrest": 279,
+        "samantha_n_johnson": 85,
+        "scattered": 0
+      },
+      "total": 364,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 53.3,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57/011": {
+      "votes": {
+        "phara_souffrant_forrest": 357,
+        "samantha_n_johnson": 72,
+        "scattered": 1
+      },
+      "total": 430,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 66.3,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57/012": {
+      "votes": {
+        "phara_souffrant_forrest": 69,
+        "samantha_n_johnson": 52,
+        "scattered": 9
+      },
+      "total": 130,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 13.1,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57/013": {
+      "votes": {
+        "phara_souffrant_forrest": 29,
+        "samantha_n_johnson": 39,
+        "scattered": 14
+      },
+      "total": 82,
+      "winnerId": "samantha_n_johnson",
+      "margin": 12.2,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57/014": {
+      "votes": {
+        "phara_souffrant_forrest": 49,
+        "samantha_n_johnson": 44,
+        "scattered": 11
+      },
+      "total": 104,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 4.8,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57/015": {
+      "votes": {
+        "phara_souffrant_forrest": 191,
+        "samantha_n_johnson": 64,
+        "scattered": 2
+      },
+      "total": 257,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 49.4,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57/016": {
+      "votes": {
+        "phara_souffrant_forrest": 243,
+        "samantha_n_johnson": 85,
+        "scattered": 0
+      },
+      "total": 328,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 48.2,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57/017": {
+      "votes": {
+        "phara_souffrant_forrest": 258,
+        "samantha_n_johnson": 65,
+        "scattered": 1
+      },
+      "total": 324,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 59.6,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57/018": {
+      "votes": {
+        "phara_souffrant_forrest": 95,
+        "samantha_n_johnson": 25,
+        "scattered": 0
+      },
+      "total": 120,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 58.3,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57/019": {
+      "votes": {
+        "phara_souffrant_forrest": 167,
+        "samantha_n_johnson": 37,
+        "scattered": 0
+      },
+      "total": 204,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 63.7,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57/020": {
+      "votes": {
+        "phara_souffrant_forrest": 264,
+        "samantha_n_johnson": 67,
+        "scattered": 1
+      },
+      "total": 332,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 59.3,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57/021": {
+      "votes": {
+        "phara_souffrant_forrest": 281,
+        "samantha_n_johnson": 43,
+        "scattered": 0
+      },
+      "total": 324,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 73.5,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57/022": {
+      "votes": {
+        "phara_souffrant_forrest": 322,
+        "samantha_n_johnson": 86,
+        "scattered": 1
+      },
+      "total": 409,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 57.7,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57/023": {
+      "votes": {
+        "phara_souffrant_forrest": 223,
+        "samantha_n_johnson": 43,
+        "scattered": 0
+      },
+      "total": 266,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 67.7,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57/024": {
+      "votes": {
+        "phara_souffrant_forrest": 172,
+        "samantha_n_johnson": 31,
+        "scattered": 0
+      },
+      "total": 203,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 69.5,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57/025": {
+      "votes": {
+        "phara_souffrant_forrest": 111,
+        "samantha_n_johnson": 57,
+        "scattered": 17
+      },
+      "total": 185,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 29.2,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57/026": {
+      "votes": {
+        "phara_souffrant_forrest": 165,
+        "samantha_n_johnson": 38,
+        "scattered": 2
+      },
+      "total": 205,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 62,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57/027": {
+      "votes": {
+        "phara_souffrant_forrest": 143,
+        "samantha_n_johnson": 36,
+        "scattered": 0
+      },
+      "total": 179,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 59.8,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57/028": {
+      "votes": {
+        "phara_souffrant_forrest": 109,
+        "samantha_n_johnson": 68,
+        "scattered": 0
+      },
+      "total": 177,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 23.2,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57/029": {
+      "votes": {
+        "phara_souffrant_forrest": 221,
+        "samantha_n_johnson": 59,
+        "scattered": 3
+      },
+      "total": 283,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 57.2,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57/030": {
+      "votes": {
+        "phara_souffrant_forrest": 236,
+        "samantha_n_johnson": 150,
+        "scattered": 0
+      },
+      "total": 386,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 22.3,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57/031": {
+      "votes": {
+        "phara_souffrant_forrest": 50,
+        "samantha_n_johnson": 52,
+        "scattered": 1
+      },
+      "total": 103,
+      "winnerId": "samantha_n_johnson",
+      "margin": 1.9,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57/032": {
+      "votes": {
+        "phara_souffrant_forrest": 190,
+        "samantha_n_johnson": 36,
+        "scattered": 2
+      },
+      "total": 228,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 67.5,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57/033": {
+      "votes": {
+        "phara_souffrant_forrest": 252,
+        "samantha_n_johnson": 32,
+        "scattered": 1
+      },
+      "total": 285,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 77.2,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57/034": {
+      "votes": {
+        "phara_souffrant_forrest": 254,
+        "samantha_n_johnson": 39,
+        "scattered": 5
+      },
+      "total": 298,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 72.1,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57/035": {
+      "votes": {
+        "phara_souffrant_forrest": 224,
+        "samantha_n_johnson": 49,
+        "scattered": 1
+      },
+      "total": 274,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 63.9,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57/036": {
+      "votes": {
+        "phara_souffrant_forrest": 220,
+        "samantha_n_johnson": 41,
+        "scattered": 0
+      },
+      "total": 261,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 68.6,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57/037": {
+      "votes": {
+        "phara_souffrant_forrest": 193,
+        "samantha_n_johnson": 40,
+        "scattered": 1
+      },
+      "total": 234,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 65.4,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57/038": {
+      "votes": {
+        "phara_souffrant_forrest": 146,
+        "samantha_n_johnson": 26,
+        "scattered": 1
+      },
+      "total": 173,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 69.4,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57/039": {
+      "votes": {
+        "phara_souffrant_forrest": 152,
+        "samantha_n_johnson": 22,
+        "scattered": 0
+      },
+      "total": 174,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 74.7,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57/040": {
+      "votes": {
+        "phara_souffrant_forrest": 110,
+        "samantha_n_johnson": 25,
+        "scattered": 1
+      },
+      "total": 136,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 62.5,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57/041": {
+      "votes": {
+        "phara_souffrant_forrest": 134,
+        "samantha_n_johnson": 11,
+        "scattered": 0
+      },
+      "total": 145,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 84.8,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57/042": {
+      "votes": {
+        "phara_souffrant_forrest": 115,
+        "samantha_n_johnson": 17,
+        "scattered": 4
+      },
+      "total": 136,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 72.1,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57/043": {
+      "votes": {
+        "phara_souffrant_forrest": 324,
+        "samantha_n_johnson": 87,
+        "scattered": 0
+      },
+      "total": 411,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 57.7,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57/044": {
+      "votes": {
+        "phara_souffrant_forrest": 199,
+        "samantha_n_johnson": 57,
+        "scattered": 2
+      },
+      "total": 258,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 55,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57/045": {
+      "votes": {
+        "phara_souffrant_forrest": 188,
+        "samantha_n_johnson": 51,
+        "scattered": 0
+      },
+      "total": 239,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 57.3,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57/046": {
+      "votes": {
+        "phara_souffrant_forrest": 220,
+        "samantha_n_johnson": 50,
+        "scattered": 0
+      },
+      "total": 270,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 63,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57/047": {
+      "votes": {
+        "phara_souffrant_forrest": 261,
+        "samantha_n_johnson": 32,
+        "scattered": 1
+      },
+      "total": 294,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 77.9,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57/048": {
+      "votes": {
+        "phara_souffrant_forrest": 231,
+        "samantha_n_johnson": 28,
+        "scattered": 2
+      },
+      "total": 261,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 77.8,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57/049": {
+      "votes": {
+        "phara_souffrant_forrest": 293,
+        "samantha_n_johnson": 50,
+        "scattered": 0
+      },
+      "total": 343,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 70.8,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57/050": {
+      "votes": {
+        "phara_souffrant_forrest": 222,
+        "samantha_n_johnson": 41,
+        "scattered": 0
+      },
+      "total": 263,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 68.8,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57/051": {
+      "votes": {
+        "phara_souffrant_forrest": 212,
+        "samantha_n_johnson": 41,
+        "scattered": 1
+      },
+      "total": 254,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 67.3,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57/052": {
+      "votes": {
+        "phara_souffrant_forrest": 231,
+        "samantha_n_johnson": 25,
+        "scattered": 0
+      },
+      "total": 256,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 80.5,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57/053": {
+      "votes": {
+        "phara_souffrant_forrest": 138,
+        "samantha_n_johnson": 30,
+        "scattered": 2
+      },
+      "total": 170,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 63.5,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57/054": {
+      "votes": {
+        "phara_souffrant_forrest": 261,
+        "samantha_n_johnson": 24,
+        "scattered": 2
+      },
+      "total": 287,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 82.6,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57/055": {
+      "votes": {
+        "phara_souffrant_forrest": 245,
+        "samantha_n_johnson": 44,
+        "scattered": 1
+      },
+      "total": 290,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 69.3,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57/056": {
+      "votes": {
+        "phara_souffrant_forrest": 211,
+        "samantha_n_johnson": 51,
+        "scattered": 2
+      },
+      "total": 264,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 60.6,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57/057": {
+      "votes": {
+        "phara_souffrant_forrest": 208,
+        "samantha_n_johnson": 51,
+        "scattered": 2
+      },
+      "total": 261,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 60.2,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57/058": {
+      "votes": {
+        "phara_souffrant_forrest": 215,
+        "samantha_n_johnson": 29,
+        "scattered": 2
+      },
+      "total": 246,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 75.6,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57/059": {
+      "votes": {
+        "phara_souffrant_forrest": 160,
+        "samantha_n_johnson": 26,
+        "scattered": 2
+      },
+      "total": 188,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 71.3,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57/060": {
+      "votes": {
+        "phara_souffrant_forrest": 273,
+        "samantha_n_johnson": 59,
+        "scattered": 1
+      },
+      "total": 333,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 64.3,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57/061": {
+      "votes": {
+        "phara_souffrant_forrest": 218,
+        "samantha_n_johnson": 29,
+        "scattered": 0
+      },
+      "total": 247,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 76.5,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57/062": {
+      "votes": {
+        "phara_souffrant_forrest": 163,
+        "samantha_n_johnson": 38,
+        "scattered": 1
+      },
+      "total": 202,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 61.9,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57/063": {
+      "votes": {
+        "phara_souffrant_forrest": 226,
+        "samantha_n_johnson": 42,
+        "scattered": 2
+      },
+      "total": 270,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 68.1,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57/064": {
+      "votes": {
+        "phara_souffrant_forrest": 105,
+        "samantha_n_johnson": 47,
+        "scattered": 0
+      },
+      "total": 152,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 38.2,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57/065": {
+      "votes": {
+        "phara_souffrant_forrest": 111,
+        "samantha_n_johnson": 63,
+        "scattered": 0
+      },
+      "total": 174,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 27.6,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57/066": {
+      "votes": {
+        "phara_souffrant_forrest": 128,
+        "samantha_n_johnson": 29,
+        "scattered": 2
+      },
+      "total": 159,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 62.3,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57/067": {
+      "votes": {
+        "phara_souffrant_forrest": 14,
+        "samantha_n_johnson": 7,
+        "scattered": 0
+      },
+      "total": 21,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 33.3,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57/068": {
+      "votes": {
+        "phara_souffrant_forrest": 88,
+        "samantha_n_johnson": 15,
+        "scattered": 0
+      },
+      "total": 103,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 70.9,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57/069": {
+      "votes": {
+        "phara_souffrant_forrest": 133,
+        "samantha_n_johnson": 29,
+        "scattered": 1
+      },
+      "total": 163,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 63.8,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57/070": {
+      "votes": {
+        "phara_souffrant_forrest": 117,
+        "samantha_n_johnson": 32,
+        "scattered": 1
+      },
+      "total": 150,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 56.7,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57/071": {
+      "votes": {
+        "phara_souffrant_forrest": 34,
+        "samantha_n_johnson": 40,
+        "scattered": 17
+      },
+      "total": 91,
+      "winnerId": "samantha_n_johnson",
+      "margin": 6.6,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57/072": {
+      "votes": {
+        "phara_souffrant_forrest": 93,
+        "samantha_n_johnson": 21,
+        "scattered": 2
+      },
+      "total": 116,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 62.1,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57/073": {
+      "votes": {
+        "phara_souffrant_forrest": 257,
+        "samantha_n_johnson": 53,
+        "scattered": 2
+      },
+      "total": 312,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 65.4,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57/074": {
+      "votes": {
+        "phara_souffrant_forrest": 149,
+        "samantha_n_johnson": 43,
+        "scattered": 1
+      },
+      "total": 193,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 54.9,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57/075": {
+      "votes": {
+        "phara_souffrant_forrest": 12,
+        "samantha_n_johnson": 2,
+        "scattered": 1
+      },
+      "total": 15,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 66.7,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57/077": {
+      "votes": {
+        "phara_souffrant_forrest": 230,
+        "samantha_n_johnson": 47,
+        "scattered": 0
+      },
+      "total": 277,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 66.1,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57/079": {
+      "votes": {
+        "phara_souffrant_forrest": 0,
+        "samantha_n_johnson": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "57/080": {
+      "votes": {
+        "phara_souffrant_forrest": 0,
+        "samantha_n_johnson": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "phara_souffrant_forrest",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "phara_souffrant_forrest",
+          "name": "Phara Souffrant Forrest",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "samantha_n_johnson",
+          "name": "Samantha N. Johnson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,4492 @@
+{
+  "id": "democratic_member_of_the_assembly_50",
+  "name": "2026 Primary - Member of the Assembly District 50",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "NY State Assembly",
+  "districtKey": "50",
+  "districtType": "assembly",
+  "isUncontested": false,
+  "candidates": [
+    {
+      "id": "emily_gallagher",
+      "name": "Emily Gallagher",
+      "party": "Democratic",
+      "isIncumbent": true,
+      "color": "#d97706"
+    },
+    {
+      "id": "andrew_bodiford",
+      "name": "Andrew Bodiford",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#7c3aed"
+    },
+    {
+      "id": "scattered",
+      "name": "Scattered",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#059669"
+    }
+  ],
+  "results": {
+    "50": {
+      "votes": {
+        "emily_gallagher": 11680,
+        "andrew_bodiford": 1720,
+        "scattered": 285
+      },
+      "total": 13685,
+      "winnerId": "emily_gallagher",
+      "margin": 72.8,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    }
+  },
+  "edResults": {
+    "50001": {
+      "votes": {
+        "emily_gallagher": 230,
+        "andrew_bodiford": 30,
+        "scattered": 1
+      },
+      "total": 261,
+      "winnerId": "emily_gallagher",
+      "margin": 76.6,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50002": {
+      "votes": {
+        "emily_gallagher": 264,
+        "andrew_bodiford": 29,
+        "scattered": 3
+      },
+      "total": 296,
+      "winnerId": "emily_gallagher",
+      "margin": 79.4,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50003": {
+      "votes": {
+        "emily_gallagher": 271,
+        "andrew_bodiford": 24,
+        "scattered": 3
+      },
+      "total": 298,
+      "winnerId": "emily_gallagher",
+      "margin": 82.9,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50004": {
+      "votes": {
+        "emily_gallagher": 336,
+        "andrew_bodiford": 42,
+        "scattered": 0
+      },
+      "total": 378,
+      "winnerId": "emily_gallagher",
+      "margin": 77.8,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50005": {
+      "votes": {
+        "emily_gallagher": 266,
+        "andrew_bodiford": 26,
+        "scattered": 0
+      },
+      "total": 292,
+      "winnerId": "emily_gallagher",
+      "margin": 82.2,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50006": {
+      "votes": {
+        "emily_gallagher": 254,
+        "andrew_bodiford": 22,
+        "scattered": 1
+      },
+      "total": 277,
+      "winnerId": "emily_gallagher",
+      "margin": 83.8,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50007": {
+      "votes": {
+        "emily_gallagher": 204,
+        "andrew_bodiford": 19,
+        "scattered": 3
+      },
+      "total": 226,
+      "winnerId": "emily_gallagher",
+      "margin": 81.9,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50008": {
+      "votes": {
+        "emily_gallagher": 273,
+        "andrew_bodiford": 45,
+        "scattered": 2
+      },
+      "total": 320,
+      "winnerId": "emily_gallagher",
+      "margin": 71.3,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50009": {
+      "votes": {
+        "emily_gallagher": 159,
+        "andrew_bodiford": 23,
+        "scattered": 2
+      },
+      "total": 184,
+      "winnerId": "emily_gallagher",
+      "margin": 73.9,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50010": {
+      "votes": {
+        "emily_gallagher": 136,
+        "andrew_bodiford": 20,
+        "scattered": 0
+      },
+      "total": 156,
+      "winnerId": "emily_gallagher",
+      "margin": 74.4,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50011": {
+      "votes": {
+        "emily_gallagher": 213,
+        "andrew_bodiford": 19,
+        "scattered": 0
+      },
+      "total": 232,
+      "winnerId": "emily_gallagher",
+      "margin": 83.6,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50012": {
+      "votes": {
+        "emily_gallagher": 138,
+        "andrew_bodiford": 19,
+        "scattered": 1
+      },
+      "total": 158,
+      "winnerId": "emily_gallagher",
+      "margin": 75.3,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50013": {
+      "votes": {
+        "emily_gallagher": 279,
+        "andrew_bodiford": 35,
+        "scattered": 4
+      },
+      "total": 318,
+      "winnerId": "emily_gallagher",
+      "margin": 76.7,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50014": {
+      "votes": {
+        "emily_gallagher": 293,
+        "andrew_bodiford": 27,
+        "scattered": 2
+      },
+      "total": 322,
+      "winnerId": "emily_gallagher",
+      "margin": 82.6,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50015": {
+      "votes": {
+        "emily_gallagher": 216,
+        "andrew_bodiford": 25,
+        "scattered": 1
+      },
+      "total": 242,
+      "winnerId": "emily_gallagher",
+      "margin": 78.9,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50016": {
+      "votes": {
+        "emily_gallagher": 256,
+        "andrew_bodiford": 34,
+        "scattered": 1
+      },
+      "total": 291,
+      "winnerId": "emily_gallagher",
+      "margin": 76.3,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50017": {
+      "votes": {
+        "emily_gallagher": 305,
+        "andrew_bodiford": 35,
+        "scattered": 4
+      },
+      "total": 344,
+      "winnerId": "emily_gallagher",
+      "margin": 78.5,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50018": {
+      "votes": {
+        "emily_gallagher": 267,
+        "andrew_bodiford": 20,
+        "scattered": 3
+      },
+      "total": 290,
+      "winnerId": "emily_gallagher",
+      "margin": 85.2,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50019": {
+      "votes": {
+        "emily_gallagher": 258,
+        "andrew_bodiford": 37,
+        "scattered": 2
+      },
+      "total": 297,
+      "winnerId": "emily_gallagher",
+      "margin": 74.4,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50020": {
+      "votes": {
+        "emily_gallagher": 325,
+        "andrew_bodiford": 37,
+        "scattered": 3
+      },
+      "total": 365,
+      "winnerId": "emily_gallagher",
+      "margin": 78.9,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50021": {
+      "votes": {
+        "emily_gallagher": 268,
+        "andrew_bodiford": 41,
+        "scattered": 3
+      },
+      "total": 312,
+      "winnerId": "emily_gallagher",
+      "margin": 72.8,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50022": {
+      "votes": {
+        "emily_gallagher": 285,
+        "andrew_bodiford": 25,
+        "scattered": 0
+      },
+      "total": 310,
+      "winnerId": "emily_gallagher",
+      "margin": 83.9,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50023": {
+      "votes": {
+        "emily_gallagher": 187,
+        "andrew_bodiford": 29,
+        "scattered": 1
+      },
+      "total": 217,
+      "winnerId": "emily_gallagher",
+      "margin": 72.8,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50024": {
+      "votes": {
+        "emily_gallagher": 121,
+        "andrew_bodiford": 25,
+        "scattered": 1
+      },
+      "total": 147,
+      "winnerId": "emily_gallagher",
+      "margin": 65.3,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50025": {
+      "votes": {
+        "emily_gallagher": 182,
+        "andrew_bodiford": 21,
+        "scattered": 0
+      },
+      "total": 203,
+      "winnerId": "emily_gallagher",
+      "margin": 79.3,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50026": {
+      "votes": {
+        "emily_gallagher": 179,
+        "andrew_bodiford": 22,
+        "scattered": 0
+      },
+      "total": 201,
+      "winnerId": "emily_gallagher",
+      "margin": 78.1,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50027": {
+      "votes": {
+        "emily_gallagher": 122,
+        "andrew_bodiford": 24,
+        "scattered": 1
+      },
+      "total": 147,
+      "winnerId": "emily_gallagher",
+      "margin": 66.7,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50028": {
+      "votes": {
+        "emily_gallagher": 86,
+        "andrew_bodiford": 6,
+        "scattered": 2
+      },
+      "total": 94,
+      "winnerId": "emily_gallagher",
+      "margin": 85.1,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50029": {
+      "votes": {
+        "emily_gallagher": 150,
+        "andrew_bodiford": 28,
+        "scattered": 1
+      },
+      "total": 179,
+      "winnerId": "emily_gallagher",
+      "margin": 68.2,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50030": {
+      "votes": {
+        "emily_gallagher": 99,
+        "andrew_bodiford": 15,
+        "scattered": 0
+      },
+      "total": 114,
+      "winnerId": "emily_gallagher",
+      "margin": 73.7,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50031": {
+      "votes": {
+        "emily_gallagher": 82,
+        "andrew_bodiford": 10,
+        "scattered": 1
+      },
+      "total": 93,
+      "winnerId": "emily_gallagher",
+      "margin": 77.4,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50032": {
+      "votes": {
+        "emily_gallagher": 94,
+        "andrew_bodiford": 24,
+        "scattered": 1
+      },
+      "total": 119,
+      "winnerId": "emily_gallagher",
+      "margin": 58.8,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50033": {
+      "votes": {
+        "emily_gallagher": 127,
+        "andrew_bodiford": 42,
+        "scattered": 16
+      },
+      "total": 185,
+      "winnerId": "emily_gallagher",
+      "margin": 45.9,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50034": {
+      "votes": {
+        "emily_gallagher": 110,
+        "andrew_bodiford": 20,
+        "scattered": 5
+      },
+      "total": 135,
+      "winnerId": "emily_gallagher",
+      "margin": 66.7,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50035": {
+      "votes": {
+        "emily_gallagher": 84,
+        "andrew_bodiford": 19,
+        "scattered": 2
+      },
+      "total": 105,
+      "winnerId": "emily_gallagher",
+      "margin": 61.9,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50036": {
+      "votes": {
+        "emily_gallagher": 68,
+        "andrew_bodiford": 25,
+        "scattered": 7
+      },
+      "total": 100,
+      "winnerId": "emily_gallagher",
+      "margin": 43,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50037": {
+      "votes": {
+        "emily_gallagher": 91,
+        "andrew_bodiford": 30,
+        "scattered": 11
+      },
+      "total": 132,
+      "winnerId": "emily_gallagher",
+      "margin": 46.2,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50038": {
+      "votes": {
+        "emily_gallagher": 84,
+        "andrew_bodiford": 25,
+        "scattered": 3
+      },
+      "total": 112,
+      "winnerId": "emily_gallagher",
+      "margin": 52.7,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50039": {
+      "votes": {
+        "emily_gallagher": 40,
+        "andrew_bodiford": 37,
+        "scattered": 8
+      },
+      "total": 85,
+      "winnerId": "emily_gallagher",
+      "margin": 3.5,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50040": {
+      "votes": {
+        "emily_gallagher": 79,
+        "andrew_bodiford": 21,
+        "scattered": 16
+      },
+      "total": 116,
+      "winnerId": "emily_gallagher",
+      "margin": 50,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50041": {
+      "votes": {
+        "emily_gallagher": 76,
+        "andrew_bodiford": 22,
+        "scattered": 9
+      },
+      "total": 107,
+      "winnerId": "emily_gallagher",
+      "margin": 50.5,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50042": {
+      "votes": {
+        "emily_gallagher": 59,
+        "andrew_bodiford": 36,
+        "scattered": 14
+      },
+      "total": 109,
+      "winnerId": "emily_gallagher",
+      "margin": 21.1,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50043": {
+      "votes": {
+        "emily_gallagher": 51,
+        "andrew_bodiford": 26,
+        "scattered": 13
+      },
+      "total": 90,
+      "winnerId": "emily_gallagher",
+      "margin": 27.8,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50044": {
+      "votes": {
+        "emily_gallagher": 88,
+        "andrew_bodiford": 38,
+        "scattered": 17
+      },
+      "total": 143,
+      "winnerId": "emily_gallagher",
+      "margin": 35,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50045": {
+      "votes": {
+        "emily_gallagher": 39,
+        "andrew_bodiford": 25,
+        "scattered": 13
+      },
+      "total": 77,
+      "winnerId": "emily_gallagher",
+      "margin": 18.2,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50046": {
+      "votes": {
+        "emily_gallagher": 58,
+        "andrew_bodiford": 29,
+        "scattered": 17
+      },
+      "total": 104,
+      "winnerId": "emily_gallagher",
+      "margin": 27.9,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50047": {
+      "votes": {
+        "emily_gallagher": 56,
+        "andrew_bodiford": 27,
+        "scattered": 16
+      },
+      "total": 99,
+      "winnerId": "emily_gallagher",
+      "margin": 29.3,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50048": {
+      "votes": {
+        "emily_gallagher": 51,
+        "andrew_bodiford": 33,
+        "scattered": 6
+      },
+      "total": 90,
+      "winnerId": "emily_gallagher",
+      "margin": 20,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50049": {
+      "votes": {
+        "emily_gallagher": 54,
+        "andrew_bodiford": 19,
+        "scattered": 12
+      },
+      "total": 85,
+      "winnerId": "emily_gallagher",
+      "margin": 41.2,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50050": {
+      "votes": {
+        "emily_gallagher": 123,
+        "andrew_bodiford": 22,
+        "scattered": 7
+      },
+      "total": 152,
+      "winnerId": "emily_gallagher",
+      "margin": 66.4,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50051": {
+      "votes": {
+        "emily_gallagher": 131,
+        "andrew_bodiford": 15,
+        "scattered": 1
+      },
+      "total": 147,
+      "winnerId": "emily_gallagher",
+      "margin": 78.9,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50052": {
+      "votes": {
+        "emily_gallagher": 195,
+        "andrew_bodiford": 30,
+        "scattered": 0
+      },
+      "total": 225,
+      "winnerId": "emily_gallagher",
+      "margin": 73.3,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50053": {
+      "votes": {
+        "emily_gallagher": 178,
+        "andrew_bodiford": 26,
+        "scattered": 3
+      },
+      "total": 207,
+      "winnerId": "emily_gallagher",
+      "margin": 73.4,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50054": {
+      "votes": {
+        "emily_gallagher": 98,
+        "andrew_bodiford": 10,
+        "scattered": 0
+      },
+      "total": 108,
+      "winnerId": "emily_gallagher",
+      "margin": 81.5,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50055": {
+      "votes": {
+        "emily_gallagher": 59,
+        "andrew_bodiford": 12,
+        "scattered": 0
+      },
+      "total": 71,
+      "winnerId": "emily_gallagher",
+      "margin": 66.2,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50056": {
+      "votes": {
+        "emily_gallagher": 248,
+        "andrew_bodiford": 22,
+        "scattered": 0
+      },
+      "total": 270,
+      "winnerId": "emily_gallagher",
+      "margin": 83.7,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50057": {
+      "votes": {
+        "emily_gallagher": 331,
+        "andrew_bodiford": 32,
+        "scattered": 3
+      },
+      "total": 366,
+      "winnerId": "emily_gallagher",
+      "margin": 81.7,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50058": {
+      "votes": {
+        "emily_gallagher": 279,
+        "andrew_bodiford": 26,
+        "scattered": 4
+      },
+      "total": 309,
+      "winnerId": "emily_gallagher",
+      "margin": 81.9,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50059": {
+      "votes": {
+        "emily_gallagher": 325,
+        "andrew_bodiford": 25,
+        "scattered": 1
+      },
+      "total": 351,
+      "winnerId": "emily_gallagher",
+      "margin": 85.5,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50060": {
+      "votes": {
+        "emily_gallagher": 271,
+        "andrew_bodiford": 29,
+        "scattered": 3
+      },
+      "total": 303,
+      "winnerId": "emily_gallagher",
+      "margin": 79.9,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50061": {
+      "votes": {
+        "emily_gallagher": 336,
+        "andrew_bodiford": 31,
+        "scattered": 2
+      },
+      "total": 369,
+      "winnerId": "emily_gallagher",
+      "margin": 82.7,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50062": {
+      "votes": {
+        "emily_gallagher": 238,
+        "andrew_bodiford": 24,
+        "scattered": 0
+      },
+      "total": 262,
+      "winnerId": "emily_gallagher",
+      "margin": 81.7,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50063": {
+      "votes": {
+        "emily_gallagher": 255,
+        "andrew_bodiford": 20,
+        "scattered": 3
+      },
+      "total": 278,
+      "winnerId": "emily_gallagher",
+      "margin": 84.5,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50065": {
+      "votes": {
+        "emily_gallagher": 100,
+        "andrew_bodiford": 8,
+        "scattered": 3
+      },
+      "total": 111,
+      "winnerId": "emily_gallagher",
+      "margin": 82.9,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50066": {
+      "votes": {
+        "emily_gallagher": 178,
+        "andrew_bodiford": 17,
+        "scattered": 2
+      },
+      "total": 197,
+      "winnerId": "emily_gallagher",
+      "margin": 81.7,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50067": {
+      "votes": {
+        "emily_gallagher": 269,
+        "andrew_bodiford": 30,
+        "scattered": 3
+      },
+      "total": 302,
+      "winnerId": "emily_gallagher",
+      "margin": 79.1,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50068": {
+      "votes": {
+        "emily_gallagher": 53,
+        "andrew_bodiford": 29,
+        "scattered": 18
+      },
+      "total": 100,
+      "winnerId": "emily_gallagher",
+      "margin": 24,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50/001": {
+      "votes": {
+        "emily_gallagher": 230,
+        "andrew_bodiford": 30,
+        "scattered": 1
+      },
+      "total": 261,
+      "winnerId": "emily_gallagher",
+      "margin": 76.6,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50/002": {
+      "votes": {
+        "emily_gallagher": 264,
+        "andrew_bodiford": 29,
+        "scattered": 3
+      },
+      "total": 296,
+      "winnerId": "emily_gallagher",
+      "margin": 79.4,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50/003": {
+      "votes": {
+        "emily_gallagher": 271,
+        "andrew_bodiford": 24,
+        "scattered": 3
+      },
+      "total": 298,
+      "winnerId": "emily_gallagher",
+      "margin": 82.9,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50/004": {
+      "votes": {
+        "emily_gallagher": 336,
+        "andrew_bodiford": 42,
+        "scattered": 0
+      },
+      "total": 378,
+      "winnerId": "emily_gallagher",
+      "margin": 77.8,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50/005": {
+      "votes": {
+        "emily_gallagher": 266,
+        "andrew_bodiford": 26,
+        "scattered": 0
+      },
+      "total": 292,
+      "winnerId": "emily_gallagher",
+      "margin": 82.2,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50/006": {
+      "votes": {
+        "emily_gallagher": 254,
+        "andrew_bodiford": 22,
+        "scattered": 1
+      },
+      "total": 277,
+      "winnerId": "emily_gallagher",
+      "margin": 83.8,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50/007": {
+      "votes": {
+        "emily_gallagher": 204,
+        "andrew_bodiford": 19,
+        "scattered": 3
+      },
+      "total": 226,
+      "winnerId": "emily_gallagher",
+      "margin": 81.9,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50/008": {
+      "votes": {
+        "emily_gallagher": 273,
+        "andrew_bodiford": 45,
+        "scattered": 2
+      },
+      "total": 320,
+      "winnerId": "emily_gallagher",
+      "margin": 71.3,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50/009": {
+      "votes": {
+        "emily_gallagher": 159,
+        "andrew_bodiford": 23,
+        "scattered": 2
+      },
+      "total": 184,
+      "winnerId": "emily_gallagher",
+      "margin": 73.9,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50/010": {
+      "votes": {
+        "emily_gallagher": 136,
+        "andrew_bodiford": 20,
+        "scattered": 0
+      },
+      "total": 156,
+      "winnerId": "emily_gallagher",
+      "margin": 74.4,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50/011": {
+      "votes": {
+        "emily_gallagher": 213,
+        "andrew_bodiford": 19,
+        "scattered": 0
+      },
+      "total": 232,
+      "winnerId": "emily_gallagher",
+      "margin": 83.6,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50/012": {
+      "votes": {
+        "emily_gallagher": 138,
+        "andrew_bodiford": 19,
+        "scattered": 1
+      },
+      "total": 158,
+      "winnerId": "emily_gallagher",
+      "margin": 75.3,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50/013": {
+      "votes": {
+        "emily_gallagher": 279,
+        "andrew_bodiford": 35,
+        "scattered": 4
+      },
+      "total": 318,
+      "winnerId": "emily_gallagher",
+      "margin": 76.7,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50/014": {
+      "votes": {
+        "emily_gallagher": 293,
+        "andrew_bodiford": 27,
+        "scattered": 2
+      },
+      "total": 322,
+      "winnerId": "emily_gallagher",
+      "margin": 82.6,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50/015": {
+      "votes": {
+        "emily_gallagher": 216,
+        "andrew_bodiford": 25,
+        "scattered": 1
+      },
+      "total": 242,
+      "winnerId": "emily_gallagher",
+      "margin": 78.9,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50/016": {
+      "votes": {
+        "emily_gallagher": 256,
+        "andrew_bodiford": 34,
+        "scattered": 1
+      },
+      "total": 291,
+      "winnerId": "emily_gallagher",
+      "margin": 76.3,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50/017": {
+      "votes": {
+        "emily_gallagher": 305,
+        "andrew_bodiford": 35,
+        "scattered": 4
+      },
+      "total": 344,
+      "winnerId": "emily_gallagher",
+      "margin": 78.5,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50/018": {
+      "votes": {
+        "emily_gallagher": 267,
+        "andrew_bodiford": 20,
+        "scattered": 3
+      },
+      "total": 290,
+      "winnerId": "emily_gallagher",
+      "margin": 85.2,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50/019": {
+      "votes": {
+        "emily_gallagher": 258,
+        "andrew_bodiford": 37,
+        "scattered": 2
+      },
+      "total": 297,
+      "winnerId": "emily_gallagher",
+      "margin": 74.4,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50/020": {
+      "votes": {
+        "emily_gallagher": 325,
+        "andrew_bodiford": 37,
+        "scattered": 3
+      },
+      "total": 365,
+      "winnerId": "emily_gallagher",
+      "margin": 78.9,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50/021": {
+      "votes": {
+        "emily_gallagher": 268,
+        "andrew_bodiford": 41,
+        "scattered": 3
+      },
+      "total": 312,
+      "winnerId": "emily_gallagher",
+      "margin": 72.8,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50/022": {
+      "votes": {
+        "emily_gallagher": 285,
+        "andrew_bodiford": 25,
+        "scattered": 0
+      },
+      "total": 310,
+      "winnerId": "emily_gallagher",
+      "margin": 83.9,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50/023": {
+      "votes": {
+        "emily_gallagher": 187,
+        "andrew_bodiford": 29,
+        "scattered": 1
+      },
+      "total": 217,
+      "winnerId": "emily_gallagher",
+      "margin": 72.8,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50/024": {
+      "votes": {
+        "emily_gallagher": 121,
+        "andrew_bodiford": 25,
+        "scattered": 1
+      },
+      "total": 147,
+      "winnerId": "emily_gallagher",
+      "margin": 65.3,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50/025": {
+      "votes": {
+        "emily_gallagher": 182,
+        "andrew_bodiford": 21,
+        "scattered": 0
+      },
+      "total": 203,
+      "winnerId": "emily_gallagher",
+      "margin": 79.3,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50/026": {
+      "votes": {
+        "emily_gallagher": 179,
+        "andrew_bodiford": 22,
+        "scattered": 0
+      },
+      "total": 201,
+      "winnerId": "emily_gallagher",
+      "margin": 78.1,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50/027": {
+      "votes": {
+        "emily_gallagher": 122,
+        "andrew_bodiford": 24,
+        "scattered": 1
+      },
+      "total": 147,
+      "winnerId": "emily_gallagher",
+      "margin": 66.7,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50/028": {
+      "votes": {
+        "emily_gallagher": 86,
+        "andrew_bodiford": 6,
+        "scattered": 2
+      },
+      "total": 94,
+      "winnerId": "emily_gallagher",
+      "margin": 85.1,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50/029": {
+      "votes": {
+        "emily_gallagher": 150,
+        "andrew_bodiford": 28,
+        "scattered": 1
+      },
+      "total": 179,
+      "winnerId": "emily_gallagher",
+      "margin": 68.2,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50/030": {
+      "votes": {
+        "emily_gallagher": 99,
+        "andrew_bodiford": 15,
+        "scattered": 0
+      },
+      "total": 114,
+      "winnerId": "emily_gallagher",
+      "margin": 73.7,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50/031": {
+      "votes": {
+        "emily_gallagher": 82,
+        "andrew_bodiford": 10,
+        "scattered": 1
+      },
+      "total": 93,
+      "winnerId": "emily_gallagher",
+      "margin": 77.4,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50/032": {
+      "votes": {
+        "emily_gallagher": 94,
+        "andrew_bodiford": 24,
+        "scattered": 1
+      },
+      "total": 119,
+      "winnerId": "emily_gallagher",
+      "margin": 58.8,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50/033": {
+      "votes": {
+        "emily_gallagher": 127,
+        "andrew_bodiford": 42,
+        "scattered": 16
+      },
+      "total": 185,
+      "winnerId": "emily_gallagher",
+      "margin": 45.9,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50/034": {
+      "votes": {
+        "emily_gallagher": 110,
+        "andrew_bodiford": 20,
+        "scattered": 5
+      },
+      "total": 135,
+      "winnerId": "emily_gallagher",
+      "margin": 66.7,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50/035": {
+      "votes": {
+        "emily_gallagher": 84,
+        "andrew_bodiford": 19,
+        "scattered": 2
+      },
+      "total": 105,
+      "winnerId": "emily_gallagher",
+      "margin": 61.9,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50/036": {
+      "votes": {
+        "emily_gallagher": 68,
+        "andrew_bodiford": 25,
+        "scattered": 7
+      },
+      "total": 100,
+      "winnerId": "emily_gallagher",
+      "margin": 43,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50/037": {
+      "votes": {
+        "emily_gallagher": 91,
+        "andrew_bodiford": 30,
+        "scattered": 11
+      },
+      "total": 132,
+      "winnerId": "emily_gallagher",
+      "margin": 46.2,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50/038": {
+      "votes": {
+        "emily_gallagher": 84,
+        "andrew_bodiford": 25,
+        "scattered": 3
+      },
+      "total": 112,
+      "winnerId": "emily_gallagher",
+      "margin": 52.7,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50/039": {
+      "votes": {
+        "emily_gallagher": 40,
+        "andrew_bodiford": 37,
+        "scattered": 8
+      },
+      "total": 85,
+      "winnerId": "emily_gallagher",
+      "margin": 3.5,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50/040": {
+      "votes": {
+        "emily_gallagher": 79,
+        "andrew_bodiford": 21,
+        "scattered": 16
+      },
+      "total": 116,
+      "winnerId": "emily_gallagher",
+      "margin": 50,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50/041": {
+      "votes": {
+        "emily_gallagher": 76,
+        "andrew_bodiford": 22,
+        "scattered": 9
+      },
+      "total": 107,
+      "winnerId": "emily_gallagher",
+      "margin": 50.5,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50/042": {
+      "votes": {
+        "emily_gallagher": 59,
+        "andrew_bodiford": 36,
+        "scattered": 14
+      },
+      "total": 109,
+      "winnerId": "emily_gallagher",
+      "margin": 21.1,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50/043": {
+      "votes": {
+        "emily_gallagher": 51,
+        "andrew_bodiford": 26,
+        "scattered": 13
+      },
+      "total": 90,
+      "winnerId": "emily_gallagher",
+      "margin": 27.8,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50/044": {
+      "votes": {
+        "emily_gallagher": 88,
+        "andrew_bodiford": 38,
+        "scattered": 17
+      },
+      "total": 143,
+      "winnerId": "emily_gallagher",
+      "margin": 35,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50/045": {
+      "votes": {
+        "emily_gallagher": 39,
+        "andrew_bodiford": 25,
+        "scattered": 13
+      },
+      "total": 77,
+      "winnerId": "emily_gallagher",
+      "margin": 18.2,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50/046": {
+      "votes": {
+        "emily_gallagher": 58,
+        "andrew_bodiford": 29,
+        "scattered": 17
+      },
+      "total": 104,
+      "winnerId": "emily_gallagher",
+      "margin": 27.9,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50/047": {
+      "votes": {
+        "emily_gallagher": 56,
+        "andrew_bodiford": 27,
+        "scattered": 16
+      },
+      "total": 99,
+      "winnerId": "emily_gallagher",
+      "margin": 29.3,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50/048": {
+      "votes": {
+        "emily_gallagher": 51,
+        "andrew_bodiford": 33,
+        "scattered": 6
+      },
+      "total": 90,
+      "winnerId": "emily_gallagher",
+      "margin": 20,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50/049": {
+      "votes": {
+        "emily_gallagher": 54,
+        "andrew_bodiford": 19,
+        "scattered": 12
+      },
+      "total": 85,
+      "winnerId": "emily_gallagher",
+      "margin": 41.2,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50/050": {
+      "votes": {
+        "emily_gallagher": 123,
+        "andrew_bodiford": 22,
+        "scattered": 7
+      },
+      "total": 152,
+      "winnerId": "emily_gallagher",
+      "margin": 66.4,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50/051": {
+      "votes": {
+        "emily_gallagher": 131,
+        "andrew_bodiford": 15,
+        "scattered": 1
+      },
+      "total": 147,
+      "winnerId": "emily_gallagher",
+      "margin": 78.9,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50/052": {
+      "votes": {
+        "emily_gallagher": 195,
+        "andrew_bodiford": 30,
+        "scattered": 0
+      },
+      "total": 225,
+      "winnerId": "emily_gallagher",
+      "margin": 73.3,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50/053": {
+      "votes": {
+        "emily_gallagher": 178,
+        "andrew_bodiford": 26,
+        "scattered": 3
+      },
+      "total": 207,
+      "winnerId": "emily_gallagher",
+      "margin": 73.4,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50/054": {
+      "votes": {
+        "emily_gallagher": 98,
+        "andrew_bodiford": 10,
+        "scattered": 0
+      },
+      "total": 108,
+      "winnerId": "emily_gallagher",
+      "margin": 81.5,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50/055": {
+      "votes": {
+        "emily_gallagher": 59,
+        "andrew_bodiford": 12,
+        "scattered": 0
+      },
+      "total": 71,
+      "winnerId": "emily_gallagher",
+      "margin": 66.2,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50/056": {
+      "votes": {
+        "emily_gallagher": 248,
+        "andrew_bodiford": 22,
+        "scattered": 0
+      },
+      "total": 270,
+      "winnerId": "emily_gallagher",
+      "margin": 83.7,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50/057": {
+      "votes": {
+        "emily_gallagher": 331,
+        "andrew_bodiford": 32,
+        "scattered": 3
+      },
+      "total": 366,
+      "winnerId": "emily_gallagher",
+      "margin": 81.7,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50/058": {
+      "votes": {
+        "emily_gallagher": 279,
+        "andrew_bodiford": 26,
+        "scattered": 4
+      },
+      "total": 309,
+      "winnerId": "emily_gallagher",
+      "margin": 81.9,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50/059": {
+      "votes": {
+        "emily_gallagher": 325,
+        "andrew_bodiford": 25,
+        "scattered": 1
+      },
+      "total": 351,
+      "winnerId": "emily_gallagher",
+      "margin": 85.5,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50/060": {
+      "votes": {
+        "emily_gallagher": 271,
+        "andrew_bodiford": 29,
+        "scattered": 3
+      },
+      "total": 303,
+      "winnerId": "emily_gallagher",
+      "margin": 79.9,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50/061": {
+      "votes": {
+        "emily_gallagher": 336,
+        "andrew_bodiford": 31,
+        "scattered": 2
+      },
+      "total": 369,
+      "winnerId": "emily_gallagher",
+      "margin": 82.7,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50/062": {
+      "votes": {
+        "emily_gallagher": 238,
+        "andrew_bodiford": 24,
+        "scattered": 0
+      },
+      "total": 262,
+      "winnerId": "emily_gallagher",
+      "margin": 81.7,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50/063": {
+      "votes": {
+        "emily_gallagher": 255,
+        "andrew_bodiford": 20,
+        "scattered": 3
+      },
+      "total": 278,
+      "winnerId": "emily_gallagher",
+      "margin": 84.5,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50/065": {
+      "votes": {
+        "emily_gallagher": 100,
+        "andrew_bodiford": 8,
+        "scattered": 3
+      },
+      "total": 111,
+      "winnerId": "emily_gallagher",
+      "margin": 82.9,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50/066": {
+      "votes": {
+        "emily_gallagher": 178,
+        "andrew_bodiford": 17,
+        "scattered": 2
+      },
+      "total": 197,
+      "winnerId": "emily_gallagher",
+      "margin": 81.7,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50/067": {
+      "votes": {
+        "emily_gallagher": 269,
+        "andrew_bodiford": 30,
+        "scattered": 3
+      },
+      "total": 302,
+      "winnerId": "emily_gallagher",
+      "margin": 79.1,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "50/068": {
+      "votes": {
+        "emily_gallagher": 53,
+        "andrew_bodiford": 29,
+        "scattered": 18
+      },
+      "total": 100,
+      "winnerId": "emily_gallagher",
+      "margin": 24,
+      "candidates": [
+        {
+          "id": "emily_gallagher",
+          "name": "Emily Gallagher",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "andrew_bodiford",
+          "name": "Andrew Bodiford",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    }
+  }
+}

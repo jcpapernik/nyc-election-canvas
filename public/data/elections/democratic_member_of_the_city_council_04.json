@@ -1,0 +1,31 @@
+{
+  "id": "democratic_member_of_the_city_council_04",
+  "name": "2026 Primary - Member of the City Council District 04",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "City Council",
+  "districtKey": "4",
+  "districtType": "council",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "virginia_maloney",
+      "name": "Virginia Maloney",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#2563eb"
+    }
+  ],
+  "results": {
+    "4": {
+      "votes": {
+        "uncontested_primary_council_4": 0
+      },
+      "total": 0,
+      "winnerId": "uncontested_primary_council_4",
+      "margin": 100,
+      "isUncontested": true
+    }
+  },
+  "edResults": {}
+}

@@ -1,0 +1,31 @@
+{
+  "id": "democratic_state_senator_24",
+  "name": "2026 Primary - State Senator District 24",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "State Senate",
+  "districtKey": "24",
+  "districtType": "senate",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "andrew_lanza",
+      "name": "Andrew Lanza",
+      "party": "Democratic",
+      "isIncumbent": true,
+      "color": "#2563eb"
+    }
+  ],
+  "results": {
+    "24": {
+      "votes": {
+        "uncontested_primary_senate_24": 0
+      },
+      "total": 0,
+      "winnerId": "uncontested_primary_senate_24",
+      "margin": 100,
+      "isUncontested": true
+    }
+  },
+  "edResults": {}
+}

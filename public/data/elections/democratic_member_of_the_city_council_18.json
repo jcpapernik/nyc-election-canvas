@@ -1,0 +1,31 @@
+{
+  "id": "democratic_member_of_the_city_council_18",
+  "name": "2026 Primary - Member of the City Council District 18",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "City Council",
+  "districtKey": "18",
+  "districtType": "council",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "amanda_far\u00edas",
+      "name": "Amanda Far\u00edas",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#2563eb"
+    }
+  ],
+  "results": {
+    "18": {
+      "votes": {
+        "uncontested_primary_council_18": 0
+      },
+      "total": 0,
+      "winnerId": "uncontested_primary_council_18",
+      "margin": 100,
+      "isUncontested": true
+    }
+  },
+  "edResults": {}
+}

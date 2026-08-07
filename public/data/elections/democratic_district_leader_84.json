@@ -1,0 +1,6271 @@
+{
+  "id": "democratic_district_leader_84",
+  "name": "2026 Primary - District Leader District 84",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "Judicial & Party Offices",
+  "districtKey": "84",
+  "districtType": "congressional",
+  "isUncontested": false,
+  "candidates": [
+    {
+      "id": "amanda_n_septimo_(f)",
+      "name": "Amanda N. Septimo (F)",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#d97706"
+    },
+    {
+      "id": "freddy_perez_jr_(m)",
+      "name": "Freddy Perez Jr. (M)",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#7c3aed"
+    },
+    {
+      "id": "yolanda_garcia_(f)",
+      "name": "Yolanda Garcia (F)",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#059669"
+    },
+    {
+      "id": "hector_feliciano_(m)",
+      "name": "Hector Feliciano (M)",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#0891b2"
+    },
+    {
+      "id": "cecil_k_brooks_jr_(m)",
+      "name": "Cecil K. Brooks Jr. (M)",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#4f46e5"
+    },
+    {
+      "id": "scattered",
+      "name": "Scattered",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#db2777"
+    }
+  ],
+  "results": {
+    "84": {
+      "votes": {
+        "amanda_n_septimo_f_": 2441,
+        "freddy_perez_jr_m_": 1372,
+        "yolanda_garcia_f_": 1283,
+        "hector_feliciano_m_": 831,
+        "cecil_k_brooks_jr_m_": 609,
+        "scattered": 39
+      },
+      "total": 6575,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 16.3,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    }
+  },
+  "edResults": {
+    "84001": {
+      "votes": {
+        "amanda_n_septimo_f_": 51,
+        "freddy_perez_jr_m_": 40,
+        "yolanda_garcia_f_": 37,
+        "hector_feliciano_m_": 23,
+        "cecil_k_brooks_jr_m_": 12,
+        "scattered": 0
+      },
+      "total": 163,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 6.7,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84002": {
+      "votes": {
+        "amanda_n_septimo_f_": 28,
+        "freddy_perez_jr_m_": 12,
+        "yolanda_garcia_f_": 17,
+        "hector_feliciano_m_": 11,
+        "cecil_k_brooks_jr_m_": 14,
+        "scattered": 1
+      },
+      "total": 83,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 13.3,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84003": {
+      "votes": {
+        "amanda_n_septimo_f_": 51,
+        "freddy_perez_jr_m_": 34,
+        "yolanda_garcia_f_": 23,
+        "hector_feliciano_m_": 18,
+        "cecil_k_brooks_jr_m_": 2,
+        "scattered": 1
+      },
+      "total": 129,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 13.2,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84004": {
+      "votes": {
+        "amanda_n_septimo_f_": 44,
+        "freddy_perez_jr_m_": 25,
+        "yolanda_garcia_f_": 16,
+        "hector_feliciano_m_": 12,
+        "cecil_k_brooks_jr_m_": 8,
+        "scattered": 0
+      },
+      "total": 105,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 18.1,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84005": {
+      "votes": {
+        "amanda_n_septimo_f_": 47,
+        "freddy_perez_jr_m_": 22,
+        "yolanda_garcia_f_": 23,
+        "hector_feliciano_m_": 20,
+        "cecil_k_brooks_jr_m_": 10,
+        "scattered": 0
+      },
+      "total": 122,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 19.7,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84006": {
+      "votes": {
+        "amanda_n_septimo_f_": 34,
+        "freddy_perez_jr_m_": 12,
+        "yolanda_garcia_f_": 18,
+        "hector_feliciano_m_": 12,
+        "cecil_k_brooks_jr_m_": 6,
+        "scattered": 0
+      },
+      "total": 82,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 19.5,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84007": {
+      "votes": {
+        "amanda_n_septimo_f_": 43,
+        "freddy_perez_jr_m_": 24,
+        "yolanda_garcia_f_": 21,
+        "hector_feliciano_m_": 13,
+        "cecil_k_brooks_jr_m_": 11,
+        "scattered": 1
+      },
+      "total": 113,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 16.8,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84008": {
+      "votes": {
+        "amanda_n_septimo_f_": 54,
+        "freddy_perez_jr_m_": 25,
+        "yolanda_garcia_f_": 24,
+        "hector_feliciano_m_": 13,
+        "cecil_k_brooks_jr_m_": 9,
+        "scattered": 0
+      },
+      "total": 125,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 23.2,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84009": {
+      "votes": {
+        "amanda_n_septimo_f_": 44,
+        "freddy_perez_jr_m_": 32,
+        "yolanda_garcia_f_": 35,
+        "hector_feliciano_m_": 16,
+        "cecil_k_brooks_jr_m_": 11,
+        "scattered": 3
+      },
+      "total": 141,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 6.4,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84010": {
+      "votes": {
+        "amanda_n_septimo_f_": 52,
+        "freddy_perez_jr_m_": 25,
+        "yolanda_garcia_f_": 40,
+        "hector_feliciano_m_": 25,
+        "cecil_k_brooks_jr_m_": 13,
+        "scattered": 0
+      },
+      "total": 155,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 7.7,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84011": {
+      "votes": {
+        "amanda_n_septimo_f_": 54,
+        "freddy_perez_jr_m_": 30,
+        "yolanda_garcia_f_": 45,
+        "hector_feliciano_m_": 33,
+        "cecil_k_brooks_jr_m_": 19,
+        "scattered": 1
+      },
+      "total": 182,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 4.9,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84012": {
+      "votes": {
+        "amanda_n_septimo_f_": 64,
+        "freddy_perez_jr_m_": 24,
+        "yolanda_garcia_f_": 36,
+        "hector_feliciano_m_": 18,
+        "cecil_k_brooks_jr_m_": 20,
+        "scattered": 0
+      },
+      "total": 162,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 17.3,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84013": {
+      "votes": {
+        "amanda_n_septimo_f_": 51,
+        "freddy_perez_jr_m_": 28,
+        "yolanda_garcia_f_": 24,
+        "hector_feliciano_m_": 18,
+        "cecil_k_brooks_jr_m_": 10,
+        "scattered": 1
+      },
+      "total": 132,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 17.4,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84014": {
+      "votes": {
+        "amanda_n_septimo_f_": 158,
+        "freddy_perez_jr_m_": 66,
+        "yolanda_garcia_f_": 92,
+        "hector_feliciano_m_": 44,
+        "cecil_k_brooks_jr_m_": 48,
+        "scattered": 1
+      },
+      "total": 409,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 16.1,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84015": {
+      "votes": {
+        "amanda_n_septimo_f_": 33,
+        "freddy_perez_jr_m_": 23,
+        "yolanda_garcia_f_": 25,
+        "hector_feliciano_m_": 12,
+        "cecil_k_brooks_jr_m_": 9,
+        "scattered": 0
+      },
+      "total": 102,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 7.8,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84016": {
+      "votes": {
+        "amanda_n_septimo_f_": 55,
+        "freddy_perez_jr_m_": 17,
+        "yolanda_garcia_f_": 24,
+        "hector_feliciano_m_": 13,
+        "cecil_k_brooks_jr_m_": 10,
+        "scattered": 0
+      },
+      "total": 119,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 26.1,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84017": {
+      "votes": {
+        "amanda_n_septimo_f_": 65,
+        "freddy_perez_jr_m_": 59,
+        "yolanda_garcia_f_": 32,
+        "hector_feliciano_m_": 35,
+        "cecil_k_brooks_jr_m_": 14,
+        "scattered": 3
+      },
+      "total": 208,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 2.9,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84018": {
+      "votes": {
+        "amanda_n_septimo_f_": 45,
+        "freddy_perez_jr_m_": 29,
+        "yolanda_garcia_f_": 18,
+        "hector_feliciano_m_": 14,
+        "cecil_k_brooks_jr_m_": 1,
+        "scattered": 1
+      },
+      "total": 108,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 14.8,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84019": {
+      "votes": {
+        "amanda_n_septimo_f_": 41,
+        "freddy_perez_jr_m_": 28,
+        "yolanda_garcia_f_": 20,
+        "hector_feliciano_m_": 10,
+        "cecil_k_brooks_jr_m_": 10,
+        "scattered": 1
+      },
+      "total": 110,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 11.8,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84020": {
+      "votes": {
+        "amanda_n_septimo_f_": 41,
+        "freddy_perez_jr_m_": 35,
+        "yolanda_garcia_f_": 21,
+        "hector_feliciano_m_": 18,
+        "cecil_k_brooks_jr_m_": 9,
+        "scattered": 4
+      },
+      "total": 128,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 4.7,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84021": {
+      "votes": {
+        "amanda_n_septimo_f_": 24,
+        "freddy_perez_jr_m_": 24,
+        "yolanda_garcia_f_": 19,
+        "hector_feliciano_m_": 9,
+        "cecil_k_brooks_jr_m_": 9,
+        "scattered": 2
+      },
+      "total": 87,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84022": {
+      "votes": {
+        "amanda_n_septimo_f_": 32,
+        "freddy_perez_jr_m_": 33,
+        "yolanda_garcia_f_": 18,
+        "hector_feliciano_m_": 16,
+        "cecil_k_brooks_jr_m_": 9,
+        "scattered": 3
+      },
+      "total": 111,
+      "winnerId": "freddy_perez_jr_m_",
+      "margin": 0.9,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84023": {
+      "votes": {
+        "amanda_n_septimo_f_": 31,
+        "freddy_perez_jr_m_": 29,
+        "yolanda_garcia_f_": 11,
+        "hector_feliciano_m_": 5,
+        "cecil_k_brooks_jr_m_": 13,
+        "scattered": 0
+      },
+      "total": 89,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 2.2,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84024": {
+      "votes": {
+        "amanda_n_septimo_f_": 15,
+        "freddy_perez_jr_m_": 18,
+        "yolanda_garcia_f_": 14,
+        "hector_feliciano_m_": 11,
+        "cecil_k_brooks_jr_m_": 4,
+        "scattered": 1
+      },
+      "total": 63,
+      "winnerId": "freddy_perez_jr_m_",
+      "margin": 4.8,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84025": {
+      "votes": {
+        "amanda_n_septimo_f_": 34,
+        "freddy_perez_jr_m_": 37,
+        "yolanda_garcia_f_": 22,
+        "hector_feliciano_m_": 12,
+        "cecil_k_brooks_jr_m_": 10,
+        "scattered": 2
+      },
+      "total": 117,
+      "winnerId": "freddy_perez_jr_m_",
+      "margin": 2.6,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84026": {
+      "votes": {
+        "amanda_n_septimo_f_": 17,
+        "freddy_perez_jr_m_": 32,
+        "yolanda_garcia_f_": 12,
+        "hector_feliciano_m_": 14,
+        "cecil_k_brooks_jr_m_": 5,
+        "scattered": 0
+      },
+      "total": 80,
+      "winnerId": "freddy_perez_jr_m_",
+      "margin": 18.8,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84027": {
+      "votes": {
+        "amanda_n_septimo_f_": 12,
+        "freddy_perez_jr_m_": 8,
+        "yolanda_garcia_f_": 7,
+        "hector_feliciano_m_": 6,
+        "cecil_k_brooks_jr_m_": 9,
+        "scattered": 0
+      },
+      "total": 42,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 7.1,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84028": {
+      "votes": {
+        "amanda_n_septimo_f_": 45,
+        "freddy_perez_jr_m_": 31,
+        "yolanda_garcia_f_": 22,
+        "hector_feliciano_m_": 12,
+        "cecil_k_brooks_jr_m_": 8,
+        "scattered": 1
+      },
+      "total": 119,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 11.8,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84029": {
+      "votes": {
+        "amanda_n_septimo_f_": 36,
+        "freddy_perez_jr_m_": 17,
+        "yolanda_garcia_f_": 18,
+        "hector_feliciano_m_": 11,
+        "cecil_k_brooks_jr_m_": 6,
+        "scattered": 1
+      },
+      "total": 89,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 20.2,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84030": {
+      "votes": {
+        "amanda_n_septimo_f_": 37,
+        "freddy_perez_jr_m_": 13,
+        "yolanda_garcia_f_": 17,
+        "hector_feliciano_m_": 13,
+        "cecil_k_brooks_jr_m_": 3,
+        "scattered": 0
+      },
+      "total": 83,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 24.1,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84031": {
+      "votes": {
+        "amanda_n_septimo_f_": 36,
+        "freddy_perez_jr_m_": 30,
+        "yolanda_garcia_f_": 25,
+        "hector_feliciano_m_": 19,
+        "cecil_k_brooks_jr_m_": 9,
+        "scattered": 0
+      },
+      "total": 119,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 5,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84032": {
+      "votes": {
+        "amanda_n_septimo_f_": 41,
+        "freddy_perez_jr_m_": 15,
+        "yolanda_garcia_f_": 25,
+        "hector_feliciano_m_": 9,
+        "cecil_k_brooks_jr_m_": 22,
+        "scattered": 0
+      },
+      "total": 112,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 14.3,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84033": {
+      "votes": {
+        "amanda_n_septimo_f_": 20,
+        "freddy_perez_jr_m_": 21,
+        "yolanda_garcia_f_": 8,
+        "hector_feliciano_m_": 11,
+        "cecil_k_brooks_jr_m_": 2,
+        "scattered": 0
+      },
+      "total": 62,
+      "winnerId": "freddy_perez_jr_m_",
+      "margin": 1.6,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84034": {
+      "votes": {
+        "amanda_n_septimo_f_": 43,
+        "freddy_perez_jr_m_": 36,
+        "yolanda_garcia_f_": 23,
+        "hector_feliciano_m_": 9,
+        "cecil_k_brooks_jr_m_": 7,
+        "scattered": 0
+      },
+      "total": 118,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 5.9,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84035": {
+      "votes": {
+        "amanda_n_septimo_f_": 41,
+        "freddy_perez_jr_m_": 21,
+        "yolanda_garcia_f_": 25,
+        "hector_feliciano_m_": 19,
+        "cecil_k_brooks_jr_m_": 8,
+        "scattered": 1
+      },
+      "total": 115,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 13.9,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84036": {
+      "votes": {
+        "amanda_n_septimo_f_": 37,
+        "freddy_perez_jr_m_": 17,
+        "yolanda_garcia_f_": 19,
+        "hector_feliciano_m_": 10,
+        "cecil_k_brooks_jr_m_": 14,
+        "scattered": 1
+      },
+      "total": 98,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 18.4,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84037": {
+      "votes": {
+        "amanda_n_septimo_f_": 54,
+        "freddy_perez_jr_m_": 23,
+        "yolanda_garcia_f_": 16,
+        "hector_feliciano_m_": 17,
+        "cecil_k_brooks_jr_m_": 10,
+        "scattered": 0
+      },
+      "total": 120,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 25.8,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84038": {
+      "votes": {
+        "amanda_n_septimo_f_": 37,
+        "freddy_perez_jr_m_": 15,
+        "yolanda_garcia_f_": 16,
+        "hector_feliciano_m_": 11,
+        "cecil_k_brooks_jr_m_": 9,
+        "scattered": 0
+      },
+      "total": 88,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 23.9,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84039": {
+      "votes": {
+        "amanda_n_septimo_f_": 34,
+        "freddy_perez_jr_m_": 15,
+        "yolanda_garcia_f_": 22,
+        "hector_feliciano_m_": 14,
+        "cecil_k_brooks_jr_m_": 2,
+        "scattered": 0
+      },
+      "total": 87,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 13.8,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84040": {
+      "votes": {
+        "amanda_n_septimo_f_": 36,
+        "freddy_perez_jr_m_": 13,
+        "yolanda_garcia_f_": 14,
+        "hector_feliciano_m_": 11,
+        "cecil_k_brooks_jr_m_": 13,
+        "scattered": 3
+      },
+      "total": 90,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 24.4,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84041": {
+      "votes": {
+        "amanda_n_septimo_f_": 38,
+        "freddy_perez_jr_m_": 18,
+        "yolanda_garcia_f_": 16,
+        "hector_feliciano_m_": 16,
+        "cecil_k_brooks_jr_m_": 10,
+        "scattered": 0
+      },
+      "total": 98,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 20.4,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84042": {
+      "votes": {
+        "amanda_n_septimo_f_": 57,
+        "freddy_perez_jr_m_": 17,
+        "yolanda_garcia_f_": 20,
+        "hector_feliciano_m_": 13,
+        "cecil_k_brooks_jr_m_": 6,
+        "scattered": 0
+      },
+      "total": 113,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 32.7,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84043": {
+      "votes": {
+        "amanda_n_septimo_f_": 82,
+        "freddy_perez_jr_m_": 32,
+        "yolanda_garcia_f_": 28,
+        "hector_feliciano_m_": 15,
+        "cecil_k_brooks_jr_m_": 16,
+        "scattered": 1
+      },
+      "total": 174,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 28.7,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84044": {
+      "votes": {
+        "amanda_n_septimo_f_": 91,
+        "freddy_perez_jr_m_": 26,
+        "yolanda_garcia_f_": 40,
+        "hector_feliciano_m_": 18,
+        "cecil_k_brooks_jr_m_": 23,
+        "scattered": 0
+      },
+      "total": 198,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 25.8,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84045": {
+      "votes": {
+        "amanda_n_septimo_f_": 73,
+        "freddy_perez_jr_m_": 32,
+        "yolanda_garcia_f_": 31,
+        "hector_feliciano_m_": 26,
+        "cecil_k_brooks_jr_m_": 18,
+        "scattered": 1
+      },
+      "total": 181,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 22.7,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84046": {
+      "votes": {
+        "amanda_n_septimo_f_": 46,
+        "freddy_perez_jr_m_": 30,
+        "yolanda_garcia_f_": 32,
+        "hector_feliciano_m_": 27,
+        "cecil_k_brooks_jr_m_": 13,
+        "scattered": 0
+      },
+      "total": 148,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 9.5,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84047": {
+      "votes": {
+        "amanda_n_septimo_f_": 25,
+        "freddy_perez_jr_m_": 15,
+        "yolanda_garcia_f_": 19,
+        "hector_feliciano_m_": 9,
+        "cecil_k_brooks_jr_m_": 7,
+        "scattered": 1
+      },
+      "total": 76,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 7.9,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84048": {
+      "votes": {
+        "amanda_n_septimo_f_": 18,
+        "freddy_perez_jr_m_": 20,
+        "yolanda_garcia_f_": 17,
+        "hector_feliciano_m_": 11,
+        "cecil_k_brooks_jr_m_": 13,
+        "scattered": 0
+      },
+      "total": 79,
+      "winnerId": "freddy_perez_jr_m_",
+      "margin": 2.5,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84049": {
+      "votes": {
+        "amanda_n_septimo_f_": 22,
+        "freddy_perez_jr_m_": 14,
+        "yolanda_garcia_f_": 12,
+        "hector_feliciano_m_": 5,
+        "cecil_k_brooks_jr_m_": 8,
+        "scattered": 1
+      },
+      "total": 62,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 12.9,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84050": {
+      "votes": {
+        "amanda_n_septimo_f_": 56,
+        "freddy_perez_jr_m_": 23,
+        "yolanda_garcia_f_": 34,
+        "hector_feliciano_m_": 16,
+        "cecil_k_brooks_jr_m_": 17,
+        "scattered": 1
+      },
+      "total": 147,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 15,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84051": {
+      "votes": {
+        "amanda_n_septimo_f_": 111,
+        "freddy_perez_jr_m_": 30,
+        "yolanda_garcia_f_": 35,
+        "hector_feliciano_m_": 16,
+        "cecil_k_brooks_jr_m_": 42,
+        "scattered": 0
+      },
+      "total": 234,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 29.5,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84052": {
+      "votes": {
+        "amanda_n_septimo_f_": 73,
+        "freddy_perez_jr_m_": 48,
+        "yolanda_garcia_f_": 29,
+        "hector_feliciano_m_": 30,
+        "cecil_k_brooks_jr_m_": 8,
+        "scattered": 1
+      },
+      "total": 189,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 13.2,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84053": {
+      "votes": {
+        "amanda_n_septimo_f_": 26,
+        "freddy_perez_jr_m_": 26,
+        "yolanda_garcia_f_": 25,
+        "hector_feliciano_m_": 12,
+        "cecil_k_brooks_jr_m_": 10,
+        "scattered": 0
+      },
+      "total": 99,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84054": {
+      "votes": {
+        "amanda_n_septimo_f_": 6,
+        "freddy_perez_jr_m_": 3,
+        "yolanda_garcia_f_": 1,
+        "hector_feliciano_m_": 0,
+        "cecil_k_brooks_jr_m_": 0,
+        "scattered": 0
+      },
+      "total": 10,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 30,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84/001": {
+      "votes": {
+        "amanda_n_septimo_f_": 51,
+        "freddy_perez_jr_m_": 40,
+        "yolanda_garcia_f_": 37,
+        "hector_feliciano_m_": 23,
+        "cecil_k_brooks_jr_m_": 12,
+        "scattered": 0
+      },
+      "total": 163,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 6.7,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84/002": {
+      "votes": {
+        "amanda_n_septimo_f_": 28,
+        "freddy_perez_jr_m_": 12,
+        "yolanda_garcia_f_": 17,
+        "hector_feliciano_m_": 11,
+        "cecil_k_brooks_jr_m_": 14,
+        "scattered": 1
+      },
+      "total": 83,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 13.3,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84/003": {
+      "votes": {
+        "amanda_n_septimo_f_": 51,
+        "freddy_perez_jr_m_": 34,
+        "yolanda_garcia_f_": 23,
+        "hector_feliciano_m_": 18,
+        "cecil_k_brooks_jr_m_": 2,
+        "scattered": 1
+      },
+      "total": 129,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 13.2,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84/004": {
+      "votes": {
+        "amanda_n_septimo_f_": 44,
+        "freddy_perez_jr_m_": 25,
+        "yolanda_garcia_f_": 16,
+        "hector_feliciano_m_": 12,
+        "cecil_k_brooks_jr_m_": 8,
+        "scattered": 0
+      },
+      "total": 105,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 18.1,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84/005": {
+      "votes": {
+        "amanda_n_septimo_f_": 47,
+        "freddy_perez_jr_m_": 22,
+        "yolanda_garcia_f_": 23,
+        "hector_feliciano_m_": 20,
+        "cecil_k_brooks_jr_m_": 10,
+        "scattered": 0
+      },
+      "total": 122,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 19.7,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84/006": {
+      "votes": {
+        "amanda_n_septimo_f_": 34,
+        "freddy_perez_jr_m_": 12,
+        "yolanda_garcia_f_": 18,
+        "hector_feliciano_m_": 12,
+        "cecil_k_brooks_jr_m_": 6,
+        "scattered": 0
+      },
+      "total": 82,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 19.5,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84/007": {
+      "votes": {
+        "amanda_n_septimo_f_": 43,
+        "freddy_perez_jr_m_": 24,
+        "yolanda_garcia_f_": 21,
+        "hector_feliciano_m_": 13,
+        "cecil_k_brooks_jr_m_": 11,
+        "scattered": 1
+      },
+      "total": 113,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 16.8,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84/008": {
+      "votes": {
+        "amanda_n_septimo_f_": 54,
+        "freddy_perez_jr_m_": 25,
+        "yolanda_garcia_f_": 24,
+        "hector_feliciano_m_": 13,
+        "cecil_k_brooks_jr_m_": 9,
+        "scattered": 0
+      },
+      "total": 125,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 23.2,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84/009": {
+      "votes": {
+        "amanda_n_septimo_f_": 44,
+        "freddy_perez_jr_m_": 32,
+        "yolanda_garcia_f_": 35,
+        "hector_feliciano_m_": 16,
+        "cecil_k_brooks_jr_m_": 11,
+        "scattered": 3
+      },
+      "total": 141,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 6.4,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84/010": {
+      "votes": {
+        "amanda_n_septimo_f_": 52,
+        "freddy_perez_jr_m_": 25,
+        "yolanda_garcia_f_": 40,
+        "hector_feliciano_m_": 25,
+        "cecil_k_brooks_jr_m_": 13,
+        "scattered": 0
+      },
+      "total": 155,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 7.7,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84/011": {
+      "votes": {
+        "amanda_n_septimo_f_": 54,
+        "freddy_perez_jr_m_": 30,
+        "yolanda_garcia_f_": 45,
+        "hector_feliciano_m_": 33,
+        "cecil_k_brooks_jr_m_": 19,
+        "scattered": 1
+      },
+      "total": 182,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 4.9,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84/012": {
+      "votes": {
+        "amanda_n_septimo_f_": 64,
+        "freddy_perez_jr_m_": 24,
+        "yolanda_garcia_f_": 36,
+        "hector_feliciano_m_": 18,
+        "cecil_k_brooks_jr_m_": 20,
+        "scattered": 0
+      },
+      "total": 162,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 17.3,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84/013": {
+      "votes": {
+        "amanda_n_septimo_f_": 51,
+        "freddy_perez_jr_m_": 28,
+        "yolanda_garcia_f_": 24,
+        "hector_feliciano_m_": 18,
+        "cecil_k_brooks_jr_m_": 10,
+        "scattered": 1
+      },
+      "total": 132,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 17.4,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84/014": {
+      "votes": {
+        "amanda_n_septimo_f_": 158,
+        "freddy_perez_jr_m_": 66,
+        "yolanda_garcia_f_": 92,
+        "hector_feliciano_m_": 44,
+        "cecil_k_brooks_jr_m_": 48,
+        "scattered": 1
+      },
+      "total": 409,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 16.1,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84/015": {
+      "votes": {
+        "amanda_n_septimo_f_": 33,
+        "freddy_perez_jr_m_": 23,
+        "yolanda_garcia_f_": 25,
+        "hector_feliciano_m_": 12,
+        "cecil_k_brooks_jr_m_": 9,
+        "scattered": 0
+      },
+      "total": 102,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 7.8,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84/016": {
+      "votes": {
+        "amanda_n_septimo_f_": 55,
+        "freddy_perez_jr_m_": 17,
+        "yolanda_garcia_f_": 24,
+        "hector_feliciano_m_": 13,
+        "cecil_k_brooks_jr_m_": 10,
+        "scattered": 0
+      },
+      "total": 119,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 26.1,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84/017": {
+      "votes": {
+        "amanda_n_septimo_f_": 65,
+        "freddy_perez_jr_m_": 59,
+        "yolanda_garcia_f_": 32,
+        "hector_feliciano_m_": 35,
+        "cecil_k_brooks_jr_m_": 14,
+        "scattered": 3
+      },
+      "total": 208,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 2.9,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84/018": {
+      "votes": {
+        "amanda_n_septimo_f_": 45,
+        "freddy_perez_jr_m_": 29,
+        "yolanda_garcia_f_": 18,
+        "hector_feliciano_m_": 14,
+        "cecil_k_brooks_jr_m_": 1,
+        "scattered": 1
+      },
+      "total": 108,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 14.8,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84/019": {
+      "votes": {
+        "amanda_n_septimo_f_": 41,
+        "freddy_perez_jr_m_": 28,
+        "yolanda_garcia_f_": 20,
+        "hector_feliciano_m_": 10,
+        "cecil_k_brooks_jr_m_": 10,
+        "scattered": 1
+      },
+      "total": 110,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 11.8,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84/020": {
+      "votes": {
+        "amanda_n_septimo_f_": 41,
+        "freddy_perez_jr_m_": 35,
+        "yolanda_garcia_f_": 21,
+        "hector_feliciano_m_": 18,
+        "cecil_k_brooks_jr_m_": 9,
+        "scattered": 4
+      },
+      "total": 128,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 4.7,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84/021": {
+      "votes": {
+        "amanda_n_septimo_f_": 24,
+        "freddy_perez_jr_m_": 24,
+        "yolanda_garcia_f_": 19,
+        "hector_feliciano_m_": 9,
+        "cecil_k_brooks_jr_m_": 9,
+        "scattered": 2
+      },
+      "total": 87,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84/022": {
+      "votes": {
+        "amanda_n_septimo_f_": 32,
+        "freddy_perez_jr_m_": 33,
+        "yolanda_garcia_f_": 18,
+        "hector_feliciano_m_": 16,
+        "cecil_k_brooks_jr_m_": 9,
+        "scattered": 3
+      },
+      "total": 111,
+      "winnerId": "freddy_perez_jr_m_",
+      "margin": 0.9,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84/023": {
+      "votes": {
+        "amanda_n_septimo_f_": 31,
+        "freddy_perez_jr_m_": 29,
+        "yolanda_garcia_f_": 11,
+        "hector_feliciano_m_": 5,
+        "cecil_k_brooks_jr_m_": 13,
+        "scattered": 0
+      },
+      "total": 89,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 2.2,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84/024": {
+      "votes": {
+        "amanda_n_septimo_f_": 15,
+        "freddy_perez_jr_m_": 18,
+        "yolanda_garcia_f_": 14,
+        "hector_feliciano_m_": 11,
+        "cecil_k_brooks_jr_m_": 4,
+        "scattered": 1
+      },
+      "total": 63,
+      "winnerId": "freddy_perez_jr_m_",
+      "margin": 4.8,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84/025": {
+      "votes": {
+        "amanda_n_septimo_f_": 34,
+        "freddy_perez_jr_m_": 37,
+        "yolanda_garcia_f_": 22,
+        "hector_feliciano_m_": 12,
+        "cecil_k_brooks_jr_m_": 10,
+        "scattered": 2
+      },
+      "total": 117,
+      "winnerId": "freddy_perez_jr_m_",
+      "margin": 2.6,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84/026": {
+      "votes": {
+        "amanda_n_septimo_f_": 17,
+        "freddy_perez_jr_m_": 32,
+        "yolanda_garcia_f_": 12,
+        "hector_feliciano_m_": 14,
+        "cecil_k_brooks_jr_m_": 5,
+        "scattered": 0
+      },
+      "total": 80,
+      "winnerId": "freddy_perez_jr_m_",
+      "margin": 18.8,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84/027": {
+      "votes": {
+        "amanda_n_septimo_f_": 12,
+        "freddy_perez_jr_m_": 8,
+        "yolanda_garcia_f_": 7,
+        "hector_feliciano_m_": 6,
+        "cecil_k_brooks_jr_m_": 9,
+        "scattered": 0
+      },
+      "total": 42,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 7.1,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84/028": {
+      "votes": {
+        "amanda_n_septimo_f_": 45,
+        "freddy_perez_jr_m_": 31,
+        "yolanda_garcia_f_": 22,
+        "hector_feliciano_m_": 12,
+        "cecil_k_brooks_jr_m_": 8,
+        "scattered": 1
+      },
+      "total": 119,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 11.8,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84/029": {
+      "votes": {
+        "amanda_n_septimo_f_": 36,
+        "freddy_perez_jr_m_": 17,
+        "yolanda_garcia_f_": 18,
+        "hector_feliciano_m_": 11,
+        "cecil_k_brooks_jr_m_": 6,
+        "scattered": 1
+      },
+      "total": 89,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 20.2,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84/030": {
+      "votes": {
+        "amanda_n_septimo_f_": 37,
+        "freddy_perez_jr_m_": 13,
+        "yolanda_garcia_f_": 17,
+        "hector_feliciano_m_": 13,
+        "cecil_k_brooks_jr_m_": 3,
+        "scattered": 0
+      },
+      "total": 83,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 24.1,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84/031": {
+      "votes": {
+        "amanda_n_septimo_f_": 36,
+        "freddy_perez_jr_m_": 30,
+        "yolanda_garcia_f_": 25,
+        "hector_feliciano_m_": 19,
+        "cecil_k_brooks_jr_m_": 9,
+        "scattered": 0
+      },
+      "total": 119,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 5,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84/032": {
+      "votes": {
+        "amanda_n_septimo_f_": 41,
+        "freddy_perez_jr_m_": 15,
+        "yolanda_garcia_f_": 25,
+        "hector_feliciano_m_": 9,
+        "cecil_k_brooks_jr_m_": 22,
+        "scattered": 0
+      },
+      "total": 112,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 14.3,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84/033": {
+      "votes": {
+        "amanda_n_septimo_f_": 20,
+        "freddy_perez_jr_m_": 21,
+        "yolanda_garcia_f_": 8,
+        "hector_feliciano_m_": 11,
+        "cecil_k_brooks_jr_m_": 2,
+        "scattered": 0
+      },
+      "total": 62,
+      "winnerId": "freddy_perez_jr_m_",
+      "margin": 1.6,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84/034": {
+      "votes": {
+        "amanda_n_septimo_f_": 43,
+        "freddy_perez_jr_m_": 36,
+        "yolanda_garcia_f_": 23,
+        "hector_feliciano_m_": 9,
+        "cecil_k_brooks_jr_m_": 7,
+        "scattered": 0
+      },
+      "total": 118,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 5.9,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84/035": {
+      "votes": {
+        "amanda_n_septimo_f_": 41,
+        "freddy_perez_jr_m_": 21,
+        "yolanda_garcia_f_": 25,
+        "hector_feliciano_m_": 19,
+        "cecil_k_brooks_jr_m_": 8,
+        "scattered": 1
+      },
+      "total": 115,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 13.9,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84/036": {
+      "votes": {
+        "amanda_n_septimo_f_": 37,
+        "freddy_perez_jr_m_": 17,
+        "yolanda_garcia_f_": 19,
+        "hector_feliciano_m_": 10,
+        "cecil_k_brooks_jr_m_": 14,
+        "scattered": 1
+      },
+      "total": 98,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 18.4,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84/037": {
+      "votes": {
+        "amanda_n_septimo_f_": 54,
+        "freddy_perez_jr_m_": 23,
+        "yolanda_garcia_f_": 16,
+        "hector_feliciano_m_": 17,
+        "cecil_k_brooks_jr_m_": 10,
+        "scattered": 0
+      },
+      "total": 120,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 25.8,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84/038": {
+      "votes": {
+        "amanda_n_septimo_f_": 37,
+        "freddy_perez_jr_m_": 15,
+        "yolanda_garcia_f_": 16,
+        "hector_feliciano_m_": 11,
+        "cecil_k_brooks_jr_m_": 9,
+        "scattered": 0
+      },
+      "total": 88,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 23.9,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84/039": {
+      "votes": {
+        "amanda_n_septimo_f_": 34,
+        "freddy_perez_jr_m_": 15,
+        "yolanda_garcia_f_": 22,
+        "hector_feliciano_m_": 14,
+        "cecil_k_brooks_jr_m_": 2,
+        "scattered": 0
+      },
+      "total": 87,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 13.8,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84/040": {
+      "votes": {
+        "amanda_n_septimo_f_": 36,
+        "freddy_perez_jr_m_": 13,
+        "yolanda_garcia_f_": 14,
+        "hector_feliciano_m_": 11,
+        "cecil_k_brooks_jr_m_": 13,
+        "scattered": 3
+      },
+      "total": 90,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 24.4,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84/041": {
+      "votes": {
+        "amanda_n_septimo_f_": 38,
+        "freddy_perez_jr_m_": 18,
+        "yolanda_garcia_f_": 16,
+        "hector_feliciano_m_": 16,
+        "cecil_k_brooks_jr_m_": 10,
+        "scattered": 0
+      },
+      "total": 98,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 20.4,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84/042": {
+      "votes": {
+        "amanda_n_septimo_f_": 57,
+        "freddy_perez_jr_m_": 17,
+        "yolanda_garcia_f_": 20,
+        "hector_feliciano_m_": 13,
+        "cecil_k_brooks_jr_m_": 6,
+        "scattered": 0
+      },
+      "total": 113,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 32.7,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84/043": {
+      "votes": {
+        "amanda_n_septimo_f_": 82,
+        "freddy_perez_jr_m_": 32,
+        "yolanda_garcia_f_": 28,
+        "hector_feliciano_m_": 15,
+        "cecil_k_brooks_jr_m_": 16,
+        "scattered": 1
+      },
+      "total": 174,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 28.7,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84/044": {
+      "votes": {
+        "amanda_n_septimo_f_": 91,
+        "freddy_perez_jr_m_": 26,
+        "yolanda_garcia_f_": 40,
+        "hector_feliciano_m_": 18,
+        "cecil_k_brooks_jr_m_": 23,
+        "scattered": 0
+      },
+      "total": 198,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 25.8,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84/045": {
+      "votes": {
+        "amanda_n_septimo_f_": 73,
+        "freddy_perez_jr_m_": 32,
+        "yolanda_garcia_f_": 31,
+        "hector_feliciano_m_": 26,
+        "cecil_k_brooks_jr_m_": 18,
+        "scattered": 1
+      },
+      "total": 181,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 22.7,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84/046": {
+      "votes": {
+        "amanda_n_septimo_f_": 46,
+        "freddy_perez_jr_m_": 30,
+        "yolanda_garcia_f_": 32,
+        "hector_feliciano_m_": 27,
+        "cecil_k_brooks_jr_m_": 13,
+        "scattered": 0
+      },
+      "total": 148,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 9.5,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84/047": {
+      "votes": {
+        "amanda_n_septimo_f_": 25,
+        "freddy_perez_jr_m_": 15,
+        "yolanda_garcia_f_": 19,
+        "hector_feliciano_m_": 9,
+        "cecil_k_brooks_jr_m_": 7,
+        "scattered": 1
+      },
+      "total": 76,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 7.9,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84/048": {
+      "votes": {
+        "amanda_n_septimo_f_": 18,
+        "freddy_perez_jr_m_": 20,
+        "yolanda_garcia_f_": 17,
+        "hector_feliciano_m_": 11,
+        "cecil_k_brooks_jr_m_": 13,
+        "scattered": 0
+      },
+      "total": 79,
+      "winnerId": "freddy_perez_jr_m_",
+      "margin": 2.5,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84/049": {
+      "votes": {
+        "amanda_n_septimo_f_": 22,
+        "freddy_perez_jr_m_": 14,
+        "yolanda_garcia_f_": 12,
+        "hector_feliciano_m_": 5,
+        "cecil_k_brooks_jr_m_": 8,
+        "scattered": 1
+      },
+      "total": 62,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 12.9,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84/050": {
+      "votes": {
+        "amanda_n_septimo_f_": 56,
+        "freddy_perez_jr_m_": 23,
+        "yolanda_garcia_f_": 34,
+        "hector_feliciano_m_": 16,
+        "cecil_k_brooks_jr_m_": 17,
+        "scattered": 1
+      },
+      "total": 147,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 15,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84/051": {
+      "votes": {
+        "amanda_n_septimo_f_": 111,
+        "freddy_perez_jr_m_": 30,
+        "yolanda_garcia_f_": 35,
+        "hector_feliciano_m_": 16,
+        "cecil_k_brooks_jr_m_": 42,
+        "scattered": 0
+      },
+      "total": 234,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 29.5,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84/052": {
+      "votes": {
+        "amanda_n_septimo_f_": 73,
+        "freddy_perez_jr_m_": 48,
+        "yolanda_garcia_f_": 29,
+        "hector_feliciano_m_": 30,
+        "cecil_k_brooks_jr_m_": 8,
+        "scattered": 1
+      },
+      "total": 189,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 13.2,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84/053": {
+      "votes": {
+        "amanda_n_septimo_f_": 26,
+        "freddy_perez_jr_m_": 26,
+        "yolanda_garcia_f_": 25,
+        "hector_feliciano_m_": 12,
+        "cecil_k_brooks_jr_m_": 10,
+        "scattered": 0
+      },
+      "total": 99,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    },
+    "84/054": {
+      "votes": {
+        "amanda_n_septimo_f_": 6,
+        "freddy_perez_jr_m_": 3,
+        "yolanda_garcia_f_": 1,
+        "hector_feliciano_m_": 0,
+        "cecil_k_brooks_jr_m_": 0,
+        "scattered": 0
+      },
+      "total": 10,
+      "winnerId": "amanda_n_septimo_f_",
+      "margin": 30,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo_f_",
+          "name": "Amanda N. Septimo (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "freddy_perez_jr_m_",
+          "name": "Freddy Perez Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "yolanda_garcia_f_",
+          "name": "Yolanda Garcia (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "hector_feliciano_m_",
+          "name": "Hector Feliciano (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "cecil_k_brooks_jr_m_",
+          "name": "Cecil K. Brooks Jr. (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        }
+      ]
+    }
+  }
+}

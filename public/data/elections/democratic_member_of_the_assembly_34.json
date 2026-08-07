@@ -1,0 +1,3832 @@
+{
+  "id": "democratic_member_of_the_assembly_34",
+  "name": "2026 Primary - Member of the Assembly District 34",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "NY State Assembly",
+  "districtKey": "34",
+  "districtType": "assembly",
+  "isUncontested": false,
+  "candidates": [
+    {
+      "id": "brian_romero",
+      "name": "Brian Romero",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#d97706"
+    },
+    {
+      "id": "rosa_sanchez",
+      "name": "Rosa Sanchez",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#7c3aed"
+    },
+    {
+      "id": "scattered",
+      "name": "Scattered",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#059669"
+    }
+  ],
+  "results": {
+    "34": {
+      "votes": {
+        "brian_romero": 5064,
+        "rosa_sanchez": 2436,
+        "scattered": 63
+      },
+      "total": 7563,
+      "winnerId": "brian_romero",
+      "margin": 34.7,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    }
+  },
+  "edResults": {
+    "34001": {
+      "votes": {
+        "brian_romero": 145,
+        "rosa_sanchez": 57,
+        "scattered": 1
+      },
+      "total": 203,
+      "winnerId": "brian_romero",
+      "margin": 43.3,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34002": {
+      "votes": {
+        "brian_romero": 12,
+        "rosa_sanchez": 21,
+        "scattered": 0
+      },
+      "total": 33,
+      "winnerId": "rosa_sanchez",
+      "margin": 27.3,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34003": {
+      "votes": {
+        "brian_romero": 104,
+        "rosa_sanchez": 29,
+        "scattered": 0
+      },
+      "total": 133,
+      "winnerId": "brian_romero",
+      "margin": 56.4,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34004": {
+      "votes": {
+        "brian_romero": 176,
+        "rosa_sanchez": 54,
+        "scattered": 0
+      },
+      "total": 230,
+      "winnerId": "brian_romero",
+      "margin": 53,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34005": {
+      "votes": {
+        "brian_romero": 205,
+        "rosa_sanchez": 52,
+        "scattered": 0
+      },
+      "total": 257,
+      "winnerId": "brian_romero",
+      "margin": 59.5,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34006": {
+      "votes": {
+        "brian_romero": 10,
+        "rosa_sanchez": 7,
+        "scattered": 0
+      },
+      "total": 17,
+      "winnerId": "brian_romero",
+      "margin": 17.6,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34007": {
+      "votes": {
+        "brian_romero": 179,
+        "rosa_sanchez": 51,
+        "scattered": 1
+      },
+      "total": 231,
+      "winnerId": "brian_romero",
+      "margin": 55.4,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34008": {
+      "votes": {
+        "brian_romero": 179,
+        "rosa_sanchez": 56,
+        "scattered": 2
+      },
+      "total": 237,
+      "winnerId": "brian_romero",
+      "margin": 51.9,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34009": {
+      "votes": {
+        "brian_romero": 125,
+        "rosa_sanchez": 40,
+        "scattered": 0
+      },
+      "total": 165,
+      "winnerId": "brian_romero",
+      "margin": 51.5,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34010": {
+      "votes": {
+        "brian_romero": 37,
+        "rosa_sanchez": 31,
+        "scattered": 0
+      },
+      "total": 68,
+      "winnerId": "brian_romero",
+      "margin": 8.8,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34011": {
+      "votes": {
+        "brian_romero": 33,
+        "rosa_sanchez": 41,
+        "scattered": 0
+      },
+      "total": 74,
+      "winnerId": "rosa_sanchez",
+      "margin": 10.8,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34012": {
+      "votes": {
+        "brian_romero": 234,
+        "rosa_sanchez": 86,
+        "scattered": 0
+      },
+      "total": 320,
+      "winnerId": "brian_romero",
+      "margin": 46.3,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34013": {
+      "votes": {
+        "brian_romero": 179,
+        "rosa_sanchez": 53,
+        "scattered": 3
+      },
+      "total": 235,
+      "winnerId": "brian_romero",
+      "margin": 53.6,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34014": {
+      "votes": {
+        "brian_romero": 122,
+        "rosa_sanchez": 53,
+        "scattered": 1
+      },
+      "total": 176,
+      "winnerId": "brian_romero",
+      "margin": 39.2,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34015": {
+      "votes": {
+        "brian_romero": 110,
+        "rosa_sanchez": 37,
+        "scattered": 1
+      },
+      "total": 148,
+      "winnerId": "brian_romero",
+      "margin": 49.3,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34016": {
+      "votes": {
+        "brian_romero": 19,
+        "rosa_sanchez": 12,
+        "scattered": 1
+      },
+      "total": 32,
+      "winnerId": "brian_romero",
+      "margin": 21.9,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34017": {
+      "votes": {
+        "brian_romero": 134,
+        "rosa_sanchez": 46,
+        "scattered": 2
+      },
+      "total": 182,
+      "winnerId": "brian_romero",
+      "margin": 48.4,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34018": {
+      "votes": {
+        "brian_romero": 147,
+        "rosa_sanchez": 47,
+        "scattered": 2
+      },
+      "total": 196,
+      "winnerId": "brian_romero",
+      "margin": 51,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34019": {
+      "votes": {
+        "brian_romero": 151,
+        "rosa_sanchez": 40,
+        "scattered": 1
+      },
+      "total": 192,
+      "winnerId": "brian_romero",
+      "margin": 57.8,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34020": {
+      "votes": {
+        "brian_romero": 159,
+        "rosa_sanchez": 50,
+        "scattered": 1
+      },
+      "total": 210,
+      "winnerId": "brian_romero",
+      "margin": 51.9,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34021": {
+      "votes": {
+        "brian_romero": 29,
+        "rosa_sanchez": 59,
+        "scattered": 0
+      },
+      "total": 88,
+      "winnerId": "rosa_sanchez",
+      "margin": 34.1,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34022": {
+      "votes": {
+        "brian_romero": 42,
+        "rosa_sanchez": 30,
+        "scattered": 2
+      },
+      "total": 74,
+      "winnerId": "brian_romero",
+      "margin": 16.2,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34023": {
+      "votes": {
+        "brian_romero": 66,
+        "rosa_sanchez": 23,
+        "scattered": 0
+      },
+      "total": 89,
+      "winnerId": "brian_romero",
+      "margin": 48.3,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34024": {
+      "votes": {
+        "brian_romero": 154,
+        "rosa_sanchez": 54,
+        "scattered": 1
+      },
+      "total": 209,
+      "winnerId": "brian_romero",
+      "margin": 47.8,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34025": {
+      "votes": {
+        "brian_romero": 182,
+        "rosa_sanchez": 77,
+        "scattered": 2
+      },
+      "total": 261,
+      "winnerId": "brian_romero",
+      "margin": 40.2,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34026": {
+      "votes": {
+        "brian_romero": 156,
+        "rosa_sanchez": 52,
+        "scattered": 0
+      },
+      "total": 208,
+      "winnerId": "brian_romero",
+      "margin": 50,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34027": {
+      "votes": {
+        "brian_romero": 46,
+        "rosa_sanchez": 29,
+        "scattered": 1
+      },
+      "total": 76,
+      "winnerId": "brian_romero",
+      "margin": 22.4,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34028": {
+      "votes": {
+        "brian_romero": 37,
+        "rosa_sanchez": 50,
+        "scattered": 0
+      },
+      "total": 87,
+      "winnerId": "rosa_sanchez",
+      "margin": 14.9,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34029": {
+      "votes": {
+        "brian_romero": 41,
+        "rosa_sanchez": 24,
+        "scattered": 0
+      },
+      "total": 65,
+      "winnerId": "brian_romero",
+      "margin": 26.2,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34030": {
+      "votes": {
+        "brian_romero": 40,
+        "rosa_sanchez": 19,
+        "scattered": 1
+      },
+      "total": 60,
+      "winnerId": "brian_romero",
+      "margin": 35,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34031": {
+      "votes": {
+        "brian_romero": 59,
+        "rosa_sanchez": 36,
+        "scattered": 2
+      },
+      "total": 97,
+      "winnerId": "brian_romero",
+      "margin": 23.7,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34032": {
+      "votes": {
+        "brian_romero": 34,
+        "rosa_sanchez": 32,
+        "scattered": 0
+      },
+      "total": 66,
+      "winnerId": "brian_romero",
+      "margin": 3,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34033": {
+      "votes": {
+        "brian_romero": 22,
+        "rosa_sanchez": 20,
+        "scattered": 0
+      },
+      "total": 42,
+      "winnerId": "brian_romero",
+      "margin": 4.8,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34034": {
+      "votes": {
+        "brian_romero": 50,
+        "rosa_sanchez": 38,
+        "scattered": 0
+      },
+      "total": 88,
+      "winnerId": "brian_romero",
+      "margin": 13.6,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34035": {
+      "votes": {
+        "brian_romero": 32,
+        "rosa_sanchez": 45,
+        "scattered": 1
+      },
+      "total": 78,
+      "winnerId": "rosa_sanchez",
+      "margin": 16.7,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34036": {
+      "votes": {
+        "brian_romero": 65,
+        "rosa_sanchez": 59,
+        "scattered": 2
+      },
+      "total": 126,
+      "winnerId": "brian_romero",
+      "margin": 4.8,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34037": {
+      "votes": {
+        "brian_romero": 26,
+        "rosa_sanchez": 27,
+        "scattered": 1
+      },
+      "total": 54,
+      "winnerId": "rosa_sanchez",
+      "margin": 1.9,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34038": {
+      "votes": {
+        "brian_romero": 42,
+        "rosa_sanchez": 25,
+        "scattered": 0
+      },
+      "total": 67,
+      "winnerId": "brian_romero",
+      "margin": 25.4,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34039": {
+      "votes": {
+        "brian_romero": 138,
+        "rosa_sanchez": 58,
+        "scattered": 6
+      },
+      "total": 202,
+      "winnerId": "brian_romero",
+      "margin": 39.6,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34040": {
+      "votes": {
+        "brian_romero": 39,
+        "rosa_sanchez": 24,
+        "scattered": 0
+      },
+      "total": 63,
+      "winnerId": "brian_romero",
+      "margin": 23.8,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34041": {
+      "votes": {
+        "brian_romero": 179,
+        "rosa_sanchez": 81,
+        "scattered": 4
+      },
+      "total": 264,
+      "winnerId": "brian_romero",
+      "margin": 37.1,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34042": {
+      "votes": {
+        "brian_romero": 96,
+        "rosa_sanchez": 51,
+        "scattered": 3
+      },
+      "total": 150,
+      "winnerId": "brian_romero",
+      "margin": 30,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34043": {
+      "votes": {
+        "brian_romero": 85,
+        "rosa_sanchez": 44,
+        "scattered": 4
+      },
+      "total": 133,
+      "winnerId": "brian_romero",
+      "margin": 30.8,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34044": {
+      "votes": {
+        "brian_romero": 78,
+        "rosa_sanchez": 46,
+        "scattered": 1
+      },
+      "total": 125,
+      "winnerId": "brian_romero",
+      "margin": 25.6,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34045": {
+      "votes": {
+        "brian_romero": 31,
+        "rosa_sanchez": 19,
+        "scattered": 2
+      },
+      "total": 52,
+      "winnerId": "brian_romero",
+      "margin": 23.1,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34046": {
+      "votes": {
+        "brian_romero": 154,
+        "rosa_sanchez": 93,
+        "scattered": 0
+      },
+      "total": 247,
+      "winnerId": "brian_romero",
+      "margin": 24.7,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34047": {
+      "votes": {
+        "brian_romero": 108,
+        "rosa_sanchez": 62,
+        "scattered": 2
+      },
+      "total": 172,
+      "winnerId": "brian_romero",
+      "margin": 26.7,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34048": {
+      "votes": {
+        "brian_romero": 81,
+        "rosa_sanchez": 46,
+        "scattered": 4
+      },
+      "total": 131,
+      "winnerId": "brian_romero",
+      "margin": 26.7,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34049": {
+      "votes": {
+        "brian_romero": 149,
+        "rosa_sanchez": 80,
+        "scattered": 1
+      },
+      "total": 230,
+      "winnerId": "brian_romero",
+      "margin": 30,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34050": {
+      "votes": {
+        "brian_romero": 87,
+        "rosa_sanchez": 72,
+        "scattered": 2
+      },
+      "total": 161,
+      "winnerId": "brian_romero",
+      "margin": 9.3,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34051": {
+      "votes": {
+        "brian_romero": 64,
+        "rosa_sanchez": 55,
+        "scattered": 3
+      },
+      "total": 122,
+      "winnerId": "brian_romero",
+      "margin": 7.4,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34052": {
+      "votes": {
+        "brian_romero": 43,
+        "rosa_sanchez": 24,
+        "scattered": 0
+      },
+      "total": 67,
+      "winnerId": "brian_romero",
+      "margin": 28.4,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34053": {
+      "votes": {
+        "brian_romero": 1,
+        "rosa_sanchez": 0,
+        "scattered": 0
+      },
+      "total": 1,
+      "winnerId": "brian_romero",
+      "margin": 100,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34054": {
+      "votes": {
+        "brian_romero": 56,
+        "rosa_sanchez": 47,
+        "scattered": 0
+      },
+      "total": 103,
+      "winnerId": "brian_romero",
+      "margin": 8.7,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34055": {
+      "votes": {
+        "brian_romero": 55,
+        "rosa_sanchez": 38,
+        "scattered": 1
+      },
+      "total": 94,
+      "winnerId": "brian_romero",
+      "margin": 18.1,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34056": {
+      "votes": {
+        "brian_romero": 37,
+        "rosa_sanchez": 34,
+        "scattered": 1
+      },
+      "total": 72,
+      "winnerId": "brian_romero",
+      "margin": 4.2,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34058": {
+      "votes": {
+        "brian_romero": 0,
+        "rosa_sanchez": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "brian_romero",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34/001": {
+      "votes": {
+        "brian_romero": 145,
+        "rosa_sanchez": 57,
+        "scattered": 1
+      },
+      "total": 203,
+      "winnerId": "brian_romero",
+      "margin": 43.3,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34/002": {
+      "votes": {
+        "brian_romero": 12,
+        "rosa_sanchez": 21,
+        "scattered": 0
+      },
+      "total": 33,
+      "winnerId": "rosa_sanchez",
+      "margin": 27.3,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34/003": {
+      "votes": {
+        "brian_romero": 104,
+        "rosa_sanchez": 29,
+        "scattered": 0
+      },
+      "total": 133,
+      "winnerId": "brian_romero",
+      "margin": 56.4,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34/004": {
+      "votes": {
+        "brian_romero": 176,
+        "rosa_sanchez": 54,
+        "scattered": 0
+      },
+      "total": 230,
+      "winnerId": "brian_romero",
+      "margin": 53,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34/005": {
+      "votes": {
+        "brian_romero": 205,
+        "rosa_sanchez": 52,
+        "scattered": 0
+      },
+      "total": 257,
+      "winnerId": "brian_romero",
+      "margin": 59.5,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34/006": {
+      "votes": {
+        "brian_romero": 10,
+        "rosa_sanchez": 7,
+        "scattered": 0
+      },
+      "total": 17,
+      "winnerId": "brian_romero",
+      "margin": 17.6,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34/007": {
+      "votes": {
+        "brian_romero": 179,
+        "rosa_sanchez": 51,
+        "scattered": 1
+      },
+      "total": 231,
+      "winnerId": "brian_romero",
+      "margin": 55.4,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34/008": {
+      "votes": {
+        "brian_romero": 179,
+        "rosa_sanchez": 56,
+        "scattered": 2
+      },
+      "total": 237,
+      "winnerId": "brian_romero",
+      "margin": 51.9,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34/009": {
+      "votes": {
+        "brian_romero": 125,
+        "rosa_sanchez": 40,
+        "scattered": 0
+      },
+      "total": 165,
+      "winnerId": "brian_romero",
+      "margin": 51.5,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34/010": {
+      "votes": {
+        "brian_romero": 37,
+        "rosa_sanchez": 31,
+        "scattered": 0
+      },
+      "total": 68,
+      "winnerId": "brian_romero",
+      "margin": 8.8,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34/011": {
+      "votes": {
+        "brian_romero": 33,
+        "rosa_sanchez": 41,
+        "scattered": 0
+      },
+      "total": 74,
+      "winnerId": "rosa_sanchez",
+      "margin": 10.8,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34/012": {
+      "votes": {
+        "brian_romero": 234,
+        "rosa_sanchez": 86,
+        "scattered": 0
+      },
+      "total": 320,
+      "winnerId": "brian_romero",
+      "margin": 46.3,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34/013": {
+      "votes": {
+        "brian_romero": 179,
+        "rosa_sanchez": 53,
+        "scattered": 3
+      },
+      "total": 235,
+      "winnerId": "brian_romero",
+      "margin": 53.6,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34/014": {
+      "votes": {
+        "brian_romero": 122,
+        "rosa_sanchez": 53,
+        "scattered": 1
+      },
+      "total": 176,
+      "winnerId": "brian_romero",
+      "margin": 39.2,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34/015": {
+      "votes": {
+        "brian_romero": 110,
+        "rosa_sanchez": 37,
+        "scattered": 1
+      },
+      "total": 148,
+      "winnerId": "brian_romero",
+      "margin": 49.3,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34/016": {
+      "votes": {
+        "brian_romero": 19,
+        "rosa_sanchez": 12,
+        "scattered": 1
+      },
+      "total": 32,
+      "winnerId": "brian_romero",
+      "margin": 21.9,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34/017": {
+      "votes": {
+        "brian_romero": 134,
+        "rosa_sanchez": 46,
+        "scattered": 2
+      },
+      "total": 182,
+      "winnerId": "brian_romero",
+      "margin": 48.4,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34/018": {
+      "votes": {
+        "brian_romero": 147,
+        "rosa_sanchez": 47,
+        "scattered": 2
+      },
+      "total": 196,
+      "winnerId": "brian_romero",
+      "margin": 51,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34/019": {
+      "votes": {
+        "brian_romero": 151,
+        "rosa_sanchez": 40,
+        "scattered": 1
+      },
+      "total": 192,
+      "winnerId": "brian_romero",
+      "margin": 57.8,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34/020": {
+      "votes": {
+        "brian_romero": 159,
+        "rosa_sanchez": 50,
+        "scattered": 1
+      },
+      "total": 210,
+      "winnerId": "brian_romero",
+      "margin": 51.9,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34/021": {
+      "votes": {
+        "brian_romero": 29,
+        "rosa_sanchez": 59,
+        "scattered": 0
+      },
+      "total": 88,
+      "winnerId": "rosa_sanchez",
+      "margin": 34.1,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34/022": {
+      "votes": {
+        "brian_romero": 42,
+        "rosa_sanchez": 30,
+        "scattered": 2
+      },
+      "total": 74,
+      "winnerId": "brian_romero",
+      "margin": 16.2,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34/023": {
+      "votes": {
+        "brian_romero": 66,
+        "rosa_sanchez": 23,
+        "scattered": 0
+      },
+      "total": 89,
+      "winnerId": "brian_romero",
+      "margin": 48.3,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34/024": {
+      "votes": {
+        "brian_romero": 154,
+        "rosa_sanchez": 54,
+        "scattered": 1
+      },
+      "total": 209,
+      "winnerId": "brian_romero",
+      "margin": 47.8,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34/025": {
+      "votes": {
+        "brian_romero": 182,
+        "rosa_sanchez": 77,
+        "scattered": 2
+      },
+      "total": 261,
+      "winnerId": "brian_romero",
+      "margin": 40.2,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34/026": {
+      "votes": {
+        "brian_romero": 156,
+        "rosa_sanchez": 52,
+        "scattered": 0
+      },
+      "total": 208,
+      "winnerId": "brian_romero",
+      "margin": 50,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34/027": {
+      "votes": {
+        "brian_romero": 46,
+        "rosa_sanchez": 29,
+        "scattered": 1
+      },
+      "total": 76,
+      "winnerId": "brian_romero",
+      "margin": 22.4,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34/028": {
+      "votes": {
+        "brian_romero": 37,
+        "rosa_sanchez": 50,
+        "scattered": 0
+      },
+      "total": 87,
+      "winnerId": "rosa_sanchez",
+      "margin": 14.9,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34/029": {
+      "votes": {
+        "brian_romero": 41,
+        "rosa_sanchez": 24,
+        "scattered": 0
+      },
+      "total": 65,
+      "winnerId": "brian_romero",
+      "margin": 26.2,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34/030": {
+      "votes": {
+        "brian_romero": 40,
+        "rosa_sanchez": 19,
+        "scattered": 1
+      },
+      "total": 60,
+      "winnerId": "brian_romero",
+      "margin": 35,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34/031": {
+      "votes": {
+        "brian_romero": 59,
+        "rosa_sanchez": 36,
+        "scattered": 2
+      },
+      "total": 97,
+      "winnerId": "brian_romero",
+      "margin": 23.7,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34/032": {
+      "votes": {
+        "brian_romero": 34,
+        "rosa_sanchez": 32,
+        "scattered": 0
+      },
+      "total": 66,
+      "winnerId": "brian_romero",
+      "margin": 3,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34/033": {
+      "votes": {
+        "brian_romero": 22,
+        "rosa_sanchez": 20,
+        "scattered": 0
+      },
+      "total": 42,
+      "winnerId": "brian_romero",
+      "margin": 4.8,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34/034": {
+      "votes": {
+        "brian_romero": 50,
+        "rosa_sanchez": 38,
+        "scattered": 0
+      },
+      "total": 88,
+      "winnerId": "brian_romero",
+      "margin": 13.6,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34/035": {
+      "votes": {
+        "brian_romero": 32,
+        "rosa_sanchez": 45,
+        "scattered": 1
+      },
+      "total": 78,
+      "winnerId": "rosa_sanchez",
+      "margin": 16.7,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34/036": {
+      "votes": {
+        "brian_romero": 65,
+        "rosa_sanchez": 59,
+        "scattered": 2
+      },
+      "total": 126,
+      "winnerId": "brian_romero",
+      "margin": 4.8,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34/037": {
+      "votes": {
+        "brian_romero": 26,
+        "rosa_sanchez": 27,
+        "scattered": 1
+      },
+      "total": 54,
+      "winnerId": "rosa_sanchez",
+      "margin": 1.9,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34/038": {
+      "votes": {
+        "brian_romero": 42,
+        "rosa_sanchez": 25,
+        "scattered": 0
+      },
+      "total": 67,
+      "winnerId": "brian_romero",
+      "margin": 25.4,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34/039": {
+      "votes": {
+        "brian_romero": 138,
+        "rosa_sanchez": 58,
+        "scattered": 6
+      },
+      "total": 202,
+      "winnerId": "brian_romero",
+      "margin": 39.6,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34/040": {
+      "votes": {
+        "brian_romero": 39,
+        "rosa_sanchez": 24,
+        "scattered": 0
+      },
+      "total": 63,
+      "winnerId": "brian_romero",
+      "margin": 23.8,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34/041": {
+      "votes": {
+        "brian_romero": 179,
+        "rosa_sanchez": 81,
+        "scattered": 4
+      },
+      "total": 264,
+      "winnerId": "brian_romero",
+      "margin": 37.1,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34/042": {
+      "votes": {
+        "brian_romero": 96,
+        "rosa_sanchez": 51,
+        "scattered": 3
+      },
+      "total": 150,
+      "winnerId": "brian_romero",
+      "margin": 30,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34/043": {
+      "votes": {
+        "brian_romero": 85,
+        "rosa_sanchez": 44,
+        "scattered": 4
+      },
+      "total": 133,
+      "winnerId": "brian_romero",
+      "margin": 30.8,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34/044": {
+      "votes": {
+        "brian_romero": 78,
+        "rosa_sanchez": 46,
+        "scattered": 1
+      },
+      "total": 125,
+      "winnerId": "brian_romero",
+      "margin": 25.6,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34/045": {
+      "votes": {
+        "brian_romero": 31,
+        "rosa_sanchez": 19,
+        "scattered": 2
+      },
+      "total": 52,
+      "winnerId": "brian_romero",
+      "margin": 23.1,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34/046": {
+      "votes": {
+        "brian_romero": 154,
+        "rosa_sanchez": 93,
+        "scattered": 0
+      },
+      "total": 247,
+      "winnerId": "brian_romero",
+      "margin": 24.7,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34/047": {
+      "votes": {
+        "brian_romero": 108,
+        "rosa_sanchez": 62,
+        "scattered": 2
+      },
+      "total": 172,
+      "winnerId": "brian_romero",
+      "margin": 26.7,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34/048": {
+      "votes": {
+        "brian_romero": 81,
+        "rosa_sanchez": 46,
+        "scattered": 4
+      },
+      "total": 131,
+      "winnerId": "brian_romero",
+      "margin": 26.7,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34/049": {
+      "votes": {
+        "brian_romero": 149,
+        "rosa_sanchez": 80,
+        "scattered": 1
+      },
+      "total": 230,
+      "winnerId": "brian_romero",
+      "margin": 30,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34/050": {
+      "votes": {
+        "brian_romero": 87,
+        "rosa_sanchez": 72,
+        "scattered": 2
+      },
+      "total": 161,
+      "winnerId": "brian_romero",
+      "margin": 9.3,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34/051": {
+      "votes": {
+        "brian_romero": 64,
+        "rosa_sanchez": 55,
+        "scattered": 3
+      },
+      "total": 122,
+      "winnerId": "brian_romero",
+      "margin": 7.4,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34/052": {
+      "votes": {
+        "brian_romero": 43,
+        "rosa_sanchez": 24,
+        "scattered": 0
+      },
+      "total": 67,
+      "winnerId": "brian_romero",
+      "margin": 28.4,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34/053": {
+      "votes": {
+        "brian_romero": 1,
+        "rosa_sanchez": 0,
+        "scattered": 0
+      },
+      "total": 1,
+      "winnerId": "brian_romero",
+      "margin": 100,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34/054": {
+      "votes": {
+        "brian_romero": 56,
+        "rosa_sanchez": 47,
+        "scattered": 0
+      },
+      "total": 103,
+      "winnerId": "brian_romero",
+      "margin": 8.7,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34/055": {
+      "votes": {
+        "brian_romero": 55,
+        "rosa_sanchez": 38,
+        "scattered": 1
+      },
+      "total": 94,
+      "winnerId": "brian_romero",
+      "margin": 18.1,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34/056": {
+      "votes": {
+        "brian_romero": 37,
+        "rosa_sanchez": 34,
+        "scattered": 1
+      },
+      "total": 72,
+      "winnerId": "brian_romero",
+      "margin": 4.2,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "34/058": {
+      "votes": {
+        "brian_romero": 0,
+        "rosa_sanchez": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "brian_romero",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "brian_romero",
+          "name": "Brian Romero",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "rosa_sanchez",
+          "name": "Rosa Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    }
+  }
+}

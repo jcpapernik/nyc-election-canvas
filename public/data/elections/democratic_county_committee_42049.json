@@ -1,0 +1,291 @@
+{
+  "id": "democratic_county_committee_42049",
+  "name": "2026 Primary - County Committee District 42049",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "Judicial & Party Offices",
+  "districtKey": "42049",
+  "districtType": "congressional",
+  "isUncontested": false,
+  "candidates": [
+    {
+      "id": "eleanor_h_nussbaum",
+      "name": "Eleanor H. Nussbaum",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#d97706"
+    },
+    {
+      "id": "susan_k_oneill",
+      "name": "Susan K. Oneill",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#7c3aed"
+    },
+    {
+      "id": "david_a_karopkin",
+      "name": "David A. Karopkin",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#059669"
+    },
+    {
+      "id": "raymond_p_oneill",
+      "name": "Raymond P. Oneill",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#0891b2"
+    },
+    {
+      "id": "carlon_e_williams",
+      "name": "Carlon E. Williams",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#4f46e5"
+    },
+    {
+      "id": "alix_c_vernet",
+      "name": "Alix C. Vernet",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#db2777"
+    },
+    {
+      "id": "yanick_n_vernet",
+      "name": "Yanick N. Vernet",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#64748b"
+    },
+    {
+      "id": "scattered",
+      "name": "Scattered",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#64748b"
+    }
+  ],
+  "results": {
+    "42049": {
+      "votes": {
+        "eleanor_h_nussbaum": 108,
+        "susan_k_oneill": 100,
+        "david_a_karopkin": 98,
+        "raymond_p_oneill": 88,
+        "carlon_e_williams": 47,
+        "alix_c_vernet": 41,
+        "yanick_n_vernet": 27,
+        "scattered": 9
+      },
+      "total": 518,
+      "winnerId": "eleanor_h_nussbaum",
+      "margin": 1.5,
+      "candidates": [
+        {
+          "id": "eleanor_h_nussbaum",
+          "name": "Eleanor H. Nussbaum",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "susan_k_oneill",
+          "name": "Susan K. Oneill",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "david_a_karopkin",
+          "name": "David A. Karopkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "raymond_p_oneill",
+          "name": "Raymond P. Oneill",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "carlon_e_williams",
+          "name": "Carlon E. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "alix_c_vernet",
+          "name": "Alix C. Vernet",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        },
+        {
+          "id": "yanick_n_vernet",
+          "name": "Yanick N. Vernet",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#64748b"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#64748b"
+        }
+      ]
+    }
+  },
+  "edResults": {
+    "42049": {
+      "votes": {
+        "eleanor_h_nussbaum": 108,
+        "susan_k_oneill": 100,
+        "david_a_karopkin": 98,
+        "raymond_p_oneill": 88,
+        "carlon_e_williams": 47,
+        "alix_c_vernet": 41,
+        "yanick_n_vernet": 27,
+        "scattered": 9
+      },
+      "total": 518,
+      "winnerId": "eleanor_h_nussbaum",
+      "margin": 1.5,
+      "candidates": [
+        {
+          "id": "eleanor_h_nussbaum",
+          "name": "Eleanor H. Nussbaum",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "susan_k_oneill",
+          "name": "Susan K. Oneill",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "david_a_karopkin",
+          "name": "David A. Karopkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "raymond_p_oneill",
+          "name": "Raymond P. Oneill",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "carlon_e_williams",
+          "name": "Carlon E. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "alix_c_vernet",
+          "name": "Alix C. Vernet",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        },
+        {
+          "id": "yanick_n_vernet",
+          "name": "Yanick N. Vernet",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#64748b"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#64748b"
+        }
+      ]
+    },
+    "42/049": {
+      "votes": {
+        "eleanor_h_nussbaum": 108,
+        "susan_k_oneill": 100,
+        "david_a_karopkin": 98,
+        "raymond_p_oneill": 88,
+        "carlon_e_williams": 47,
+        "alix_c_vernet": 41,
+        "yanick_n_vernet": 27,
+        "scattered": 9
+      },
+      "total": 518,
+      "winnerId": "eleanor_h_nussbaum",
+      "margin": 1.5,
+      "candidates": [
+        {
+          "id": "eleanor_h_nussbaum",
+          "name": "Eleanor H. Nussbaum",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "susan_k_oneill",
+          "name": "Susan K. Oneill",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "david_a_karopkin",
+          "name": "David A. Karopkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "raymond_p_oneill",
+          "name": "Raymond P. Oneill",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "carlon_e_williams",
+          "name": "Carlon E. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "alix_c_vernet",
+          "name": "Alix C. Vernet",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        },
+        {
+          "id": "yanick_n_vernet",
+          "name": "Yanick N. Vernet",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#64748b"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#64748b"
+        }
+      ]
+    }
+  }
+}

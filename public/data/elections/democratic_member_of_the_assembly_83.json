@@ -1,0 +1,31 @@
+{
+  "id": "democratic_member_of_the_assembly_83",
+  "name": "2026 Primary - Member of the Assembly District 83",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "State Assembly",
+  "districtKey": "83",
+  "districtType": "assembly",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "carl_heastie",
+      "name": "Carl Heastie",
+      "party": "Democratic",
+      "isIncumbent": true,
+      "color": "#2563eb"
+    }
+  ],
+  "results": {
+    "83": {
+      "votes": {
+        "uncontested_primary_assembly_83": 0
+      },
+      "total": 0,
+      "winnerId": "uncontested_primary_assembly_83",
+      "margin": 100,
+      "isUncontested": true
+    }
+  },
+  "edResults": {}
+}

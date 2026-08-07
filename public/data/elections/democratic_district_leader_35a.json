@@ -1,0 +1,3040 @@
+{
+  "id": "democratic_district_leader_35a",
+  "name": "2026 Primary - District Leader District 35A",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "Judicial & Party Offices",
+  "districtKey": "35A",
+  "districtType": "congressional",
+  "isUncontested": false,
+  "candidates": [
+    {
+      "id": "larinda_c_hooks_(f)",
+      "name": "Larinda C. Hooks (F)",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#d97706"
+    },
+    {
+      "id": "hiram_monserrate_(m)",
+      "name": "Hiram Monserrate (M)",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#7c3aed"
+    },
+    {
+      "id": "sonya_harvey_(f)",
+      "name": "Sonya Harvey (F)",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#059669"
+    },
+    {
+      "id": "david_aiken_(m)",
+      "name": "David Aiken (M)",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#0891b2"
+    },
+    {
+      "id": "scattered",
+      "name": "Scattered",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#4f46e5"
+    }
+  ],
+  "results": {
+    "35A": {
+      "votes": {
+        "larinda_c_hooks_f_": 959,
+        "hiram_monserrate_m_": 848,
+        "sonya_harvey_f_": 723,
+        "david_aiken_m_": 613,
+        "scattered": 13
+      },
+      "total": 3156,
+      "winnerId": "larinda_c_hooks_f_",
+      "margin": 3.5,
+      "candidates": [
+        {
+          "id": "larinda_c_hooks_f_",
+          "name": "Larinda C. Hooks (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hiram_monserrate_m_",
+          "name": "Hiram Monserrate (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sonya_harvey_f_",
+          "name": "Sonya Harvey (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "david_aiken_m_",
+          "name": "David Aiken (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    }
+  },
+  "edResults": {
+    "35001": {
+      "votes": {
+        "larinda_c_hooks_f_": 33,
+        "hiram_monserrate_m_": 15,
+        "sonya_harvey_f_": 36,
+        "david_aiken_m_": 20,
+        "scattered": 1
+      },
+      "total": 105,
+      "winnerId": "sonya_harvey_f_",
+      "margin": 2.9,
+      "candidates": [
+        {
+          "id": "larinda_c_hooks_f_",
+          "name": "Larinda C. Hooks (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hiram_monserrate_m_",
+          "name": "Hiram Monserrate (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sonya_harvey_f_",
+          "name": "Sonya Harvey (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "david_aiken_m_",
+          "name": "David Aiken (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "35002": {
+      "votes": {
+        "larinda_c_hooks_f_": 19,
+        "hiram_monserrate_m_": 26,
+        "sonya_harvey_f_": 19,
+        "david_aiken_m_": 15,
+        "scattered": 0
+      },
+      "total": 79,
+      "winnerId": "hiram_monserrate_m_",
+      "margin": 8.9,
+      "candidates": [
+        {
+          "id": "larinda_c_hooks_f_",
+          "name": "Larinda C. Hooks (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hiram_monserrate_m_",
+          "name": "Hiram Monserrate (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sonya_harvey_f_",
+          "name": "Sonya Harvey (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "david_aiken_m_",
+          "name": "David Aiken (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "35003": {
+      "votes": {
+        "larinda_c_hooks_f_": 36,
+        "hiram_monserrate_m_": 21,
+        "sonya_harvey_f_": 20,
+        "david_aiken_m_": 18,
+        "scattered": 0
+      },
+      "total": 95,
+      "winnerId": "larinda_c_hooks_f_",
+      "margin": 15.8,
+      "candidates": [
+        {
+          "id": "larinda_c_hooks_f_",
+          "name": "Larinda C. Hooks (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hiram_monserrate_m_",
+          "name": "Hiram Monserrate (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sonya_harvey_f_",
+          "name": "Sonya Harvey (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "david_aiken_m_",
+          "name": "David Aiken (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "35004": {
+      "votes": {
+        "larinda_c_hooks_f_": 28,
+        "hiram_monserrate_m_": 20,
+        "sonya_harvey_f_": 25,
+        "david_aiken_m_": 24,
+        "scattered": 1
+      },
+      "total": 98,
+      "winnerId": "larinda_c_hooks_f_",
+      "margin": 3.1,
+      "candidates": [
+        {
+          "id": "larinda_c_hooks_f_",
+          "name": "Larinda C. Hooks (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hiram_monserrate_m_",
+          "name": "Hiram Monserrate (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sonya_harvey_f_",
+          "name": "Sonya Harvey (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "david_aiken_m_",
+          "name": "David Aiken (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "35005": {
+      "votes": {
+        "larinda_c_hooks_f_": 57,
+        "hiram_monserrate_m_": 52,
+        "sonya_harvey_f_": 35,
+        "david_aiken_m_": 38,
+        "scattered": 0
+      },
+      "total": 182,
+      "winnerId": "larinda_c_hooks_f_",
+      "margin": 2.7,
+      "candidates": [
+        {
+          "id": "larinda_c_hooks_f_",
+          "name": "Larinda C. Hooks (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hiram_monserrate_m_",
+          "name": "Hiram Monserrate (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sonya_harvey_f_",
+          "name": "Sonya Harvey (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "david_aiken_m_",
+          "name": "David Aiken (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "35006": {
+      "votes": {
+        "larinda_c_hooks_f_": 55,
+        "hiram_monserrate_m_": 53,
+        "sonya_harvey_f_": 42,
+        "david_aiken_m_": 32,
+        "scattered": 1
+      },
+      "total": 183,
+      "winnerId": "larinda_c_hooks_f_",
+      "margin": 1.1,
+      "candidates": [
+        {
+          "id": "larinda_c_hooks_f_",
+          "name": "Larinda C. Hooks (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hiram_monserrate_m_",
+          "name": "Hiram Monserrate (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sonya_harvey_f_",
+          "name": "Sonya Harvey (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "david_aiken_m_",
+          "name": "David Aiken (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "35007": {
+      "votes": {
+        "larinda_c_hooks_f_": 93,
+        "hiram_monserrate_m_": 68,
+        "sonya_harvey_f_": 53,
+        "david_aiken_m_": 57,
+        "scattered": 0
+      },
+      "total": 271,
+      "winnerId": "larinda_c_hooks_f_",
+      "margin": 9.2,
+      "candidates": [
+        {
+          "id": "larinda_c_hooks_f_",
+          "name": "Larinda C. Hooks (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hiram_monserrate_m_",
+          "name": "Hiram Monserrate (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sonya_harvey_f_",
+          "name": "Sonya Harvey (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "david_aiken_m_",
+          "name": "David Aiken (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "35008": {
+      "votes": {
+        "larinda_c_hooks_f_": 118,
+        "hiram_monserrate_m_": 74,
+        "sonya_harvey_f_": 72,
+        "david_aiken_m_": 65,
+        "scattered": 1
+      },
+      "total": 330,
+      "winnerId": "larinda_c_hooks_f_",
+      "margin": 13.3,
+      "candidates": [
+        {
+          "id": "larinda_c_hooks_f_",
+          "name": "Larinda C. Hooks (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hiram_monserrate_m_",
+          "name": "Hiram Monserrate (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sonya_harvey_f_",
+          "name": "Sonya Harvey (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "david_aiken_m_",
+          "name": "David Aiken (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "35010": {
+      "votes": {
+        "larinda_c_hooks_f_": 33,
+        "hiram_monserrate_m_": 24,
+        "sonya_harvey_f_": 29,
+        "david_aiken_m_": 16,
+        "scattered": 0
+      },
+      "total": 102,
+      "winnerId": "larinda_c_hooks_f_",
+      "margin": 3.9,
+      "candidates": [
+        {
+          "id": "larinda_c_hooks_f_",
+          "name": "Larinda C. Hooks (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hiram_monserrate_m_",
+          "name": "Hiram Monserrate (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sonya_harvey_f_",
+          "name": "Sonya Harvey (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "david_aiken_m_",
+          "name": "David Aiken (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "35011": {
+      "votes": {
+        "larinda_c_hooks_f_": 36,
+        "hiram_monserrate_m_": 31,
+        "sonya_harvey_f_": 34,
+        "david_aiken_m_": 22,
+        "scattered": 1
+      },
+      "total": 124,
+      "winnerId": "larinda_c_hooks_f_",
+      "margin": 1.6,
+      "candidates": [
+        {
+          "id": "larinda_c_hooks_f_",
+          "name": "Larinda C. Hooks (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hiram_monserrate_m_",
+          "name": "Hiram Monserrate (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sonya_harvey_f_",
+          "name": "Sonya Harvey (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "david_aiken_m_",
+          "name": "David Aiken (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "35012": {
+      "votes": {
+        "larinda_c_hooks_f_": 38,
+        "hiram_monserrate_m_": 46,
+        "sonya_harvey_f_": 29,
+        "david_aiken_m_": 22,
+        "scattered": 0
+      },
+      "total": 135,
+      "winnerId": "hiram_monserrate_m_",
+      "margin": 5.9,
+      "candidates": [
+        {
+          "id": "larinda_c_hooks_f_",
+          "name": "Larinda C. Hooks (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hiram_monserrate_m_",
+          "name": "Hiram Monserrate (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sonya_harvey_f_",
+          "name": "Sonya Harvey (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "david_aiken_m_",
+          "name": "David Aiken (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "35013": {
+      "votes": {
+        "larinda_c_hooks_f_": 37,
+        "hiram_monserrate_m_": 60,
+        "sonya_harvey_f_": 37,
+        "david_aiken_m_": 19,
+        "scattered": 2
+      },
+      "total": 155,
+      "winnerId": "hiram_monserrate_m_",
+      "margin": 14.8,
+      "candidates": [
+        {
+          "id": "larinda_c_hooks_f_",
+          "name": "Larinda C. Hooks (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hiram_monserrate_m_",
+          "name": "Hiram Monserrate (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sonya_harvey_f_",
+          "name": "Sonya Harvey (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "david_aiken_m_",
+          "name": "David Aiken (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "35014": {
+      "votes": {
+        "larinda_c_hooks_f_": 64,
+        "hiram_monserrate_m_": 75,
+        "sonya_harvey_f_": 47,
+        "david_aiken_m_": 40,
+        "scattered": 0
+      },
+      "total": 226,
+      "winnerId": "hiram_monserrate_m_",
+      "margin": 4.9,
+      "candidates": [
+        {
+          "id": "larinda_c_hooks_f_",
+          "name": "Larinda C. Hooks (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hiram_monserrate_m_",
+          "name": "Hiram Monserrate (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sonya_harvey_f_",
+          "name": "Sonya Harvey (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "david_aiken_m_",
+          "name": "David Aiken (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "35015": {
+      "votes": {
+        "larinda_c_hooks_f_": 43,
+        "hiram_monserrate_m_": 45,
+        "sonya_harvey_f_": 29,
+        "david_aiken_m_": 32,
+        "scattered": 0
+      },
+      "total": 149,
+      "winnerId": "hiram_monserrate_m_",
+      "margin": 1.3,
+      "candidates": [
+        {
+          "id": "larinda_c_hooks_f_",
+          "name": "Larinda C. Hooks (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hiram_monserrate_m_",
+          "name": "Hiram Monserrate (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sonya_harvey_f_",
+          "name": "Sonya Harvey (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "david_aiken_m_",
+          "name": "David Aiken (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "35016": {
+      "votes": {
+        "larinda_c_hooks_f_": 108,
+        "hiram_monserrate_m_": 59,
+        "sonya_harvey_f_": 45,
+        "david_aiken_m_": 76,
+        "scattered": 0
+      },
+      "total": 288,
+      "winnerId": "larinda_c_hooks_f_",
+      "margin": 11.1,
+      "candidates": [
+        {
+          "id": "larinda_c_hooks_f_",
+          "name": "Larinda C. Hooks (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hiram_monserrate_m_",
+          "name": "Hiram Monserrate (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sonya_harvey_f_",
+          "name": "Sonya Harvey (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "david_aiken_m_",
+          "name": "David Aiken (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "35017": {
+      "votes": {
+        "larinda_c_hooks_f_": 30,
+        "hiram_monserrate_m_": 51,
+        "sonya_harvey_f_": 32,
+        "david_aiken_m_": 26,
+        "scattered": 1
+      },
+      "total": 140,
+      "winnerId": "hiram_monserrate_m_",
+      "margin": 13.6,
+      "candidates": [
+        {
+          "id": "larinda_c_hooks_f_",
+          "name": "Larinda C. Hooks (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hiram_monserrate_m_",
+          "name": "Hiram Monserrate (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sonya_harvey_f_",
+          "name": "Sonya Harvey (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "david_aiken_m_",
+          "name": "David Aiken (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "35018": {
+      "votes": {
+        "larinda_c_hooks_f_": 14,
+        "hiram_monserrate_m_": 20,
+        "sonya_harvey_f_": 11,
+        "david_aiken_m_": 11,
+        "scattered": 1
+      },
+      "total": 57,
+      "winnerId": "hiram_monserrate_m_",
+      "margin": 10.5,
+      "candidates": [
+        {
+          "id": "larinda_c_hooks_f_",
+          "name": "Larinda C. Hooks (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hiram_monserrate_m_",
+          "name": "Hiram Monserrate (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sonya_harvey_f_",
+          "name": "Sonya Harvey (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "david_aiken_m_",
+          "name": "David Aiken (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "35019": {
+      "votes": {
+        "larinda_c_hooks_f_": 12,
+        "hiram_monserrate_m_": 24,
+        "sonya_harvey_f_": 13,
+        "david_aiken_m_": 14,
+        "scattered": 0
+      },
+      "total": 63,
+      "winnerId": "hiram_monserrate_m_",
+      "margin": 15.9,
+      "candidates": [
+        {
+          "id": "larinda_c_hooks_f_",
+          "name": "Larinda C. Hooks (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hiram_monserrate_m_",
+          "name": "Hiram Monserrate (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sonya_harvey_f_",
+          "name": "Sonya Harvey (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "david_aiken_m_",
+          "name": "David Aiken (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "35020": {
+      "votes": {
+        "larinda_c_hooks_f_": 17,
+        "hiram_monserrate_m_": 10,
+        "sonya_harvey_f_": 6,
+        "david_aiken_m_": 8,
+        "scattered": 0
+      },
+      "total": 41,
+      "winnerId": "larinda_c_hooks_f_",
+      "margin": 17.1,
+      "candidates": [
+        {
+          "id": "larinda_c_hooks_f_",
+          "name": "Larinda C. Hooks (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hiram_monserrate_m_",
+          "name": "Hiram Monserrate (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sonya_harvey_f_",
+          "name": "Sonya Harvey (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "david_aiken_m_",
+          "name": "David Aiken (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "35021": {
+      "votes": {
+        "larinda_c_hooks_f_": 20,
+        "hiram_monserrate_m_": 25,
+        "sonya_harvey_f_": 38,
+        "david_aiken_m_": 23,
+        "scattered": 2
+      },
+      "total": 108,
+      "winnerId": "sonya_harvey_f_",
+      "margin": 12,
+      "candidates": [
+        {
+          "id": "larinda_c_hooks_f_",
+          "name": "Larinda C. Hooks (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hiram_monserrate_m_",
+          "name": "Hiram Monserrate (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sonya_harvey_f_",
+          "name": "Sonya Harvey (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "david_aiken_m_",
+          "name": "David Aiken (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "35022": {
+      "votes": {
+        "larinda_c_hooks_f_": 35,
+        "hiram_monserrate_m_": 31,
+        "sonya_harvey_f_": 36,
+        "david_aiken_m_": 18,
+        "scattered": 2
+      },
+      "total": 122,
+      "winnerId": "sonya_harvey_f_",
+      "margin": 0.8,
+      "candidates": [
+        {
+          "id": "larinda_c_hooks_f_",
+          "name": "Larinda C. Hooks (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hiram_monserrate_m_",
+          "name": "Hiram Monserrate (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sonya_harvey_f_",
+          "name": "Sonya Harvey (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "david_aiken_m_",
+          "name": "David Aiken (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "35047": {
+      "votes": {
+        "larinda_c_hooks_f_": 0,
+        "hiram_monserrate_m_": 0,
+        "sonya_harvey_f_": 0,
+        "david_aiken_m_": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "larinda_c_hooks_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "larinda_c_hooks_f_",
+          "name": "Larinda C. Hooks (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hiram_monserrate_m_",
+          "name": "Hiram Monserrate (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sonya_harvey_f_",
+          "name": "Sonya Harvey (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "david_aiken_m_",
+          "name": "David Aiken (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "35049": {
+      "votes": {
+        "larinda_c_hooks_f_": 33,
+        "hiram_monserrate_m_": 18,
+        "sonya_harvey_f_": 35,
+        "david_aiken_m_": 17,
+        "scattered": 0
+      },
+      "total": 103,
+      "winnerId": "sonya_harvey_f_",
+      "margin": 1.9,
+      "candidates": [
+        {
+          "id": "larinda_c_hooks_f_",
+          "name": "Larinda C. Hooks (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hiram_monserrate_m_",
+          "name": "Hiram Monserrate (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sonya_harvey_f_",
+          "name": "Sonya Harvey (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "david_aiken_m_",
+          "name": "David Aiken (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "35050": {
+      "votes": {
+        "larinda_c_hooks_f_": 0,
+        "hiram_monserrate_m_": 0,
+        "sonya_harvey_f_": 0,
+        "david_aiken_m_": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "larinda_c_hooks_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "larinda_c_hooks_f_",
+          "name": "Larinda C. Hooks (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hiram_monserrate_m_",
+          "name": "Hiram Monserrate (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sonya_harvey_f_",
+          "name": "Sonya Harvey (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "david_aiken_m_",
+          "name": "David Aiken (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "35053": {
+      "votes": {
+        "larinda_c_hooks_f_": 0,
+        "hiram_monserrate_m_": 0,
+        "sonya_harvey_f_": 0,
+        "david_aiken_m_": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "larinda_c_hooks_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "larinda_c_hooks_f_",
+          "name": "Larinda C. Hooks (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hiram_monserrate_m_",
+          "name": "Hiram Monserrate (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sonya_harvey_f_",
+          "name": "Sonya Harvey (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "david_aiken_m_",
+          "name": "David Aiken (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "35054": {
+      "votes": {
+        "larinda_c_hooks_f_": 0,
+        "hiram_monserrate_m_": 0,
+        "sonya_harvey_f_": 0,
+        "david_aiken_m_": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "larinda_c_hooks_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "larinda_c_hooks_f_",
+          "name": "Larinda C. Hooks (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hiram_monserrate_m_",
+          "name": "Hiram Monserrate (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sonya_harvey_f_",
+          "name": "Sonya Harvey (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "david_aiken_m_",
+          "name": "David Aiken (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "35055": {
+      "votes": {
+        "larinda_c_hooks_f_": 0,
+        "hiram_monserrate_m_": 0,
+        "sonya_harvey_f_": 0,
+        "david_aiken_m_": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "larinda_c_hooks_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "larinda_c_hooks_f_",
+          "name": "Larinda C. Hooks (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hiram_monserrate_m_",
+          "name": "Hiram Monserrate (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sonya_harvey_f_",
+          "name": "Sonya Harvey (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "david_aiken_m_",
+          "name": "David Aiken (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "35056": {
+      "votes": {
+        "larinda_c_hooks_f_": 0,
+        "hiram_monserrate_m_": 0,
+        "sonya_harvey_f_": 0,
+        "david_aiken_m_": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "larinda_c_hooks_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "larinda_c_hooks_f_",
+          "name": "Larinda C. Hooks (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hiram_monserrate_m_",
+          "name": "Hiram Monserrate (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sonya_harvey_f_",
+          "name": "Sonya Harvey (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "david_aiken_m_",
+          "name": "David Aiken (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "35061": {
+      "votes": {
+        "larinda_c_hooks_f_": 0,
+        "hiram_monserrate_m_": 0,
+        "sonya_harvey_f_": 0,
+        "david_aiken_m_": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "larinda_c_hooks_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "larinda_c_hooks_f_",
+          "name": "Larinda C. Hooks (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hiram_monserrate_m_",
+          "name": "Hiram Monserrate (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sonya_harvey_f_",
+          "name": "Sonya Harvey (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "david_aiken_m_",
+          "name": "David Aiken (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "35062": {
+      "votes": {
+        "larinda_c_hooks_f_": 0,
+        "hiram_monserrate_m_": 0,
+        "sonya_harvey_f_": 0,
+        "david_aiken_m_": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "larinda_c_hooks_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "larinda_c_hooks_f_",
+          "name": "Larinda C. Hooks (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hiram_monserrate_m_",
+          "name": "Hiram Monserrate (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sonya_harvey_f_",
+          "name": "Sonya Harvey (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "david_aiken_m_",
+          "name": "David Aiken (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "35/001": {
+      "votes": {
+        "larinda_c_hooks_f_": 33,
+        "hiram_monserrate_m_": 15,
+        "sonya_harvey_f_": 36,
+        "david_aiken_m_": 20,
+        "scattered": 1
+      },
+      "total": 105,
+      "winnerId": "sonya_harvey_f_",
+      "margin": 2.9,
+      "candidates": [
+        {
+          "id": "larinda_c_hooks_f_",
+          "name": "Larinda C. Hooks (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hiram_monserrate_m_",
+          "name": "Hiram Monserrate (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sonya_harvey_f_",
+          "name": "Sonya Harvey (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "david_aiken_m_",
+          "name": "David Aiken (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "35/002": {
+      "votes": {
+        "larinda_c_hooks_f_": 19,
+        "hiram_monserrate_m_": 26,
+        "sonya_harvey_f_": 19,
+        "david_aiken_m_": 15,
+        "scattered": 0
+      },
+      "total": 79,
+      "winnerId": "hiram_monserrate_m_",
+      "margin": 8.9,
+      "candidates": [
+        {
+          "id": "larinda_c_hooks_f_",
+          "name": "Larinda C. Hooks (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hiram_monserrate_m_",
+          "name": "Hiram Monserrate (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sonya_harvey_f_",
+          "name": "Sonya Harvey (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "david_aiken_m_",
+          "name": "David Aiken (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "35/003": {
+      "votes": {
+        "larinda_c_hooks_f_": 36,
+        "hiram_monserrate_m_": 21,
+        "sonya_harvey_f_": 20,
+        "david_aiken_m_": 18,
+        "scattered": 0
+      },
+      "total": 95,
+      "winnerId": "larinda_c_hooks_f_",
+      "margin": 15.8,
+      "candidates": [
+        {
+          "id": "larinda_c_hooks_f_",
+          "name": "Larinda C. Hooks (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hiram_monserrate_m_",
+          "name": "Hiram Monserrate (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sonya_harvey_f_",
+          "name": "Sonya Harvey (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "david_aiken_m_",
+          "name": "David Aiken (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "35/004": {
+      "votes": {
+        "larinda_c_hooks_f_": 28,
+        "hiram_monserrate_m_": 20,
+        "sonya_harvey_f_": 25,
+        "david_aiken_m_": 24,
+        "scattered": 1
+      },
+      "total": 98,
+      "winnerId": "larinda_c_hooks_f_",
+      "margin": 3.1,
+      "candidates": [
+        {
+          "id": "larinda_c_hooks_f_",
+          "name": "Larinda C. Hooks (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hiram_monserrate_m_",
+          "name": "Hiram Monserrate (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sonya_harvey_f_",
+          "name": "Sonya Harvey (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "david_aiken_m_",
+          "name": "David Aiken (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "35/005": {
+      "votes": {
+        "larinda_c_hooks_f_": 57,
+        "hiram_monserrate_m_": 52,
+        "sonya_harvey_f_": 35,
+        "david_aiken_m_": 38,
+        "scattered": 0
+      },
+      "total": 182,
+      "winnerId": "larinda_c_hooks_f_",
+      "margin": 2.7,
+      "candidates": [
+        {
+          "id": "larinda_c_hooks_f_",
+          "name": "Larinda C. Hooks (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hiram_monserrate_m_",
+          "name": "Hiram Monserrate (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sonya_harvey_f_",
+          "name": "Sonya Harvey (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "david_aiken_m_",
+          "name": "David Aiken (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "35/006": {
+      "votes": {
+        "larinda_c_hooks_f_": 55,
+        "hiram_monserrate_m_": 53,
+        "sonya_harvey_f_": 42,
+        "david_aiken_m_": 32,
+        "scattered": 1
+      },
+      "total": 183,
+      "winnerId": "larinda_c_hooks_f_",
+      "margin": 1.1,
+      "candidates": [
+        {
+          "id": "larinda_c_hooks_f_",
+          "name": "Larinda C. Hooks (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hiram_monserrate_m_",
+          "name": "Hiram Monserrate (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sonya_harvey_f_",
+          "name": "Sonya Harvey (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "david_aiken_m_",
+          "name": "David Aiken (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "35/007": {
+      "votes": {
+        "larinda_c_hooks_f_": 93,
+        "hiram_monserrate_m_": 68,
+        "sonya_harvey_f_": 53,
+        "david_aiken_m_": 57,
+        "scattered": 0
+      },
+      "total": 271,
+      "winnerId": "larinda_c_hooks_f_",
+      "margin": 9.2,
+      "candidates": [
+        {
+          "id": "larinda_c_hooks_f_",
+          "name": "Larinda C. Hooks (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hiram_monserrate_m_",
+          "name": "Hiram Monserrate (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sonya_harvey_f_",
+          "name": "Sonya Harvey (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "david_aiken_m_",
+          "name": "David Aiken (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "35/008": {
+      "votes": {
+        "larinda_c_hooks_f_": 118,
+        "hiram_monserrate_m_": 74,
+        "sonya_harvey_f_": 72,
+        "david_aiken_m_": 65,
+        "scattered": 1
+      },
+      "total": 330,
+      "winnerId": "larinda_c_hooks_f_",
+      "margin": 13.3,
+      "candidates": [
+        {
+          "id": "larinda_c_hooks_f_",
+          "name": "Larinda C. Hooks (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hiram_monserrate_m_",
+          "name": "Hiram Monserrate (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sonya_harvey_f_",
+          "name": "Sonya Harvey (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "david_aiken_m_",
+          "name": "David Aiken (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "35/010": {
+      "votes": {
+        "larinda_c_hooks_f_": 33,
+        "hiram_monserrate_m_": 24,
+        "sonya_harvey_f_": 29,
+        "david_aiken_m_": 16,
+        "scattered": 0
+      },
+      "total": 102,
+      "winnerId": "larinda_c_hooks_f_",
+      "margin": 3.9,
+      "candidates": [
+        {
+          "id": "larinda_c_hooks_f_",
+          "name": "Larinda C. Hooks (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hiram_monserrate_m_",
+          "name": "Hiram Monserrate (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sonya_harvey_f_",
+          "name": "Sonya Harvey (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "david_aiken_m_",
+          "name": "David Aiken (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "35/011": {
+      "votes": {
+        "larinda_c_hooks_f_": 36,
+        "hiram_monserrate_m_": 31,
+        "sonya_harvey_f_": 34,
+        "david_aiken_m_": 22,
+        "scattered": 1
+      },
+      "total": 124,
+      "winnerId": "larinda_c_hooks_f_",
+      "margin": 1.6,
+      "candidates": [
+        {
+          "id": "larinda_c_hooks_f_",
+          "name": "Larinda C. Hooks (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hiram_monserrate_m_",
+          "name": "Hiram Monserrate (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sonya_harvey_f_",
+          "name": "Sonya Harvey (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "david_aiken_m_",
+          "name": "David Aiken (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "35/012": {
+      "votes": {
+        "larinda_c_hooks_f_": 38,
+        "hiram_monserrate_m_": 46,
+        "sonya_harvey_f_": 29,
+        "david_aiken_m_": 22,
+        "scattered": 0
+      },
+      "total": 135,
+      "winnerId": "hiram_monserrate_m_",
+      "margin": 5.9,
+      "candidates": [
+        {
+          "id": "larinda_c_hooks_f_",
+          "name": "Larinda C. Hooks (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hiram_monserrate_m_",
+          "name": "Hiram Monserrate (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sonya_harvey_f_",
+          "name": "Sonya Harvey (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "david_aiken_m_",
+          "name": "David Aiken (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "35/013": {
+      "votes": {
+        "larinda_c_hooks_f_": 37,
+        "hiram_monserrate_m_": 60,
+        "sonya_harvey_f_": 37,
+        "david_aiken_m_": 19,
+        "scattered": 2
+      },
+      "total": 155,
+      "winnerId": "hiram_monserrate_m_",
+      "margin": 14.8,
+      "candidates": [
+        {
+          "id": "larinda_c_hooks_f_",
+          "name": "Larinda C. Hooks (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hiram_monserrate_m_",
+          "name": "Hiram Monserrate (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sonya_harvey_f_",
+          "name": "Sonya Harvey (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "david_aiken_m_",
+          "name": "David Aiken (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "35/014": {
+      "votes": {
+        "larinda_c_hooks_f_": 64,
+        "hiram_monserrate_m_": 75,
+        "sonya_harvey_f_": 47,
+        "david_aiken_m_": 40,
+        "scattered": 0
+      },
+      "total": 226,
+      "winnerId": "hiram_monserrate_m_",
+      "margin": 4.9,
+      "candidates": [
+        {
+          "id": "larinda_c_hooks_f_",
+          "name": "Larinda C. Hooks (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hiram_monserrate_m_",
+          "name": "Hiram Monserrate (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sonya_harvey_f_",
+          "name": "Sonya Harvey (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "david_aiken_m_",
+          "name": "David Aiken (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "35/015": {
+      "votes": {
+        "larinda_c_hooks_f_": 43,
+        "hiram_monserrate_m_": 45,
+        "sonya_harvey_f_": 29,
+        "david_aiken_m_": 32,
+        "scattered": 0
+      },
+      "total": 149,
+      "winnerId": "hiram_monserrate_m_",
+      "margin": 1.3,
+      "candidates": [
+        {
+          "id": "larinda_c_hooks_f_",
+          "name": "Larinda C. Hooks (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hiram_monserrate_m_",
+          "name": "Hiram Monserrate (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sonya_harvey_f_",
+          "name": "Sonya Harvey (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "david_aiken_m_",
+          "name": "David Aiken (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "35/016": {
+      "votes": {
+        "larinda_c_hooks_f_": 108,
+        "hiram_monserrate_m_": 59,
+        "sonya_harvey_f_": 45,
+        "david_aiken_m_": 76,
+        "scattered": 0
+      },
+      "total": 288,
+      "winnerId": "larinda_c_hooks_f_",
+      "margin": 11.1,
+      "candidates": [
+        {
+          "id": "larinda_c_hooks_f_",
+          "name": "Larinda C. Hooks (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hiram_monserrate_m_",
+          "name": "Hiram Monserrate (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sonya_harvey_f_",
+          "name": "Sonya Harvey (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "david_aiken_m_",
+          "name": "David Aiken (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "35/017": {
+      "votes": {
+        "larinda_c_hooks_f_": 30,
+        "hiram_monserrate_m_": 51,
+        "sonya_harvey_f_": 32,
+        "david_aiken_m_": 26,
+        "scattered": 1
+      },
+      "total": 140,
+      "winnerId": "hiram_monserrate_m_",
+      "margin": 13.6,
+      "candidates": [
+        {
+          "id": "larinda_c_hooks_f_",
+          "name": "Larinda C. Hooks (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hiram_monserrate_m_",
+          "name": "Hiram Monserrate (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sonya_harvey_f_",
+          "name": "Sonya Harvey (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "david_aiken_m_",
+          "name": "David Aiken (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "35/018": {
+      "votes": {
+        "larinda_c_hooks_f_": 14,
+        "hiram_monserrate_m_": 20,
+        "sonya_harvey_f_": 11,
+        "david_aiken_m_": 11,
+        "scattered": 1
+      },
+      "total": 57,
+      "winnerId": "hiram_monserrate_m_",
+      "margin": 10.5,
+      "candidates": [
+        {
+          "id": "larinda_c_hooks_f_",
+          "name": "Larinda C. Hooks (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hiram_monserrate_m_",
+          "name": "Hiram Monserrate (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sonya_harvey_f_",
+          "name": "Sonya Harvey (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "david_aiken_m_",
+          "name": "David Aiken (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "35/019": {
+      "votes": {
+        "larinda_c_hooks_f_": 12,
+        "hiram_monserrate_m_": 24,
+        "sonya_harvey_f_": 13,
+        "david_aiken_m_": 14,
+        "scattered": 0
+      },
+      "total": 63,
+      "winnerId": "hiram_monserrate_m_",
+      "margin": 15.9,
+      "candidates": [
+        {
+          "id": "larinda_c_hooks_f_",
+          "name": "Larinda C. Hooks (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hiram_monserrate_m_",
+          "name": "Hiram Monserrate (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sonya_harvey_f_",
+          "name": "Sonya Harvey (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "david_aiken_m_",
+          "name": "David Aiken (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "35/020": {
+      "votes": {
+        "larinda_c_hooks_f_": 17,
+        "hiram_monserrate_m_": 10,
+        "sonya_harvey_f_": 6,
+        "david_aiken_m_": 8,
+        "scattered": 0
+      },
+      "total": 41,
+      "winnerId": "larinda_c_hooks_f_",
+      "margin": 17.1,
+      "candidates": [
+        {
+          "id": "larinda_c_hooks_f_",
+          "name": "Larinda C. Hooks (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hiram_monserrate_m_",
+          "name": "Hiram Monserrate (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sonya_harvey_f_",
+          "name": "Sonya Harvey (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "david_aiken_m_",
+          "name": "David Aiken (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "35/021": {
+      "votes": {
+        "larinda_c_hooks_f_": 20,
+        "hiram_monserrate_m_": 25,
+        "sonya_harvey_f_": 38,
+        "david_aiken_m_": 23,
+        "scattered": 2
+      },
+      "total": 108,
+      "winnerId": "sonya_harvey_f_",
+      "margin": 12,
+      "candidates": [
+        {
+          "id": "larinda_c_hooks_f_",
+          "name": "Larinda C. Hooks (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hiram_monserrate_m_",
+          "name": "Hiram Monserrate (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sonya_harvey_f_",
+          "name": "Sonya Harvey (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "david_aiken_m_",
+          "name": "David Aiken (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "35/022": {
+      "votes": {
+        "larinda_c_hooks_f_": 35,
+        "hiram_monserrate_m_": 31,
+        "sonya_harvey_f_": 36,
+        "david_aiken_m_": 18,
+        "scattered": 2
+      },
+      "total": 122,
+      "winnerId": "sonya_harvey_f_",
+      "margin": 0.8,
+      "candidates": [
+        {
+          "id": "larinda_c_hooks_f_",
+          "name": "Larinda C. Hooks (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hiram_monserrate_m_",
+          "name": "Hiram Monserrate (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sonya_harvey_f_",
+          "name": "Sonya Harvey (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "david_aiken_m_",
+          "name": "David Aiken (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "35/047": {
+      "votes": {
+        "larinda_c_hooks_f_": 0,
+        "hiram_monserrate_m_": 0,
+        "sonya_harvey_f_": 0,
+        "david_aiken_m_": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "larinda_c_hooks_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "larinda_c_hooks_f_",
+          "name": "Larinda C. Hooks (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hiram_monserrate_m_",
+          "name": "Hiram Monserrate (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sonya_harvey_f_",
+          "name": "Sonya Harvey (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "david_aiken_m_",
+          "name": "David Aiken (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "35/049": {
+      "votes": {
+        "larinda_c_hooks_f_": 33,
+        "hiram_monserrate_m_": 18,
+        "sonya_harvey_f_": 35,
+        "david_aiken_m_": 17,
+        "scattered": 0
+      },
+      "total": 103,
+      "winnerId": "sonya_harvey_f_",
+      "margin": 1.9,
+      "candidates": [
+        {
+          "id": "larinda_c_hooks_f_",
+          "name": "Larinda C. Hooks (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hiram_monserrate_m_",
+          "name": "Hiram Monserrate (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sonya_harvey_f_",
+          "name": "Sonya Harvey (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "david_aiken_m_",
+          "name": "David Aiken (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "35/050": {
+      "votes": {
+        "larinda_c_hooks_f_": 0,
+        "hiram_monserrate_m_": 0,
+        "sonya_harvey_f_": 0,
+        "david_aiken_m_": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "larinda_c_hooks_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "larinda_c_hooks_f_",
+          "name": "Larinda C. Hooks (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hiram_monserrate_m_",
+          "name": "Hiram Monserrate (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sonya_harvey_f_",
+          "name": "Sonya Harvey (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "david_aiken_m_",
+          "name": "David Aiken (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "35/053": {
+      "votes": {
+        "larinda_c_hooks_f_": 0,
+        "hiram_monserrate_m_": 0,
+        "sonya_harvey_f_": 0,
+        "david_aiken_m_": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "larinda_c_hooks_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "larinda_c_hooks_f_",
+          "name": "Larinda C. Hooks (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hiram_monserrate_m_",
+          "name": "Hiram Monserrate (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sonya_harvey_f_",
+          "name": "Sonya Harvey (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "david_aiken_m_",
+          "name": "David Aiken (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "35/054": {
+      "votes": {
+        "larinda_c_hooks_f_": 0,
+        "hiram_monserrate_m_": 0,
+        "sonya_harvey_f_": 0,
+        "david_aiken_m_": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "larinda_c_hooks_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "larinda_c_hooks_f_",
+          "name": "Larinda C. Hooks (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hiram_monserrate_m_",
+          "name": "Hiram Monserrate (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sonya_harvey_f_",
+          "name": "Sonya Harvey (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "david_aiken_m_",
+          "name": "David Aiken (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "35/055": {
+      "votes": {
+        "larinda_c_hooks_f_": 0,
+        "hiram_monserrate_m_": 0,
+        "sonya_harvey_f_": 0,
+        "david_aiken_m_": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "larinda_c_hooks_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "larinda_c_hooks_f_",
+          "name": "Larinda C. Hooks (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hiram_monserrate_m_",
+          "name": "Hiram Monserrate (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sonya_harvey_f_",
+          "name": "Sonya Harvey (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "david_aiken_m_",
+          "name": "David Aiken (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "35/056": {
+      "votes": {
+        "larinda_c_hooks_f_": 0,
+        "hiram_monserrate_m_": 0,
+        "sonya_harvey_f_": 0,
+        "david_aiken_m_": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "larinda_c_hooks_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "larinda_c_hooks_f_",
+          "name": "Larinda C. Hooks (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hiram_monserrate_m_",
+          "name": "Hiram Monserrate (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sonya_harvey_f_",
+          "name": "Sonya Harvey (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "david_aiken_m_",
+          "name": "David Aiken (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "35/061": {
+      "votes": {
+        "larinda_c_hooks_f_": 0,
+        "hiram_monserrate_m_": 0,
+        "sonya_harvey_f_": 0,
+        "david_aiken_m_": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "larinda_c_hooks_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "larinda_c_hooks_f_",
+          "name": "Larinda C. Hooks (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hiram_monserrate_m_",
+          "name": "Hiram Monserrate (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sonya_harvey_f_",
+          "name": "Sonya Harvey (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "david_aiken_m_",
+          "name": "David Aiken (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "35/062": {
+      "votes": {
+        "larinda_c_hooks_f_": 0,
+        "hiram_monserrate_m_": 0,
+        "sonya_harvey_f_": 0,
+        "david_aiken_m_": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "larinda_c_hooks_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "larinda_c_hooks_f_",
+          "name": "Larinda C. Hooks (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hiram_monserrate_m_",
+          "name": "Hiram Monserrate (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "sonya_harvey_f_",
+          "name": "Sonya Harvey (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "david_aiken_m_",
+          "name": "David Aiken (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    }
+  }
+}

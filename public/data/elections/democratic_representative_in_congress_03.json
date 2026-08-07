@@ -1,0 +1,5944 @@
+{
+  "id": "democratic_representative_in_congress_03",
+  "name": "2026 Primary - Representative in Congress District 03",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "US House (Congressional)",
+  "districtKey": "03",
+  "districtType": "congressional",
+  "isUncontested": false,
+  "candidates": [
+    {
+      "id": "thomas_r_suozzi",
+      "name": "Thomas R. Suozzi",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#d97706"
+    },
+    {
+      "id": "danielle_welch",
+      "name": "Danielle Welch",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#7c3aed"
+    },
+    {
+      "id": "scattered",
+      "name": "Scattered",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#059669"
+    }
+  ],
+  "results": {
+    "03": {
+      "votes": {
+        "thomas_r_suozzi": 5896,
+        "danielle_welch": 2006,
+        "scattered": 35
+      },
+      "total": 7937,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 49,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    }
+  },
+  "edResults": {
+    "24055": {
+      "votes": {
+        "thomas_r_suozzi": 38,
+        "danielle_welch": 10,
+        "scattered": 0
+      },
+      "total": 48,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 58.3,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "24056": {
+      "votes": {
+        "thomas_r_suozzi": 81,
+        "danielle_welch": 23,
+        "scattered": 0
+      },
+      "total": 104,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 55.8,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "24057": {
+      "votes": {
+        "thomas_r_suozzi": 51,
+        "danielle_welch": 21,
+        "scattered": 0
+      },
+      "total": 72,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 41.7,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26001": {
+      "votes": {
+        "thomas_r_suozzi": 18,
+        "danielle_welch": 14,
+        "scattered": 0
+      },
+      "total": 32,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 12.5,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26002": {
+      "votes": {
+        "thomas_r_suozzi": 18,
+        "danielle_welch": 6,
+        "scattered": 0
+      },
+      "total": 24,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 50,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26003": {
+      "votes": {
+        "thomas_r_suozzi": 9,
+        "danielle_welch": 14,
+        "scattered": 0
+      },
+      "total": 23,
+      "winnerId": "danielle_welch",
+      "margin": 21.7,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26004": {
+      "votes": {
+        "thomas_r_suozzi": 41,
+        "danielle_welch": 22,
+        "scattered": 0
+      },
+      "total": 63,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 30.2,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26007": {
+      "votes": {
+        "thomas_r_suozzi": 99,
+        "danielle_welch": 56,
+        "scattered": 1
+      },
+      "total": 156,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 27.6,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26008": {
+      "votes": {
+        "thomas_r_suozzi": 91,
+        "danielle_welch": 45,
+        "scattered": 1
+      },
+      "total": 137,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 33.6,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26009": {
+      "votes": {
+        "thomas_r_suozzi": 38,
+        "danielle_welch": 19,
+        "scattered": 0
+      },
+      "total": 57,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 33.3,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26010": {
+      "votes": {
+        "thomas_r_suozzi": 365,
+        "danielle_welch": 21,
+        "scattered": 1
+      },
+      "total": 387,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 88.9,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26011": {
+      "votes": {
+        "thomas_r_suozzi": 213,
+        "danielle_welch": 5,
+        "scattered": 0
+      },
+      "total": 218,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 95.4,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26012": {
+      "votes": {
+        "thomas_r_suozzi": 113,
+        "danielle_welch": 34,
+        "scattered": 0
+      },
+      "total": 147,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 53.7,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26013": {
+      "votes": {
+        "thomas_r_suozzi": 84,
+        "danielle_welch": 24,
+        "scattered": 2
+      },
+      "total": 110,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 54.5,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26014": {
+      "votes": {
+        "thomas_r_suozzi": 59,
+        "danielle_welch": 26,
+        "scattered": 0
+      },
+      "total": 85,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 38.8,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26015": {
+      "votes": {
+        "thomas_r_suozzi": 55,
+        "danielle_welch": 22,
+        "scattered": 0
+      },
+      "total": 77,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 42.9,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26016": {
+      "votes": {
+        "thomas_r_suozzi": 72,
+        "danielle_welch": 27,
+        "scattered": 0
+      },
+      "total": 99,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 45.5,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26017": {
+      "votes": {
+        "thomas_r_suozzi": 138,
+        "danielle_welch": 30,
+        "scattered": 0
+      },
+      "total": 168,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 64.3,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26018": {
+      "votes": {
+        "thomas_r_suozzi": 49,
+        "danielle_welch": 16,
+        "scattered": 0
+      },
+      "total": 65,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 50.8,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26019": {
+      "votes": {
+        "thomas_r_suozzi": 85,
+        "danielle_welch": 21,
+        "scattered": 0
+      },
+      "total": 106,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 60.4,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26020": {
+      "votes": {
+        "thomas_r_suozzi": 89,
+        "danielle_welch": 35,
+        "scattered": 0
+      },
+      "total": 124,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 43.5,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26021": {
+      "votes": {
+        "thomas_r_suozzi": 92,
+        "danielle_welch": 37,
+        "scattered": 0
+      },
+      "total": 129,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 42.6,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26022": {
+      "votes": {
+        "thomas_r_suozzi": 105,
+        "danielle_welch": 28,
+        "scattered": 1
+      },
+      "total": 134,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 57.5,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26023": {
+      "votes": {
+        "thomas_r_suozzi": 92,
+        "danielle_welch": 43,
+        "scattered": 0
+      },
+      "total": 135,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 36.3,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26024": {
+      "votes": {
+        "thomas_r_suozzi": 110,
+        "danielle_welch": 34,
+        "scattered": 0
+      },
+      "total": 144,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 52.8,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26025": {
+      "votes": {
+        "thomas_r_suozzi": 56,
+        "danielle_welch": 24,
+        "scattered": 0
+      },
+      "total": 80,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 40,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26026": {
+      "votes": {
+        "thomas_r_suozzi": 86,
+        "danielle_welch": 21,
+        "scattered": 0
+      },
+      "total": 107,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 60.7,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26027": {
+      "votes": {
+        "thomas_r_suozzi": 58,
+        "danielle_welch": 25,
+        "scattered": 1
+      },
+      "total": 84,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 39.3,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26033": {
+      "votes": {
+        "thomas_r_suozzi": 87,
+        "danielle_welch": 40,
+        "scattered": 2
+      },
+      "total": 129,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 36.4,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26034": {
+      "votes": {
+        "thomas_r_suozzi": 78,
+        "danielle_welch": 40,
+        "scattered": 2
+      },
+      "total": 120,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 31.7,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26036": {
+      "votes": {
+        "thomas_r_suozzi": 76,
+        "danielle_welch": 28,
+        "scattered": 1
+      },
+      "total": 105,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 45.7,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26037": {
+      "votes": {
+        "thomas_r_suozzi": 61,
+        "danielle_welch": 17,
+        "scattered": 1
+      },
+      "total": 79,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 55.7,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26038": {
+      "votes": {
+        "thomas_r_suozzi": 148,
+        "danielle_welch": 37,
+        "scattered": 1
+      },
+      "total": 186,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 59.7,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26039": {
+      "votes": {
+        "thomas_r_suozzi": 49,
+        "danielle_welch": 23,
+        "scattered": 1
+      },
+      "total": 73,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 35.6,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26040": {
+      "votes": {
+        "thomas_r_suozzi": 79,
+        "danielle_welch": 12,
+        "scattered": 0
+      },
+      "total": 91,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 73.6,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26041": {
+      "votes": {
+        "thomas_r_suozzi": 171,
+        "danielle_welch": 44,
+        "scattered": 1
+      },
+      "total": 216,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 58.8,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26042": {
+      "votes": {
+        "thomas_r_suozzi": 80,
+        "danielle_welch": 29,
+        "scattered": 0
+      },
+      "total": 109,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 46.8,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26043": {
+      "votes": {
+        "thomas_r_suozzi": 136,
+        "danielle_welch": 27,
+        "scattered": 2
+      },
+      "total": 165,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 66.1,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26044": {
+      "votes": {
+        "thomas_r_suozzi": 96,
+        "danielle_welch": 28,
+        "scattered": 0
+      },
+      "total": 124,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 54.8,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26045": {
+      "votes": {
+        "thomas_r_suozzi": 119,
+        "danielle_welch": 23,
+        "scattered": 0
+      },
+      "total": 142,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 67.6,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26046": {
+      "votes": {
+        "thomas_r_suozzi": 110,
+        "danielle_welch": 19,
+        "scattered": 0
+      },
+      "total": 129,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 70.5,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26048": {
+      "votes": {
+        "thomas_r_suozzi": 77,
+        "danielle_welch": 25,
+        "scattered": 0
+      },
+      "total": 102,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 51,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26049": {
+      "votes": {
+        "thomas_r_suozzi": 57,
+        "danielle_welch": 24,
+        "scattered": 1
+      },
+      "total": 82,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 40.2,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26050": {
+      "votes": {
+        "thomas_r_suozzi": 80,
+        "danielle_welch": 16,
+        "scattered": 1
+      },
+      "total": 97,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 66,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26051": {
+      "votes": {
+        "thomas_r_suozzi": 32,
+        "danielle_welch": 14,
+        "scattered": 0
+      },
+      "total": 46,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 39.1,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26052": {
+      "votes": {
+        "thomas_r_suozzi": 48,
+        "danielle_welch": 25,
+        "scattered": 0
+      },
+      "total": 73,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 31.5,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26053": {
+      "votes": {
+        "thomas_r_suozzi": 51,
+        "danielle_welch": 22,
+        "scattered": 0
+      },
+      "total": 73,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 39.7,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26054": {
+      "votes": {
+        "thomas_r_suozzi": 60,
+        "danielle_welch": 48,
+        "scattered": 1
+      },
+      "total": 109,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 11,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26055": {
+      "votes": {
+        "thomas_r_suozzi": 61,
+        "danielle_welch": 45,
+        "scattered": 1
+      },
+      "total": 107,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 15,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26056": {
+      "votes": {
+        "thomas_r_suozzi": 68,
+        "danielle_welch": 32,
+        "scattered": 1
+      },
+      "total": 101,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 35.6,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26057": {
+      "votes": {
+        "thomas_r_suozzi": 69,
+        "danielle_welch": 27,
+        "scattered": 0
+      },
+      "total": 96,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 43.8,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26063": {
+      "votes": {
+        "thomas_r_suozzi": 0,
+        "danielle_welch": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26065": {
+      "votes": {
+        "thomas_r_suozzi": 0,
+        "danielle_welch": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "27001": {
+      "votes": {
+        "thomas_r_suozzi": 20,
+        "danielle_welch": 7,
+        "scattered": 0
+      },
+      "total": 27,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 48.1,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "27042": {
+      "votes": {
+        "thomas_r_suozzi": 52,
+        "danielle_welch": 12,
+        "scattered": 0
+      },
+      "total": 64,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 62.5,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "27043": {
+      "votes": {
+        "thomas_r_suozzi": 71,
+        "danielle_welch": 17,
+        "scattered": 0
+      },
+      "total": 88,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 61.4,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "27044": {
+      "votes": {
+        "thomas_r_suozzi": 43,
+        "danielle_welch": 10,
+        "scattered": 1
+      },
+      "total": 54,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 61.1,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "27045": {
+      "votes": {
+        "thomas_r_suozzi": 34,
+        "danielle_welch": 21,
+        "scattered": 0
+      },
+      "total": 55,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 23.6,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "27048": {
+      "votes": {
+        "thomas_r_suozzi": 45,
+        "danielle_welch": 17,
+        "scattered": 1
+      },
+      "total": 63,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 44.4,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "27049": {
+      "votes": {
+        "thomas_r_suozzi": 45,
+        "danielle_welch": 29,
+        "scattered": 0
+      },
+      "total": 74,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 21.6,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "27050": {
+      "votes": {
+        "thomas_r_suozzi": 45,
+        "danielle_welch": 22,
+        "scattered": 0
+      },
+      "total": 67,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 34.3,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "27051": {
+      "votes": {
+        "thomas_r_suozzi": 70,
+        "danielle_welch": 19,
+        "scattered": 0
+      },
+      "total": 89,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 57.3,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33001": {
+      "votes": {
+        "thomas_r_suozzi": 44,
+        "danielle_welch": 15,
+        "scattered": 0
+      },
+      "total": 59,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 49.2,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33002": {
+      "votes": {
+        "thomas_r_suozzi": 48,
+        "danielle_welch": 16,
+        "scattered": 0
+      },
+      "total": 64,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 50,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33003": {
+      "votes": {
+        "thomas_r_suozzi": 42,
+        "danielle_welch": 26,
+        "scattered": 0
+      },
+      "total": 68,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 23.5,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33004": {
+      "votes": {
+        "thomas_r_suozzi": 57,
+        "danielle_welch": 32,
+        "scattered": 1
+      },
+      "total": 90,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 27.8,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33005": {
+      "votes": {
+        "thomas_r_suozzi": 66,
+        "danielle_welch": 19,
+        "scattered": 0
+      },
+      "total": 85,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 55.3,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33006": {
+      "votes": {
+        "thomas_r_suozzi": 52,
+        "danielle_welch": 22,
+        "scattered": 1
+      },
+      "total": 75,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 40,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33007": {
+      "votes": {
+        "thomas_r_suozzi": 45,
+        "danielle_welch": 19,
+        "scattered": 0
+      },
+      "total": 64,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 40.6,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33008": {
+      "votes": {
+        "thomas_r_suozzi": 48,
+        "danielle_welch": 22,
+        "scattered": 1
+      },
+      "total": 71,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 36.6,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33009": {
+      "votes": {
+        "thomas_r_suozzi": 49,
+        "danielle_welch": 27,
+        "scattered": 1
+      },
+      "total": 77,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 28.6,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33010": {
+      "votes": {
+        "thomas_r_suozzi": 61,
+        "danielle_welch": 23,
+        "scattered": 0
+      },
+      "total": 84,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 45.2,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33011": {
+      "votes": {
+        "thomas_r_suozzi": 23,
+        "danielle_welch": 13,
+        "scattered": 0
+      },
+      "total": 36,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 27.8,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33012": {
+      "votes": {
+        "thomas_r_suozzi": 45,
+        "danielle_welch": 17,
+        "scattered": 0
+      },
+      "total": 62,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 45.2,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33014": {
+      "votes": {
+        "thomas_r_suozzi": 49,
+        "danielle_welch": 16,
+        "scattered": 0
+      },
+      "total": 65,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 50.8,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33015": {
+      "votes": {
+        "thomas_r_suozzi": 41,
+        "danielle_welch": 19,
+        "scattered": 0
+      },
+      "total": 60,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 36.7,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33016": {
+      "votes": {
+        "thomas_r_suozzi": 39,
+        "danielle_welch": 26,
+        "scattered": 0
+      },
+      "total": 65,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 20,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33017": {
+      "votes": {
+        "thomas_r_suozzi": 61,
+        "danielle_welch": 23,
+        "scattered": 0
+      },
+      "total": 84,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 45.2,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33020": {
+      "votes": {
+        "thomas_r_suozzi": 30,
+        "danielle_welch": 16,
+        "scattered": 0
+      },
+      "total": 46,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 30.4,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33024": {
+      "votes": {
+        "thomas_r_suozzi": 57,
+        "danielle_welch": 17,
+        "scattered": 0
+      },
+      "total": 74,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 54.1,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "40025": {
+      "votes": {
+        "thomas_r_suozzi": 43,
+        "danielle_welch": 20,
+        "scattered": 0
+      },
+      "total": 63,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 36.5,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "40035": {
+      "votes": {
+        "thomas_r_suozzi": 53,
+        "danielle_welch": 21,
+        "scattered": 2
+      },
+      "total": 76,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 42.1,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "40037": {
+      "votes": {
+        "thomas_r_suozzi": 36,
+        "danielle_welch": 24,
+        "scattered": 1
+      },
+      "total": 61,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 19.7,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "40038": {
+      "votes": {
+        "thomas_r_suozzi": 30,
+        "danielle_welch": 8,
+        "scattered": 0
+      },
+      "total": 38,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 57.9,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "40039": {
+      "votes": {
+        "thomas_r_suozzi": 22,
+        "danielle_welch": 1,
+        "scattered": 1
+      },
+      "total": 24,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 87.5,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "40040": {
+      "votes": {
+        "thomas_r_suozzi": 25,
+        "danielle_welch": 15,
+        "scattered": 0
+      },
+      "total": 40,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 25,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "40041": {
+      "votes": {
+        "thomas_r_suozzi": 46,
+        "danielle_welch": 24,
+        "scattered": 1
+      },
+      "total": 71,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 31,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "40042": {
+      "votes": {
+        "thomas_r_suozzi": 1,
+        "danielle_welch": 1,
+        "scattered": 0
+      },
+      "total": 2,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "40043": {
+      "votes": {
+        "thomas_r_suozzi": 60,
+        "danielle_welch": 22,
+        "scattered": 1
+      },
+      "total": 83,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 45.8,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "24/055": {
+      "votes": {
+        "thomas_r_suozzi": 38,
+        "danielle_welch": 10,
+        "scattered": 0
+      },
+      "total": 48,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 58.3,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "24/056": {
+      "votes": {
+        "thomas_r_suozzi": 81,
+        "danielle_welch": 23,
+        "scattered": 0
+      },
+      "total": 104,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 55.8,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "24/057": {
+      "votes": {
+        "thomas_r_suozzi": 51,
+        "danielle_welch": 21,
+        "scattered": 0
+      },
+      "total": 72,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 41.7,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/001": {
+      "votes": {
+        "thomas_r_suozzi": 18,
+        "danielle_welch": 14,
+        "scattered": 0
+      },
+      "total": 32,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 12.5,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/002": {
+      "votes": {
+        "thomas_r_suozzi": 18,
+        "danielle_welch": 6,
+        "scattered": 0
+      },
+      "total": 24,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 50,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/003": {
+      "votes": {
+        "thomas_r_suozzi": 9,
+        "danielle_welch": 14,
+        "scattered": 0
+      },
+      "total": 23,
+      "winnerId": "danielle_welch",
+      "margin": 21.7,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/004": {
+      "votes": {
+        "thomas_r_suozzi": 41,
+        "danielle_welch": 22,
+        "scattered": 0
+      },
+      "total": 63,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 30.2,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/007": {
+      "votes": {
+        "thomas_r_suozzi": 99,
+        "danielle_welch": 56,
+        "scattered": 1
+      },
+      "total": 156,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 27.6,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/008": {
+      "votes": {
+        "thomas_r_suozzi": 91,
+        "danielle_welch": 45,
+        "scattered": 1
+      },
+      "total": 137,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 33.6,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/009": {
+      "votes": {
+        "thomas_r_suozzi": 38,
+        "danielle_welch": 19,
+        "scattered": 0
+      },
+      "total": 57,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 33.3,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/010": {
+      "votes": {
+        "thomas_r_suozzi": 365,
+        "danielle_welch": 21,
+        "scattered": 1
+      },
+      "total": 387,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 88.9,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/011": {
+      "votes": {
+        "thomas_r_suozzi": 213,
+        "danielle_welch": 5,
+        "scattered": 0
+      },
+      "total": 218,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 95.4,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/012": {
+      "votes": {
+        "thomas_r_suozzi": 113,
+        "danielle_welch": 34,
+        "scattered": 0
+      },
+      "total": 147,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 53.7,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/013": {
+      "votes": {
+        "thomas_r_suozzi": 84,
+        "danielle_welch": 24,
+        "scattered": 2
+      },
+      "total": 110,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 54.5,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/014": {
+      "votes": {
+        "thomas_r_suozzi": 59,
+        "danielle_welch": 26,
+        "scattered": 0
+      },
+      "total": 85,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 38.8,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/015": {
+      "votes": {
+        "thomas_r_suozzi": 55,
+        "danielle_welch": 22,
+        "scattered": 0
+      },
+      "total": 77,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 42.9,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/016": {
+      "votes": {
+        "thomas_r_suozzi": 72,
+        "danielle_welch": 27,
+        "scattered": 0
+      },
+      "total": 99,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 45.5,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/017": {
+      "votes": {
+        "thomas_r_suozzi": 138,
+        "danielle_welch": 30,
+        "scattered": 0
+      },
+      "total": 168,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 64.3,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/018": {
+      "votes": {
+        "thomas_r_suozzi": 49,
+        "danielle_welch": 16,
+        "scattered": 0
+      },
+      "total": 65,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 50.8,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/019": {
+      "votes": {
+        "thomas_r_suozzi": 85,
+        "danielle_welch": 21,
+        "scattered": 0
+      },
+      "total": 106,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 60.4,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/020": {
+      "votes": {
+        "thomas_r_suozzi": 89,
+        "danielle_welch": 35,
+        "scattered": 0
+      },
+      "total": 124,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 43.5,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/021": {
+      "votes": {
+        "thomas_r_suozzi": 92,
+        "danielle_welch": 37,
+        "scattered": 0
+      },
+      "total": 129,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 42.6,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/022": {
+      "votes": {
+        "thomas_r_suozzi": 105,
+        "danielle_welch": 28,
+        "scattered": 1
+      },
+      "total": 134,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 57.5,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/023": {
+      "votes": {
+        "thomas_r_suozzi": 92,
+        "danielle_welch": 43,
+        "scattered": 0
+      },
+      "total": 135,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 36.3,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/024": {
+      "votes": {
+        "thomas_r_suozzi": 110,
+        "danielle_welch": 34,
+        "scattered": 0
+      },
+      "total": 144,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 52.8,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/025": {
+      "votes": {
+        "thomas_r_suozzi": 56,
+        "danielle_welch": 24,
+        "scattered": 0
+      },
+      "total": 80,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 40,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/026": {
+      "votes": {
+        "thomas_r_suozzi": 86,
+        "danielle_welch": 21,
+        "scattered": 0
+      },
+      "total": 107,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 60.7,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/027": {
+      "votes": {
+        "thomas_r_suozzi": 58,
+        "danielle_welch": 25,
+        "scattered": 1
+      },
+      "total": 84,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 39.3,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/033": {
+      "votes": {
+        "thomas_r_suozzi": 87,
+        "danielle_welch": 40,
+        "scattered": 2
+      },
+      "total": 129,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 36.4,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/034": {
+      "votes": {
+        "thomas_r_suozzi": 78,
+        "danielle_welch": 40,
+        "scattered": 2
+      },
+      "total": 120,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 31.7,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/036": {
+      "votes": {
+        "thomas_r_suozzi": 76,
+        "danielle_welch": 28,
+        "scattered": 1
+      },
+      "total": 105,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 45.7,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/037": {
+      "votes": {
+        "thomas_r_suozzi": 61,
+        "danielle_welch": 17,
+        "scattered": 1
+      },
+      "total": 79,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 55.7,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/038": {
+      "votes": {
+        "thomas_r_suozzi": 148,
+        "danielle_welch": 37,
+        "scattered": 1
+      },
+      "total": 186,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 59.7,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/039": {
+      "votes": {
+        "thomas_r_suozzi": 49,
+        "danielle_welch": 23,
+        "scattered": 1
+      },
+      "total": 73,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 35.6,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/040": {
+      "votes": {
+        "thomas_r_suozzi": 79,
+        "danielle_welch": 12,
+        "scattered": 0
+      },
+      "total": 91,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 73.6,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/041": {
+      "votes": {
+        "thomas_r_suozzi": 171,
+        "danielle_welch": 44,
+        "scattered": 1
+      },
+      "total": 216,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 58.8,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/042": {
+      "votes": {
+        "thomas_r_suozzi": 80,
+        "danielle_welch": 29,
+        "scattered": 0
+      },
+      "total": 109,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 46.8,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/043": {
+      "votes": {
+        "thomas_r_suozzi": 136,
+        "danielle_welch": 27,
+        "scattered": 2
+      },
+      "total": 165,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 66.1,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/044": {
+      "votes": {
+        "thomas_r_suozzi": 96,
+        "danielle_welch": 28,
+        "scattered": 0
+      },
+      "total": 124,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 54.8,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/045": {
+      "votes": {
+        "thomas_r_suozzi": 119,
+        "danielle_welch": 23,
+        "scattered": 0
+      },
+      "total": 142,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 67.6,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/046": {
+      "votes": {
+        "thomas_r_suozzi": 110,
+        "danielle_welch": 19,
+        "scattered": 0
+      },
+      "total": 129,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 70.5,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/048": {
+      "votes": {
+        "thomas_r_suozzi": 77,
+        "danielle_welch": 25,
+        "scattered": 0
+      },
+      "total": 102,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 51,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/049": {
+      "votes": {
+        "thomas_r_suozzi": 57,
+        "danielle_welch": 24,
+        "scattered": 1
+      },
+      "total": 82,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 40.2,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/050": {
+      "votes": {
+        "thomas_r_suozzi": 80,
+        "danielle_welch": 16,
+        "scattered": 1
+      },
+      "total": 97,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 66,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/051": {
+      "votes": {
+        "thomas_r_suozzi": 32,
+        "danielle_welch": 14,
+        "scattered": 0
+      },
+      "total": 46,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 39.1,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/052": {
+      "votes": {
+        "thomas_r_suozzi": 48,
+        "danielle_welch": 25,
+        "scattered": 0
+      },
+      "total": 73,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 31.5,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/053": {
+      "votes": {
+        "thomas_r_suozzi": 51,
+        "danielle_welch": 22,
+        "scattered": 0
+      },
+      "total": 73,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 39.7,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/054": {
+      "votes": {
+        "thomas_r_suozzi": 60,
+        "danielle_welch": 48,
+        "scattered": 1
+      },
+      "total": 109,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 11,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/055": {
+      "votes": {
+        "thomas_r_suozzi": 61,
+        "danielle_welch": 45,
+        "scattered": 1
+      },
+      "total": 107,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 15,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/056": {
+      "votes": {
+        "thomas_r_suozzi": 68,
+        "danielle_welch": 32,
+        "scattered": 1
+      },
+      "total": 101,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 35.6,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/057": {
+      "votes": {
+        "thomas_r_suozzi": 69,
+        "danielle_welch": 27,
+        "scattered": 0
+      },
+      "total": 96,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 43.8,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/063": {
+      "votes": {
+        "thomas_r_suozzi": 0,
+        "danielle_welch": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "26/065": {
+      "votes": {
+        "thomas_r_suozzi": 0,
+        "danielle_welch": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "27/001": {
+      "votes": {
+        "thomas_r_suozzi": 20,
+        "danielle_welch": 7,
+        "scattered": 0
+      },
+      "total": 27,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 48.1,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "27/042": {
+      "votes": {
+        "thomas_r_suozzi": 52,
+        "danielle_welch": 12,
+        "scattered": 0
+      },
+      "total": 64,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 62.5,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "27/043": {
+      "votes": {
+        "thomas_r_suozzi": 71,
+        "danielle_welch": 17,
+        "scattered": 0
+      },
+      "total": 88,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 61.4,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "27/044": {
+      "votes": {
+        "thomas_r_suozzi": 43,
+        "danielle_welch": 10,
+        "scattered": 1
+      },
+      "total": 54,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 61.1,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "27/045": {
+      "votes": {
+        "thomas_r_suozzi": 34,
+        "danielle_welch": 21,
+        "scattered": 0
+      },
+      "total": 55,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 23.6,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "27/048": {
+      "votes": {
+        "thomas_r_suozzi": 45,
+        "danielle_welch": 17,
+        "scattered": 1
+      },
+      "total": 63,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 44.4,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "27/049": {
+      "votes": {
+        "thomas_r_suozzi": 45,
+        "danielle_welch": 29,
+        "scattered": 0
+      },
+      "total": 74,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 21.6,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "27/050": {
+      "votes": {
+        "thomas_r_suozzi": 45,
+        "danielle_welch": 22,
+        "scattered": 0
+      },
+      "total": 67,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 34.3,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "27/051": {
+      "votes": {
+        "thomas_r_suozzi": 70,
+        "danielle_welch": 19,
+        "scattered": 0
+      },
+      "total": 89,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 57.3,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/001": {
+      "votes": {
+        "thomas_r_suozzi": 44,
+        "danielle_welch": 15,
+        "scattered": 0
+      },
+      "total": 59,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 49.2,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/002": {
+      "votes": {
+        "thomas_r_suozzi": 48,
+        "danielle_welch": 16,
+        "scattered": 0
+      },
+      "total": 64,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 50,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/003": {
+      "votes": {
+        "thomas_r_suozzi": 42,
+        "danielle_welch": 26,
+        "scattered": 0
+      },
+      "total": 68,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 23.5,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/004": {
+      "votes": {
+        "thomas_r_suozzi": 57,
+        "danielle_welch": 32,
+        "scattered": 1
+      },
+      "total": 90,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 27.8,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/005": {
+      "votes": {
+        "thomas_r_suozzi": 66,
+        "danielle_welch": 19,
+        "scattered": 0
+      },
+      "total": 85,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 55.3,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/006": {
+      "votes": {
+        "thomas_r_suozzi": 52,
+        "danielle_welch": 22,
+        "scattered": 1
+      },
+      "total": 75,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 40,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/007": {
+      "votes": {
+        "thomas_r_suozzi": 45,
+        "danielle_welch": 19,
+        "scattered": 0
+      },
+      "total": 64,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 40.6,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/008": {
+      "votes": {
+        "thomas_r_suozzi": 48,
+        "danielle_welch": 22,
+        "scattered": 1
+      },
+      "total": 71,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 36.6,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/009": {
+      "votes": {
+        "thomas_r_suozzi": 49,
+        "danielle_welch": 27,
+        "scattered": 1
+      },
+      "total": 77,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 28.6,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/010": {
+      "votes": {
+        "thomas_r_suozzi": 61,
+        "danielle_welch": 23,
+        "scattered": 0
+      },
+      "total": 84,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 45.2,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/011": {
+      "votes": {
+        "thomas_r_suozzi": 23,
+        "danielle_welch": 13,
+        "scattered": 0
+      },
+      "total": 36,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 27.8,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/012": {
+      "votes": {
+        "thomas_r_suozzi": 45,
+        "danielle_welch": 17,
+        "scattered": 0
+      },
+      "total": 62,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 45.2,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/014": {
+      "votes": {
+        "thomas_r_suozzi": 49,
+        "danielle_welch": 16,
+        "scattered": 0
+      },
+      "total": 65,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 50.8,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/015": {
+      "votes": {
+        "thomas_r_suozzi": 41,
+        "danielle_welch": 19,
+        "scattered": 0
+      },
+      "total": 60,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 36.7,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/016": {
+      "votes": {
+        "thomas_r_suozzi": 39,
+        "danielle_welch": 26,
+        "scattered": 0
+      },
+      "total": 65,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 20,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/017": {
+      "votes": {
+        "thomas_r_suozzi": 61,
+        "danielle_welch": 23,
+        "scattered": 0
+      },
+      "total": 84,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 45.2,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/020": {
+      "votes": {
+        "thomas_r_suozzi": 30,
+        "danielle_welch": 16,
+        "scattered": 0
+      },
+      "total": 46,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 30.4,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "33/024": {
+      "votes": {
+        "thomas_r_suozzi": 57,
+        "danielle_welch": 17,
+        "scattered": 0
+      },
+      "total": 74,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 54.1,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "40/025": {
+      "votes": {
+        "thomas_r_suozzi": 43,
+        "danielle_welch": 20,
+        "scattered": 0
+      },
+      "total": 63,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 36.5,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "40/035": {
+      "votes": {
+        "thomas_r_suozzi": 53,
+        "danielle_welch": 21,
+        "scattered": 2
+      },
+      "total": 76,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 42.1,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "40/037": {
+      "votes": {
+        "thomas_r_suozzi": 36,
+        "danielle_welch": 24,
+        "scattered": 1
+      },
+      "total": 61,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 19.7,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "40/038": {
+      "votes": {
+        "thomas_r_suozzi": 30,
+        "danielle_welch": 8,
+        "scattered": 0
+      },
+      "total": 38,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 57.9,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "40/039": {
+      "votes": {
+        "thomas_r_suozzi": 22,
+        "danielle_welch": 1,
+        "scattered": 1
+      },
+      "total": 24,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 87.5,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "40/040": {
+      "votes": {
+        "thomas_r_suozzi": 25,
+        "danielle_welch": 15,
+        "scattered": 0
+      },
+      "total": 40,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 25,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "40/041": {
+      "votes": {
+        "thomas_r_suozzi": 46,
+        "danielle_welch": 24,
+        "scattered": 1
+      },
+      "total": 71,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 31,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "40/042": {
+      "votes": {
+        "thomas_r_suozzi": 1,
+        "danielle_welch": 1,
+        "scattered": 0
+      },
+      "total": 2,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "40/043": {
+      "votes": {
+        "thomas_r_suozzi": 60,
+        "danielle_welch": 22,
+        "scattered": 1
+      },
+      "total": 83,
+      "winnerId": "thomas_r_suozzi",
+      "margin": 45.8,
+      "candidates": [
+        {
+          "id": "thomas_r_suozzi",
+          "name": "Thomas R. Suozzi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "danielle_welch",
+          "name": "Danielle Welch",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    }
+  }
+}

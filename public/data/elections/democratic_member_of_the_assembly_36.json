@@ -1,0 +1,6862 @@
+{
+  "id": "democratic_member_of_the_assembly_36",
+  "name": "2026 Primary - Member of the Assembly District 36",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "NY State Assembly",
+  "districtKey": "36",
+  "districtType": "assembly",
+  "isUncontested": false,
+  "candidates": [
+    {
+      "id": "diana_c_moreno",
+      "name": "Diana C. Moreno",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#d97706"
+    },
+    {
+      "id": "mary_jobaida",
+      "name": "Mary Jobaida",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#7c3aed"
+    },
+    {
+      "id": "rana_abdelhamid",
+      "name": "Rana Abdelhamid",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#059669"
+    },
+    {
+      "id": "kevin_p_coenen",
+      "name": "Kevin P. Coenen",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#0891b2"
+    },
+    {
+      "id": "scattered",
+      "name": "Scattered",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#4f46e5"
+    }
+  ],
+  "results": {
+    "36": {
+      "votes": {
+        "diana_c_moreno": 15858,
+        "mary_jobaida": 2710,
+        "rana_abdelhamid": 1491,
+        "kevin_p_coenen": 490,
+        "scattered": 161
+      },
+      "total": 20710,
+      "winnerId": "diana_c_moreno",
+      "margin": 63.5,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    }
+  },
+  "edResults": {
+    "36001": {
+      "votes": {
+        "diana_c_moreno": 115,
+        "mary_jobaida": 36,
+        "rana_abdelhamid": 38,
+        "kevin_p_coenen": 9,
+        "scattered": 7
+      },
+      "total": 205,
+      "winnerId": "diana_c_moreno",
+      "margin": 37.6,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36002": {
+      "votes": {
+        "diana_c_moreno": 249,
+        "mary_jobaida": 16,
+        "rana_abdelhamid": 20,
+        "kevin_p_coenen": 4,
+        "scattered": 1
+      },
+      "total": 290,
+      "winnerId": "diana_c_moreno",
+      "margin": 79,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36003": {
+      "votes": {
+        "diana_c_moreno": 279,
+        "mary_jobaida": 36,
+        "rana_abdelhamid": 49,
+        "kevin_p_coenen": 3,
+        "scattered": 5
+      },
+      "total": 372,
+      "winnerId": "diana_c_moreno",
+      "margin": 61.8,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36004": {
+      "votes": {
+        "diana_c_moreno": 321,
+        "mary_jobaida": 47,
+        "rana_abdelhamid": 34,
+        "kevin_p_coenen": 10,
+        "scattered": 1
+      },
+      "total": 413,
+      "winnerId": "diana_c_moreno",
+      "margin": 66.3,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36005": {
+      "votes": {
+        "diana_c_moreno": 372,
+        "mary_jobaida": 32,
+        "rana_abdelhamid": 31,
+        "kevin_p_coenen": 15,
+        "scattered": 11
+      },
+      "total": 461,
+      "winnerId": "diana_c_moreno",
+      "margin": 73.8,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36006": {
+      "votes": {
+        "diana_c_moreno": 82,
+        "mary_jobaida": 81,
+        "rana_abdelhamid": 13,
+        "kevin_p_coenen": 4,
+        "scattered": 0
+      },
+      "total": 180,
+      "winnerId": "diana_c_moreno",
+      "margin": 0.6,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36007": {
+      "votes": {
+        "diana_c_moreno": 175,
+        "mary_jobaida": 56,
+        "rana_abdelhamid": 22,
+        "kevin_p_coenen": 4,
+        "scattered": 3
+      },
+      "total": 260,
+      "winnerId": "diana_c_moreno",
+      "margin": 45.8,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36008": {
+      "votes": {
+        "diana_c_moreno": 226,
+        "mary_jobaida": 29,
+        "rana_abdelhamid": 20,
+        "kevin_p_coenen": 6,
+        "scattered": 1
+      },
+      "total": 282,
+      "winnerId": "diana_c_moreno",
+      "margin": 69.9,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36009": {
+      "votes": {
+        "diana_c_moreno": 285,
+        "mary_jobaida": 31,
+        "rana_abdelhamid": 26,
+        "kevin_p_coenen": 8,
+        "scattered": 5
+      },
+      "total": 355,
+      "winnerId": "diana_c_moreno",
+      "margin": 71.5,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36010": {
+      "votes": {
+        "diana_c_moreno": 407,
+        "mary_jobaida": 46,
+        "rana_abdelhamid": 38,
+        "kevin_p_coenen": 12,
+        "scattered": 4
+      },
+      "total": 507,
+      "winnerId": "diana_c_moreno",
+      "margin": 71.2,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36011": {
+      "votes": {
+        "diana_c_moreno": 195,
+        "mary_jobaida": 23,
+        "rana_abdelhamid": 10,
+        "kevin_p_coenen": 6,
+        "scattered": 2
+      },
+      "total": 236,
+      "winnerId": "diana_c_moreno",
+      "margin": 72.9,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36012": {
+      "votes": {
+        "diana_c_moreno": 291,
+        "mary_jobaida": 23,
+        "rana_abdelhamid": 20,
+        "kevin_p_coenen": 11,
+        "scattered": 3
+      },
+      "total": 348,
+      "winnerId": "diana_c_moreno",
+      "margin": 77,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36013": {
+      "votes": {
+        "diana_c_moreno": 266,
+        "mary_jobaida": 23,
+        "rana_abdelhamid": 16,
+        "kevin_p_coenen": 10,
+        "scattered": 1
+      },
+      "total": 316,
+      "winnerId": "diana_c_moreno",
+      "margin": 76.9,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36014": {
+      "votes": {
+        "diana_c_moreno": 293,
+        "mary_jobaida": 76,
+        "rana_abdelhamid": 22,
+        "kevin_p_coenen": 6,
+        "scattered": 6
+      },
+      "total": 403,
+      "winnerId": "diana_c_moreno",
+      "margin": 53.8,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36015": {
+      "votes": {
+        "diana_c_moreno": 98,
+        "mary_jobaida": 18,
+        "rana_abdelhamid": 0,
+        "kevin_p_coenen": 4,
+        "scattered": 0
+      },
+      "total": 120,
+      "winnerId": "diana_c_moreno",
+      "margin": 66.7,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36016": {
+      "votes": {
+        "diana_c_moreno": 250,
+        "mary_jobaida": 36,
+        "rana_abdelhamid": 19,
+        "kevin_p_coenen": 4,
+        "scattered": 3
+      },
+      "total": 312,
+      "winnerId": "diana_c_moreno",
+      "margin": 68.6,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36017": {
+      "votes": {
+        "diana_c_moreno": 489,
+        "mary_jobaida": 51,
+        "rana_abdelhamid": 38,
+        "kevin_p_coenen": 15,
+        "scattered": 2
+      },
+      "total": 595,
+      "winnerId": "diana_c_moreno",
+      "margin": 73.6,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36018": {
+      "votes": {
+        "diana_c_moreno": 445,
+        "mary_jobaida": 77,
+        "rana_abdelhamid": 61,
+        "kevin_p_coenen": 12,
+        "scattered": 5
+      },
+      "total": 600,
+      "winnerId": "diana_c_moreno",
+      "margin": 61.3,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36019": {
+      "votes": {
+        "diana_c_moreno": 305,
+        "mary_jobaida": 31,
+        "rana_abdelhamid": 50,
+        "kevin_p_coenen": 6,
+        "scattered": 6
+      },
+      "total": 398,
+      "winnerId": "diana_c_moreno",
+      "margin": 64.1,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36020": {
+      "votes": {
+        "diana_c_moreno": 395,
+        "mary_jobaida": 45,
+        "rana_abdelhamid": 33,
+        "kevin_p_coenen": 9,
+        "scattered": 1
+      },
+      "total": 483,
+      "winnerId": "diana_c_moreno",
+      "margin": 72.5,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36021": {
+      "votes": {
+        "diana_c_moreno": 360,
+        "mary_jobaida": 52,
+        "rana_abdelhamid": 30,
+        "kevin_p_coenen": 12,
+        "scattered": 2
+      },
+      "total": 456,
+      "winnerId": "diana_c_moreno",
+      "margin": 67.5,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36022": {
+      "votes": {
+        "diana_c_moreno": 434,
+        "mary_jobaida": 32,
+        "rana_abdelhamid": 37,
+        "kevin_p_coenen": 9,
+        "scattered": 3
+      },
+      "total": 515,
+      "winnerId": "diana_c_moreno",
+      "margin": 77.1,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36023": {
+      "votes": {
+        "diana_c_moreno": 379,
+        "mary_jobaida": 38,
+        "rana_abdelhamid": 30,
+        "kevin_p_coenen": 10,
+        "scattered": 1
+      },
+      "total": 458,
+      "winnerId": "diana_c_moreno",
+      "margin": 74.5,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36024": {
+      "votes": {
+        "diana_c_moreno": 254,
+        "mary_jobaida": 28,
+        "rana_abdelhamid": 51,
+        "kevin_p_coenen": 4,
+        "scattered": 1
+      },
+      "total": 338,
+      "winnerId": "diana_c_moreno",
+      "margin": 60.1,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36025": {
+      "votes": {
+        "diana_c_moreno": 432,
+        "mary_jobaida": 47,
+        "rana_abdelhamid": 51,
+        "kevin_p_coenen": 7,
+        "scattered": 3
+      },
+      "total": 540,
+      "winnerId": "diana_c_moreno",
+      "margin": 70.6,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36026": {
+      "votes": {
+        "diana_c_moreno": 256,
+        "mary_jobaida": 27,
+        "rana_abdelhamid": 24,
+        "kevin_p_coenen": 9,
+        "scattered": 0
+      },
+      "total": 316,
+      "winnerId": "diana_c_moreno",
+      "margin": 72.5,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36027": {
+      "votes": {
+        "diana_c_moreno": 82,
+        "mary_jobaida": 13,
+        "rana_abdelhamid": 0,
+        "kevin_p_coenen": 4,
+        "scattered": 0
+      },
+      "total": 99,
+      "winnerId": "diana_c_moreno",
+      "margin": 69.7,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36028": {
+      "votes": {
+        "diana_c_moreno": 311,
+        "mary_jobaida": 38,
+        "rana_abdelhamid": 30,
+        "kevin_p_coenen": 7,
+        "scattered": 4
+      },
+      "total": 390,
+      "winnerId": "diana_c_moreno",
+      "margin": 70,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36029": {
+      "votes": {
+        "diana_c_moreno": 154,
+        "mary_jobaida": 48,
+        "rana_abdelhamid": 29,
+        "kevin_p_coenen": 1,
+        "scattered": 1
+      },
+      "total": 233,
+      "winnerId": "diana_c_moreno",
+      "margin": 45.5,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36030": {
+      "votes": {
+        "diana_c_moreno": 80,
+        "mary_jobaida": 17,
+        "rana_abdelhamid": 0,
+        "kevin_p_coenen": 3,
+        "scattered": 1
+      },
+      "total": 101,
+      "winnerId": "diana_c_moreno",
+      "margin": 62.4,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36031": {
+      "votes": {
+        "diana_c_moreno": 265,
+        "mary_jobaida": 31,
+        "rana_abdelhamid": 19,
+        "kevin_p_coenen": 1,
+        "scattered": 4
+      },
+      "total": 320,
+      "winnerId": "diana_c_moreno",
+      "margin": 73.1,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36032": {
+      "votes": {
+        "diana_c_moreno": 253,
+        "mary_jobaida": 42,
+        "rana_abdelhamid": 16,
+        "kevin_p_coenen": 5,
+        "scattered": 8
+      },
+      "total": 324,
+      "winnerId": "diana_c_moreno",
+      "margin": 65.1,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36033": {
+      "votes": {
+        "diana_c_moreno": 24,
+        "mary_jobaida": 2,
+        "rana_abdelhamid": 0,
+        "kevin_p_coenen": 0,
+        "scattered": 0
+      },
+      "total": 26,
+      "winnerId": "diana_c_moreno",
+      "margin": 84.6,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36034": {
+      "votes": {
+        "diana_c_moreno": 53,
+        "mary_jobaida": 17,
+        "rana_abdelhamid": 10,
+        "kevin_p_coenen": 2,
+        "scattered": 1
+      },
+      "total": 83,
+      "winnerId": "diana_c_moreno",
+      "margin": 43.4,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36035": {
+      "votes": {
+        "diana_c_moreno": 305,
+        "mary_jobaida": 49,
+        "rana_abdelhamid": 20,
+        "kevin_p_coenen": 6,
+        "scattered": 1
+      },
+      "total": 381,
+      "winnerId": "diana_c_moreno",
+      "margin": 67.2,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36036": {
+      "votes": {
+        "diana_c_moreno": 223,
+        "mary_jobaida": 42,
+        "rana_abdelhamid": 17,
+        "kevin_p_coenen": 11,
+        "scattered": 3
+      },
+      "total": 296,
+      "winnerId": "diana_c_moreno",
+      "margin": 61.1,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36037": {
+      "votes": {
+        "diana_c_moreno": 203,
+        "mary_jobaida": 30,
+        "rana_abdelhamid": 8,
+        "kevin_p_coenen": 2,
+        "scattered": 5
+      },
+      "total": 248,
+      "winnerId": "diana_c_moreno",
+      "margin": 69.8,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36038": {
+      "votes": {
+        "diana_c_moreno": 79,
+        "mary_jobaida": 97,
+        "rana_abdelhamid": 7,
+        "kevin_p_coenen": 7,
+        "scattered": 1
+      },
+      "total": 191,
+      "winnerId": "mary_jobaida",
+      "margin": 9.4,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36039": {
+      "votes": {
+        "diana_c_moreno": 94,
+        "mary_jobaida": 89,
+        "rana_abdelhamid": 4,
+        "kevin_p_coenen": 7,
+        "scattered": 0
+      },
+      "total": 194,
+      "winnerId": "diana_c_moreno",
+      "margin": 2.6,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36040": {
+      "votes": {
+        "diana_c_moreno": 95,
+        "mary_jobaida": 81,
+        "rana_abdelhamid": 4,
+        "kevin_p_coenen": 9,
+        "scattered": 2
+      },
+      "total": 191,
+      "winnerId": "diana_c_moreno",
+      "margin": 7.3,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36041": {
+      "votes": {
+        "diana_c_moreno": 213,
+        "mary_jobaida": 14,
+        "rana_abdelhamid": 13,
+        "kevin_p_coenen": 3,
+        "scattered": 3
+      },
+      "total": 246,
+      "winnerId": "diana_c_moreno",
+      "margin": 80.9,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36042": {
+      "votes": {
+        "diana_c_moreno": 225,
+        "mary_jobaida": 40,
+        "rana_abdelhamid": 13,
+        "kevin_p_coenen": 8,
+        "scattered": 1
+      },
+      "total": 287,
+      "winnerId": "diana_c_moreno",
+      "margin": 64.5,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36043": {
+      "votes": {
+        "diana_c_moreno": 164,
+        "mary_jobaida": 131,
+        "rana_abdelhamid": 20,
+        "kevin_p_coenen": 2,
+        "scattered": 0
+      },
+      "total": 317,
+      "winnerId": "diana_c_moreno",
+      "margin": 10.4,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36044": {
+      "votes": {
+        "diana_c_moreno": 327,
+        "mary_jobaida": 50,
+        "rana_abdelhamid": 38,
+        "kevin_p_coenen": 9,
+        "scattered": 2
+      },
+      "total": 426,
+      "winnerId": "diana_c_moreno",
+      "margin": 65,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36045": {
+      "votes": {
+        "diana_c_moreno": 205,
+        "mary_jobaida": 60,
+        "rana_abdelhamid": 37,
+        "kevin_p_coenen": 6,
+        "scattered": 1
+      },
+      "total": 309,
+      "winnerId": "diana_c_moreno",
+      "margin": 46.9,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36046": {
+      "votes": {
+        "diana_c_moreno": 121,
+        "mary_jobaida": 74,
+        "rana_abdelhamid": 4,
+        "kevin_p_coenen": 4,
+        "scattered": 0
+      },
+      "total": 203,
+      "winnerId": "diana_c_moreno",
+      "margin": 23.2,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36047": {
+      "votes": {
+        "diana_c_moreno": 110,
+        "mary_jobaida": 71,
+        "rana_abdelhamid": 15,
+        "kevin_p_coenen": 10,
+        "scattered": 0
+      },
+      "total": 206,
+      "winnerId": "diana_c_moreno",
+      "margin": 18.9,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36048": {
+      "votes": {
+        "diana_c_moreno": 74,
+        "mary_jobaida": 31,
+        "rana_abdelhamid": 0,
+        "kevin_p_coenen": 0,
+        "scattered": 0
+      },
+      "total": 105,
+      "winnerId": "diana_c_moreno",
+      "margin": 41,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36049": {
+      "votes": {
+        "diana_c_moreno": 224,
+        "mary_jobaida": 82,
+        "rana_abdelhamid": 10,
+        "kevin_p_coenen": 7,
+        "scattered": 0
+      },
+      "total": 323,
+      "winnerId": "diana_c_moreno",
+      "margin": 44,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36050": {
+      "votes": {
+        "diana_c_moreno": 13,
+        "mary_jobaida": 4,
+        "rana_abdelhamid": 0,
+        "kevin_p_coenen": 5,
+        "scattered": 0
+      },
+      "total": 22,
+      "winnerId": "diana_c_moreno",
+      "margin": 36.4,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36051": {
+      "votes": {
+        "diana_c_moreno": 43,
+        "mary_jobaida": 16,
+        "rana_abdelhamid": 0,
+        "kevin_p_coenen": 3,
+        "scattered": 0
+      },
+      "total": 62,
+      "winnerId": "diana_c_moreno",
+      "margin": 43.5,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36052": {
+      "votes": {
+        "diana_c_moreno": 163,
+        "mary_jobaida": 32,
+        "rana_abdelhamid": 2,
+        "kevin_p_coenen": 5,
+        "scattered": 1
+      },
+      "total": 203,
+      "winnerId": "diana_c_moreno",
+      "margin": 64.5,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36053": {
+      "votes": {
+        "diana_c_moreno": 64,
+        "mary_jobaida": 15,
+        "rana_abdelhamid": 0,
+        "kevin_p_coenen": 7,
+        "scattered": 1
+      },
+      "total": 87,
+      "winnerId": "diana_c_moreno",
+      "margin": 56.3,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36054": {
+      "votes": {
+        "diana_c_moreno": 314,
+        "mary_jobaida": 47,
+        "rana_abdelhamid": 24,
+        "kevin_p_coenen": 5,
+        "scattered": 5
+      },
+      "total": 395,
+      "winnerId": "diana_c_moreno",
+      "margin": 67.6,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36055": {
+      "votes": {
+        "diana_c_moreno": 280,
+        "mary_jobaida": 51,
+        "rana_abdelhamid": 32,
+        "kevin_p_coenen": 15,
+        "scattered": 5
+      },
+      "total": 383,
+      "winnerId": "diana_c_moreno",
+      "margin": 59.8,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36056": {
+      "votes": {
+        "diana_c_moreno": 565,
+        "mary_jobaida": 67,
+        "rana_abdelhamid": 88,
+        "kevin_p_coenen": 38,
+        "scattered": 8
+      },
+      "total": 766,
+      "winnerId": "diana_c_moreno",
+      "margin": 62.3,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36057": {
+      "votes": {
+        "diana_c_moreno": 312,
+        "mary_jobaida": 44,
+        "rana_abdelhamid": 29,
+        "kevin_p_coenen": 2,
+        "scattered": 3
+      },
+      "total": 390,
+      "winnerId": "diana_c_moreno",
+      "margin": 68.7,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36058": {
+      "votes": {
+        "diana_c_moreno": 266,
+        "mary_jobaida": 26,
+        "rana_abdelhamid": 0,
+        "kevin_p_coenen": 12,
+        "scattered": 0
+      },
+      "total": 304,
+      "winnerId": "diana_c_moreno",
+      "margin": 78.9,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36059": {
+      "votes": {
+        "diana_c_moreno": 326,
+        "mary_jobaida": 40,
+        "rana_abdelhamid": 45,
+        "kevin_p_coenen": 13,
+        "scattered": 4
+      },
+      "total": 428,
+      "winnerId": "diana_c_moreno",
+      "margin": 65.7,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36060": {
+      "votes": {
+        "diana_c_moreno": 260,
+        "mary_jobaida": 25,
+        "rana_abdelhamid": 40,
+        "kevin_p_coenen": 13,
+        "scattered": 5
+      },
+      "total": 343,
+      "winnerId": "diana_c_moreno",
+      "margin": 64.1,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36061": {
+      "votes": {
+        "diana_c_moreno": 379,
+        "mary_jobaida": 20,
+        "rana_abdelhamid": 17,
+        "kevin_p_coenen": 13,
+        "scattered": 2
+      },
+      "total": 431,
+      "winnerId": "diana_c_moreno",
+      "margin": 83.3,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36062": {
+      "votes": {
+        "diana_c_moreno": 317,
+        "mary_jobaida": 19,
+        "rana_abdelhamid": 39,
+        "kevin_p_coenen": 9,
+        "scattered": 0
+      },
+      "total": 384,
+      "winnerId": "diana_c_moreno",
+      "margin": 72.4,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36063": {
+      "votes": {
+        "diana_c_moreno": 356,
+        "mary_jobaida": 34,
+        "rana_abdelhamid": 36,
+        "kevin_p_coenen": 4,
+        "scattered": 2
+      },
+      "total": 432,
+      "winnerId": "diana_c_moreno",
+      "margin": 74.1,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36064": {
+      "votes": {
+        "diana_c_moreno": 199,
+        "mary_jobaida": 17,
+        "rana_abdelhamid": 16,
+        "kevin_p_coenen": 9,
+        "scattered": 3
+      },
+      "total": 244,
+      "winnerId": "diana_c_moreno",
+      "margin": 74.6,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36065": {
+      "votes": {
+        "diana_c_moreno": 277,
+        "mary_jobaida": 31,
+        "rana_abdelhamid": 26,
+        "kevin_p_coenen": 5,
+        "scattered": 4
+      },
+      "total": 343,
+      "winnerId": "diana_c_moreno",
+      "margin": 71.7,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36066": {
+      "votes": {
+        "diana_c_moreno": 26,
+        "mary_jobaida": 7,
+        "rana_abdelhamid": 0,
+        "kevin_p_coenen": 0,
+        "scattered": 0
+      },
+      "total": 33,
+      "winnerId": "diana_c_moreno",
+      "margin": 57.6,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36067": {
+      "votes": {
+        "diana_c_moreno": 19,
+        "mary_jobaida": 1,
+        "rana_abdelhamid": 0,
+        "kevin_p_coenen": 2,
+        "scattered": 0
+      },
+      "total": 22,
+      "winnerId": "diana_c_moreno",
+      "margin": 77.3,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36068": {
+      "votes": {
+        "diana_c_moreno": 142,
+        "mary_jobaida": 28,
+        "rana_abdelhamid": 0,
+        "kevin_p_coenen": 7,
+        "scattered": 3
+      },
+      "total": 180,
+      "winnerId": "diana_c_moreno",
+      "margin": 63.3,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36070": {
+      "votes": {
+        "diana_c_moreno": 0,
+        "mary_jobaida": 0,
+        "rana_abdelhamid": 0,
+        "kevin_p_coenen": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "diana_c_moreno",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36/001": {
+      "votes": {
+        "diana_c_moreno": 115,
+        "mary_jobaida": 36,
+        "rana_abdelhamid": 38,
+        "kevin_p_coenen": 9,
+        "scattered": 7
+      },
+      "total": 205,
+      "winnerId": "diana_c_moreno",
+      "margin": 37.6,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36/002": {
+      "votes": {
+        "diana_c_moreno": 249,
+        "mary_jobaida": 16,
+        "rana_abdelhamid": 20,
+        "kevin_p_coenen": 4,
+        "scattered": 1
+      },
+      "total": 290,
+      "winnerId": "diana_c_moreno",
+      "margin": 79,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36/003": {
+      "votes": {
+        "diana_c_moreno": 279,
+        "mary_jobaida": 36,
+        "rana_abdelhamid": 49,
+        "kevin_p_coenen": 3,
+        "scattered": 5
+      },
+      "total": 372,
+      "winnerId": "diana_c_moreno",
+      "margin": 61.8,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36/004": {
+      "votes": {
+        "diana_c_moreno": 321,
+        "mary_jobaida": 47,
+        "rana_abdelhamid": 34,
+        "kevin_p_coenen": 10,
+        "scattered": 1
+      },
+      "total": 413,
+      "winnerId": "diana_c_moreno",
+      "margin": 66.3,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36/005": {
+      "votes": {
+        "diana_c_moreno": 372,
+        "mary_jobaida": 32,
+        "rana_abdelhamid": 31,
+        "kevin_p_coenen": 15,
+        "scattered": 11
+      },
+      "total": 461,
+      "winnerId": "diana_c_moreno",
+      "margin": 73.8,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36/006": {
+      "votes": {
+        "diana_c_moreno": 82,
+        "mary_jobaida": 81,
+        "rana_abdelhamid": 13,
+        "kevin_p_coenen": 4,
+        "scattered": 0
+      },
+      "total": 180,
+      "winnerId": "diana_c_moreno",
+      "margin": 0.6,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36/007": {
+      "votes": {
+        "diana_c_moreno": 175,
+        "mary_jobaida": 56,
+        "rana_abdelhamid": 22,
+        "kevin_p_coenen": 4,
+        "scattered": 3
+      },
+      "total": 260,
+      "winnerId": "diana_c_moreno",
+      "margin": 45.8,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36/008": {
+      "votes": {
+        "diana_c_moreno": 226,
+        "mary_jobaida": 29,
+        "rana_abdelhamid": 20,
+        "kevin_p_coenen": 6,
+        "scattered": 1
+      },
+      "total": 282,
+      "winnerId": "diana_c_moreno",
+      "margin": 69.9,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36/009": {
+      "votes": {
+        "diana_c_moreno": 285,
+        "mary_jobaida": 31,
+        "rana_abdelhamid": 26,
+        "kevin_p_coenen": 8,
+        "scattered": 5
+      },
+      "total": 355,
+      "winnerId": "diana_c_moreno",
+      "margin": 71.5,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36/010": {
+      "votes": {
+        "diana_c_moreno": 407,
+        "mary_jobaida": 46,
+        "rana_abdelhamid": 38,
+        "kevin_p_coenen": 12,
+        "scattered": 4
+      },
+      "total": 507,
+      "winnerId": "diana_c_moreno",
+      "margin": 71.2,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36/011": {
+      "votes": {
+        "diana_c_moreno": 195,
+        "mary_jobaida": 23,
+        "rana_abdelhamid": 10,
+        "kevin_p_coenen": 6,
+        "scattered": 2
+      },
+      "total": 236,
+      "winnerId": "diana_c_moreno",
+      "margin": 72.9,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36/012": {
+      "votes": {
+        "diana_c_moreno": 291,
+        "mary_jobaida": 23,
+        "rana_abdelhamid": 20,
+        "kevin_p_coenen": 11,
+        "scattered": 3
+      },
+      "total": 348,
+      "winnerId": "diana_c_moreno",
+      "margin": 77,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36/013": {
+      "votes": {
+        "diana_c_moreno": 266,
+        "mary_jobaida": 23,
+        "rana_abdelhamid": 16,
+        "kevin_p_coenen": 10,
+        "scattered": 1
+      },
+      "total": 316,
+      "winnerId": "diana_c_moreno",
+      "margin": 76.9,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36/014": {
+      "votes": {
+        "diana_c_moreno": 293,
+        "mary_jobaida": 76,
+        "rana_abdelhamid": 22,
+        "kevin_p_coenen": 6,
+        "scattered": 6
+      },
+      "total": 403,
+      "winnerId": "diana_c_moreno",
+      "margin": 53.8,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36/015": {
+      "votes": {
+        "diana_c_moreno": 98,
+        "mary_jobaida": 18,
+        "rana_abdelhamid": 0,
+        "kevin_p_coenen": 4,
+        "scattered": 0
+      },
+      "total": 120,
+      "winnerId": "diana_c_moreno",
+      "margin": 66.7,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36/016": {
+      "votes": {
+        "diana_c_moreno": 250,
+        "mary_jobaida": 36,
+        "rana_abdelhamid": 19,
+        "kevin_p_coenen": 4,
+        "scattered": 3
+      },
+      "total": 312,
+      "winnerId": "diana_c_moreno",
+      "margin": 68.6,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36/017": {
+      "votes": {
+        "diana_c_moreno": 489,
+        "mary_jobaida": 51,
+        "rana_abdelhamid": 38,
+        "kevin_p_coenen": 15,
+        "scattered": 2
+      },
+      "total": 595,
+      "winnerId": "diana_c_moreno",
+      "margin": 73.6,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36/018": {
+      "votes": {
+        "diana_c_moreno": 445,
+        "mary_jobaida": 77,
+        "rana_abdelhamid": 61,
+        "kevin_p_coenen": 12,
+        "scattered": 5
+      },
+      "total": 600,
+      "winnerId": "diana_c_moreno",
+      "margin": 61.3,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36/019": {
+      "votes": {
+        "diana_c_moreno": 305,
+        "mary_jobaida": 31,
+        "rana_abdelhamid": 50,
+        "kevin_p_coenen": 6,
+        "scattered": 6
+      },
+      "total": 398,
+      "winnerId": "diana_c_moreno",
+      "margin": 64.1,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36/020": {
+      "votes": {
+        "diana_c_moreno": 395,
+        "mary_jobaida": 45,
+        "rana_abdelhamid": 33,
+        "kevin_p_coenen": 9,
+        "scattered": 1
+      },
+      "total": 483,
+      "winnerId": "diana_c_moreno",
+      "margin": 72.5,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36/021": {
+      "votes": {
+        "diana_c_moreno": 360,
+        "mary_jobaida": 52,
+        "rana_abdelhamid": 30,
+        "kevin_p_coenen": 12,
+        "scattered": 2
+      },
+      "total": 456,
+      "winnerId": "diana_c_moreno",
+      "margin": 67.5,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36/022": {
+      "votes": {
+        "diana_c_moreno": 434,
+        "mary_jobaida": 32,
+        "rana_abdelhamid": 37,
+        "kevin_p_coenen": 9,
+        "scattered": 3
+      },
+      "total": 515,
+      "winnerId": "diana_c_moreno",
+      "margin": 77.1,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36/023": {
+      "votes": {
+        "diana_c_moreno": 379,
+        "mary_jobaida": 38,
+        "rana_abdelhamid": 30,
+        "kevin_p_coenen": 10,
+        "scattered": 1
+      },
+      "total": 458,
+      "winnerId": "diana_c_moreno",
+      "margin": 74.5,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36/024": {
+      "votes": {
+        "diana_c_moreno": 254,
+        "mary_jobaida": 28,
+        "rana_abdelhamid": 51,
+        "kevin_p_coenen": 4,
+        "scattered": 1
+      },
+      "total": 338,
+      "winnerId": "diana_c_moreno",
+      "margin": 60.1,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36/025": {
+      "votes": {
+        "diana_c_moreno": 432,
+        "mary_jobaida": 47,
+        "rana_abdelhamid": 51,
+        "kevin_p_coenen": 7,
+        "scattered": 3
+      },
+      "total": 540,
+      "winnerId": "diana_c_moreno",
+      "margin": 70.6,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36/026": {
+      "votes": {
+        "diana_c_moreno": 256,
+        "mary_jobaida": 27,
+        "rana_abdelhamid": 24,
+        "kevin_p_coenen": 9,
+        "scattered": 0
+      },
+      "total": 316,
+      "winnerId": "diana_c_moreno",
+      "margin": 72.5,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36/027": {
+      "votes": {
+        "diana_c_moreno": 82,
+        "mary_jobaida": 13,
+        "rana_abdelhamid": 0,
+        "kevin_p_coenen": 4,
+        "scattered": 0
+      },
+      "total": 99,
+      "winnerId": "diana_c_moreno",
+      "margin": 69.7,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36/028": {
+      "votes": {
+        "diana_c_moreno": 311,
+        "mary_jobaida": 38,
+        "rana_abdelhamid": 30,
+        "kevin_p_coenen": 7,
+        "scattered": 4
+      },
+      "total": 390,
+      "winnerId": "diana_c_moreno",
+      "margin": 70,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36/029": {
+      "votes": {
+        "diana_c_moreno": 154,
+        "mary_jobaida": 48,
+        "rana_abdelhamid": 29,
+        "kevin_p_coenen": 1,
+        "scattered": 1
+      },
+      "total": 233,
+      "winnerId": "diana_c_moreno",
+      "margin": 45.5,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36/030": {
+      "votes": {
+        "diana_c_moreno": 80,
+        "mary_jobaida": 17,
+        "rana_abdelhamid": 0,
+        "kevin_p_coenen": 3,
+        "scattered": 1
+      },
+      "total": 101,
+      "winnerId": "diana_c_moreno",
+      "margin": 62.4,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36/031": {
+      "votes": {
+        "diana_c_moreno": 265,
+        "mary_jobaida": 31,
+        "rana_abdelhamid": 19,
+        "kevin_p_coenen": 1,
+        "scattered": 4
+      },
+      "total": 320,
+      "winnerId": "diana_c_moreno",
+      "margin": 73.1,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36/032": {
+      "votes": {
+        "diana_c_moreno": 253,
+        "mary_jobaida": 42,
+        "rana_abdelhamid": 16,
+        "kevin_p_coenen": 5,
+        "scattered": 8
+      },
+      "total": 324,
+      "winnerId": "diana_c_moreno",
+      "margin": 65.1,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36/033": {
+      "votes": {
+        "diana_c_moreno": 24,
+        "mary_jobaida": 2,
+        "rana_abdelhamid": 0,
+        "kevin_p_coenen": 0,
+        "scattered": 0
+      },
+      "total": 26,
+      "winnerId": "diana_c_moreno",
+      "margin": 84.6,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36/034": {
+      "votes": {
+        "diana_c_moreno": 53,
+        "mary_jobaida": 17,
+        "rana_abdelhamid": 10,
+        "kevin_p_coenen": 2,
+        "scattered": 1
+      },
+      "total": 83,
+      "winnerId": "diana_c_moreno",
+      "margin": 43.4,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36/035": {
+      "votes": {
+        "diana_c_moreno": 305,
+        "mary_jobaida": 49,
+        "rana_abdelhamid": 20,
+        "kevin_p_coenen": 6,
+        "scattered": 1
+      },
+      "total": 381,
+      "winnerId": "diana_c_moreno",
+      "margin": 67.2,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36/036": {
+      "votes": {
+        "diana_c_moreno": 223,
+        "mary_jobaida": 42,
+        "rana_abdelhamid": 17,
+        "kevin_p_coenen": 11,
+        "scattered": 3
+      },
+      "total": 296,
+      "winnerId": "diana_c_moreno",
+      "margin": 61.1,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36/037": {
+      "votes": {
+        "diana_c_moreno": 203,
+        "mary_jobaida": 30,
+        "rana_abdelhamid": 8,
+        "kevin_p_coenen": 2,
+        "scattered": 5
+      },
+      "total": 248,
+      "winnerId": "diana_c_moreno",
+      "margin": 69.8,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36/038": {
+      "votes": {
+        "diana_c_moreno": 79,
+        "mary_jobaida": 97,
+        "rana_abdelhamid": 7,
+        "kevin_p_coenen": 7,
+        "scattered": 1
+      },
+      "total": 191,
+      "winnerId": "mary_jobaida",
+      "margin": 9.4,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36/039": {
+      "votes": {
+        "diana_c_moreno": 94,
+        "mary_jobaida": 89,
+        "rana_abdelhamid": 4,
+        "kevin_p_coenen": 7,
+        "scattered": 0
+      },
+      "total": 194,
+      "winnerId": "diana_c_moreno",
+      "margin": 2.6,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36/040": {
+      "votes": {
+        "diana_c_moreno": 95,
+        "mary_jobaida": 81,
+        "rana_abdelhamid": 4,
+        "kevin_p_coenen": 9,
+        "scattered": 2
+      },
+      "total": 191,
+      "winnerId": "diana_c_moreno",
+      "margin": 7.3,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36/041": {
+      "votes": {
+        "diana_c_moreno": 213,
+        "mary_jobaida": 14,
+        "rana_abdelhamid": 13,
+        "kevin_p_coenen": 3,
+        "scattered": 3
+      },
+      "total": 246,
+      "winnerId": "diana_c_moreno",
+      "margin": 80.9,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36/042": {
+      "votes": {
+        "diana_c_moreno": 225,
+        "mary_jobaida": 40,
+        "rana_abdelhamid": 13,
+        "kevin_p_coenen": 8,
+        "scattered": 1
+      },
+      "total": 287,
+      "winnerId": "diana_c_moreno",
+      "margin": 64.5,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36/043": {
+      "votes": {
+        "diana_c_moreno": 164,
+        "mary_jobaida": 131,
+        "rana_abdelhamid": 20,
+        "kevin_p_coenen": 2,
+        "scattered": 0
+      },
+      "total": 317,
+      "winnerId": "diana_c_moreno",
+      "margin": 10.4,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36/044": {
+      "votes": {
+        "diana_c_moreno": 327,
+        "mary_jobaida": 50,
+        "rana_abdelhamid": 38,
+        "kevin_p_coenen": 9,
+        "scattered": 2
+      },
+      "total": 426,
+      "winnerId": "diana_c_moreno",
+      "margin": 65,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36/045": {
+      "votes": {
+        "diana_c_moreno": 205,
+        "mary_jobaida": 60,
+        "rana_abdelhamid": 37,
+        "kevin_p_coenen": 6,
+        "scattered": 1
+      },
+      "total": 309,
+      "winnerId": "diana_c_moreno",
+      "margin": 46.9,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36/046": {
+      "votes": {
+        "diana_c_moreno": 121,
+        "mary_jobaida": 74,
+        "rana_abdelhamid": 4,
+        "kevin_p_coenen": 4,
+        "scattered": 0
+      },
+      "total": 203,
+      "winnerId": "diana_c_moreno",
+      "margin": 23.2,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36/047": {
+      "votes": {
+        "diana_c_moreno": 110,
+        "mary_jobaida": 71,
+        "rana_abdelhamid": 15,
+        "kevin_p_coenen": 10,
+        "scattered": 0
+      },
+      "total": 206,
+      "winnerId": "diana_c_moreno",
+      "margin": 18.9,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36/048": {
+      "votes": {
+        "diana_c_moreno": 74,
+        "mary_jobaida": 31,
+        "rana_abdelhamid": 0,
+        "kevin_p_coenen": 0,
+        "scattered": 0
+      },
+      "total": 105,
+      "winnerId": "diana_c_moreno",
+      "margin": 41,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36/049": {
+      "votes": {
+        "diana_c_moreno": 224,
+        "mary_jobaida": 82,
+        "rana_abdelhamid": 10,
+        "kevin_p_coenen": 7,
+        "scattered": 0
+      },
+      "total": 323,
+      "winnerId": "diana_c_moreno",
+      "margin": 44,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36/050": {
+      "votes": {
+        "diana_c_moreno": 13,
+        "mary_jobaida": 4,
+        "rana_abdelhamid": 0,
+        "kevin_p_coenen": 5,
+        "scattered": 0
+      },
+      "total": 22,
+      "winnerId": "diana_c_moreno",
+      "margin": 36.4,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36/051": {
+      "votes": {
+        "diana_c_moreno": 43,
+        "mary_jobaida": 16,
+        "rana_abdelhamid": 0,
+        "kevin_p_coenen": 3,
+        "scattered": 0
+      },
+      "total": 62,
+      "winnerId": "diana_c_moreno",
+      "margin": 43.5,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36/052": {
+      "votes": {
+        "diana_c_moreno": 163,
+        "mary_jobaida": 32,
+        "rana_abdelhamid": 2,
+        "kevin_p_coenen": 5,
+        "scattered": 1
+      },
+      "total": 203,
+      "winnerId": "diana_c_moreno",
+      "margin": 64.5,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36/053": {
+      "votes": {
+        "diana_c_moreno": 64,
+        "mary_jobaida": 15,
+        "rana_abdelhamid": 0,
+        "kevin_p_coenen": 7,
+        "scattered": 1
+      },
+      "total": 87,
+      "winnerId": "diana_c_moreno",
+      "margin": 56.3,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36/054": {
+      "votes": {
+        "diana_c_moreno": 314,
+        "mary_jobaida": 47,
+        "rana_abdelhamid": 24,
+        "kevin_p_coenen": 5,
+        "scattered": 5
+      },
+      "total": 395,
+      "winnerId": "diana_c_moreno",
+      "margin": 67.6,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36/055": {
+      "votes": {
+        "diana_c_moreno": 280,
+        "mary_jobaida": 51,
+        "rana_abdelhamid": 32,
+        "kevin_p_coenen": 15,
+        "scattered": 5
+      },
+      "total": 383,
+      "winnerId": "diana_c_moreno",
+      "margin": 59.8,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36/056": {
+      "votes": {
+        "diana_c_moreno": 565,
+        "mary_jobaida": 67,
+        "rana_abdelhamid": 88,
+        "kevin_p_coenen": 38,
+        "scattered": 8
+      },
+      "total": 766,
+      "winnerId": "diana_c_moreno",
+      "margin": 62.3,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36/057": {
+      "votes": {
+        "diana_c_moreno": 312,
+        "mary_jobaida": 44,
+        "rana_abdelhamid": 29,
+        "kevin_p_coenen": 2,
+        "scattered": 3
+      },
+      "total": 390,
+      "winnerId": "diana_c_moreno",
+      "margin": 68.7,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36/058": {
+      "votes": {
+        "diana_c_moreno": 266,
+        "mary_jobaida": 26,
+        "rana_abdelhamid": 0,
+        "kevin_p_coenen": 12,
+        "scattered": 0
+      },
+      "total": 304,
+      "winnerId": "diana_c_moreno",
+      "margin": 78.9,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36/059": {
+      "votes": {
+        "diana_c_moreno": 326,
+        "mary_jobaida": 40,
+        "rana_abdelhamid": 45,
+        "kevin_p_coenen": 13,
+        "scattered": 4
+      },
+      "total": 428,
+      "winnerId": "diana_c_moreno",
+      "margin": 65.7,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36/060": {
+      "votes": {
+        "diana_c_moreno": 260,
+        "mary_jobaida": 25,
+        "rana_abdelhamid": 40,
+        "kevin_p_coenen": 13,
+        "scattered": 5
+      },
+      "total": 343,
+      "winnerId": "diana_c_moreno",
+      "margin": 64.1,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36/061": {
+      "votes": {
+        "diana_c_moreno": 379,
+        "mary_jobaida": 20,
+        "rana_abdelhamid": 17,
+        "kevin_p_coenen": 13,
+        "scattered": 2
+      },
+      "total": 431,
+      "winnerId": "diana_c_moreno",
+      "margin": 83.3,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36/062": {
+      "votes": {
+        "diana_c_moreno": 317,
+        "mary_jobaida": 19,
+        "rana_abdelhamid": 39,
+        "kevin_p_coenen": 9,
+        "scattered": 0
+      },
+      "total": 384,
+      "winnerId": "diana_c_moreno",
+      "margin": 72.4,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36/063": {
+      "votes": {
+        "diana_c_moreno": 356,
+        "mary_jobaida": 34,
+        "rana_abdelhamid": 36,
+        "kevin_p_coenen": 4,
+        "scattered": 2
+      },
+      "total": 432,
+      "winnerId": "diana_c_moreno",
+      "margin": 74.1,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36/064": {
+      "votes": {
+        "diana_c_moreno": 199,
+        "mary_jobaida": 17,
+        "rana_abdelhamid": 16,
+        "kevin_p_coenen": 9,
+        "scattered": 3
+      },
+      "total": 244,
+      "winnerId": "diana_c_moreno",
+      "margin": 74.6,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36/065": {
+      "votes": {
+        "diana_c_moreno": 277,
+        "mary_jobaida": 31,
+        "rana_abdelhamid": 26,
+        "kevin_p_coenen": 5,
+        "scattered": 4
+      },
+      "total": 343,
+      "winnerId": "diana_c_moreno",
+      "margin": 71.7,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36/066": {
+      "votes": {
+        "diana_c_moreno": 26,
+        "mary_jobaida": 7,
+        "rana_abdelhamid": 0,
+        "kevin_p_coenen": 0,
+        "scattered": 0
+      },
+      "total": 33,
+      "winnerId": "diana_c_moreno",
+      "margin": 57.6,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36/067": {
+      "votes": {
+        "diana_c_moreno": 19,
+        "mary_jobaida": 1,
+        "rana_abdelhamid": 0,
+        "kevin_p_coenen": 2,
+        "scattered": 0
+      },
+      "total": 22,
+      "winnerId": "diana_c_moreno",
+      "margin": 77.3,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36/068": {
+      "votes": {
+        "diana_c_moreno": 142,
+        "mary_jobaida": 28,
+        "rana_abdelhamid": 0,
+        "kevin_p_coenen": 7,
+        "scattered": 3
+      },
+      "total": 180,
+      "winnerId": "diana_c_moreno",
+      "margin": 63.3,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "36/070": {
+      "votes": {
+        "diana_c_moreno": 0,
+        "mary_jobaida": 0,
+        "rana_abdelhamid": 0,
+        "kevin_p_coenen": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "diana_c_moreno",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "diana_c_moreno",
+          "name": "Diana C. Moreno",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "mary_jobaida",
+          "name": "Mary Jobaida",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "rana_abdelhamid",
+          "name": "Rana Abdelhamid",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "kevin_p_coenen",
+          "name": "Kevin P. Coenen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    }
+  }
+}

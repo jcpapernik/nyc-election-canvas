@@ -1,0 +1,5497 @@
+{
+  "id": "democratic_state_committee_58",
+  "name": "2026 Primary - State Committee District 58",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "Judicial & Party Offices",
+  "districtKey": "58",
+  "districtType": "congressional",
+  "isUncontested": false,
+  "candidates": [
+    {
+      "id": "monique_chandler-waterman_(f)",
+      "name": "Monique Chandler-Waterman (F)",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#d97706"
+    },
+    {
+      "id": "kevin_s_parker_(m)",
+      "name": "Kevin S. Parker (M)",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#7c3aed"
+    },
+    {
+      "id": "mercedes_narcisse_(f)",
+      "name": "Mercedes Narcisse (F)",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#059669"
+    },
+    {
+      "id": "scattered",
+      "name": "Scattered",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#0891b2"
+    }
+  ],
+  "results": {
+    "58": {
+      "votes": {
+        "monique_chandler_waterman_f_": 4712,
+        "kevin_s_parker_m_": 3513,
+        "mercedes_narcisse_f_": 3081,
+        "scattered": 35
+      },
+      "total": 11341,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 10.6,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    }
+  },
+  "edResults": {
+    "58001": {
+      "votes": {
+        "monique_chandler_waterman_f_": 70,
+        "kevin_s_parker_m_": 45,
+        "mercedes_narcisse_f_": 31,
+        "scattered": 0
+      },
+      "total": 146,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 17.1,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58002": {
+      "votes": {
+        "monique_chandler_waterman_f_": 65,
+        "kevin_s_parker_m_": 43,
+        "mercedes_narcisse_f_": 31,
+        "scattered": 0
+      },
+      "total": 139,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 15.8,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58003": {
+      "votes": {
+        "monique_chandler_waterman_f_": 144,
+        "kevin_s_parker_m_": 87,
+        "mercedes_narcisse_f_": 54,
+        "scattered": 3
+      },
+      "total": 288,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 19.8,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58004": {
+      "votes": {
+        "monique_chandler_waterman_f_": 69,
+        "kevin_s_parker_m_": 35,
+        "mercedes_narcisse_f_": 43,
+        "scattered": 0
+      },
+      "total": 147,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 17.7,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58005": {
+      "votes": {
+        "monique_chandler_waterman_f_": 62,
+        "kevin_s_parker_m_": 44,
+        "mercedes_narcisse_f_": 33,
+        "scattered": 0
+      },
+      "total": 139,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 12.9,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58006": {
+      "votes": {
+        "monique_chandler_waterman_f_": 54,
+        "kevin_s_parker_m_": 37,
+        "mercedes_narcisse_f_": 29,
+        "scattered": 0
+      },
+      "total": 120,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 14.2,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58007": {
+      "votes": {
+        "monique_chandler_waterman_f_": 76,
+        "kevin_s_parker_m_": 52,
+        "mercedes_narcisse_f_": 47,
+        "scattered": 2
+      },
+      "total": 177,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 13.6,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58008": {
+      "votes": {
+        "monique_chandler_waterman_f_": 87,
+        "kevin_s_parker_m_": 72,
+        "mercedes_narcisse_f_": 28,
+        "scattered": 0
+      },
+      "total": 187,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 8,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58009": {
+      "votes": {
+        "monique_chandler_waterman_f_": 64,
+        "kevin_s_parker_m_": 46,
+        "mercedes_narcisse_f_": 28,
+        "scattered": 0
+      },
+      "total": 138,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 13,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58010": {
+      "votes": {
+        "monique_chandler_waterman_f_": 61,
+        "kevin_s_parker_m_": 47,
+        "mercedes_narcisse_f_": 39,
+        "scattered": 0
+      },
+      "total": 147,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 9.5,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58011": {
+      "votes": {
+        "monique_chandler_waterman_f_": 102,
+        "kevin_s_parker_m_": 70,
+        "mercedes_narcisse_f_": 62,
+        "scattered": 1
+      },
+      "total": 235,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 13.6,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58012": {
+      "votes": {
+        "monique_chandler_waterman_f_": 64,
+        "kevin_s_parker_m_": 32,
+        "mercedes_narcisse_f_": 45,
+        "scattered": 2
+      },
+      "total": 143,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 13.3,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58013": {
+      "votes": {
+        "monique_chandler_waterman_f_": 94,
+        "kevin_s_parker_m_": 67,
+        "mercedes_narcisse_f_": 68,
+        "scattered": 2
+      },
+      "total": 231,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 11.3,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58014": {
+      "votes": {
+        "monique_chandler_waterman_f_": 57,
+        "kevin_s_parker_m_": 37,
+        "mercedes_narcisse_f_": 38,
+        "scattered": 0
+      },
+      "total": 132,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 14.4,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58015": {
+      "votes": {
+        "monique_chandler_waterman_f_": 73,
+        "kevin_s_parker_m_": 55,
+        "mercedes_narcisse_f_": 47,
+        "scattered": 0
+      },
+      "total": 175,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 10.3,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58016": {
+      "votes": {
+        "monique_chandler_waterman_f_": 72,
+        "kevin_s_parker_m_": 40,
+        "mercedes_narcisse_f_": 40,
+        "scattered": 1
+      },
+      "total": 153,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 20.9,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58017": {
+      "votes": {
+        "monique_chandler_waterman_f_": 80,
+        "kevin_s_parker_m_": 45,
+        "mercedes_narcisse_f_": 44,
+        "scattered": 0
+      },
+      "total": 169,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 20.7,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58018": {
+      "votes": {
+        "monique_chandler_waterman_f_": 92,
+        "kevin_s_parker_m_": 68,
+        "mercedes_narcisse_f_": 58,
+        "scattered": 3
+      },
+      "total": 221,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 10.9,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58019": {
+      "votes": {
+        "monique_chandler_waterman_f_": 56,
+        "kevin_s_parker_m_": 35,
+        "mercedes_narcisse_f_": 25,
+        "scattered": 0
+      },
+      "total": 116,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 18.1,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58020": {
+      "votes": {
+        "monique_chandler_waterman_f_": 39,
+        "kevin_s_parker_m_": 30,
+        "mercedes_narcisse_f_": 21,
+        "scattered": 1
+      },
+      "total": 91,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 9.9,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58021": {
+      "votes": {
+        "monique_chandler_waterman_f_": 58,
+        "kevin_s_parker_m_": 46,
+        "mercedes_narcisse_f_": 46,
+        "scattered": 0
+      },
+      "total": 150,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 8,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58022": {
+      "votes": {
+        "monique_chandler_waterman_f_": 36,
+        "kevin_s_parker_m_": 29,
+        "mercedes_narcisse_f_": 16,
+        "scattered": 2
+      },
+      "total": 83,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 8.4,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58023": {
+      "votes": {
+        "monique_chandler_waterman_f_": 71,
+        "kevin_s_parker_m_": 71,
+        "mercedes_narcisse_f_": 49,
+        "scattered": 0
+      },
+      "total": 191,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58024": {
+      "votes": {
+        "monique_chandler_waterman_f_": 4,
+        "kevin_s_parker_m_": 4,
+        "mercedes_narcisse_f_": 5,
+        "scattered": 0
+      },
+      "total": 13,
+      "winnerId": "mercedes_narcisse_f_",
+      "margin": 7.7,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58025": {
+      "votes": {
+        "monique_chandler_waterman_f_": 69,
+        "kevin_s_parker_m_": 59,
+        "mercedes_narcisse_f_": 20,
+        "scattered": 0
+      },
+      "total": 148,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 6.8,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58026": {
+      "votes": {
+        "monique_chandler_waterman_f_": 100,
+        "kevin_s_parker_m_": 73,
+        "mercedes_narcisse_f_": 33,
+        "scattered": 0
+      },
+      "total": 206,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 13.1,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58027": {
+      "votes": {
+        "monique_chandler_waterman_f_": 93,
+        "kevin_s_parker_m_": 84,
+        "mercedes_narcisse_f_": 25,
+        "scattered": 2
+      },
+      "total": 204,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 4.4,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58028": {
+      "votes": {
+        "monique_chandler_waterman_f_": 123,
+        "kevin_s_parker_m_": 114,
+        "mercedes_narcisse_f_": 33,
+        "scattered": 0
+      },
+      "total": 270,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 3.3,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58029": {
+      "votes": {
+        "monique_chandler_waterman_f_": 84,
+        "kevin_s_parker_m_": 78,
+        "mercedes_narcisse_f_": 34,
+        "scattered": 0
+      },
+      "total": 196,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 3.1,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58030": {
+      "votes": {
+        "monique_chandler_waterman_f_": 48,
+        "kevin_s_parker_m_": 41,
+        "mercedes_narcisse_f_": 14,
+        "scattered": 0
+      },
+      "total": 103,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 6.8,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58031": {
+      "votes": {
+        "monique_chandler_waterman_f_": 78,
+        "kevin_s_parker_m_": 55,
+        "mercedes_narcisse_f_": 38,
+        "scattered": 0
+      },
+      "total": 171,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 13.5,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58032": {
+      "votes": {
+        "monique_chandler_waterman_f_": 91,
+        "kevin_s_parker_m_": 60,
+        "mercedes_narcisse_f_": 37,
+        "scattered": 0
+      },
+      "total": 188,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 16.5,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58033": {
+      "votes": {
+        "monique_chandler_waterman_f_": 86,
+        "kevin_s_parker_m_": 66,
+        "mercedes_narcisse_f_": 37,
+        "scattered": 0
+      },
+      "total": 189,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 10.6,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58034": {
+      "votes": {
+        "monique_chandler_waterman_f_": 84,
+        "kevin_s_parker_m_": 85,
+        "mercedes_narcisse_f_": 41,
+        "scattered": 2
+      },
+      "total": 212,
+      "winnerId": "kevin_s_parker_m_",
+      "margin": 0.5,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58035": {
+      "votes": {
+        "monique_chandler_waterman_f_": 124,
+        "kevin_s_parker_m_": 115,
+        "mercedes_narcisse_f_": 50,
+        "scattered": 1
+      },
+      "total": 290,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 3.1,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58036": {
+      "votes": {
+        "monique_chandler_waterman_f_": 82,
+        "kevin_s_parker_m_": 74,
+        "mercedes_narcisse_f_": 37,
+        "scattered": 1
+      },
+      "total": 194,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 4.1,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58037": {
+      "votes": {
+        "monique_chandler_waterman_f_": 93,
+        "kevin_s_parker_m_": 91,
+        "mercedes_narcisse_f_": 54,
+        "scattered": 0
+      },
+      "total": 238,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 0.8,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58038": {
+      "votes": {
+        "monique_chandler_waterman_f_": 68,
+        "kevin_s_parker_m_": 54,
+        "mercedes_narcisse_f_": 38,
+        "scattered": 0
+      },
+      "total": 160,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 8.8,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58039": {
+      "votes": {
+        "monique_chandler_waterman_f_": 86,
+        "kevin_s_parker_m_": 107,
+        "mercedes_narcisse_f_": 68,
+        "scattered": 1
+      },
+      "total": 262,
+      "winnerId": "kevin_s_parker_m_",
+      "margin": 8,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58040": {
+      "votes": {
+        "monique_chandler_waterman_f_": 86,
+        "kevin_s_parker_m_": 76,
+        "mercedes_narcisse_f_": 57,
+        "scattered": 0
+      },
+      "total": 219,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 4.6,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58041": {
+      "votes": {
+        "monique_chandler_waterman_f_": 97,
+        "kevin_s_parker_m_": 79,
+        "mercedes_narcisse_f_": 37,
+        "scattered": 0
+      },
+      "total": 213,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 8.5,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58042": {
+      "votes": {
+        "monique_chandler_waterman_f_": 89,
+        "kevin_s_parker_m_": 85,
+        "mercedes_narcisse_f_": 50,
+        "scattered": 0
+      },
+      "total": 224,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 1.8,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58043": {
+      "votes": {
+        "monique_chandler_waterman_f_": 60,
+        "kevin_s_parker_m_": 60,
+        "mercedes_narcisse_f_": 37,
+        "scattered": 0
+      },
+      "total": 157,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58044": {
+      "votes": {
+        "monique_chandler_waterman_f_": 107,
+        "kevin_s_parker_m_": 109,
+        "mercedes_narcisse_f_": 80,
+        "scattered": 2
+      },
+      "total": 298,
+      "winnerId": "kevin_s_parker_m_",
+      "margin": 0.7,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58045": {
+      "votes": {
+        "monique_chandler_waterman_f_": 67,
+        "kevin_s_parker_m_": 69,
+        "mercedes_narcisse_f_": 53,
+        "scattered": 2
+      },
+      "total": 191,
+      "winnerId": "kevin_s_parker_m_",
+      "margin": 1,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58046": {
+      "votes": {
+        "monique_chandler_waterman_f_": 30,
+        "kevin_s_parker_m_": 38,
+        "mercedes_narcisse_f_": 40,
+        "scattered": 0
+      },
+      "total": 108,
+      "winnerId": "mercedes_narcisse_f_",
+      "margin": 1.9,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58047": {
+      "votes": {
+        "monique_chandler_waterman_f_": 10,
+        "kevin_s_parker_m_": 6,
+        "mercedes_narcisse_f_": 7,
+        "scattered": 0
+      },
+      "total": 23,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 13,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58048": {
+      "votes": {
+        "monique_chandler_waterman_f_": 27,
+        "kevin_s_parker_m_": 14,
+        "mercedes_narcisse_f_": 37,
+        "scattered": 1
+      },
+      "total": 79,
+      "winnerId": "mercedes_narcisse_f_",
+      "margin": 12.7,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58049": {
+      "votes": {
+        "monique_chandler_waterman_f_": 49,
+        "kevin_s_parker_m_": 25,
+        "mercedes_narcisse_f_": 29,
+        "scattered": 0
+      },
+      "total": 103,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 19.4,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58050": {
+      "votes": {
+        "monique_chandler_waterman_f_": 51,
+        "kevin_s_parker_m_": 34,
+        "mercedes_narcisse_f_": 48,
+        "scattered": 0
+      },
+      "total": 133,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 2.3,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58051": {
+      "votes": {
+        "monique_chandler_waterman_f_": 92,
+        "kevin_s_parker_m_": 58,
+        "mercedes_narcisse_f_": 51,
+        "scattered": 0
+      },
+      "total": 201,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 16.9,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58052": {
+      "votes": {
+        "monique_chandler_waterman_f_": 91,
+        "kevin_s_parker_m_": 68,
+        "mercedes_narcisse_f_": 45,
+        "scattered": 0
+      },
+      "total": 204,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 11.3,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58053": {
+      "votes": {
+        "monique_chandler_waterman_f_": 226,
+        "kevin_s_parker_m_": 95,
+        "mercedes_narcisse_f_": 134,
+        "scattered": 4
+      },
+      "total": 459,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 20,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58054": {
+      "votes": {
+        "monique_chandler_waterman_f_": 19,
+        "kevin_s_parker_m_": 22,
+        "mercedes_narcisse_f_": 19,
+        "scattered": 0
+      },
+      "total": 60,
+      "winnerId": "kevin_s_parker_m_",
+      "margin": 5,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58055": {
+      "votes": {
+        "monique_chandler_waterman_f_": 50,
+        "kevin_s_parker_m_": 41,
+        "mercedes_narcisse_f_": 52,
+        "scattered": 0
+      },
+      "total": 143,
+      "winnerId": "mercedes_narcisse_f_",
+      "margin": 1.4,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58056": {
+      "votes": {
+        "monique_chandler_waterman_f_": 45,
+        "kevin_s_parker_m_": 21,
+        "mercedes_narcisse_f_": 56,
+        "scattered": 0
+      },
+      "total": 122,
+      "winnerId": "mercedes_narcisse_f_",
+      "margin": 9,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58057": {
+      "votes": {
+        "monique_chandler_waterman_f_": 68,
+        "kevin_s_parker_m_": 33,
+        "mercedes_narcisse_f_": 79,
+        "scattered": 1
+      },
+      "total": 181,
+      "winnerId": "mercedes_narcisse_f_",
+      "margin": 6.1,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58058": {
+      "votes": {
+        "monique_chandler_waterman_f_": 88,
+        "kevin_s_parker_m_": 62,
+        "mercedes_narcisse_f_": 144,
+        "scattered": 0
+      },
+      "total": 294,
+      "winnerId": "mercedes_narcisse_f_",
+      "margin": 19,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58059": {
+      "votes": {
+        "monique_chandler_waterman_f_": 92,
+        "kevin_s_parker_m_": 42,
+        "mercedes_narcisse_f_": 114,
+        "scattered": 0
+      },
+      "total": 248,
+      "winnerId": "mercedes_narcisse_f_",
+      "margin": 8.9,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58060": {
+      "votes": {
+        "monique_chandler_waterman_f_": 90,
+        "kevin_s_parker_m_": 42,
+        "mercedes_narcisse_f_": 140,
+        "scattered": 1
+      },
+      "total": 273,
+      "winnerId": "mercedes_narcisse_f_",
+      "margin": 18.3,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58061": {
+      "votes": {
+        "monique_chandler_waterman_f_": 65,
+        "kevin_s_parker_m_": 42,
+        "mercedes_narcisse_f_": 93,
+        "scattered": 0
+      },
+      "total": 200,
+      "winnerId": "mercedes_narcisse_f_",
+      "margin": 14,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58062": {
+      "votes": {
+        "monique_chandler_waterman_f_": 58,
+        "kevin_s_parker_m_": 45,
+        "mercedes_narcisse_f_": 90,
+        "scattered": 0
+      },
+      "total": 193,
+      "winnerId": "mercedes_narcisse_f_",
+      "margin": 16.6,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58063": {
+      "votes": {
+        "monique_chandler_waterman_f_": 62,
+        "kevin_s_parker_m_": 27,
+        "mercedes_narcisse_f_": 81,
+        "scattered": 0
+      },
+      "total": 170,
+      "winnerId": "mercedes_narcisse_f_",
+      "margin": 11.2,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58064": {
+      "votes": {
+        "monique_chandler_waterman_f_": 34,
+        "kevin_s_parker_m_": 27,
+        "mercedes_narcisse_f_": 22,
+        "scattered": 0
+      },
+      "total": 83,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 8.4,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58065": {
+      "votes": {
+        "monique_chandler_waterman_f_": 0,
+        "kevin_s_parker_m_": 0,
+        "mercedes_narcisse_f_": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58067": {
+      "votes": {
+        "monique_chandler_waterman_f_": 0,
+        "kevin_s_parker_m_": 0,
+        "mercedes_narcisse_f_": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58/001": {
+      "votes": {
+        "monique_chandler_waterman_f_": 70,
+        "kevin_s_parker_m_": 45,
+        "mercedes_narcisse_f_": 31,
+        "scattered": 0
+      },
+      "total": 146,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 17.1,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58/002": {
+      "votes": {
+        "monique_chandler_waterman_f_": 65,
+        "kevin_s_parker_m_": 43,
+        "mercedes_narcisse_f_": 31,
+        "scattered": 0
+      },
+      "total": 139,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 15.8,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58/003": {
+      "votes": {
+        "monique_chandler_waterman_f_": 144,
+        "kevin_s_parker_m_": 87,
+        "mercedes_narcisse_f_": 54,
+        "scattered": 3
+      },
+      "total": 288,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 19.8,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58/004": {
+      "votes": {
+        "monique_chandler_waterman_f_": 69,
+        "kevin_s_parker_m_": 35,
+        "mercedes_narcisse_f_": 43,
+        "scattered": 0
+      },
+      "total": 147,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 17.7,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58/005": {
+      "votes": {
+        "monique_chandler_waterman_f_": 62,
+        "kevin_s_parker_m_": 44,
+        "mercedes_narcisse_f_": 33,
+        "scattered": 0
+      },
+      "total": 139,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 12.9,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58/006": {
+      "votes": {
+        "monique_chandler_waterman_f_": 54,
+        "kevin_s_parker_m_": 37,
+        "mercedes_narcisse_f_": 29,
+        "scattered": 0
+      },
+      "total": 120,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 14.2,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58/007": {
+      "votes": {
+        "monique_chandler_waterman_f_": 76,
+        "kevin_s_parker_m_": 52,
+        "mercedes_narcisse_f_": 47,
+        "scattered": 2
+      },
+      "total": 177,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 13.6,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58/008": {
+      "votes": {
+        "monique_chandler_waterman_f_": 87,
+        "kevin_s_parker_m_": 72,
+        "mercedes_narcisse_f_": 28,
+        "scattered": 0
+      },
+      "total": 187,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 8,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58/009": {
+      "votes": {
+        "monique_chandler_waterman_f_": 64,
+        "kevin_s_parker_m_": 46,
+        "mercedes_narcisse_f_": 28,
+        "scattered": 0
+      },
+      "total": 138,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 13,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58/010": {
+      "votes": {
+        "monique_chandler_waterman_f_": 61,
+        "kevin_s_parker_m_": 47,
+        "mercedes_narcisse_f_": 39,
+        "scattered": 0
+      },
+      "total": 147,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 9.5,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58/011": {
+      "votes": {
+        "monique_chandler_waterman_f_": 102,
+        "kevin_s_parker_m_": 70,
+        "mercedes_narcisse_f_": 62,
+        "scattered": 1
+      },
+      "total": 235,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 13.6,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58/012": {
+      "votes": {
+        "monique_chandler_waterman_f_": 64,
+        "kevin_s_parker_m_": 32,
+        "mercedes_narcisse_f_": 45,
+        "scattered": 2
+      },
+      "total": 143,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 13.3,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58/013": {
+      "votes": {
+        "monique_chandler_waterman_f_": 94,
+        "kevin_s_parker_m_": 67,
+        "mercedes_narcisse_f_": 68,
+        "scattered": 2
+      },
+      "total": 231,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 11.3,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58/014": {
+      "votes": {
+        "monique_chandler_waterman_f_": 57,
+        "kevin_s_parker_m_": 37,
+        "mercedes_narcisse_f_": 38,
+        "scattered": 0
+      },
+      "total": 132,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 14.4,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58/015": {
+      "votes": {
+        "monique_chandler_waterman_f_": 73,
+        "kevin_s_parker_m_": 55,
+        "mercedes_narcisse_f_": 47,
+        "scattered": 0
+      },
+      "total": 175,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 10.3,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58/016": {
+      "votes": {
+        "monique_chandler_waterman_f_": 72,
+        "kevin_s_parker_m_": 40,
+        "mercedes_narcisse_f_": 40,
+        "scattered": 1
+      },
+      "total": 153,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 20.9,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58/017": {
+      "votes": {
+        "monique_chandler_waterman_f_": 80,
+        "kevin_s_parker_m_": 45,
+        "mercedes_narcisse_f_": 44,
+        "scattered": 0
+      },
+      "total": 169,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 20.7,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58/018": {
+      "votes": {
+        "monique_chandler_waterman_f_": 92,
+        "kevin_s_parker_m_": 68,
+        "mercedes_narcisse_f_": 58,
+        "scattered": 3
+      },
+      "total": 221,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 10.9,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58/019": {
+      "votes": {
+        "monique_chandler_waterman_f_": 56,
+        "kevin_s_parker_m_": 35,
+        "mercedes_narcisse_f_": 25,
+        "scattered": 0
+      },
+      "total": 116,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 18.1,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58/020": {
+      "votes": {
+        "monique_chandler_waterman_f_": 39,
+        "kevin_s_parker_m_": 30,
+        "mercedes_narcisse_f_": 21,
+        "scattered": 1
+      },
+      "total": 91,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 9.9,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58/021": {
+      "votes": {
+        "monique_chandler_waterman_f_": 58,
+        "kevin_s_parker_m_": 46,
+        "mercedes_narcisse_f_": 46,
+        "scattered": 0
+      },
+      "total": 150,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 8,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58/022": {
+      "votes": {
+        "monique_chandler_waterman_f_": 36,
+        "kevin_s_parker_m_": 29,
+        "mercedes_narcisse_f_": 16,
+        "scattered": 2
+      },
+      "total": 83,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 8.4,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58/023": {
+      "votes": {
+        "monique_chandler_waterman_f_": 71,
+        "kevin_s_parker_m_": 71,
+        "mercedes_narcisse_f_": 49,
+        "scattered": 0
+      },
+      "total": 191,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58/024": {
+      "votes": {
+        "monique_chandler_waterman_f_": 4,
+        "kevin_s_parker_m_": 4,
+        "mercedes_narcisse_f_": 5,
+        "scattered": 0
+      },
+      "total": 13,
+      "winnerId": "mercedes_narcisse_f_",
+      "margin": 7.7,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58/025": {
+      "votes": {
+        "monique_chandler_waterman_f_": 69,
+        "kevin_s_parker_m_": 59,
+        "mercedes_narcisse_f_": 20,
+        "scattered": 0
+      },
+      "total": 148,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 6.8,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58/026": {
+      "votes": {
+        "monique_chandler_waterman_f_": 100,
+        "kevin_s_parker_m_": 73,
+        "mercedes_narcisse_f_": 33,
+        "scattered": 0
+      },
+      "total": 206,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 13.1,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58/027": {
+      "votes": {
+        "monique_chandler_waterman_f_": 93,
+        "kevin_s_parker_m_": 84,
+        "mercedes_narcisse_f_": 25,
+        "scattered": 2
+      },
+      "total": 204,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 4.4,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58/028": {
+      "votes": {
+        "monique_chandler_waterman_f_": 123,
+        "kevin_s_parker_m_": 114,
+        "mercedes_narcisse_f_": 33,
+        "scattered": 0
+      },
+      "total": 270,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 3.3,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58/029": {
+      "votes": {
+        "monique_chandler_waterman_f_": 84,
+        "kevin_s_parker_m_": 78,
+        "mercedes_narcisse_f_": 34,
+        "scattered": 0
+      },
+      "total": 196,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 3.1,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58/030": {
+      "votes": {
+        "monique_chandler_waterman_f_": 48,
+        "kevin_s_parker_m_": 41,
+        "mercedes_narcisse_f_": 14,
+        "scattered": 0
+      },
+      "total": 103,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 6.8,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58/031": {
+      "votes": {
+        "monique_chandler_waterman_f_": 78,
+        "kevin_s_parker_m_": 55,
+        "mercedes_narcisse_f_": 38,
+        "scattered": 0
+      },
+      "total": 171,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 13.5,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58/032": {
+      "votes": {
+        "monique_chandler_waterman_f_": 91,
+        "kevin_s_parker_m_": 60,
+        "mercedes_narcisse_f_": 37,
+        "scattered": 0
+      },
+      "total": 188,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 16.5,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58/033": {
+      "votes": {
+        "monique_chandler_waterman_f_": 86,
+        "kevin_s_parker_m_": 66,
+        "mercedes_narcisse_f_": 37,
+        "scattered": 0
+      },
+      "total": 189,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 10.6,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58/034": {
+      "votes": {
+        "monique_chandler_waterman_f_": 84,
+        "kevin_s_parker_m_": 85,
+        "mercedes_narcisse_f_": 41,
+        "scattered": 2
+      },
+      "total": 212,
+      "winnerId": "kevin_s_parker_m_",
+      "margin": 0.5,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58/035": {
+      "votes": {
+        "monique_chandler_waterman_f_": 124,
+        "kevin_s_parker_m_": 115,
+        "mercedes_narcisse_f_": 50,
+        "scattered": 1
+      },
+      "total": 290,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 3.1,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58/036": {
+      "votes": {
+        "monique_chandler_waterman_f_": 82,
+        "kevin_s_parker_m_": 74,
+        "mercedes_narcisse_f_": 37,
+        "scattered": 1
+      },
+      "total": 194,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 4.1,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58/037": {
+      "votes": {
+        "monique_chandler_waterman_f_": 93,
+        "kevin_s_parker_m_": 91,
+        "mercedes_narcisse_f_": 54,
+        "scattered": 0
+      },
+      "total": 238,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 0.8,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58/038": {
+      "votes": {
+        "monique_chandler_waterman_f_": 68,
+        "kevin_s_parker_m_": 54,
+        "mercedes_narcisse_f_": 38,
+        "scattered": 0
+      },
+      "total": 160,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 8.8,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58/039": {
+      "votes": {
+        "monique_chandler_waterman_f_": 86,
+        "kevin_s_parker_m_": 107,
+        "mercedes_narcisse_f_": 68,
+        "scattered": 1
+      },
+      "total": 262,
+      "winnerId": "kevin_s_parker_m_",
+      "margin": 8,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58/040": {
+      "votes": {
+        "monique_chandler_waterman_f_": 86,
+        "kevin_s_parker_m_": 76,
+        "mercedes_narcisse_f_": 57,
+        "scattered": 0
+      },
+      "total": 219,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 4.6,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58/041": {
+      "votes": {
+        "monique_chandler_waterman_f_": 97,
+        "kevin_s_parker_m_": 79,
+        "mercedes_narcisse_f_": 37,
+        "scattered": 0
+      },
+      "total": 213,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 8.5,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58/042": {
+      "votes": {
+        "monique_chandler_waterman_f_": 89,
+        "kevin_s_parker_m_": 85,
+        "mercedes_narcisse_f_": 50,
+        "scattered": 0
+      },
+      "total": 224,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 1.8,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58/043": {
+      "votes": {
+        "monique_chandler_waterman_f_": 60,
+        "kevin_s_parker_m_": 60,
+        "mercedes_narcisse_f_": 37,
+        "scattered": 0
+      },
+      "total": 157,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58/044": {
+      "votes": {
+        "monique_chandler_waterman_f_": 107,
+        "kevin_s_parker_m_": 109,
+        "mercedes_narcisse_f_": 80,
+        "scattered": 2
+      },
+      "total": 298,
+      "winnerId": "kevin_s_parker_m_",
+      "margin": 0.7,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58/045": {
+      "votes": {
+        "monique_chandler_waterman_f_": 67,
+        "kevin_s_parker_m_": 69,
+        "mercedes_narcisse_f_": 53,
+        "scattered": 2
+      },
+      "total": 191,
+      "winnerId": "kevin_s_parker_m_",
+      "margin": 1,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58/046": {
+      "votes": {
+        "monique_chandler_waterman_f_": 30,
+        "kevin_s_parker_m_": 38,
+        "mercedes_narcisse_f_": 40,
+        "scattered": 0
+      },
+      "total": 108,
+      "winnerId": "mercedes_narcisse_f_",
+      "margin": 1.9,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58/047": {
+      "votes": {
+        "monique_chandler_waterman_f_": 10,
+        "kevin_s_parker_m_": 6,
+        "mercedes_narcisse_f_": 7,
+        "scattered": 0
+      },
+      "total": 23,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 13,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58/048": {
+      "votes": {
+        "monique_chandler_waterman_f_": 27,
+        "kevin_s_parker_m_": 14,
+        "mercedes_narcisse_f_": 37,
+        "scattered": 1
+      },
+      "total": 79,
+      "winnerId": "mercedes_narcisse_f_",
+      "margin": 12.7,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58/049": {
+      "votes": {
+        "monique_chandler_waterman_f_": 49,
+        "kevin_s_parker_m_": 25,
+        "mercedes_narcisse_f_": 29,
+        "scattered": 0
+      },
+      "total": 103,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 19.4,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58/050": {
+      "votes": {
+        "monique_chandler_waterman_f_": 51,
+        "kevin_s_parker_m_": 34,
+        "mercedes_narcisse_f_": 48,
+        "scattered": 0
+      },
+      "total": 133,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 2.3,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58/051": {
+      "votes": {
+        "monique_chandler_waterman_f_": 92,
+        "kevin_s_parker_m_": 58,
+        "mercedes_narcisse_f_": 51,
+        "scattered": 0
+      },
+      "total": 201,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 16.9,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58/052": {
+      "votes": {
+        "monique_chandler_waterman_f_": 91,
+        "kevin_s_parker_m_": 68,
+        "mercedes_narcisse_f_": 45,
+        "scattered": 0
+      },
+      "total": 204,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 11.3,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58/053": {
+      "votes": {
+        "monique_chandler_waterman_f_": 226,
+        "kevin_s_parker_m_": 95,
+        "mercedes_narcisse_f_": 134,
+        "scattered": 4
+      },
+      "total": 459,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 20,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58/054": {
+      "votes": {
+        "monique_chandler_waterman_f_": 19,
+        "kevin_s_parker_m_": 22,
+        "mercedes_narcisse_f_": 19,
+        "scattered": 0
+      },
+      "total": 60,
+      "winnerId": "kevin_s_parker_m_",
+      "margin": 5,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58/055": {
+      "votes": {
+        "monique_chandler_waterman_f_": 50,
+        "kevin_s_parker_m_": 41,
+        "mercedes_narcisse_f_": 52,
+        "scattered": 0
+      },
+      "total": 143,
+      "winnerId": "mercedes_narcisse_f_",
+      "margin": 1.4,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58/056": {
+      "votes": {
+        "monique_chandler_waterman_f_": 45,
+        "kevin_s_parker_m_": 21,
+        "mercedes_narcisse_f_": 56,
+        "scattered": 0
+      },
+      "total": 122,
+      "winnerId": "mercedes_narcisse_f_",
+      "margin": 9,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58/057": {
+      "votes": {
+        "monique_chandler_waterman_f_": 68,
+        "kevin_s_parker_m_": 33,
+        "mercedes_narcisse_f_": 79,
+        "scattered": 1
+      },
+      "total": 181,
+      "winnerId": "mercedes_narcisse_f_",
+      "margin": 6.1,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58/058": {
+      "votes": {
+        "monique_chandler_waterman_f_": 88,
+        "kevin_s_parker_m_": 62,
+        "mercedes_narcisse_f_": 144,
+        "scattered": 0
+      },
+      "total": 294,
+      "winnerId": "mercedes_narcisse_f_",
+      "margin": 19,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58/059": {
+      "votes": {
+        "monique_chandler_waterman_f_": 92,
+        "kevin_s_parker_m_": 42,
+        "mercedes_narcisse_f_": 114,
+        "scattered": 0
+      },
+      "total": 248,
+      "winnerId": "mercedes_narcisse_f_",
+      "margin": 8.9,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58/060": {
+      "votes": {
+        "monique_chandler_waterman_f_": 90,
+        "kevin_s_parker_m_": 42,
+        "mercedes_narcisse_f_": 140,
+        "scattered": 1
+      },
+      "total": 273,
+      "winnerId": "mercedes_narcisse_f_",
+      "margin": 18.3,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58/061": {
+      "votes": {
+        "monique_chandler_waterman_f_": 65,
+        "kevin_s_parker_m_": 42,
+        "mercedes_narcisse_f_": 93,
+        "scattered": 0
+      },
+      "total": 200,
+      "winnerId": "mercedes_narcisse_f_",
+      "margin": 14,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58/062": {
+      "votes": {
+        "monique_chandler_waterman_f_": 58,
+        "kevin_s_parker_m_": 45,
+        "mercedes_narcisse_f_": 90,
+        "scattered": 0
+      },
+      "total": 193,
+      "winnerId": "mercedes_narcisse_f_",
+      "margin": 16.6,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58/063": {
+      "votes": {
+        "monique_chandler_waterman_f_": 62,
+        "kevin_s_parker_m_": 27,
+        "mercedes_narcisse_f_": 81,
+        "scattered": 0
+      },
+      "total": 170,
+      "winnerId": "mercedes_narcisse_f_",
+      "margin": 11.2,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58/064": {
+      "votes": {
+        "monique_chandler_waterman_f_": 34,
+        "kevin_s_parker_m_": 27,
+        "mercedes_narcisse_f_": 22,
+        "scattered": 0
+      },
+      "total": 83,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 8.4,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58/065": {
+      "votes": {
+        "monique_chandler_waterman_f_": 0,
+        "kevin_s_parker_m_": 0,
+        "mercedes_narcisse_f_": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "58/067": {
+      "votes": {
+        "monique_chandler_waterman_f_": 0,
+        "kevin_s_parker_m_": 0,
+        "mercedes_narcisse_f_": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "monique_chandler_waterman_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "monique_chandler_waterman_f_",
+          "name": "Monique Chandler-Waterman (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "kevin_s_parker_m_",
+          "name": "Kevin S. Parker (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "mercedes_narcisse_f_",
+          "name": "Mercedes Narcisse (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    }
+  }
+}

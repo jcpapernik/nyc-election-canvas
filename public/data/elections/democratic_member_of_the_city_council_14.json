@@ -1,0 +1,31 @@
+{
+  "id": "democratic_member_of_the_city_council_14",
+  "name": "2026 Primary - Member of the City Council District 14",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "City Council",
+  "districtKey": "14",
+  "districtType": "council",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "pierina_sanchez",
+      "name": "Pierina Sanchez",
+      "party": "Democratic",
+      "isIncumbent": true,
+      "color": "#2563eb"
+    }
+  ],
+  "results": {
+    "14": {
+      "votes": {
+        "uncontested_primary_council_14": 0
+      },
+      "total": 0,
+      "winnerId": "uncontested_primary_council_14",
+      "margin": 100,
+      "isUncontested": true
+    }
+  },
+  "edResults": {}
+}

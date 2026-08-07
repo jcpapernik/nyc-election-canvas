@@ -1,0 +1,5825 @@
+{
+  "id": "democratic_member_of_the_assembly_56",
+  "name": "2026 Primary - Member of the Assembly District 56",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "NY State Assembly",
+  "districtKey": "56",
+  "districtType": "assembly",
+  "isUncontested": false,
+  "candidates": [
+    {
+      "id": "eon_huntley",
+      "name": "Eon Huntley",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#d97706"
+    },
+    {
+      "id": "stefani_l_zinerman",
+      "name": "Stefani L. Zinerman",
+      "party": "Democratic",
+      "isIncumbent": true,
+      "color": "#7c3aed"
+    },
+    {
+      "id": "michael_bailey",
+      "name": "Michael Bailey",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#059669"
+    },
+    {
+      "id": "scattered",
+      "name": "Scattered",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#0891b2"
+    }
+  ],
+  "results": {
+    "56": {
+      "votes": {
+        "eon_huntley": 9004,
+        "stefani_l_zinerman": 5627,
+        "michael_bailey": 764,
+        "scattered": 23
+      },
+      "total": 15418,
+      "winnerId": "eon_huntley",
+      "margin": 21.9,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    }
+  },
+  "edResults": {
+    "56001": {
+      "votes": {
+        "eon_huntley": 14,
+        "stefani_l_zinerman": 53,
+        "michael_bailey": 20,
+        "scattered": 0
+      },
+      "total": 87,
+      "winnerId": "stefani_l_zinerman",
+      "margin": 37.9,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56002": {
+      "votes": {
+        "eon_huntley": 14,
+        "stefani_l_zinerman": 53,
+        "michael_bailey": 17,
+        "scattered": 0
+      },
+      "total": 84,
+      "winnerId": "stefani_l_zinerman",
+      "margin": 42.9,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56003": {
+      "votes": {
+        "eon_huntley": 39,
+        "stefani_l_zinerman": 294,
+        "michael_bailey": 13,
+        "scattered": 4
+      },
+      "total": 350,
+      "winnerId": "stefani_l_zinerman",
+      "margin": 72.9,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56004": {
+      "votes": {
+        "eon_huntley": 71,
+        "stefani_l_zinerman": 95,
+        "michael_bailey": 18,
+        "scattered": 1
+      },
+      "total": 185,
+      "winnerId": "stefani_l_zinerman",
+      "margin": 13,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56005": {
+      "votes": {
+        "eon_huntley": 12,
+        "stefani_l_zinerman": 87,
+        "michael_bailey": 19,
+        "scattered": 0
+      },
+      "total": 118,
+      "winnerId": "stefani_l_zinerman",
+      "margin": 57.6,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56006": {
+      "votes": {
+        "eon_huntley": 9,
+        "stefani_l_zinerman": 20,
+        "michael_bailey": 3,
+        "scattered": 0
+      },
+      "total": 32,
+      "winnerId": "stefani_l_zinerman",
+      "margin": 34.4,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56007": {
+      "votes": {
+        "eon_huntley": 10,
+        "stefani_l_zinerman": 57,
+        "michael_bailey": 7,
+        "scattered": 0
+      },
+      "total": 74,
+      "winnerId": "stefani_l_zinerman",
+      "margin": 63.5,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56008": {
+      "votes": {
+        "eon_huntley": 108,
+        "stefani_l_zinerman": 122,
+        "michael_bailey": 15,
+        "scattered": 2
+      },
+      "total": 247,
+      "winnerId": "stefani_l_zinerman",
+      "margin": 5.7,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56009": {
+      "votes": {
+        "eon_huntley": 191,
+        "stefani_l_zinerman": 98,
+        "michael_bailey": 9,
+        "scattered": 0
+      },
+      "total": 298,
+      "winnerId": "eon_huntley",
+      "margin": 31.2,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56010": {
+      "votes": {
+        "eon_huntley": 147,
+        "stefani_l_zinerman": 84,
+        "michael_bailey": 4,
+        "scattered": 0
+      },
+      "total": 235,
+      "winnerId": "eon_huntley",
+      "margin": 26.8,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56011": {
+      "votes": {
+        "eon_huntley": 178,
+        "stefani_l_zinerman": 111,
+        "michael_bailey": 11,
+        "scattered": 1
+      },
+      "total": 301,
+      "winnerId": "eon_huntley",
+      "margin": 22.3,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56012": {
+      "votes": {
+        "eon_huntley": 215,
+        "stefani_l_zinerman": 60,
+        "michael_bailey": 14,
+        "scattered": 2
+      },
+      "total": 291,
+      "winnerId": "eon_huntley",
+      "margin": 53.3,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56013": {
+      "votes": {
+        "eon_huntley": 100,
+        "stefani_l_zinerman": 83,
+        "michael_bailey": 15,
+        "scattered": 0
+      },
+      "total": 198,
+      "winnerId": "eon_huntley",
+      "margin": 8.6,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56014": {
+      "votes": {
+        "eon_huntley": 129,
+        "stefani_l_zinerman": 48,
+        "michael_bailey": 8,
+        "scattered": 0
+      },
+      "total": 185,
+      "winnerId": "eon_huntley",
+      "margin": 43.8,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56015": {
+      "votes": {
+        "eon_huntley": 20,
+        "stefani_l_zinerman": 27,
+        "michael_bailey": 13,
+        "scattered": 1
+      },
+      "total": 61,
+      "winnerId": "stefani_l_zinerman",
+      "margin": 11.5,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56016": {
+      "votes": {
+        "eon_huntley": 95,
+        "stefani_l_zinerman": 45,
+        "michael_bailey": 10,
+        "scattered": 0
+      },
+      "total": 150,
+      "winnerId": "eon_huntley",
+      "margin": 33.3,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56017": {
+      "votes": {
+        "eon_huntley": 128,
+        "stefani_l_zinerman": 65,
+        "michael_bailey": 12,
+        "scattered": 1
+      },
+      "total": 206,
+      "winnerId": "eon_huntley",
+      "margin": 30.6,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56018": {
+      "votes": {
+        "eon_huntley": 12,
+        "stefani_l_zinerman": 1,
+        "michael_bailey": 2,
+        "scattered": 0
+      },
+      "total": 15,
+      "winnerId": "eon_huntley",
+      "margin": 66.7,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56019": {
+      "votes": {
+        "eon_huntley": 161,
+        "stefani_l_zinerman": 68,
+        "michael_bailey": 4,
+        "scattered": 0
+      },
+      "total": 233,
+      "winnerId": "eon_huntley",
+      "margin": 39.9,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56020": {
+      "votes": {
+        "eon_huntley": 239,
+        "stefani_l_zinerman": 83,
+        "michael_bailey": 16,
+        "scattered": 0
+      },
+      "total": 338,
+      "winnerId": "eon_huntley",
+      "margin": 46.2,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56021": {
+      "votes": {
+        "eon_huntley": 179,
+        "stefani_l_zinerman": 91,
+        "michael_bailey": 8,
+        "scattered": 1
+      },
+      "total": 279,
+      "winnerId": "eon_huntley",
+      "margin": 31.5,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56022": {
+      "votes": {
+        "eon_huntley": 110,
+        "stefani_l_zinerman": 65,
+        "michael_bailey": 2,
+        "scattered": 0
+      },
+      "total": 177,
+      "winnerId": "eon_huntley",
+      "margin": 25.4,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56023": {
+      "votes": {
+        "eon_huntley": 171,
+        "stefani_l_zinerman": 64,
+        "michael_bailey": 9,
+        "scattered": 0
+      },
+      "total": 244,
+      "winnerId": "eon_huntley",
+      "margin": 43.9,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56024": {
+      "votes": {
+        "eon_huntley": 175,
+        "stefani_l_zinerman": 74,
+        "michael_bailey": 11,
+        "scattered": 0
+      },
+      "total": 260,
+      "winnerId": "eon_huntley",
+      "margin": 38.8,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56025": {
+      "votes": {
+        "eon_huntley": 191,
+        "stefani_l_zinerman": 54,
+        "michael_bailey": 13,
+        "scattered": 1
+      },
+      "total": 259,
+      "winnerId": "eon_huntley",
+      "margin": 52.9,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56026": {
+      "votes": {
+        "eon_huntley": 113,
+        "stefani_l_zinerman": 97,
+        "michael_bailey": 11,
+        "scattered": 0
+      },
+      "total": 221,
+      "winnerId": "eon_huntley",
+      "margin": 7.2,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56027": {
+      "votes": {
+        "eon_huntley": 245,
+        "stefani_l_zinerman": 70,
+        "michael_bailey": 11,
+        "scattered": 0
+      },
+      "total": 326,
+      "winnerId": "eon_huntley",
+      "margin": 53.7,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56028": {
+      "votes": {
+        "eon_huntley": 134,
+        "stefani_l_zinerman": 96,
+        "michael_bailey": 8,
+        "scattered": 0
+      },
+      "total": 238,
+      "winnerId": "eon_huntley",
+      "margin": 16,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56029": {
+      "votes": {
+        "eon_huntley": 161,
+        "stefani_l_zinerman": 155,
+        "michael_bailey": 15,
+        "scattered": 0
+      },
+      "total": 331,
+      "winnerId": "eon_huntley",
+      "margin": 1.8,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56030": {
+      "votes": {
+        "eon_huntley": 153,
+        "stefani_l_zinerman": 74,
+        "michael_bailey": 14,
+        "scattered": 1
+      },
+      "total": 242,
+      "winnerId": "eon_huntley",
+      "margin": 32.6,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56031": {
+      "votes": {
+        "eon_huntley": 168,
+        "stefani_l_zinerman": 65,
+        "michael_bailey": 16,
+        "scattered": 0
+      },
+      "total": 249,
+      "winnerId": "eon_huntley",
+      "margin": 41.4,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56032": {
+      "votes": {
+        "eon_huntley": 264,
+        "stefani_l_zinerman": 97,
+        "michael_bailey": 10,
+        "scattered": 1
+      },
+      "total": 372,
+      "winnerId": "eon_huntley",
+      "margin": 44.9,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56033": {
+      "votes": {
+        "eon_huntley": 195,
+        "stefani_l_zinerman": 73,
+        "michael_bailey": 8,
+        "scattered": 0
+      },
+      "total": 276,
+      "winnerId": "eon_huntley",
+      "margin": 44.2,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56034": {
+      "votes": {
+        "eon_huntley": 70,
+        "stefani_l_zinerman": 113,
+        "michael_bailey": 5,
+        "scattered": 0
+      },
+      "total": 188,
+      "winnerId": "stefani_l_zinerman",
+      "margin": 22.9,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56035": {
+      "votes": {
+        "eon_huntley": 142,
+        "stefani_l_zinerman": 103,
+        "michael_bailey": 9,
+        "scattered": 0
+      },
+      "total": 254,
+      "winnerId": "eon_huntley",
+      "margin": 15.4,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56036": {
+      "votes": {
+        "eon_huntley": 151,
+        "stefani_l_zinerman": 74,
+        "michael_bailey": 16,
+        "scattered": 1
+      },
+      "total": 242,
+      "winnerId": "eon_huntley",
+      "margin": 31.8,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56037": {
+      "votes": {
+        "eon_huntley": 246,
+        "stefani_l_zinerman": 99,
+        "michael_bailey": 18,
+        "scattered": 0
+      },
+      "total": 363,
+      "winnerId": "eon_huntley",
+      "margin": 40.5,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56038": {
+      "votes": {
+        "eon_huntley": 267,
+        "stefani_l_zinerman": 79,
+        "michael_bailey": 8,
+        "scattered": 1
+      },
+      "total": 355,
+      "winnerId": "eon_huntley",
+      "margin": 53,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56039": {
+      "votes": {
+        "eon_huntley": 171,
+        "stefani_l_zinerman": 65,
+        "michael_bailey": 9,
+        "scattered": 0
+      },
+      "total": 245,
+      "winnerId": "eon_huntley",
+      "margin": 43.3,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56040": {
+      "votes": {
+        "eon_huntley": 153,
+        "stefani_l_zinerman": 122,
+        "michael_bailey": 7,
+        "scattered": 0
+      },
+      "total": 282,
+      "winnerId": "eon_huntley",
+      "margin": 11,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56041": {
+      "votes": {
+        "eon_huntley": 247,
+        "stefani_l_zinerman": 104,
+        "michael_bailey": 15,
+        "scattered": 0
+      },
+      "total": 366,
+      "winnerId": "eon_huntley",
+      "margin": 39.1,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56042": {
+      "votes": {
+        "eon_huntley": 150,
+        "stefani_l_zinerman": 96,
+        "michael_bailey": 15,
+        "scattered": 0
+      },
+      "total": 261,
+      "winnerId": "eon_huntley",
+      "margin": 20.7,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56043": {
+      "votes": {
+        "eon_huntley": 146,
+        "stefani_l_zinerman": 132,
+        "michael_bailey": 14,
+        "scattered": 1
+      },
+      "total": 293,
+      "winnerId": "eon_huntley",
+      "margin": 4.8,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56044": {
+      "votes": {
+        "eon_huntley": 236,
+        "stefani_l_zinerman": 104,
+        "michael_bailey": 10,
+        "scattered": 1
+      },
+      "total": 351,
+      "winnerId": "eon_huntley",
+      "margin": 37.6,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56045": {
+      "votes": {
+        "eon_huntley": 146,
+        "stefani_l_zinerman": 79,
+        "michael_bailey": 16,
+        "scattered": 0
+      },
+      "total": 241,
+      "winnerId": "eon_huntley",
+      "margin": 27.8,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56046": {
+      "votes": {
+        "eon_huntley": 213,
+        "stefani_l_zinerman": 95,
+        "michael_bailey": 11,
+        "scattered": 0
+      },
+      "total": 319,
+      "winnerId": "eon_huntley",
+      "margin": 37,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56047": {
+      "votes": {
+        "eon_huntley": 177,
+        "stefani_l_zinerman": 124,
+        "michael_bailey": 15,
+        "scattered": 0
+      },
+      "total": 316,
+      "winnerId": "eon_huntley",
+      "margin": 16.8,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56048": {
+      "votes": {
+        "eon_huntley": 197,
+        "stefani_l_zinerman": 136,
+        "michael_bailey": 17,
+        "scattered": 0
+      },
+      "total": 350,
+      "winnerId": "eon_huntley",
+      "margin": 17.4,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56049": {
+      "votes": {
+        "eon_huntley": 185,
+        "stefani_l_zinerman": 129,
+        "michael_bailey": 9,
+        "scattered": 0
+      },
+      "total": 323,
+      "winnerId": "eon_huntley",
+      "margin": 17.3,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56050": {
+      "votes": {
+        "eon_huntley": 240,
+        "stefani_l_zinerman": 129,
+        "michael_bailey": 19,
+        "scattered": 0
+      },
+      "total": 388,
+      "winnerId": "eon_huntley",
+      "margin": 28.6,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56051": {
+      "votes": {
+        "eon_huntley": 6,
+        "stefani_l_zinerman": 41,
+        "michael_bailey": 9,
+        "scattered": 0
+      },
+      "total": 56,
+      "winnerId": "stefani_l_zinerman",
+      "margin": 57.1,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56052": {
+      "votes": {
+        "eon_huntley": 23,
+        "stefani_l_zinerman": 55,
+        "michael_bailey": 5,
+        "scattered": 0
+      },
+      "total": 83,
+      "winnerId": "stefani_l_zinerman",
+      "margin": 38.6,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56053": {
+      "votes": {
+        "eon_huntley": 202,
+        "stefani_l_zinerman": 58,
+        "michael_bailey": 5,
+        "scattered": 0
+      },
+      "total": 265,
+      "winnerId": "eon_huntley",
+      "margin": 54.3,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56054": {
+      "votes": {
+        "eon_huntley": 74,
+        "stefani_l_zinerman": 65,
+        "michael_bailey": 9,
+        "scattered": 0
+      },
+      "total": 148,
+      "winnerId": "eon_huntley",
+      "margin": 6.1,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56055": {
+      "votes": {
+        "eon_huntley": 77,
+        "stefani_l_zinerman": 102,
+        "michael_bailey": 12,
+        "scattered": 0
+      },
+      "total": 191,
+      "winnerId": "stefani_l_zinerman",
+      "margin": 13.1,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56056": {
+      "votes": {
+        "eon_huntley": 150,
+        "stefani_l_zinerman": 149,
+        "michael_bailey": 10,
+        "scattered": 0
+      },
+      "total": 309,
+      "winnerId": "eon_huntley",
+      "margin": 0.3,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56057": {
+      "votes": {
+        "eon_huntley": 17,
+        "stefani_l_zinerman": 18,
+        "michael_bailey": 1,
+        "scattered": 0
+      },
+      "total": 36,
+      "winnerId": "stefani_l_zinerman",
+      "margin": 2.8,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56058": {
+      "votes": {
+        "eon_huntley": 223,
+        "stefani_l_zinerman": 127,
+        "michael_bailey": 25,
+        "scattered": 1
+      },
+      "total": 376,
+      "winnerId": "eon_huntley",
+      "margin": 25.5,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56059": {
+      "votes": {
+        "eon_huntley": 139,
+        "stefani_l_zinerman": 46,
+        "michael_bailey": 10,
+        "scattered": 0
+      },
+      "total": 195,
+      "winnerId": "eon_huntley",
+      "margin": 47.7,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56060": {
+      "votes": {
+        "eon_huntley": 66,
+        "stefani_l_zinerman": 46,
+        "michael_bailey": 6,
+        "scattered": 0
+      },
+      "total": 118,
+      "winnerId": "eon_huntley",
+      "margin": 16.9,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56061": {
+      "votes": {
+        "eon_huntley": 71,
+        "stefani_l_zinerman": 38,
+        "michael_bailey": 5,
+        "scattered": 0
+      },
+      "total": 114,
+      "winnerId": "eon_huntley",
+      "margin": 28.9,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56062": {
+      "votes": {
+        "eon_huntley": 58,
+        "stefani_l_zinerman": 84,
+        "michael_bailey": 17,
+        "scattered": 0
+      },
+      "total": 159,
+      "winnerId": "stefani_l_zinerman",
+      "margin": 16.4,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56063": {
+      "votes": {
+        "eon_huntley": 187,
+        "stefani_l_zinerman": 98,
+        "michael_bailey": 10,
+        "scattered": 1
+      },
+      "total": 296,
+      "winnerId": "eon_huntley",
+      "margin": 30.1,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56064": {
+      "votes": {
+        "eon_huntley": 63,
+        "stefani_l_zinerman": 73,
+        "michael_bailey": 8,
+        "scattered": 0
+      },
+      "total": 144,
+      "winnerId": "stefani_l_zinerman",
+      "margin": 6.9,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56065": {
+      "votes": {
+        "eon_huntley": 42,
+        "stefani_l_zinerman": 39,
+        "michael_bailey": 4,
+        "scattered": 0
+      },
+      "total": 85,
+      "winnerId": "eon_huntley",
+      "margin": 3.5,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56066": {
+      "votes": {
+        "eon_huntley": 32,
+        "stefani_l_zinerman": 34,
+        "michael_bailey": 7,
+        "scattered": 0
+      },
+      "total": 73,
+      "winnerId": "stefani_l_zinerman",
+      "margin": 2.7,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56067": {
+      "votes": {
+        "eon_huntley": 8,
+        "stefani_l_zinerman": 50,
+        "michael_bailey": 10,
+        "scattered": 0
+      },
+      "total": 68,
+      "winnerId": "stefani_l_zinerman",
+      "margin": 58.8,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56068": {
+      "votes": {
+        "eon_huntley": 32,
+        "stefani_l_zinerman": 24,
+        "michael_bailey": 14,
+        "scattered": 0
+      },
+      "total": 70,
+      "winnerId": "eon_huntley",
+      "margin": 11.4,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56069": {
+      "votes": {
+        "eon_huntley": 218,
+        "stefani_l_zinerman": 67,
+        "michael_bailey": 17,
+        "scattered": 1
+      },
+      "total": 303,
+      "winnerId": "eon_huntley",
+      "margin": 49.8,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56070": {
+      "votes": {
+        "eon_huntley": 28,
+        "stefani_l_zinerman": 1,
+        "michael_bailey": 1,
+        "scattered": 0
+      },
+      "total": 30,
+      "winnerId": "eon_huntley",
+      "margin": 90,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56/001": {
+      "votes": {
+        "eon_huntley": 14,
+        "stefani_l_zinerman": 53,
+        "michael_bailey": 20,
+        "scattered": 0
+      },
+      "total": 87,
+      "winnerId": "stefani_l_zinerman",
+      "margin": 37.9,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56/002": {
+      "votes": {
+        "eon_huntley": 14,
+        "stefani_l_zinerman": 53,
+        "michael_bailey": 17,
+        "scattered": 0
+      },
+      "total": 84,
+      "winnerId": "stefani_l_zinerman",
+      "margin": 42.9,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56/003": {
+      "votes": {
+        "eon_huntley": 39,
+        "stefani_l_zinerman": 294,
+        "michael_bailey": 13,
+        "scattered": 4
+      },
+      "total": 350,
+      "winnerId": "stefani_l_zinerman",
+      "margin": 72.9,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56/004": {
+      "votes": {
+        "eon_huntley": 71,
+        "stefani_l_zinerman": 95,
+        "michael_bailey": 18,
+        "scattered": 1
+      },
+      "total": 185,
+      "winnerId": "stefani_l_zinerman",
+      "margin": 13,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56/005": {
+      "votes": {
+        "eon_huntley": 12,
+        "stefani_l_zinerman": 87,
+        "michael_bailey": 19,
+        "scattered": 0
+      },
+      "total": 118,
+      "winnerId": "stefani_l_zinerman",
+      "margin": 57.6,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56/006": {
+      "votes": {
+        "eon_huntley": 9,
+        "stefani_l_zinerman": 20,
+        "michael_bailey": 3,
+        "scattered": 0
+      },
+      "total": 32,
+      "winnerId": "stefani_l_zinerman",
+      "margin": 34.4,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56/007": {
+      "votes": {
+        "eon_huntley": 10,
+        "stefani_l_zinerman": 57,
+        "michael_bailey": 7,
+        "scattered": 0
+      },
+      "total": 74,
+      "winnerId": "stefani_l_zinerman",
+      "margin": 63.5,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56/008": {
+      "votes": {
+        "eon_huntley": 108,
+        "stefani_l_zinerman": 122,
+        "michael_bailey": 15,
+        "scattered": 2
+      },
+      "total": 247,
+      "winnerId": "stefani_l_zinerman",
+      "margin": 5.7,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56/009": {
+      "votes": {
+        "eon_huntley": 191,
+        "stefani_l_zinerman": 98,
+        "michael_bailey": 9,
+        "scattered": 0
+      },
+      "total": 298,
+      "winnerId": "eon_huntley",
+      "margin": 31.2,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56/010": {
+      "votes": {
+        "eon_huntley": 147,
+        "stefani_l_zinerman": 84,
+        "michael_bailey": 4,
+        "scattered": 0
+      },
+      "total": 235,
+      "winnerId": "eon_huntley",
+      "margin": 26.8,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56/011": {
+      "votes": {
+        "eon_huntley": 178,
+        "stefani_l_zinerman": 111,
+        "michael_bailey": 11,
+        "scattered": 1
+      },
+      "total": 301,
+      "winnerId": "eon_huntley",
+      "margin": 22.3,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56/012": {
+      "votes": {
+        "eon_huntley": 215,
+        "stefani_l_zinerman": 60,
+        "michael_bailey": 14,
+        "scattered": 2
+      },
+      "total": 291,
+      "winnerId": "eon_huntley",
+      "margin": 53.3,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56/013": {
+      "votes": {
+        "eon_huntley": 100,
+        "stefani_l_zinerman": 83,
+        "michael_bailey": 15,
+        "scattered": 0
+      },
+      "total": 198,
+      "winnerId": "eon_huntley",
+      "margin": 8.6,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56/014": {
+      "votes": {
+        "eon_huntley": 129,
+        "stefani_l_zinerman": 48,
+        "michael_bailey": 8,
+        "scattered": 0
+      },
+      "total": 185,
+      "winnerId": "eon_huntley",
+      "margin": 43.8,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56/015": {
+      "votes": {
+        "eon_huntley": 20,
+        "stefani_l_zinerman": 27,
+        "michael_bailey": 13,
+        "scattered": 1
+      },
+      "total": 61,
+      "winnerId": "stefani_l_zinerman",
+      "margin": 11.5,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56/016": {
+      "votes": {
+        "eon_huntley": 95,
+        "stefani_l_zinerman": 45,
+        "michael_bailey": 10,
+        "scattered": 0
+      },
+      "total": 150,
+      "winnerId": "eon_huntley",
+      "margin": 33.3,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56/017": {
+      "votes": {
+        "eon_huntley": 128,
+        "stefani_l_zinerman": 65,
+        "michael_bailey": 12,
+        "scattered": 1
+      },
+      "total": 206,
+      "winnerId": "eon_huntley",
+      "margin": 30.6,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56/018": {
+      "votes": {
+        "eon_huntley": 12,
+        "stefani_l_zinerman": 1,
+        "michael_bailey": 2,
+        "scattered": 0
+      },
+      "total": 15,
+      "winnerId": "eon_huntley",
+      "margin": 66.7,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56/019": {
+      "votes": {
+        "eon_huntley": 161,
+        "stefani_l_zinerman": 68,
+        "michael_bailey": 4,
+        "scattered": 0
+      },
+      "total": 233,
+      "winnerId": "eon_huntley",
+      "margin": 39.9,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56/020": {
+      "votes": {
+        "eon_huntley": 239,
+        "stefani_l_zinerman": 83,
+        "michael_bailey": 16,
+        "scattered": 0
+      },
+      "total": 338,
+      "winnerId": "eon_huntley",
+      "margin": 46.2,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56/021": {
+      "votes": {
+        "eon_huntley": 179,
+        "stefani_l_zinerman": 91,
+        "michael_bailey": 8,
+        "scattered": 1
+      },
+      "total": 279,
+      "winnerId": "eon_huntley",
+      "margin": 31.5,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56/022": {
+      "votes": {
+        "eon_huntley": 110,
+        "stefani_l_zinerman": 65,
+        "michael_bailey": 2,
+        "scattered": 0
+      },
+      "total": 177,
+      "winnerId": "eon_huntley",
+      "margin": 25.4,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56/023": {
+      "votes": {
+        "eon_huntley": 171,
+        "stefani_l_zinerman": 64,
+        "michael_bailey": 9,
+        "scattered": 0
+      },
+      "total": 244,
+      "winnerId": "eon_huntley",
+      "margin": 43.9,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56/024": {
+      "votes": {
+        "eon_huntley": 175,
+        "stefani_l_zinerman": 74,
+        "michael_bailey": 11,
+        "scattered": 0
+      },
+      "total": 260,
+      "winnerId": "eon_huntley",
+      "margin": 38.8,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56/025": {
+      "votes": {
+        "eon_huntley": 191,
+        "stefani_l_zinerman": 54,
+        "michael_bailey": 13,
+        "scattered": 1
+      },
+      "total": 259,
+      "winnerId": "eon_huntley",
+      "margin": 52.9,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56/026": {
+      "votes": {
+        "eon_huntley": 113,
+        "stefani_l_zinerman": 97,
+        "michael_bailey": 11,
+        "scattered": 0
+      },
+      "total": 221,
+      "winnerId": "eon_huntley",
+      "margin": 7.2,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56/027": {
+      "votes": {
+        "eon_huntley": 245,
+        "stefani_l_zinerman": 70,
+        "michael_bailey": 11,
+        "scattered": 0
+      },
+      "total": 326,
+      "winnerId": "eon_huntley",
+      "margin": 53.7,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56/028": {
+      "votes": {
+        "eon_huntley": 134,
+        "stefani_l_zinerman": 96,
+        "michael_bailey": 8,
+        "scattered": 0
+      },
+      "total": 238,
+      "winnerId": "eon_huntley",
+      "margin": 16,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56/029": {
+      "votes": {
+        "eon_huntley": 161,
+        "stefani_l_zinerman": 155,
+        "michael_bailey": 15,
+        "scattered": 0
+      },
+      "total": 331,
+      "winnerId": "eon_huntley",
+      "margin": 1.8,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56/030": {
+      "votes": {
+        "eon_huntley": 153,
+        "stefani_l_zinerman": 74,
+        "michael_bailey": 14,
+        "scattered": 1
+      },
+      "total": 242,
+      "winnerId": "eon_huntley",
+      "margin": 32.6,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56/031": {
+      "votes": {
+        "eon_huntley": 168,
+        "stefani_l_zinerman": 65,
+        "michael_bailey": 16,
+        "scattered": 0
+      },
+      "total": 249,
+      "winnerId": "eon_huntley",
+      "margin": 41.4,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56/032": {
+      "votes": {
+        "eon_huntley": 264,
+        "stefani_l_zinerman": 97,
+        "michael_bailey": 10,
+        "scattered": 1
+      },
+      "total": 372,
+      "winnerId": "eon_huntley",
+      "margin": 44.9,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56/033": {
+      "votes": {
+        "eon_huntley": 195,
+        "stefani_l_zinerman": 73,
+        "michael_bailey": 8,
+        "scattered": 0
+      },
+      "total": 276,
+      "winnerId": "eon_huntley",
+      "margin": 44.2,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56/034": {
+      "votes": {
+        "eon_huntley": 70,
+        "stefani_l_zinerman": 113,
+        "michael_bailey": 5,
+        "scattered": 0
+      },
+      "total": 188,
+      "winnerId": "stefani_l_zinerman",
+      "margin": 22.9,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56/035": {
+      "votes": {
+        "eon_huntley": 142,
+        "stefani_l_zinerman": 103,
+        "michael_bailey": 9,
+        "scattered": 0
+      },
+      "total": 254,
+      "winnerId": "eon_huntley",
+      "margin": 15.4,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56/036": {
+      "votes": {
+        "eon_huntley": 151,
+        "stefani_l_zinerman": 74,
+        "michael_bailey": 16,
+        "scattered": 1
+      },
+      "total": 242,
+      "winnerId": "eon_huntley",
+      "margin": 31.8,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56/037": {
+      "votes": {
+        "eon_huntley": 246,
+        "stefani_l_zinerman": 99,
+        "michael_bailey": 18,
+        "scattered": 0
+      },
+      "total": 363,
+      "winnerId": "eon_huntley",
+      "margin": 40.5,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56/038": {
+      "votes": {
+        "eon_huntley": 267,
+        "stefani_l_zinerman": 79,
+        "michael_bailey": 8,
+        "scattered": 1
+      },
+      "total": 355,
+      "winnerId": "eon_huntley",
+      "margin": 53,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56/039": {
+      "votes": {
+        "eon_huntley": 171,
+        "stefani_l_zinerman": 65,
+        "michael_bailey": 9,
+        "scattered": 0
+      },
+      "total": 245,
+      "winnerId": "eon_huntley",
+      "margin": 43.3,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56/040": {
+      "votes": {
+        "eon_huntley": 153,
+        "stefani_l_zinerman": 122,
+        "michael_bailey": 7,
+        "scattered": 0
+      },
+      "total": 282,
+      "winnerId": "eon_huntley",
+      "margin": 11,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56/041": {
+      "votes": {
+        "eon_huntley": 247,
+        "stefani_l_zinerman": 104,
+        "michael_bailey": 15,
+        "scattered": 0
+      },
+      "total": 366,
+      "winnerId": "eon_huntley",
+      "margin": 39.1,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56/042": {
+      "votes": {
+        "eon_huntley": 150,
+        "stefani_l_zinerman": 96,
+        "michael_bailey": 15,
+        "scattered": 0
+      },
+      "total": 261,
+      "winnerId": "eon_huntley",
+      "margin": 20.7,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56/043": {
+      "votes": {
+        "eon_huntley": 146,
+        "stefani_l_zinerman": 132,
+        "michael_bailey": 14,
+        "scattered": 1
+      },
+      "total": 293,
+      "winnerId": "eon_huntley",
+      "margin": 4.8,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56/044": {
+      "votes": {
+        "eon_huntley": 236,
+        "stefani_l_zinerman": 104,
+        "michael_bailey": 10,
+        "scattered": 1
+      },
+      "total": 351,
+      "winnerId": "eon_huntley",
+      "margin": 37.6,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56/045": {
+      "votes": {
+        "eon_huntley": 146,
+        "stefani_l_zinerman": 79,
+        "michael_bailey": 16,
+        "scattered": 0
+      },
+      "total": 241,
+      "winnerId": "eon_huntley",
+      "margin": 27.8,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56/046": {
+      "votes": {
+        "eon_huntley": 213,
+        "stefani_l_zinerman": 95,
+        "michael_bailey": 11,
+        "scattered": 0
+      },
+      "total": 319,
+      "winnerId": "eon_huntley",
+      "margin": 37,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56/047": {
+      "votes": {
+        "eon_huntley": 177,
+        "stefani_l_zinerman": 124,
+        "michael_bailey": 15,
+        "scattered": 0
+      },
+      "total": 316,
+      "winnerId": "eon_huntley",
+      "margin": 16.8,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56/048": {
+      "votes": {
+        "eon_huntley": 197,
+        "stefani_l_zinerman": 136,
+        "michael_bailey": 17,
+        "scattered": 0
+      },
+      "total": 350,
+      "winnerId": "eon_huntley",
+      "margin": 17.4,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56/049": {
+      "votes": {
+        "eon_huntley": 185,
+        "stefani_l_zinerman": 129,
+        "michael_bailey": 9,
+        "scattered": 0
+      },
+      "total": 323,
+      "winnerId": "eon_huntley",
+      "margin": 17.3,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56/050": {
+      "votes": {
+        "eon_huntley": 240,
+        "stefani_l_zinerman": 129,
+        "michael_bailey": 19,
+        "scattered": 0
+      },
+      "total": 388,
+      "winnerId": "eon_huntley",
+      "margin": 28.6,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56/051": {
+      "votes": {
+        "eon_huntley": 6,
+        "stefani_l_zinerman": 41,
+        "michael_bailey": 9,
+        "scattered": 0
+      },
+      "total": 56,
+      "winnerId": "stefani_l_zinerman",
+      "margin": 57.1,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56/052": {
+      "votes": {
+        "eon_huntley": 23,
+        "stefani_l_zinerman": 55,
+        "michael_bailey": 5,
+        "scattered": 0
+      },
+      "total": 83,
+      "winnerId": "stefani_l_zinerman",
+      "margin": 38.6,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56/053": {
+      "votes": {
+        "eon_huntley": 202,
+        "stefani_l_zinerman": 58,
+        "michael_bailey": 5,
+        "scattered": 0
+      },
+      "total": 265,
+      "winnerId": "eon_huntley",
+      "margin": 54.3,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56/054": {
+      "votes": {
+        "eon_huntley": 74,
+        "stefani_l_zinerman": 65,
+        "michael_bailey": 9,
+        "scattered": 0
+      },
+      "total": 148,
+      "winnerId": "eon_huntley",
+      "margin": 6.1,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56/055": {
+      "votes": {
+        "eon_huntley": 77,
+        "stefani_l_zinerman": 102,
+        "michael_bailey": 12,
+        "scattered": 0
+      },
+      "total": 191,
+      "winnerId": "stefani_l_zinerman",
+      "margin": 13.1,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56/056": {
+      "votes": {
+        "eon_huntley": 150,
+        "stefani_l_zinerman": 149,
+        "michael_bailey": 10,
+        "scattered": 0
+      },
+      "total": 309,
+      "winnerId": "eon_huntley",
+      "margin": 0.3,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56/057": {
+      "votes": {
+        "eon_huntley": 17,
+        "stefani_l_zinerman": 18,
+        "michael_bailey": 1,
+        "scattered": 0
+      },
+      "total": 36,
+      "winnerId": "stefani_l_zinerman",
+      "margin": 2.8,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56/058": {
+      "votes": {
+        "eon_huntley": 223,
+        "stefani_l_zinerman": 127,
+        "michael_bailey": 25,
+        "scattered": 1
+      },
+      "total": 376,
+      "winnerId": "eon_huntley",
+      "margin": 25.5,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56/059": {
+      "votes": {
+        "eon_huntley": 139,
+        "stefani_l_zinerman": 46,
+        "michael_bailey": 10,
+        "scattered": 0
+      },
+      "total": 195,
+      "winnerId": "eon_huntley",
+      "margin": 47.7,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56/060": {
+      "votes": {
+        "eon_huntley": 66,
+        "stefani_l_zinerman": 46,
+        "michael_bailey": 6,
+        "scattered": 0
+      },
+      "total": 118,
+      "winnerId": "eon_huntley",
+      "margin": 16.9,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56/061": {
+      "votes": {
+        "eon_huntley": 71,
+        "stefani_l_zinerman": 38,
+        "michael_bailey": 5,
+        "scattered": 0
+      },
+      "total": 114,
+      "winnerId": "eon_huntley",
+      "margin": 28.9,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56/062": {
+      "votes": {
+        "eon_huntley": 58,
+        "stefani_l_zinerman": 84,
+        "michael_bailey": 17,
+        "scattered": 0
+      },
+      "total": 159,
+      "winnerId": "stefani_l_zinerman",
+      "margin": 16.4,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56/063": {
+      "votes": {
+        "eon_huntley": 187,
+        "stefani_l_zinerman": 98,
+        "michael_bailey": 10,
+        "scattered": 1
+      },
+      "total": 296,
+      "winnerId": "eon_huntley",
+      "margin": 30.1,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56/064": {
+      "votes": {
+        "eon_huntley": 63,
+        "stefani_l_zinerman": 73,
+        "michael_bailey": 8,
+        "scattered": 0
+      },
+      "total": 144,
+      "winnerId": "stefani_l_zinerman",
+      "margin": 6.9,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56/065": {
+      "votes": {
+        "eon_huntley": 42,
+        "stefani_l_zinerman": 39,
+        "michael_bailey": 4,
+        "scattered": 0
+      },
+      "total": 85,
+      "winnerId": "eon_huntley",
+      "margin": 3.5,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56/066": {
+      "votes": {
+        "eon_huntley": 32,
+        "stefani_l_zinerman": 34,
+        "michael_bailey": 7,
+        "scattered": 0
+      },
+      "total": 73,
+      "winnerId": "stefani_l_zinerman",
+      "margin": 2.7,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56/067": {
+      "votes": {
+        "eon_huntley": 8,
+        "stefani_l_zinerman": 50,
+        "michael_bailey": 10,
+        "scattered": 0
+      },
+      "total": 68,
+      "winnerId": "stefani_l_zinerman",
+      "margin": 58.8,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56/068": {
+      "votes": {
+        "eon_huntley": 32,
+        "stefani_l_zinerman": 24,
+        "michael_bailey": 14,
+        "scattered": 0
+      },
+      "total": 70,
+      "winnerId": "eon_huntley",
+      "margin": 11.4,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56/069": {
+      "votes": {
+        "eon_huntley": 218,
+        "stefani_l_zinerman": 67,
+        "michael_bailey": 17,
+        "scattered": 1
+      },
+      "total": 303,
+      "winnerId": "eon_huntley",
+      "margin": 49.8,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "56/070": {
+      "votes": {
+        "eon_huntley": 28,
+        "stefani_l_zinerman": 1,
+        "michael_bailey": 1,
+        "scattered": 0
+      },
+      "total": 30,
+      "winnerId": "eon_huntley",
+      "margin": 90,
+      "candidates": [
+        {
+          "id": "eon_huntley",
+          "name": "Eon Huntley",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stefani_l_zinerman",
+          "name": "Stefani L. Zinerman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "michael_bailey",
+          "name": "Michael Bailey",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    }
+  }
+}

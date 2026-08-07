@@ -1,0 +1,5086 @@
+{
+  "id": "democratic_member_of_the_assembly_69",
+  "name": "2026 Primary - Member of the Assembly District 69",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "NY State Assembly",
+  "districtKey": "69",
+  "districtType": "assembly",
+  "isUncontested": false,
+  "candidates": [
+    {
+      "id": "eli_northrup",
+      "name": "Eli Northrup",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#d97706"
+    },
+    {
+      "id": "stephanie_r_ruskay",
+      "name": "Stephanie R. Ruskay",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#7c3aed"
+    },
+    {
+      "id": "scattered",
+      "name": "Scattered",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#059669"
+    }
+  ],
+  "results": {
+    "69": {
+      "votes": {
+        "eli_northrup": 15713,
+        "stephanie_r_ruskay": 10211,
+        "scattered": 83
+      },
+      "total": 26007,
+      "winnerId": "eli_northrup",
+      "margin": 21.2,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    }
+  },
+  "edResults": {
+    "69001": {
+      "votes": {
+        "eli_northrup": 32,
+        "stephanie_r_ruskay": 50,
+        "scattered": 0
+      },
+      "total": 82,
+      "winnerId": "stephanie_r_ruskay",
+      "margin": 22,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69002": {
+      "votes": {
+        "eli_northrup": 167,
+        "stephanie_r_ruskay": 71,
+        "scattered": 12
+      },
+      "total": 250,
+      "winnerId": "eli_northrup",
+      "margin": 38.4,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69003": {
+      "votes": {
+        "eli_northrup": 52,
+        "stephanie_r_ruskay": 73,
+        "scattered": 0
+      },
+      "total": 125,
+      "winnerId": "stephanie_r_ruskay",
+      "margin": 16.8,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69004": {
+      "votes": {
+        "eli_northrup": 35,
+        "stephanie_r_ruskay": 47,
+        "scattered": 0
+      },
+      "total": 82,
+      "winnerId": "stephanie_r_ruskay",
+      "margin": 14.6,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69005": {
+      "votes": {
+        "eli_northrup": 198,
+        "stephanie_r_ruskay": 77,
+        "scattered": 0
+      },
+      "total": 275,
+      "winnerId": "eli_northrup",
+      "margin": 44,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69006": {
+      "votes": {
+        "eli_northrup": 545,
+        "stephanie_r_ruskay": 153,
+        "scattered": 2
+      },
+      "total": 700,
+      "winnerId": "eli_northrup",
+      "margin": 56,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69007": {
+      "votes": {
+        "eli_northrup": 257,
+        "stephanie_r_ruskay": 109,
+        "scattered": 1
+      },
+      "total": 367,
+      "winnerId": "eli_northrup",
+      "margin": 40.3,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69008": {
+      "votes": {
+        "eli_northrup": 188,
+        "stephanie_r_ruskay": 45,
+        "scattered": 0
+      },
+      "total": 233,
+      "winnerId": "eli_northrup",
+      "margin": 61.4,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69009": {
+      "votes": {
+        "eli_northrup": 200,
+        "stephanie_r_ruskay": 53,
+        "scattered": 1
+      },
+      "total": 254,
+      "winnerId": "eli_northrup",
+      "margin": 57.9,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69010": {
+      "votes": {
+        "eli_northrup": 120,
+        "stephanie_r_ruskay": 27,
+        "scattered": 1
+      },
+      "total": 148,
+      "winnerId": "eli_northrup",
+      "margin": 62.8,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69011": {
+      "votes": {
+        "eli_northrup": 313,
+        "stephanie_r_ruskay": 117,
+        "scattered": 3
+      },
+      "total": 433,
+      "winnerId": "eli_northrup",
+      "margin": 45.3,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69012": {
+      "votes": {
+        "eli_northrup": 442,
+        "stephanie_r_ruskay": 173,
+        "scattered": 2
+      },
+      "total": 617,
+      "winnerId": "eli_northrup",
+      "margin": 43.6,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69013": {
+      "votes": {
+        "eli_northrup": 262,
+        "stephanie_r_ruskay": 148,
+        "scattered": 2
+      },
+      "total": 412,
+      "winnerId": "eli_northrup",
+      "margin": 27.7,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69014": {
+      "votes": {
+        "eli_northrup": 328,
+        "stephanie_r_ruskay": 92,
+        "scattered": 0
+      },
+      "total": 420,
+      "winnerId": "eli_northrup",
+      "margin": 56.2,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69015": {
+      "votes": {
+        "eli_northrup": 230,
+        "stephanie_r_ruskay": 81,
+        "scattered": 0
+      },
+      "total": 311,
+      "winnerId": "eli_northrup",
+      "margin": 47.9,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69016": {
+      "votes": {
+        "eli_northrup": 96,
+        "stephanie_r_ruskay": 62,
+        "scattered": 0
+      },
+      "total": 158,
+      "winnerId": "eli_northrup",
+      "margin": 21.5,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69017": {
+      "votes": {
+        "eli_northrup": 153,
+        "stephanie_r_ruskay": 49,
+        "scattered": 3
+      },
+      "total": 205,
+      "winnerId": "eli_northrup",
+      "margin": 50.7,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69018": {
+      "votes": {
+        "eli_northrup": 240,
+        "stephanie_r_ruskay": 123,
+        "scattered": 2
+      },
+      "total": 365,
+      "winnerId": "eli_northrup",
+      "margin": 32.1,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69019": {
+      "votes": {
+        "eli_northrup": 127,
+        "stephanie_r_ruskay": 67,
+        "scattered": 6
+      },
+      "total": 200,
+      "winnerId": "eli_northrup",
+      "margin": 30,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69020": {
+      "votes": {
+        "eli_northrup": 239,
+        "stephanie_r_ruskay": 51,
+        "scattered": 0
+      },
+      "total": 290,
+      "winnerId": "eli_northrup",
+      "margin": 64.8,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69021": {
+      "votes": {
+        "eli_northrup": 136,
+        "stephanie_r_ruskay": 66,
+        "scattered": 1
+      },
+      "total": 203,
+      "winnerId": "eli_northrup",
+      "margin": 34.5,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69022": {
+      "votes": {
+        "eli_northrup": 249,
+        "stephanie_r_ruskay": 124,
+        "scattered": 1
+      },
+      "total": 374,
+      "winnerId": "eli_northrup",
+      "margin": 33.4,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69023": {
+      "votes": {
+        "eli_northrup": 208,
+        "stephanie_r_ruskay": 127,
+        "scattered": 0
+      },
+      "total": 335,
+      "winnerId": "eli_northrup",
+      "margin": 24.2,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69024": {
+      "votes": {
+        "eli_northrup": 60,
+        "stephanie_r_ruskay": 72,
+        "scattered": 1
+      },
+      "total": 133,
+      "winnerId": "stephanie_r_ruskay",
+      "margin": 9,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69025": {
+      "votes": {
+        "eli_northrup": 133,
+        "stephanie_r_ruskay": 93,
+        "scattered": 1
+      },
+      "total": 227,
+      "winnerId": "eli_northrup",
+      "margin": 17.6,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69026": {
+      "votes": {
+        "eli_northrup": 36,
+        "stephanie_r_ruskay": 45,
+        "scattered": 0
+      },
+      "total": 81,
+      "winnerId": "stephanie_r_ruskay",
+      "margin": 11.1,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69027": {
+      "votes": {
+        "eli_northrup": 211,
+        "stephanie_r_ruskay": 73,
+        "scattered": 1
+      },
+      "total": 285,
+      "winnerId": "eli_northrup",
+      "margin": 48.4,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69028": {
+      "votes": {
+        "eli_northrup": 246,
+        "stephanie_r_ruskay": 119,
+        "scattered": 1
+      },
+      "total": 366,
+      "winnerId": "eli_northrup",
+      "margin": 34.7,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69029": {
+      "votes": {
+        "eli_northrup": 394,
+        "stephanie_r_ruskay": 133,
+        "scattered": 0
+      },
+      "total": 527,
+      "winnerId": "eli_northrup",
+      "margin": 49.5,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69030": {
+      "votes": {
+        "eli_northrup": 331,
+        "stephanie_r_ruskay": 126,
+        "scattered": 1
+      },
+      "total": 458,
+      "winnerId": "eli_northrup",
+      "margin": 44.8,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69031": {
+      "votes": {
+        "eli_northrup": 150,
+        "stephanie_r_ruskay": 61,
+        "scattered": 0
+      },
+      "total": 211,
+      "winnerId": "eli_northrup",
+      "margin": 42.2,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69032": {
+      "votes": {
+        "eli_northrup": 91,
+        "stephanie_r_ruskay": 73,
+        "scattered": 2
+      },
+      "total": 166,
+      "winnerId": "eli_northrup",
+      "margin": 10.8,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69033": {
+      "votes": {
+        "eli_northrup": 248,
+        "stephanie_r_ruskay": 185,
+        "scattered": 1
+      },
+      "total": 434,
+      "winnerId": "eli_northrup",
+      "margin": 14.5,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69034": {
+      "votes": {
+        "eli_northrup": 176,
+        "stephanie_r_ruskay": 154,
+        "scattered": 2
+      },
+      "total": 332,
+      "winnerId": "eli_northrup",
+      "margin": 6.6,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69035": {
+      "votes": {
+        "eli_northrup": 176,
+        "stephanie_r_ruskay": 158,
+        "scattered": 0
+      },
+      "total": 334,
+      "winnerId": "eli_northrup",
+      "margin": 5.4,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69036": {
+      "votes": {
+        "eli_northrup": 190,
+        "stephanie_r_ruskay": 202,
+        "scattered": 0
+      },
+      "total": 392,
+      "winnerId": "stephanie_r_ruskay",
+      "margin": 3.1,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69037": {
+      "votes": {
+        "eli_northrup": 225,
+        "stephanie_r_ruskay": 176,
+        "scattered": 3
+      },
+      "total": 404,
+      "winnerId": "eli_northrup",
+      "margin": 12.1,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69038": {
+      "votes": {
+        "eli_northrup": 258,
+        "stephanie_r_ruskay": 181,
+        "scattered": 0
+      },
+      "total": 439,
+      "winnerId": "eli_northrup",
+      "margin": 17.5,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69039": {
+      "votes": {
+        "eli_northrup": 358,
+        "stephanie_r_ruskay": 163,
+        "scattered": 0
+      },
+      "total": 521,
+      "winnerId": "eli_northrup",
+      "margin": 37.4,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69040": {
+      "votes": {
+        "eli_northrup": 214,
+        "stephanie_r_ruskay": 112,
+        "scattered": 2
+      },
+      "total": 328,
+      "winnerId": "eli_northrup",
+      "margin": 31.1,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69041": {
+      "votes": {
+        "eli_northrup": 416,
+        "stephanie_r_ruskay": 212,
+        "scattered": 0
+      },
+      "total": 628,
+      "winnerId": "eli_northrup",
+      "margin": 32.5,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69042": {
+      "votes": {
+        "eli_northrup": 374,
+        "stephanie_r_ruskay": 213,
+        "scattered": 3
+      },
+      "total": 590,
+      "winnerId": "eli_northrup",
+      "margin": 27.3,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69043": {
+      "votes": {
+        "eli_northrup": 320,
+        "stephanie_r_ruskay": 224,
+        "scattered": 0
+      },
+      "total": 544,
+      "winnerId": "eli_northrup",
+      "margin": 17.6,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69044": {
+      "votes": {
+        "eli_northrup": 162,
+        "stephanie_r_ruskay": 75,
+        "scattered": 0
+      },
+      "total": 237,
+      "winnerId": "eli_northrup",
+      "margin": 36.7,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69045": {
+      "votes": {
+        "eli_northrup": 384,
+        "stephanie_r_ruskay": 259,
+        "scattered": 1
+      },
+      "total": 644,
+      "winnerId": "eli_northrup",
+      "margin": 19.4,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69046": {
+      "votes": {
+        "eli_northrup": 270,
+        "stephanie_r_ruskay": 189,
+        "scattered": 0
+      },
+      "total": 459,
+      "winnerId": "eli_northrup",
+      "margin": 17.6,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69047": {
+      "votes": {
+        "eli_northrup": 207,
+        "stephanie_r_ruskay": 175,
+        "scattered": 1
+      },
+      "total": 383,
+      "winnerId": "eli_northrup",
+      "margin": 8.4,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69048": {
+      "votes": {
+        "eli_northrup": 242,
+        "stephanie_r_ruskay": 240,
+        "scattered": 3
+      },
+      "total": 485,
+      "winnerId": "eli_northrup",
+      "margin": 0.4,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69049": {
+      "votes": {
+        "eli_northrup": 155,
+        "stephanie_r_ruskay": 103,
+        "scattered": 1
+      },
+      "total": 259,
+      "winnerId": "eli_northrup",
+      "margin": 20.1,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69050": {
+      "votes": {
+        "eli_northrup": 278,
+        "stephanie_r_ruskay": 229,
+        "scattered": 1
+      },
+      "total": 508,
+      "winnerId": "eli_northrup",
+      "margin": 9.6,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69051": {
+      "votes": {
+        "eli_northrup": 189,
+        "stephanie_r_ruskay": 153,
+        "scattered": 0
+      },
+      "total": 342,
+      "winnerId": "eli_northrup",
+      "margin": 10.5,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69052": {
+      "votes": {
+        "eli_northrup": 298,
+        "stephanie_r_ruskay": 192,
+        "scattered": 0
+      },
+      "total": 490,
+      "winnerId": "eli_northrup",
+      "margin": 21.6,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69053": {
+      "votes": {
+        "eli_northrup": 138,
+        "stephanie_r_ruskay": 196,
+        "scattered": 0
+      },
+      "total": 334,
+      "winnerId": "stephanie_r_ruskay",
+      "margin": 17.4,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69054": {
+      "votes": {
+        "eli_northrup": 179,
+        "stephanie_r_ruskay": 163,
+        "scattered": 1
+      },
+      "total": 343,
+      "winnerId": "eli_northrup",
+      "margin": 4.7,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69055": {
+      "votes": {
+        "eli_northrup": 109,
+        "stephanie_r_ruskay": 73,
+        "scattered": 0
+      },
+      "total": 182,
+      "winnerId": "eli_northrup",
+      "margin": 19.8,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69056": {
+      "votes": {
+        "eli_northrup": 172,
+        "stephanie_r_ruskay": 157,
+        "scattered": 0
+      },
+      "total": 329,
+      "winnerId": "eli_northrup",
+      "margin": 4.6,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69057": {
+      "votes": {
+        "eli_northrup": 121,
+        "stephanie_r_ruskay": 107,
+        "scattered": 1
+      },
+      "total": 229,
+      "winnerId": "eli_northrup",
+      "margin": 6.1,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69058": {
+      "votes": {
+        "eli_northrup": 261,
+        "stephanie_r_ruskay": 208,
+        "scattered": 0
+      },
+      "total": 469,
+      "winnerId": "eli_northrup",
+      "margin": 11.3,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69059": {
+      "votes": {
+        "eli_northrup": 255,
+        "stephanie_r_ruskay": 190,
+        "scattered": 3
+      },
+      "total": 448,
+      "winnerId": "eli_northrup",
+      "margin": 14.5,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69060": {
+      "votes": {
+        "eli_northrup": 225,
+        "stephanie_r_ruskay": 218,
+        "scattered": 1
+      },
+      "total": 444,
+      "winnerId": "eli_northrup",
+      "margin": 1.6,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69061": {
+      "votes": {
+        "eli_northrup": 184,
+        "stephanie_r_ruskay": 139,
+        "scattered": 0
+      },
+      "total": 323,
+      "winnerId": "eli_northrup",
+      "margin": 13.9,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69062": {
+      "votes": {
+        "eli_northrup": 138,
+        "stephanie_r_ruskay": 152,
+        "scattered": 0
+      },
+      "total": 290,
+      "winnerId": "stephanie_r_ruskay",
+      "margin": 4.8,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69063": {
+      "votes": {
+        "eli_northrup": 116,
+        "stephanie_r_ruskay": 105,
+        "scattered": 0
+      },
+      "total": 221,
+      "winnerId": "eli_northrup",
+      "margin": 5,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69064": {
+      "votes": {
+        "eli_northrup": 85,
+        "stephanie_r_ruskay": 70,
+        "scattered": 0
+      },
+      "total": 155,
+      "winnerId": "eli_northrup",
+      "margin": 9.7,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69065": {
+      "votes": {
+        "eli_northrup": 133,
+        "stephanie_r_ruskay": 190,
+        "scattered": 1
+      },
+      "total": 324,
+      "winnerId": "stephanie_r_ruskay",
+      "margin": 17.6,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69066": {
+      "votes": {
+        "eli_northrup": 227,
+        "stephanie_r_ruskay": 174,
+        "scattered": 3
+      },
+      "total": 404,
+      "winnerId": "eli_northrup",
+      "margin": 13.1,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69067": {
+      "votes": {
+        "eli_northrup": 130,
+        "stephanie_r_ruskay": 137,
+        "scattered": 1
+      },
+      "total": 268,
+      "winnerId": "stephanie_r_ruskay",
+      "margin": 2.6,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69068": {
+      "votes": {
+        "eli_northrup": 179,
+        "stephanie_r_ruskay": 154,
+        "scattered": 1
+      },
+      "total": 334,
+      "winnerId": "eli_northrup",
+      "margin": 7.5,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69069": {
+      "votes": {
+        "eli_northrup": 157,
+        "stephanie_r_ruskay": 212,
+        "scattered": 1
+      },
+      "total": 370,
+      "winnerId": "stephanie_r_ruskay",
+      "margin": 14.9,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69070": {
+      "votes": {
+        "eli_northrup": 160,
+        "stephanie_r_ruskay": 153,
+        "scattered": 0
+      },
+      "total": 313,
+      "winnerId": "eli_northrup",
+      "margin": 2.2,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69071": {
+      "votes": {
+        "eli_northrup": 291,
+        "stephanie_r_ruskay": 215,
+        "scattered": 1
+      },
+      "total": 507,
+      "winnerId": "eli_northrup",
+      "margin": 15,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69072": {
+      "votes": {
+        "eli_northrup": 162,
+        "stephanie_r_ruskay": 158,
+        "scattered": 1
+      },
+      "total": 321,
+      "winnerId": "eli_northrup",
+      "margin": 1.2,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69073": {
+      "votes": {
+        "eli_northrup": 242,
+        "stephanie_r_ruskay": 252,
+        "scattered": 0
+      },
+      "total": 494,
+      "winnerId": "stephanie_r_ruskay",
+      "margin": 2,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69074": {
+      "votes": {
+        "eli_northrup": 169,
+        "stephanie_r_ruskay": 130,
+        "scattered": 2
+      },
+      "total": 301,
+      "winnerId": "eli_northrup",
+      "margin": 13,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69075": {
+      "votes": {
+        "eli_northrup": 131,
+        "stephanie_r_ruskay": 184,
+        "scattered": 4
+      },
+      "total": 319,
+      "winnerId": "stephanie_r_ruskay",
+      "margin": 16.6,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69076": {
+      "votes": {
+        "eli_northrup": 140,
+        "stephanie_r_ruskay": 99,
+        "scattered": 0
+      },
+      "total": 239,
+      "winnerId": "eli_northrup",
+      "margin": 17.2,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69/001": {
+      "votes": {
+        "eli_northrup": 32,
+        "stephanie_r_ruskay": 50,
+        "scattered": 0
+      },
+      "total": 82,
+      "winnerId": "stephanie_r_ruskay",
+      "margin": 22,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69/002": {
+      "votes": {
+        "eli_northrup": 167,
+        "stephanie_r_ruskay": 71,
+        "scattered": 12
+      },
+      "total": 250,
+      "winnerId": "eli_northrup",
+      "margin": 38.4,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69/003": {
+      "votes": {
+        "eli_northrup": 52,
+        "stephanie_r_ruskay": 73,
+        "scattered": 0
+      },
+      "total": 125,
+      "winnerId": "stephanie_r_ruskay",
+      "margin": 16.8,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69/004": {
+      "votes": {
+        "eli_northrup": 35,
+        "stephanie_r_ruskay": 47,
+        "scattered": 0
+      },
+      "total": 82,
+      "winnerId": "stephanie_r_ruskay",
+      "margin": 14.6,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69/005": {
+      "votes": {
+        "eli_northrup": 198,
+        "stephanie_r_ruskay": 77,
+        "scattered": 0
+      },
+      "total": 275,
+      "winnerId": "eli_northrup",
+      "margin": 44,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69/006": {
+      "votes": {
+        "eli_northrup": 545,
+        "stephanie_r_ruskay": 153,
+        "scattered": 2
+      },
+      "total": 700,
+      "winnerId": "eli_northrup",
+      "margin": 56,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69/007": {
+      "votes": {
+        "eli_northrup": 257,
+        "stephanie_r_ruskay": 109,
+        "scattered": 1
+      },
+      "total": 367,
+      "winnerId": "eli_northrup",
+      "margin": 40.3,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69/008": {
+      "votes": {
+        "eli_northrup": 188,
+        "stephanie_r_ruskay": 45,
+        "scattered": 0
+      },
+      "total": 233,
+      "winnerId": "eli_northrup",
+      "margin": 61.4,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69/009": {
+      "votes": {
+        "eli_northrup": 200,
+        "stephanie_r_ruskay": 53,
+        "scattered": 1
+      },
+      "total": 254,
+      "winnerId": "eli_northrup",
+      "margin": 57.9,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69/010": {
+      "votes": {
+        "eli_northrup": 120,
+        "stephanie_r_ruskay": 27,
+        "scattered": 1
+      },
+      "total": 148,
+      "winnerId": "eli_northrup",
+      "margin": 62.8,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69/011": {
+      "votes": {
+        "eli_northrup": 313,
+        "stephanie_r_ruskay": 117,
+        "scattered": 3
+      },
+      "total": 433,
+      "winnerId": "eli_northrup",
+      "margin": 45.3,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69/012": {
+      "votes": {
+        "eli_northrup": 442,
+        "stephanie_r_ruskay": 173,
+        "scattered": 2
+      },
+      "total": 617,
+      "winnerId": "eli_northrup",
+      "margin": 43.6,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69/013": {
+      "votes": {
+        "eli_northrup": 262,
+        "stephanie_r_ruskay": 148,
+        "scattered": 2
+      },
+      "total": 412,
+      "winnerId": "eli_northrup",
+      "margin": 27.7,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69/014": {
+      "votes": {
+        "eli_northrup": 328,
+        "stephanie_r_ruskay": 92,
+        "scattered": 0
+      },
+      "total": 420,
+      "winnerId": "eli_northrup",
+      "margin": 56.2,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69/015": {
+      "votes": {
+        "eli_northrup": 230,
+        "stephanie_r_ruskay": 81,
+        "scattered": 0
+      },
+      "total": 311,
+      "winnerId": "eli_northrup",
+      "margin": 47.9,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69/016": {
+      "votes": {
+        "eli_northrup": 96,
+        "stephanie_r_ruskay": 62,
+        "scattered": 0
+      },
+      "total": 158,
+      "winnerId": "eli_northrup",
+      "margin": 21.5,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69/017": {
+      "votes": {
+        "eli_northrup": 153,
+        "stephanie_r_ruskay": 49,
+        "scattered": 3
+      },
+      "total": 205,
+      "winnerId": "eli_northrup",
+      "margin": 50.7,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69/018": {
+      "votes": {
+        "eli_northrup": 240,
+        "stephanie_r_ruskay": 123,
+        "scattered": 2
+      },
+      "total": 365,
+      "winnerId": "eli_northrup",
+      "margin": 32.1,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69/019": {
+      "votes": {
+        "eli_northrup": 127,
+        "stephanie_r_ruskay": 67,
+        "scattered": 6
+      },
+      "total": 200,
+      "winnerId": "eli_northrup",
+      "margin": 30,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69/020": {
+      "votes": {
+        "eli_northrup": 239,
+        "stephanie_r_ruskay": 51,
+        "scattered": 0
+      },
+      "total": 290,
+      "winnerId": "eli_northrup",
+      "margin": 64.8,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69/021": {
+      "votes": {
+        "eli_northrup": 136,
+        "stephanie_r_ruskay": 66,
+        "scattered": 1
+      },
+      "total": 203,
+      "winnerId": "eli_northrup",
+      "margin": 34.5,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69/022": {
+      "votes": {
+        "eli_northrup": 249,
+        "stephanie_r_ruskay": 124,
+        "scattered": 1
+      },
+      "total": 374,
+      "winnerId": "eli_northrup",
+      "margin": 33.4,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69/023": {
+      "votes": {
+        "eli_northrup": 208,
+        "stephanie_r_ruskay": 127,
+        "scattered": 0
+      },
+      "total": 335,
+      "winnerId": "eli_northrup",
+      "margin": 24.2,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69/024": {
+      "votes": {
+        "eli_northrup": 60,
+        "stephanie_r_ruskay": 72,
+        "scattered": 1
+      },
+      "total": 133,
+      "winnerId": "stephanie_r_ruskay",
+      "margin": 9,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69/025": {
+      "votes": {
+        "eli_northrup": 133,
+        "stephanie_r_ruskay": 93,
+        "scattered": 1
+      },
+      "total": 227,
+      "winnerId": "eli_northrup",
+      "margin": 17.6,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69/026": {
+      "votes": {
+        "eli_northrup": 36,
+        "stephanie_r_ruskay": 45,
+        "scattered": 0
+      },
+      "total": 81,
+      "winnerId": "stephanie_r_ruskay",
+      "margin": 11.1,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69/027": {
+      "votes": {
+        "eli_northrup": 211,
+        "stephanie_r_ruskay": 73,
+        "scattered": 1
+      },
+      "total": 285,
+      "winnerId": "eli_northrup",
+      "margin": 48.4,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69/028": {
+      "votes": {
+        "eli_northrup": 246,
+        "stephanie_r_ruskay": 119,
+        "scattered": 1
+      },
+      "total": 366,
+      "winnerId": "eli_northrup",
+      "margin": 34.7,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69/029": {
+      "votes": {
+        "eli_northrup": 394,
+        "stephanie_r_ruskay": 133,
+        "scattered": 0
+      },
+      "total": 527,
+      "winnerId": "eli_northrup",
+      "margin": 49.5,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69/030": {
+      "votes": {
+        "eli_northrup": 331,
+        "stephanie_r_ruskay": 126,
+        "scattered": 1
+      },
+      "total": 458,
+      "winnerId": "eli_northrup",
+      "margin": 44.8,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69/031": {
+      "votes": {
+        "eli_northrup": 150,
+        "stephanie_r_ruskay": 61,
+        "scattered": 0
+      },
+      "total": 211,
+      "winnerId": "eli_northrup",
+      "margin": 42.2,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69/032": {
+      "votes": {
+        "eli_northrup": 91,
+        "stephanie_r_ruskay": 73,
+        "scattered": 2
+      },
+      "total": 166,
+      "winnerId": "eli_northrup",
+      "margin": 10.8,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69/033": {
+      "votes": {
+        "eli_northrup": 248,
+        "stephanie_r_ruskay": 185,
+        "scattered": 1
+      },
+      "total": 434,
+      "winnerId": "eli_northrup",
+      "margin": 14.5,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69/034": {
+      "votes": {
+        "eli_northrup": 176,
+        "stephanie_r_ruskay": 154,
+        "scattered": 2
+      },
+      "total": 332,
+      "winnerId": "eli_northrup",
+      "margin": 6.6,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69/035": {
+      "votes": {
+        "eli_northrup": 176,
+        "stephanie_r_ruskay": 158,
+        "scattered": 0
+      },
+      "total": 334,
+      "winnerId": "eli_northrup",
+      "margin": 5.4,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69/036": {
+      "votes": {
+        "eli_northrup": 190,
+        "stephanie_r_ruskay": 202,
+        "scattered": 0
+      },
+      "total": 392,
+      "winnerId": "stephanie_r_ruskay",
+      "margin": 3.1,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69/037": {
+      "votes": {
+        "eli_northrup": 225,
+        "stephanie_r_ruskay": 176,
+        "scattered": 3
+      },
+      "total": 404,
+      "winnerId": "eli_northrup",
+      "margin": 12.1,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69/038": {
+      "votes": {
+        "eli_northrup": 258,
+        "stephanie_r_ruskay": 181,
+        "scattered": 0
+      },
+      "total": 439,
+      "winnerId": "eli_northrup",
+      "margin": 17.5,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69/039": {
+      "votes": {
+        "eli_northrup": 358,
+        "stephanie_r_ruskay": 163,
+        "scattered": 0
+      },
+      "total": 521,
+      "winnerId": "eli_northrup",
+      "margin": 37.4,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69/040": {
+      "votes": {
+        "eli_northrup": 214,
+        "stephanie_r_ruskay": 112,
+        "scattered": 2
+      },
+      "total": 328,
+      "winnerId": "eli_northrup",
+      "margin": 31.1,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69/041": {
+      "votes": {
+        "eli_northrup": 416,
+        "stephanie_r_ruskay": 212,
+        "scattered": 0
+      },
+      "total": 628,
+      "winnerId": "eli_northrup",
+      "margin": 32.5,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69/042": {
+      "votes": {
+        "eli_northrup": 374,
+        "stephanie_r_ruskay": 213,
+        "scattered": 3
+      },
+      "total": 590,
+      "winnerId": "eli_northrup",
+      "margin": 27.3,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69/043": {
+      "votes": {
+        "eli_northrup": 320,
+        "stephanie_r_ruskay": 224,
+        "scattered": 0
+      },
+      "total": 544,
+      "winnerId": "eli_northrup",
+      "margin": 17.6,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69/044": {
+      "votes": {
+        "eli_northrup": 162,
+        "stephanie_r_ruskay": 75,
+        "scattered": 0
+      },
+      "total": 237,
+      "winnerId": "eli_northrup",
+      "margin": 36.7,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69/045": {
+      "votes": {
+        "eli_northrup": 384,
+        "stephanie_r_ruskay": 259,
+        "scattered": 1
+      },
+      "total": 644,
+      "winnerId": "eli_northrup",
+      "margin": 19.4,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69/046": {
+      "votes": {
+        "eli_northrup": 270,
+        "stephanie_r_ruskay": 189,
+        "scattered": 0
+      },
+      "total": 459,
+      "winnerId": "eli_northrup",
+      "margin": 17.6,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69/047": {
+      "votes": {
+        "eli_northrup": 207,
+        "stephanie_r_ruskay": 175,
+        "scattered": 1
+      },
+      "total": 383,
+      "winnerId": "eli_northrup",
+      "margin": 8.4,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69/048": {
+      "votes": {
+        "eli_northrup": 242,
+        "stephanie_r_ruskay": 240,
+        "scattered": 3
+      },
+      "total": 485,
+      "winnerId": "eli_northrup",
+      "margin": 0.4,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69/049": {
+      "votes": {
+        "eli_northrup": 155,
+        "stephanie_r_ruskay": 103,
+        "scattered": 1
+      },
+      "total": 259,
+      "winnerId": "eli_northrup",
+      "margin": 20.1,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69/050": {
+      "votes": {
+        "eli_northrup": 278,
+        "stephanie_r_ruskay": 229,
+        "scattered": 1
+      },
+      "total": 508,
+      "winnerId": "eli_northrup",
+      "margin": 9.6,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69/051": {
+      "votes": {
+        "eli_northrup": 189,
+        "stephanie_r_ruskay": 153,
+        "scattered": 0
+      },
+      "total": 342,
+      "winnerId": "eli_northrup",
+      "margin": 10.5,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69/052": {
+      "votes": {
+        "eli_northrup": 298,
+        "stephanie_r_ruskay": 192,
+        "scattered": 0
+      },
+      "total": 490,
+      "winnerId": "eli_northrup",
+      "margin": 21.6,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69/053": {
+      "votes": {
+        "eli_northrup": 138,
+        "stephanie_r_ruskay": 196,
+        "scattered": 0
+      },
+      "total": 334,
+      "winnerId": "stephanie_r_ruskay",
+      "margin": 17.4,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69/054": {
+      "votes": {
+        "eli_northrup": 179,
+        "stephanie_r_ruskay": 163,
+        "scattered": 1
+      },
+      "total": 343,
+      "winnerId": "eli_northrup",
+      "margin": 4.7,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69/055": {
+      "votes": {
+        "eli_northrup": 109,
+        "stephanie_r_ruskay": 73,
+        "scattered": 0
+      },
+      "total": 182,
+      "winnerId": "eli_northrup",
+      "margin": 19.8,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69/056": {
+      "votes": {
+        "eli_northrup": 172,
+        "stephanie_r_ruskay": 157,
+        "scattered": 0
+      },
+      "total": 329,
+      "winnerId": "eli_northrup",
+      "margin": 4.6,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69/057": {
+      "votes": {
+        "eli_northrup": 121,
+        "stephanie_r_ruskay": 107,
+        "scattered": 1
+      },
+      "total": 229,
+      "winnerId": "eli_northrup",
+      "margin": 6.1,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69/058": {
+      "votes": {
+        "eli_northrup": 261,
+        "stephanie_r_ruskay": 208,
+        "scattered": 0
+      },
+      "total": 469,
+      "winnerId": "eli_northrup",
+      "margin": 11.3,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69/059": {
+      "votes": {
+        "eli_northrup": 255,
+        "stephanie_r_ruskay": 190,
+        "scattered": 3
+      },
+      "total": 448,
+      "winnerId": "eli_northrup",
+      "margin": 14.5,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69/060": {
+      "votes": {
+        "eli_northrup": 225,
+        "stephanie_r_ruskay": 218,
+        "scattered": 1
+      },
+      "total": 444,
+      "winnerId": "eli_northrup",
+      "margin": 1.6,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69/061": {
+      "votes": {
+        "eli_northrup": 184,
+        "stephanie_r_ruskay": 139,
+        "scattered": 0
+      },
+      "total": 323,
+      "winnerId": "eli_northrup",
+      "margin": 13.9,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69/062": {
+      "votes": {
+        "eli_northrup": 138,
+        "stephanie_r_ruskay": 152,
+        "scattered": 0
+      },
+      "total": 290,
+      "winnerId": "stephanie_r_ruskay",
+      "margin": 4.8,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69/063": {
+      "votes": {
+        "eli_northrup": 116,
+        "stephanie_r_ruskay": 105,
+        "scattered": 0
+      },
+      "total": 221,
+      "winnerId": "eli_northrup",
+      "margin": 5,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69/064": {
+      "votes": {
+        "eli_northrup": 85,
+        "stephanie_r_ruskay": 70,
+        "scattered": 0
+      },
+      "total": 155,
+      "winnerId": "eli_northrup",
+      "margin": 9.7,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69/065": {
+      "votes": {
+        "eli_northrup": 133,
+        "stephanie_r_ruskay": 190,
+        "scattered": 1
+      },
+      "total": 324,
+      "winnerId": "stephanie_r_ruskay",
+      "margin": 17.6,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69/066": {
+      "votes": {
+        "eli_northrup": 227,
+        "stephanie_r_ruskay": 174,
+        "scattered": 3
+      },
+      "total": 404,
+      "winnerId": "eli_northrup",
+      "margin": 13.1,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69/067": {
+      "votes": {
+        "eli_northrup": 130,
+        "stephanie_r_ruskay": 137,
+        "scattered": 1
+      },
+      "total": 268,
+      "winnerId": "stephanie_r_ruskay",
+      "margin": 2.6,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69/068": {
+      "votes": {
+        "eli_northrup": 179,
+        "stephanie_r_ruskay": 154,
+        "scattered": 1
+      },
+      "total": 334,
+      "winnerId": "eli_northrup",
+      "margin": 7.5,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69/069": {
+      "votes": {
+        "eli_northrup": 157,
+        "stephanie_r_ruskay": 212,
+        "scattered": 1
+      },
+      "total": 370,
+      "winnerId": "stephanie_r_ruskay",
+      "margin": 14.9,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69/070": {
+      "votes": {
+        "eli_northrup": 160,
+        "stephanie_r_ruskay": 153,
+        "scattered": 0
+      },
+      "total": 313,
+      "winnerId": "eli_northrup",
+      "margin": 2.2,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69/071": {
+      "votes": {
+        "eli_northrup": 291,
+        "stephanie_r_ruskay": 215,
+        "scattered": 1
+      },
+      "total": 507,
+      "winnerId": "eli_northrup",
+      "margin": 15,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69/072": {
+      "votes": {
+        "eli_northrup": 162,
+        "stephanie_r_ruskay": 158,
+        "scattered": 1
+      },
+      "total": 321,
+      "winnerId": "eli_northrup",
+      "margin": 1.2,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69/073": {
+      "votes": {
+        "eli_northrup": 242,
+        "stephanie_r_ruskay": 252,
+        "scattered": 0
+      },
+      "total": 494,
+      "winnerId": "stephanie_r_ruskay",
+      "margin": 2,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69/074": {
+      "votes": {
+        "eli_northrup": 169,
+        "stephanie_r_ruskay": 130,
+        "scattered": 2
+      },
+      "total": 301,
+      "winnerId": "eli_northrup",
+      "margin": 13,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69/075": {
+      "votes": {
+        "eli_northrup": 131,
+        "stephanie_r_ruskay": 184,
+        "scattered": 4
+      },
+      "total": 319,
+      "winnerId": "stephanie_r_ruskay",
+      "margin": 16.6,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "69/076": {
+      "votes": {
+        "eli_northrup": 140,
+        "stephanie_r_ruskay": 99,
+        "scattered": 0
+      },
+      "total": 239,
+      "winnerId": "eli_northrup",
+      "margin": 17.2,
+      "candidates": [
+        {
+          "id": "eli_northrup",
+          "name": "Eli Northrup",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "stephanie_r_ruskay",
+          "name": "Stephanie R. Ruskay",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    }
+  }
+}

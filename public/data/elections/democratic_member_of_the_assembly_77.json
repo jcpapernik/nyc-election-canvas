@@ -1,0 +1,31 @@
+{
+  "id": "democratic_member_of_the_assembly_77",
+  "name": "2026 Primary - Member of the Assembly District 77",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "State Assembly",
+  "districtKey": "77",
+  "districtType": "assembly",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "landon_dais",
+      "name": "Landon Dais",
+      "party": "Democratic",
+      "isIncumbent": true,
+      "color": "#2563eb"
+    }
+  ],
+  "results": {
+    "77": {
+      "votes": {
+        "uncontested_primary_assembly_77": 0
+      },
+      "total": 0,
+      "winnerId": "uncontested_primary_assembly_77",
+      "margin": 100,
+      "isUncontested": true
+    }
+  },
+  "edResults": {}
+}

@@ -1,0 +1,260 @@
+{
+  "id": "democratic_county_committee_81023",
+  "name": "2026 Primary - County Committee District 81023",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "Judicial & Party Offices",
+  "districtKey": "81023",
+  "districtType": "congressional",
+  "isUncontested": false,
+  "candidates": [
+    {
+      "id": "abigail_martin",
+      "name": "Abigail Martin",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#d97706"
+    },
+    {
+      "id": "martin_oneill",
+      "name": "Martin ONeill",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#7c3aed"
+    },
+    {
+      "id": "stephen_friedman",
+      "name": "Stephen Friedman",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#059669"
+    },
+    {
+      "id": "constance_kaplan",
+      "name": "Constance Kaplan",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#0891b2"
+    },
+    {
+      "id": "elisha_ignatoff",
+      "name": "Elisha Ignatoff",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#4f46e5"
+    },
+    {
+      "id": "andrew_leftt",
+      "name": "Andrew Leftt",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#db2777"
+    },
+    {
+      "id": "scattered",
+      "name": "Scattered",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#64748b"
+    }
+  ],
+  "results": {
+    "81023": {
+      "votes": {
+        "abigail_martin": 151,
+        "martin_oneill": 120,
+        "stephen_friedman": 109,
+        "constance_kaplan": 34,
+        "elisha_ignatoff": 25,
+        "andrew_leftt": 16,
+        "scattered": 3
+      },
+      "total": 458,
+      "winnerId": "abigail_martin",
+      "margin": 6.8,
+      "candidates": [
+        {
+          "id": "abigail_martin",
+          "name": "Abigail Martin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "martin_oneill",
+          "name": "Martin ONeill",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stephen_friedman",
+          "name": "Stephen Friedman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "constance_kaplan",
+          "name": "Constance Kaplan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "elisha_ignatoff",
+          "name": "Elisha Ignatoff",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "andrew_leftt",
+          "name": "Andrew Leftt",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#64748b"
+        }
+      ]
+    }
+  },
+  "edResults": {
+    "81023": {
+      "votes": {
+        "abigail_martin": 151,
+        "martin_oneill": 120,
+        "stephen_friedman": 109,
+        "constance_kaplan": 34,
+        "elisha_ignatoff": 25,
+        "andrew_leftt": 16,
+        "scattered": 3
+      },
+      "total": 458,
+      "winnerId": "abigail_martin",
+      "margin": 6.8,
+      "candidates": [
+        {
+          "id": "abigail_martin",
+          "name": "Abigail Martin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "martin_oneill",
+          "name": "Martin ONeill",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stephen_friedman",
+          "name": "Stephen Friedman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "constance_kaplan",
+          "name": "Constance Kaplan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "elisha_ignatoff",
+          "name": "Elisha Ignatoff",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "andrew_leftt",
+          "name": "Andrew Leftt",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#64748b"
+        }
+      ]
+    },
+    "81/023": {
+      "votes": {
+        "abigail_martin": 151,
+        "martin_oneill": 120,
+        "stephen_friedman": 109,
+        "constance_kaplan": 34,
+        "elisha_ignatoff": 25,
+        "andrew_leftt": 16,
+        "scattered": 3
+      },
+      "total": 458,
+      "winnerId": "abigail_martin",
+      "margin": 6.8,
+      "candidates": [
+        {
+          "id": "abigail_martin",
+          "name": "Abigail Martin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "martin_oneill",
+          "name": "Martin ONeill",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "stephen_friedman",
+          "name": "Stephen Friedman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "constance_kaplan",
+          "name": "Constance Kaplan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "elisha_ignatoff",
+          "name": "Elisha Ignatoff",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "andrew_leftt",
+          "name": "Andrew Leftt",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#64748b"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "democratic_state_senator_28",
+  "name": "2026 Primary - State Senator District 28",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "State Senate",
+  "districtKey": "28",
+  "districtType": "senate",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "liz_krueger",
+      "name": "Liz Krueger",
+      "party": "Democratic",
+      "isIncumbent": true,
+      "color": "#2563eb"
+    }
+  ],
+  "results": {
+    "28": {
+      "votes": {
+        "uncontested_primary_senate_28": 0
+      },
+      "total": 0,
+      "winnerId": "uncontested_primary_senate_28",
+      "margin": 100,
+      "isUncontested": true
+    }
+  },
+  "edResults": {}
+}

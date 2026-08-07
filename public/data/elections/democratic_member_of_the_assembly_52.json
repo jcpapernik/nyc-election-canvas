@@ -1,0 +1,5944 @@
+{
+  "id": "democratic_member_of_the_assembly_52",
+  "name": "2026 Primary - Member of the Assembly District 52",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "NY State Assembly",
+  "districtKey": "52",
+  "districtType": "assembly",
+  "isUncontested": false,
+  "candidates": [
+    {
+      "id": "jo_anne_simon",
+      "name": "Jo Anne Simon",
+      "party": "Democratic",
+      "isIncumbent": true,
+      "color": "#d97706"
+    },
+    {
+      "id": "lydia_bella_green",
+      "name": "Lydia Bella Green",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#7c3aed"
+    },
+    {
+      "id": "scattered",
+      "name": "Scattered",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#059669"
+    }
+  ],
+  "results": {
+    "52": {
+      "votes": {
+        "jo_anne_simon": 18259,
+        "lydia_bella_green": 7333,
+        "scattered": 124
+      },
+      "total": 25716,
+      "winnerId": "jo_anne_simon",
+      "margin": 42.5,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    }
+  },
+  "edResults": {
+    "52001": {
+      "votes": {
+        "jo_anne_simon": 33,
+        "lydia_bella_green": 22,
+        "scattered": 14
+      },
+      "total": 69,
+      "winnerId": "jo_anne_simon",
+      "margin": 15.9,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52002": {
+      "votes": {
+        "jo_anne_simon": 103,
+        "lydia_bella_green": 81,
+        "scattered": 3
+      },
+      "total": 187,
+      "winnerId": "jo_anne_simon",
+      "margin": 11.8,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52003": {
+      "votes": {
+        "jo_anne_simon": 21,
+        "lydia_bella_green": 24,
+        "scattered": 0
+      },
+      "total": 45,
+      "winnerId": "lydia_bella_green",
+      "margin": 6.7,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52005": {
+      "votes": {
+        "jo_anne_simon": 85,
+        "lydia_bella_green": 49,
+        "scattered": 0
+      },
+      "total": 134,
+      "winnerId": "jo_anne_simon",
+      "margin": 26.9,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52006": {
+      "votes": {
+        "jo_anne_simon": 130,
+        "lydia_bella_green": 55,
+        "scattered": 1
+      },
+      "total": 186,
+      "winnerId": "jo_anne_simon",
+      "margin": 40.3,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52007": {
+      "votes": {
+        "jo_anne_simon": 125,
+        "lydia_bella_green": 46,
+        "scattered": 4
+      },
+      "total": 175,
+      "winnerId": "jo_anne_simon",
+      "margin": 45.1,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52008": {
+      "votes": {
+        "jo_anne_simon": 125,
+        "lydia_bella_green": 33,
+        "scattered": 0
+      },
+      "total": 158,
+      "winnerId": "jo_anne_simon",
+      "margin": 58.2,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52009": {
+      "votes": {
+        "jo_anne_simon": 243,
+        "lydia_bella_green": 58,
+        "scattered": 1
+      },
+      "total": 302,
+      "winnerId": "jo_anne_simon",
+      "margin": 61.3,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52010": {
+      "votes": {
+        "jo_anne_simon": 363,
+        "lydia_bella_green": 93,
+        "scattered": 3
+      },
+      "total": 459,
+      "winnerId": "jo_anne_simon",
+      "margin": 58.8,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52011": {
+      "votes": {
+        "jo_anne_simon": 115,
+        "lydia_bella_green": 90,
+        "scattered": 0
+      },
+      "total": 205,
+      "winnerId": "jo_anne_simon",
+      "margin": 12.2,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52012": {
+      "votes": {
+        "jo_anne_simon": 155,
+        "lydia_bella_green": 87,
+        "scattered": 2
+      },
+      "total": 244,
+      "winnerId": "jo_anne_simon",
+      "margin": 27.9,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52013": {
+      "votes": {
+        "jo_anne_simon": 10,
+        "lydia_bella_green": 14,
+        "scattered": 1
+      },
+      "total": 25,
+      "winnerId": "lydia_bella_green",
+      "margin": 16,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52014": {
+      "votes": {
+        "jo_anne_simon": 251,
+        "lydia_bella_green": 56,
+        "scattered": 2
+      },
+      "total": 309,
+      "winnerId": "jo_anne_simon",
+      "margin": 63.1,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52015": {
+      "votes": {
+        "jo_anne_simon": 301,
+        "lydia_bella_green": 58,
+        "scattered": 0
+      },
+      "total": 359,
+      "winnerId": "jo_anne_simon",
+      "margin": 67.7,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52016": {
+      "votes": {
+        "jo_anne_simon": 316,
+        "lydia_bella_green": 78,
+        "scattered": 2
+      },
+      "total": 396,
+      "winnerId": "jo_anne_simon",
+      "margin": 60.1,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52017": {
+      "votes": {
+        "jo_anne_simon": 357,
+        "lydia_bella_green": 63,
+        "scattered": 1
+      },
+      "total": 421,
+      "winnerId": "jo_anne_simon",
+      "margin": 69.8,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52018": {
+      "votes": {
+        "jo_anne_simon": 341,
+        "lydia_bella_green": 65,
+        "scattered": 2
+      },
+      "total": 408,
+      "winnerId": "jo_anne_simon",
+      "margin": 67.6,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52019": {
+      "votes": {
+        "jo_anne_simon": 117,
+        "lydia_bella_green": 56,
+        "scattered": 0
+      },
+      "total": 173,
+      "winnerId": "jo_anne_simon",
+      "margin": 35.3,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52020": {
+      "votes": {
+        "jo_anne_simon": 306,
+        "lydia_bella_green": 71,
+        "scattered": 0
+      },
+      "total": 377,
+      "winnerId": "jo_anne_simon",
+      "margin": 62.3,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52021": {
+      "votes": {
+        "jo_anne_simon": 271,
+        "lydia_bella_green": 119,
+        "scattered": 3
+      },
+      "total": 393,
+      "winnerId": "jo_anne_simon",
+      "margin": 38.7,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52022": {
+      "votes": {
+        "jo_anne_simon": 326,
+        "lydia_bella_green": 91,
+        "scattered": 2
+      },
+      "total": 419,
+      "winnerId": "jo_anne_simon",
+      "margin": 56.1,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52023": {
+      "votes": {
+        "jo_anne_simon": 258,
+        "lydia_bella_green": 85,
+        "scattered": 1
+      },
+      "total": 344,
+      "winnerId": "jo_anne_simon",
+      "margin": 50.3,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52024": {
+      "votes": {
+        "jo_anne_simon": 216,
+        "lydia_bella_green": 58,
+        "scattered": 0
+      },
+      "total": 274,
+      "winnerId": "jo_anne_simon",
+      "margin": 57.7,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52025": {
+      "votes": {
+        "jo_anne_simon": 318,
+        "lydia_bella_green": 103,
+        "scattered": 2
+      },
+      "total": 423,
+      "winnerId": "jo_anne_simon",
+      "margin": 50.8,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52026": {
+      "votes": {
+        "jo_anne_simon": 186,
+        "lydia_bella_green": 69,
+        "scattered": 0
+      },
+      "total": 255,
+      "winnerId": "jo_anne_simon",
+      "margin": 45.9,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52027": {
+      "votes": {
+        "jo_anne_simon": 60,
+        "lydia_bella_green": 44,
+        "scattered": 0
+      },
+      "total": 104,
+      "winnerId": "jo_anne_simon",
+      "margin": 15.4,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52028": {
+      "votes": {
+        "jo_anne_simon": 164,
+        "lydia_bella_green": 81,
+        "scattered": 1
+      },
+      "total": 246,
+      "winnerId": "jo_anne_simon",
+      "margin": 33.7,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52029": {
+      "votes": {
+        "jo_anne_simon": 167,
+        "lydia_bella_green": 102,
+        "scattered": 3
+      },
+      "total": 272,
+      "winnerId": "jo_anne_simon",
+      "margin": 23.9,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52030": {
+      "votes": {
+        "jo_anne_simon": 125,
+        "lydia_bella_green": 91,
+        "scattered": 0
+      },
+      "total": 216,
+      "winnerId": "jo_anne_simon",
+      "margin": 15.7,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52031": {
+      "votes": {
+        "jo_anne_simon": 180,
+        "lydia_bella_green": 62,
+        "scattered": 0
+      },
+      "total": 242,
+      "winnerId": "jo_anne_simon",
+      "margin": 48.8,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52032": {
+      "votes": {
+        "jo_anne_simon": 297,
+        "lydia_bella_green": 88,
+        "scattered": 0
+      },
+      "total": 385,
+      "winnerId": "jo_anne_simon",
+      "margin": 54.3,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52033": {
+      "votes": {
+        "jo_anne_simon": 69,
+        "lydia_bella_green": 45,
+        "scattered": 0
+      },
+      "total": 114,
+      "winnerId": "jo_anne_simon",
+      "margin": 21.1,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52034": {
+      "votes": {
+        "jo_anne_simon": 233,
+        "lydia_bella_green": 90,
+        "scattered": 4
+      },
+      "total": 327,
+      "winnerId": "jo_anne_simon",
+      "margin": 43.7,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52035": {
+      "votes": {
+        "jo_anne_simon": 187,
+        "lydia_bella_green": 65,
+        "scattered": 0
+      },
+      "total": 252,
+      "winnerId": "jo_anne_simon",
+      "margin": 48.4,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52036": {
+      "votes": {
+        "jo_anne_simon": 222,
+        "lydia_bella_green": 99,
+        "scattered": 1
+      },
+      "total": 322,
+      "winnerId": "jo_anne_simon",
+      "margin": 38.2,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52037": {
+      "votes": {
+        "jo_anne_simon": 172,
+        "lydia_bella_green": 97,
+        "scattered": 3
+      },
+      "total": 272,
+      "winnerId": "jo_anne_simon",
+      "margin": 27.6,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52038": {
+      "votes": {
+        "jo_anne_simon": 116,
+        "lydia_bella_green": 47,
+        "scattered": 0
+      },
+      "total": 163,
+      "winnerId": "jo_anne_simon",
+      "margin": 42.3,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52039": {
+      "votes": {
+        "jo_anne_simon": 240,
+        "lydia_bella_green": 78,
+        "scattered": 2
+      },
+      "total": 320,
+      "winnerId": "jo_anne_simon",
+      "margin": 50.6,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52040": {
+      "votes": {
+        "jo_anne_simon": 270,
+        "lydia_bella_green": 108,
+        "scattered": 1
+      },
+      "total": 379,
+      "winnerId": "jo_anne_simon",
+      "margin": 42.7,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52041": {
+      "votes": {
+        "jo_anne_simon": 250,
+        "lydia_bella_green": 87,
+        "scattered": 0
+      },
+      "total": 337,
+      "winnerId": "jo_anne_simon",
+      "margin": 48.4,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52042": {
+      "votes": {
+        "jo_anne_simon": 271,
+        "lydia_bella_green": 113,
+        "scattered": 3
+      },
+      "total": 387,
+      "winnerId": "jo_anne_simon",
+      "margin": 40.8,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52043": {
+      "votes": {
+        "jo_anne_simon": 184,
+        "lydia_bella_green": 84,
+        "scattered": 0
+      },
+      "total": 268,
+      "winnerId": "jo_anne_simon",
+      "margin": 37.3,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52044": {
+      "votes": {
+        "jo_anne_simon": 215,
+        "lydia_bella_green": 77,
+        "scattered": 2
+      },
+      "total": 294,
+      "winnerId": "jo_anne_simon",
+      "margin": 46.9,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52045": {
+      "votes": {
+        "jo_anne_simon": 217,
+        "lydia_bella_green": 96,
+        "scattered": 1
+      },
+      "total": 314,
+      "winnerId": "jo_anne_simon",
+      "margin": 38.5,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52046": {
+      "votes": {
+        "jo_anne_simon": 261,
+        "lydia_bella_green": 52,
+        "scattered": 0
+      },
+      "total": 313,
+      "winnerId": "jo_anne_simon",
+      "margin": 66.8,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52047": {
+      "votes": {
+        "jo_anne_simon": 260,
+        "lydia_bella_green": 106,
+        "scattered": 2
+      },
+      "total": 368,
+      "winnerId": "jo_anne_simon",
+      "margin": 41.8,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52048": {
+      "votes": {
+        "jo_anne_simon": 248,
+        "lydia_bella_green": 83,
+        "scattered": 0
+      },
+      "total": 331,
+      "winnerId": "jo_anne_simon",
+      "margin": 49.8,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52049": {
+      "votes": {
+        "jo_anne_simon": 270,
+        "lydia_bella_green": 97,
+        "scattered": 2
+      },
+      "total": 369,
+      "winnerId": "jo_anne_simon",
+      "margin": 46.9,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52050": {
+      "votes": {
+        "jo_anne_simon": 286,
+        "lydia_bella_green": 125,
+        "scattered": 1
+      },
+      "total": 412,
+      "winnerId": "jo_anne_simon",
+      "margin": 39.1,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52051": {
+      "votes": {
+        "jo_anne_simon": 93,
+        "lydia_bella_green": 43,
+        "scattered": 0
+      },
+      "total": 136,
+      "winnerId": "jo_anne_simon",
+      "margin": 36.8,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52052": {
+      "votes": {
+        "jo_anne_simon": 205,
+        "lydia_bella_green": 100,
+        "scattered": 0
+      },
+      "total": 305,
+      "winnerId": "jo_anne_simon",
+      "margin": 34.4,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52053": {
+      "votes": {
+        "jo_anne_simon": 159,
+        "lydia_bella_green": 80,
+        "scattered": 2
+      },
+      "total": 241,
+      "winnerId": "jo_anne_simon",
+      "margin": 32.8,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52054": {
+      "votes": {
+        "jo_anne_simon": 209,
+        "lydia_bella_green": 118,
+        "scattered": 2
+      },
+      "total": 329,
+      "winnerId": "jo_anne_simon",
+      "margin": 27.7,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52055": {
+      "votes": {
+        "jo_anne_simon": 54,
+        "lydia_bella_green": 10,
+        "scattered": 0
+      },
+      "total": 64,
+      "winnerId": "jo_anne_simon",
+      "margin": 68.8,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52056": {
+      "votes": {
+        "jo_anne_simon": 43,
+        "lydia_bella_green": 12,
+        "scattered": 0
+      },
+      "total": 55,
+      "winnerId": "jo_anne_simon",
+      "margin": 56.4,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52057": {
+      "votes": {
+        "jo_anne_simon": 199,
+        "lydia_bella_green": 84,
+        "scattered": 1
+      },
+      "total": 284,
+      "winnerId": "jo_anne_simon",
+      "margin": 40.5,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52058": {
+      "votes": {
+        "jo_anne_simon": 89,
+        "lydia_bella_green": 65,
+        "scattered": 0
+      },
+      "total": 154,
+      "winnerId": "jo_anne_simon",
+      "margin": 15.6,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52059": {
+      "votes": {
+        "jo_anne_simon": 114,
+        "lydia_bella_green": 71,
+        "scattered": 1
+      },
+      "total": 186,
+      "winnerId": "jo_anne_simon",
+      "margin": 23.1,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52060": {
+      "votes": {
+        "jo_anne_simon": 175,
+        "lydia_bella_green": 130,
+        "scattered": 1
+      },
+      "total": 306,
+      "winnerId": "jo_anne_simon",
+      "margin": 14.7,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52061": {
+      "votes": {
+        "jo_anne_simon": 280,
+        "lydia_bella_green": 128,
+        "scattered": 2
+      },
+      "total": 410,
+      "winnerId": "jo_anne_simon",
+      "margin": 37.1,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52062": {
+      "votes": {
+        "jo_anne_simon": 194,
+        "lydia_bella_green": 147,
+        "scattered": 4
+      },
+      "total": 345,
+      "winnerId": "jo_anne_simon",
+      "margin": 13.6,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52063": {
+      "votes": {
+        "jo_anne_simon": 254,
+        "lydia_bella_green": 93,
+        "scattered": 3
+      },
+      "total": 350,
+      "winnerId": "jo_anne_simon",
+      "margin": 46,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52064": {
+      "votes": {
+        "jo_anne_simon": 175,
+        "lydia_bella_green": 143,
+        "scattered": 3
+      },
+      "total": 321,
+      "winnerId": "jo_anne_simon",
+      "margin": 10,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52065": {
+      "votes": {
+        "jo_anne_simon": 283,
+        "lydia_bella_green": 103,
+        "scattered": 1
+      },
+      "total": 387,
+      "winnerId": "jo_anne_simon",
+      "margin": 46.5,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52066": {
+      "votes": {
+        "jo_anne_simon": 279,
+        "lydia_bella_green": 128,
+        "scattered": 1
+      },
+      "total": 408,
+      "winnerId": "jo_anne_simon",
+      "margin": 37,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52067": {
+      "votes": {
+        "jo_anne_simon": 257,
+        "lydia_bella_green": 160,
+        "scattered": 0
+      },
+      "total": 417,
+      "winnerId": "jo_anne_simon",
+      "margin": 23.3,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52068": {
+      "votes": {
+        "jo_anne_simon": 244,
+        "lydia_bella_green": 136,
+        "scattered": 5
+      },
+      "total": 385,
+      "winnerId": "jo_anne_simon",
+      "margin": 28.1,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52069": {
+      "votes": {
+        "jo_anne_simon": 251,
+        "lydia_bella_green": 164,
+        "scattered": 1
+      },
+      "total": 416,
+      "winnerId": "jo_anne_simon",
+      "margin": 20.9,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52070": {
+      "votes": {
+        "jo_anne_simon": 80,
+        "lydia_bella_green": 30,
+        "scattered": 1
+      },
+      "total": 111,
+      "winnerId": "jo_anne_simon",
+      "margin": 45,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52071": {
+      "votes": {
+        "jo_anne_simon": 207,
+        "lydia_bella_green": 116,
+        "scattered": 1
+      },
+      "total": 324,
+      "winnerId": "jo_anne_simon",
+      "margin": 28.1,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52072": {
+      "votes": {
+        "jo_anne_simon": 109,
+        "lydia_bella_green": 52,
+        "scattered": 0
+      },
+      "total": 161,
+      "winnerId": "jo_anne_simon",
+      "margin": 35.4,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52073": {
+      "votes": {
+        "jo_anne_simon": 214,
+        "lydia_bella_green": 147,
+        "scattered": 1
+      },
+      "total": 362,
+      "winnerId": "jo_anne_simon",
+      "margin": 18.5,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52074": {
+      "votes": {
+        "jo_anne_simon": 18,
+        "lydia_bella_green": 15,
+        "scattered": 0
+      },
+      "total": 33,
+      "winnerId": "jo_anne_simon",
+      "margin": 9.1,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52075": {
+      "votes": {
+        "jo_anne_simon": 217,
+        "lydia_bella_green": 97,
+        "scattered": 1
+      },
+      "total": 315,
+      "winnerId": "jo_anne_simon",
+      "margin": 38.1,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52076": {
+      "votes": {
+        "jo_anne_simon": 265,
+        "lydia_bella_green": 82,
+        "scattered": 0
+      },
+      "total": 347,
+      "winnerId": "jo_anne_simon",
+      "margin": 52.7,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52077": {
+      "votes": {
+        "jo_anne_simon": 372,
+        "lydia_bella_green": 125,
+        "scattered": 3
+      },
+      "total": 500,
+      "winnerId": "jo_anne_simon",
+      "margin": 49.4,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52078": {
+      "votes": {
+        "jo_anne_simon": 158,
+        "lydia_bella_green": 31,
+        "scattered": 1
+      },
+      "total": 190,
+      "winnerId": "jo_anne_simon",
+      "margin": 66.8,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52079": {
+      "votes": {
+        "jo_anne_simon": 318,
+        "lydia_bella_green": 104,
+        "scattered": 5
+      },
+      "total": 427,
+      "winnerId": "jo_anne_simon",
+      "margin": 50.1,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52080": {
+      "votes": {
+        "jo_anne_simon": 393,
+        "lydia_bella_green": 121,
+        "scattered": 2
+      },
+      "total": 516,
+      "winnerId": "jo_anne_simon",
+      "margin": 52.7,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52081": {
+      "votes": {
+        "jo_anne_simon": 371,
+        "lydia_bella_green": 151,
+        "scattered": 0
+      },
+      "total": 522,
+      "winnerId": "jo_anne_simon",
+      "margin": 42.1,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52082": {
+      "votes": {
+        "jo_anne_simon": 361,
+        "lydia_bella_green": 123,
+        "scattered": 5
+      },
+      "total": 489,
+      "winnerId": "jo_anne_simon",
+      "margin": 48.7,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52083": {
+      "votes": {
+        "jo_anne_simon": 431,
+        "lydia_bella_green": 119,
+        "scattered": 2
+      },
+      "total": 552,
+      "winnerId": "jo_anne_simon",
+      "margin": 56.5,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52084": {
+      "votes": {
+        "jo_anne_simon": 409,
+        "lydia_bella_green": 170,
+        "scattered": 3
+      },
+      "total": 582,
+      "winnerId": "jo_anne_simon",
+      "margin": 41.1,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52085": {
+      "votes": {
+        "jo_anne_simon": 357,
+        "lydia_bella_green": 135,
+        "scattered": 2
+      },
+      "total": 494,
+      "winnerId": "jo_anne_simon",
+      "margin": 44.9,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52086": {
+      "votes": {
+        "jo_anne_simon": 176,
+        "lydia_bella_green": 104,
+        "scattered": 0
+      },
+      "total": 280,
+      "winnerId": "jo_anne_simon",
+      "margin": 25.7,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52087": {
+      "votes": {
+        "jo_anne_simon": 0,
+        "lydia_bella_green": 1,
+        "scattered": 0
+      },
+      "total": 1,
+      "winnerId": "lydia_bella_green",
+      "margin": 100,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52088": {
+      "votes": {
+        "jo_anne_simon": 210,
+        "lydia_bella_green": 54,
+        "scattered": 0
+      },
+      "total": 264,
+      "winnerId": "jo_anne_simon",
+      "margin": 59.1,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52090": {
+      "votes": {
+        "jo_anne_simon": 0,
+        "lydia_bella_green": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "jo_anne_simon",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52096": {
+      "votes": {
+        "jo_anne_simon": 0,
+        "lydia_bella_green": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "jo_anne_simon",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/001": {
+      "votes": {
+        "jo_anne_simon": 33,
+        "lydia_bella_green": 22,
+        "scattered": 14
+      },
+      "total": 69,
+      "winnerId": "jo_anne_simon",
+      "margin": 15.9,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/002": {
+      "votes": {
+        "jo_anne_simon": 103,
+        "lydia_bella_green": 81,
+        "scattered": 3
+      },
+      "total": 187,
+      "winnerId": "jo_anne_simon",
+      "margin": 11.8,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/003": {
+      "votes": {
+        "jo_anne_simon": 21,
+        "lydia_bella_green": 24,
+        "scattered": 0
+      },
+      "total": 45,
+      "winnerId": "lydia_bella_green",
+      "margin": 6.7,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/005": {
+      "votes": {
+        "jo_anne_simon": 85,
+        "lydia_bella_green": 49,
+        "scattered": 0
+      },
+      "total": 134,
+      "winnerId": "jo_anne_simon",
+      "margin": 26.9,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/006": {
+      "votes": {
+        "jo_anne_simon": 130,
+        "lydia_bella_green": 55,
+        "scattered": 1
+      },
+      "total": 186,
+      "winnerId": "jo_anne_simon",
+      "margin": 40.3,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/007": {
+      "votes": {
+        "jo_anne_simon": 125,
+        "lydia_bella_green": 46,
+        "scattered": 4
+      },
+      "total": 175,
+      "winnerId": "jo_anne_simon",
+      "margin": 45.1,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/008": {
+      "votes": {
+        "jo_anne_simon": 125,
+        "lydia_bella_green": 33,
+        "scattered": 0
+      },
+      "total": 158,
+      "winnerId": "jo_anne_simon",
+      "margin": 58.2,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/009": {
+      "votes": {
+        "jo_anne_simon": 243,
+        "lydia_bella_green": 58,
+        "scattered": 1
+      },
+      "total": 302,
+      "winnerId": "jo_anne_simon",
+      "margin": 61.3,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/010": {
+      "votes": {
+        "jo_anne_simon": 363,
+        "lydia_bella_green": 93,
+        "scattered": 3
+      },
+      "total": 459,
+      "winnerId": "jo_anne_simon",
+      "margin": 58.8,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/011": {
+      "votes": {
+        "jo_anne_simon": 115,
+        "lydia_bella_green": 90,
+        "scattered": 0
+      },
+      "total": 205,
+      "winnerId": "jo_anne_simon",
+      "margin": 12.2,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/012": {
+      "votes": {
+        "jo_anne_simon": 155,
+        "lydia_bella_green": 87,
+        "scattered": 2
+      },
+      "total": 244,
+      "winnerId": "jo_anne_simon",
+      "margin": 27.9,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/013": {
+      "votes": {
+        "jo_anne_simon": 10,
+        "lydia_bella_green": 14,
+        "scattered": 1
+      },
+      "total": 25,
+      "winnerId": "lydia_bella_green",
+      "margin": 16,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/014": {
+      "votes": {
+        "jo_anne_simon": 251,
+        "lydia_bella_green": 56,
+        "scattered": 2
+      },
+      "total": 309,
+      "winnerId": "jo_anne_simon",
+      "margin": 63.1,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/015": {
+      "votes": {
+        "jo_anne_simon": 301,
+        "lydia_bella_green": 58,
+        "scattered": 0
+      },
+      "total": 359,
+      "winnerId": "jo_anne_simon",
+      "margin": 67.7,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/016": {
+      "votes": {
+        "jo_anne_simon": 316,
+        "lydia_bella_green": 78,
+        "scattered": 2
+      },
+      "total": 396,
+      "winnerId": "jo_anne_simon",
+      "margin": 60.1,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/017": {
+      "votes": {
+        "jo_anne_simon": 357,
+        "lydia_bella_green": 63,
+        "scattered": 1
+      },
+      "total": 421,
+      "winnerId": "jo_anne_simon",
+      "margin": 69.8,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/018": {
+      "votes": {
+        "jo_anne_simon": 341,
+        "lydia_bella_green": 65,
+        "scattered": 2
+      },
+      "total": 408,
+      "winnerId": "jo_anne_simon",
+      "margin": 67.6,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/019": {
+      "votes": {
+        "jo_anne_simon": 117,
+        "lydia_bella_green": 56,
+        "scattered": 0
+      },
+      "total": 173,
+      "winnerId": "jo_anne_simon",
+      "margin": 35.3,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/020": {
+      "votes": {
+        "jo_anne_simon": 306,
+        "lydia_bella_green": 71,
+        "scattered": 0
+      },
+      "total": 377,
+      "winnerId": "jo_anne_simon",
+      "margin": 62.3,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/021": {
+      "votes": {
+        "jo_anne_simon": 271,
+        "lydia_bella_green": 119,
+        "scattered": 3
+      },
+      "total": 393,
+      "winnerId": "jo_anne_simon",
+      "margin": 38.7,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/022": {
+      "votes": {
+        "jo_anne_simon": 326,
+        "lydia_bella_green": 91,
+        "scattered": 2
+      },
+      "total": 419,
+      "winnerId": "jo_anne_simon",
+      "margin": 56.1,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/023": {
+      "votes": {
+        "jo_anne_simon": 258,
+        "lydia_bella_green": 85,
+        "scattered": 1
+      },
+      "total": 344,
+      "winnerId": "jo_anne_simon",
+      "margin": 50.3,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/024": {
+      "votes": {
+        "jo_anne_simon": 216,
+        "lydia_bella_green": 58,
+        "scattered": 0
+      },
+      "total": 274,
+      "winnerId": "jo_anne_simon",
+      "margin": 57.7,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/025": {
+      "votes": {
+        "jo_anne_simon": 318,
+        "lydia_bella_green": 103,
+        "scattered": 2
+      },
+      "total": 423,
+      "winnerId": "jo_anne_simon",
+      "margin": 50.8,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/026": {
+      "votes": {
+        "jo_anne_simon": 186,
+        "lydia_bella_green": 69,
+        "scattered": 0
+      },
+      "total": 255,
+      "winnerId": "jo_anne_simon",
+      "margin": 45.9,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/027": {
+      "votes": {
+        "jo_anne_simon": 60,
+        "lydia_bella_green": 44,
+        "scattered": 0
+      },
+      "total": 104,
+      "winnerId": "jo_anne_simon",
+      "margin": 15.4,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/028": {
+      "votes": {
+        "jo_anne_simon": 164,
+        "lydia_bella_green": 81,
+        "scattered": 1
+      },
+      "total": 246,
+      "winnerId": "jo_anne_simon",
+      "margin": 33.7,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/029": {
+      "votes": {
+        "jo_anne_simon": 167,
+        "lydia_bella_green": 102,
+        "scattered": 3
+      },
+      "total": 272,
+      "winnerId": "jo_anne_simon",
+      "margin": 23.9,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/030": {
+      "votes": {
+        "jo_anne_simon": 125,
+        "lydia_bella_green": 91,
+        "scattered": 0
+      },
+      "total": 216,
+      "winnerId": "jo_anne_simon",
+      "margin": 15.7,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/031": {
+      "votes": {
+        "jo_anne_simon": 180,
+        "lydia_bella_green": 62,
+        "scattered": 0
+      },
+      "total": 242,
+      "winnerId": "jo_anne_simon",
+      "margin": 48.8,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/032": {
+      "votes": {
+        "jo_anne_simon": 297,
+        "lydia_bella_green": 88,
+        "scattered": 0
+      },
+      "total": 385,
+      "winnerId": "jo_anne_simon",
+      "margin": 54.3,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/033": {
+      "votes": {
+        "jo_anne_simon": 69,
+        "lydia_bella_green": 45,
+        "scattered": 0
+      },
+      "total": 114,
+      "winnerId": "jo_anne_simon",
+      "margin": 21.1,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/034": {
+      "votes": {
+        "jo_anne_simon": 233,
+        "lydia_bella_green": 90,
+        "scattered": 4
+      },
+      "total": 327,
+      "winnerId": "jo_anne_simon",
+      "margin": 43.7,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/035": {
+      "votes": {
+        "jo_anne_simon": 187,
+        "lydia_bella_green": 65,
+        "scattered": 0
+      },
+      "total": 252,
+      "winnerId": "jo_anne_simon",
+      "margin": 48.4,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/036": {
+      "votes": {
+        "jo_anne_simon": 222,
+        "lydia_bella_green": 99,
+        "scattered": 1
+      },
+      "total": 322,
+      "winnerId": "jo_anne_simon",
+      "margin": 38.2,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/037": {
+      "votes": {
+        "jo_anne_simon": 172,
+        "lydia_bella_green": 97,
+        "scattered": 3
+      },
+      "total": 272,
+      "winnerId": "jo_anne_simon",
+      "margin": 27.6,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/038": {
+      "votes": {
+        "jo_anne_simon": 116,
+        "lydia_bella_green": 47,
+        "scattered": 0
+      },
+      "total": 163,
+      "winnerId": "jo_anne_simon",
+      "margin": 42.3,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/039": {
+      "votes": {
+        "jo_anne_simon": 240,
+        "lydia_bella_green": 78,
+        "scattered": 2
+      },
+      "total": 320,
+      "winnerId": "jo_anne_simon",
+      "margin": 50.6,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/040": {
+      "votes": {
+        "jo_anne_simon": 270,
+        "lydia_bella_green": 108,
+        "scattered": 1
+      },
+      "total": 379,
+      "winnerId": "jo_anne_simon",
+      "margin": 42.7,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/041": {
+      "votes": {
+        "jo_anne_simon": 250,
+        "lydia_bella_green": 87,
+        "scattered": 0
+      },
+      "total": 337,
+      "winnerId": "jo_anne_simon",
+      "margin": 48.4,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/042": {
+      "votes": {
+        "jo_anne_simon": 271,
+        "lydia_bella_green": 113,
+        "scattered": 3
+      },
+      "total": 387,
+      "winnerId": "jo_anne_simon",
+      "margin": 40.8,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/043": {
+      "votes": {
+        "jo_anne_simon": 184,
+        "lydia_bella_green": 84,
+        "scattered": 0
+      },
+      "total": 268,
+      "winnerId": "jo_anne_simon",
+      "margin": 37.3,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/044": {
+      "votes": {
+        "jo_anne_simon": 215,
+        "lydia_bella_green": 77,
+        "scattered": 2
+      },
+      "total": 294,
+      "winnerId": "jo_anne_simon",
+      "margin": 46.9,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/045": {
+      "votes": {
+        "jo_anne_simon": 217,
+        "lydia_bella_green": 96,
+        "scattered": 1
+      },
+      "total": 314,
+      "winnerId": "jo_anne_simon",
+      "margin": 38.5,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/046": {
+      "votes": {
+        "jo_anne_simon": 261,
+        "lydia_bella_green": 52,
+        "scattered": 0
+      },
+      "total": 313,
+      "winnerId": "jo_anne_simon",
+      "margin": 66.8,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/047": {
+      "votes": {
+        "jo_anne_simon": 260,
+        "lydia_bella_green": 106,
+        "scattered": 2
+      },
+      "total": 368,
+      "winnerId": "jo_anne_simon",
+      "margin": 41.8,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/048": {
+      "votes": {
+        "jo_anne_simon": 248,
+        "lydia_bella_green": 83,
+        "scattered": 0
+      },
+      "total": 331,
+      "winnerId": "jo_anne_simon",
+      "margin": 49.8,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/049": {
+      "votes": {
+        "jo_anne_simon": 270,
+        "lydia_bella_green": 97,
+        "scattered": 2
+      },
+      "total": 369,
+      "winnerId": "jo_anne_simon",
+      "margin": 46.9,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/050": {
+      "votes": {
+        "jo_anne_simon": 286,
+        "lydia_bella_green": 125,
+        "scattered": 1
+      },
+      "total": 412,
+      "winnerId": "jo_anne_simon",
+      "margin": 39.1,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/051": {
+      "votes": {
+        "jo_anne_simon": 93,
+        "lydia_bella_green": 43,
+        "scattered": 0
+      },
+      "total": 136,
+      "winnerId": "jo_anne_simon",
+      "margin": 36.8,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/052": {
+      "votes": {
+        "jo_anne_simon": 205,
+        "lydia_bella_green": 100,
+        "scattered": 0
+      },
+      "total": 305,
+      "winnerId": "jo_anne_simon",
+      "margin": 34.4,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/053": {
+      "votes": {
+        "jo_anne_simon": 159,
+        "lydia_bella_green": 80,
+        "scattered": 2
+      },
+      "total": 241,
+      "winnerId": "jo_anne_simon",
+      "margin": 32.8,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/054": {
+      "votes": {
+        "jo_anne_simon": 209,
+        "lydia_bella_green": 118,
+        "scattered": 2
+      },
+      "total": 329,
+      "winnerId": "jo_anne_simon",
+      "margin": 27.7,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/055": {
+      "votes": {
+        "jo_anne_simon": 54,
+        "lydia_bella_green": 10,
+        "scattered": 0
+      },
+      "total": 64,
+      "winnerId": "jo_anne_simon",
+      "margin": 68.8,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/056": {
+      "votes": {
+        "jo_anne_simon": 43,
+        "lydia_bella_green": 12,
+        "scattered": 0
+      },
+      "total": 55,
+      "winnerId": "jo_anne_simon",
+      "margin": 56.4,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/057": {
+      "votes": {
+        "jo_anne_simon": 199,
+        "lydia_bella_green": 84,
+        "scattered": 1
+      },
+      "total": 284,
+      "winnerId": "jo_anne_simon",
+      "margin": 40.5,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/058": {
+      "votes": {
+        "jo_anne_simon": 89,
+        "lydia_bella_green": 65,
+        "scattered": 0
+      },
+      "total": 154,
+      "winnerId": "jo_anne_simon",
+      "margin": 15.6,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/059": {
+      "votes": {
+        "jo_anne_simon": 114,
+        "lydia_bella_green": 71,
+        "scattered": 1
+      },
+      "total": 186,
+      "winnerId": "jo_anne_simon",
+      "margin": 23.1,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/060": {
+      "votes": {
+        "jo_anne_simon": 175,
+        "lydia_bella_green": 130,
+        "scattered": 1
+      },
+      "total": 306,
+      "winnerId": "jo_anne_simon",
+      "margin": 14.7,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/061": {
+      "votes": {
+        "jo_anne_simon": 280,
+        "lydia_bella_green": 128,
+        "scattered": 2
+      },
+      "total": 410,
+      "winnerId": "jo_anne_simon",
+      "margin": 37.1,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/062": {
+      "votes": {
+        "jo_anne_simon": 194,
+        "lydia_bella_green": 147,
+        "scattered": 4
+      },
+      "total": 345,
+      "winnerId": "jo_anne_simon",
+      "margin": 13.6,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/063": {
+      "votes": {
+        "jo_anne_simon": 254,
+        "lydia_bella_green": 93,
+        "scattered": 3
+      },
+      "total": 350,
+      "winnerId": "jo_anne_simon",
+      "margin": 46,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/064": {
+      "votes": {
+        "jo_anne_simon": 175,
+        "lydia_bella_green": 143,
+        "scattered": 3
+      },
+      "total": 321,
+      "winnerId": "jo_anne_simon",
+      "margin": 10,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/065": {
+      "votes": {
+        "jo_anne_simon": 283,
+        "lydia_bella_green": 103,
+        "scattered": 1
+      },
+      "total": 387,
+      "winnerId": "jo_anne_simon",
+      "margin": 46.5,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/066": {
+      "votes": {
+        "jo_anne_simon": 279,
+        "lydia_bella_green": 128,
+        "scattered": 1
+      },
+      "total": 408,
+      "winnerId": "jo_anne_simon",
+      "margin": 37,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/067": {
+      "votes": {
+        "jo_anne_simon": 257,
+        "lydia_bella_green": 160,
+        "scattered": 0
+      },
+      "total": 417,
+      "winnerId": "jo_anne_simon",
+      "margin": 23.3,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/068": {
+      "votes": {
+        "jo_anne_simon": 244,
+        "lydia_bella_green": 136,
+        "scattered": 5
+      },
+      "total": 385,
+      "winnerId": "jo_anne_simon",
+      "margin": 28.1,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/069": {
+      "votes": {
+        "jo_anne_simon": 251,
+        "lydia_bella_green": 164,
+        "scattered": 1
+      },
+      "total": 416,
+      "winnerId": "jo_anne_simon",
+      "margin": 20.9,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/070": {
+      "votes": {
+        "jo_anne_simon": 80,
+        "lydia_bella_green": 30,
+        "scattered": 1
+      },
+      "total": 111,
+      "winnerId": "jo_anne_simon",
+      "margin": 45,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/071": {
+      "votes": {
+        "jo_anne_simon": 207,
+        "lydia_bella_green": 116,
+        "scattered": 1
+      },
+      "total": 324,
+      "winnerId": "jo_anne_simon",
+      "margin": 28.1,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/072": {
+      "votes": {
+        "jo_anne_simon": 109,
+        "lydia_bella_green": 52,
+        "scattered": 0
+      },
+      "total": 161,
+      "winnerId": "jo_anne_simon",
+      "margin": 35.4,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/073": {
+      "votes": {
+        "jo_anne_simon": 214,
+        "lydia_bella_green": 147,
+        "scattered": 1
+      },
+      "total": 362,
+      "winnerId": "jo_anne_simon",
+      "margin": 18.5,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/074": {
+      "votes": {
+        "jo_anne_simon": 18,
+        "lydia_bella_green": 15,
+        "scattered": 0
+      },
+      "total": 33,
+      "winnerId": "jo_anne_simon",
+      "margin": 9.1,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/075": {
+      "votes": {
+        "jo_anne_simon": 217,
+        "lydia_bella_green": 97,
+        "scattered": 1
+      },
+      "total": 315,
+      "winnerId": "jo_anne_simon",
+      "margin": 38.1,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/076": {
+      "votes": {
+        "jo_anne_simon": 265,
+        "lydia_bella_green": 82,
+        "scattered": 0
+      },
+      "total": 347,
+      "winnerId": "jo_anne_simon",
+      "margin": 52.7,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/077": {
+      "votes": {
+        "jo_anne_simon": 372,
+        "lydia_bella_green": 125,
+        "scattered": 3
+      },
+      "total": 500,
+      "winnerId": "jo_anne_simon",
+      "margin": 49.4,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/078": {
+      "votes": {
+        "jo_anne_simon": 158,
+        "lydia_bella_green": 31,
+        "scattered": 1
+      },
+      "total": 190,
+      "winnerId": "jo_anne_simon",
+      "margin": 66.8,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/079": {
+      "votes": {
+        "jo_anne_simon": 318,
+        "lydia_bella_green": 104,
+        "scattered": 5
+      },
+      "total": 427,
+      "winnerId": "jo_anne_simon",
+      "margin": 50.1,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/080": {
+      "votes": {
+        "jo_anne_simon": 393,
+        "lydia_bella_green": 121,
+        "scattered": 2
+      },
+      "total": 516,
+      "winnerId": "jo_anne_simon",
+      "margin": 52.7,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/081": {
+      "votes": {
+        "jo_anne_simon": 371,
+        "lydia_bella_green": 151,
+        "scattered": 0
+      },
+      "total": 522,
+      "winnerId": "jo_anne_simon",
+      "margin": 42.1,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/082": {
+      "votes": {
+        "jo_anne_simon": 361,
+        "lydia_bella_green": 123,
+        "scattered": 5
+      },
+      "total": 489,
+      "winnerId": "jo_anne_simon",
+      "margin": 48.7,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/083": {
+      "votes": {
+        "jo_anne_simon": 431,
+        "lydia_bella_green": 119,
+        "scattered": 2
+      },
+      "total": 552,
+      "winnerId": "jo_anne_simon",
+      "margin": 56.5,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/084": {
+      "votes": {
+        "jo_anne_simon": 409,
+        "lydia_bella_green": 170,
+        "scattered": 3
+      },
+      "total": 582,
+      "winnerId": "jo_anne_simon",
+      "margin": 41.1,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/085": {
+      "votes": {
+        "jo_anne_simon": 357,
+        "lydia_bella_green": 135,
+        "scattered": 2
+      },
+      "total": 494,
+      "winnerId": "jo_anne_simon",
+      "margin": 44.9,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/086": {
+      "votes": {
+        "jo_anne_simon": 176,
+        "lydia_bella_green": 104,
+        "scattered": 0
+      },
+      "total": 280,
+      "winnerId": "jo_anne_simon",
+      "margin": 25.7,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/087": {
+      "votes": {
+        "jo_anne_simon": 0,
+        "lydia_bella_green": 1,
+        "scattered": 0
+      },
+      "total": 1,
+      "winnerId": "lydia_bella_green",
+      "margin": 100,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/088": {
+      "votes": {
+        "jo_anne_simon": 210,
+        "lydia_bella_green": 54,
+        "scattered": 0
+      },
+      "total": 264,
+      "winnerId": "jo_anne_simon",
+      "margin": 59.1,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/090": {
+      "votes": {
+        "jo_anne_simon": 0,
+        "lydia_bella_green": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "jo_anne_simon",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "52/096": {
+      "votes": {
+        "jo_anne_simon": 0,
+        "lydia_bella_green": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "jo_anne_simon",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "jo_anne_simon",
+          "name": "Jo Anne Simon",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "lydia_bella_green",
+          "name": "Lydia Bella Green",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    }
+  }
+}

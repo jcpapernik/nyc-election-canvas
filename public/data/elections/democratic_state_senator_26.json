@@ -1,0 +1,31 @@
+{
+  "id": "democratic_state_senator_26",
+  "name": "2026 Primary - State Senator District 26",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "State Senate",
+  "districtKey": "26",
+  "districtType": "senate",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "andrew_gounardes",
+      "name": "Andrew Gounardes",
+      "party": "Democratic",
+      "isIncumbent": true,
+      "color": "#2563eb"
+    }
+  ],
+  "results": {
+    "26": {
+      "votes": {
+        "uncontested_primary_senate_26": 0
+      },
+      "total": 0,
+      "winnerId": "uncontested_primary_senate_26",
+      "margin": 100,
+      "isUncontested": true
+    }
+  },
+  "edResults": {}
+}

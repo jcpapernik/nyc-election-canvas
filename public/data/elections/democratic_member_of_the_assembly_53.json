@@ -1,0 +1,31 @@
+{
+  "id": "democratic_member_of_the_assembly_53",
+  "name": "2026 Primary - Member of the Assembly District 53",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "State Assembly",
+  "districtKey": "53",
+  "districtType": "assembly",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "maritza_davila",
+      "name": "Maritza Davila",
+      "party": "Democratic",
+      "isIncumbent": true,
+      "color": "#2563eb"
+    }
+  ],
+  "results": {
+    "53": {
+      "votes": {
+        "uncontested_primary_assembly_53": 0
+      },
+      "total": 0,
+      "winnerId": "uncontested_primary_assembly_53",
+      "margin": 100,
+      "isUncontested": true
+    }
+  },
+  "edResults": {}
+}

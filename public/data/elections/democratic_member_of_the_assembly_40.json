@@ -1,0 +1,31 @@
+{
+  "id": "democratic_member_of_the_assembly_40",
+  "name": "2026 Primary - Member of the Assembly District 40",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "State Assembly",
+  "districtKey": "40",
+  "districtType": "assembly",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "ron_kim",
+      "name": "Ron Kim",
+      "party": "Democratic",
+      "isIncumbent": true,
+      "color": "#2563eb"
+    }
+  ],
+  "results": {
+    "40": {
+      "votes": {
+        "uncontested_primary_assembly_40": 0
+      },
+      "total": 0,
+      "winnerId": "uncontested_primary_assembly_40",
+      "margin": 100,
+      "isUncontested": true
+    }
+  },
+  "edResults": {}
+}

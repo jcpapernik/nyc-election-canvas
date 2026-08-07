@@ -1,0 +1,31 @@
+{
+  "id": "democratic_state_senator_36",
+  "name": "2026 Primary - State Senator District 36",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "State Senate",
+  "districtKey": "36",
+  "districtType": "senate",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "jamaal_bailey",
+      "name": "Jamaal Bailey",
+      "party": "Democratic",
+      "isIncumbent": true,
+      "color": "#2563eb"
+    }
+  ],
+  "results": {
+    "36": {
+      "votes": {
+        "uncontested_primary_senate_36": 0
+      },
+      "total": 0,
+      "winnerId": "uncontested_primary_senate_36",
+      "margin": 100,
+      "isUncontested": true
+    }
+  },
+  "edResults": {}
+}

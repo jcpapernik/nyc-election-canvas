@@ -1,0 +1,31 @@
+{
+  "id": "democratic_member_of_the_city_council_10",
+  "name": "2026 Primary - Member of the City Council District 10",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "City Council",
+  "districtKey": "10",
+  "districtType": "council",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "carmen_de_la_rosa",
+      "name": "Carmen De La Rosa",
+      "party": "Democratic",
+      "isIncumbent": true,
+      "color": "#2563eb"
+    }
+  ],
+  "results": {
+    "10": {
+      "votes": {
+        "uncontested_primary_council_10": 0
+      },
+      "total": 0,
+      "winnerId": "uncontested_primary_council_10",
+      "margin": 100,
+      "isUncontested": true
+    }
+  },
+  "edResults": {}
+}

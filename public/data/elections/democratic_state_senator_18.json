@@ -1,0 +1,31 @@
+{
+  "id": "democratic_state_senator_18",
+  "name": "2026 Primary - State Senator District 18",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "State Senate",
+  "districtKey": "18",
+  "districtType": "senate",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "julia_salazar",
+      "name": "Julia Salazar",
+      "party": "Democratic",
+      "isIncumbent": true,
+      "color": "#2563eb"
+    }
+  ],
+  "results": {
+    "18": {
+      "votes": {
+        "uncontested_primary_senate_18": 0
+      },
+      "total": 0,
+      "winnerId": "uncontested_primary_senate_18",
+      "margin": 100,
+      "isUncontested": true
+    }
+  },
+  "edResults": {}
+}

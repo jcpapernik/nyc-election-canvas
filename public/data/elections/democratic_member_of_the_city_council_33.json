@@ -1,0 +1,31 @@
+{
+  "id": "democratic_member_of_the_city_council_33",
+  "name": "2026 Primary - Member of the City Council District 33",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "City Council",
+  "districtKey": "33",
+  "districtType": "council",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "lincoln_restler",
+      "name": "Lincoln Restler",
+      "party": "Democratic",
+      "isIncumbent": true,
+      "color": "#2563eb"
+    }
+  ],
+  "results": {
+    "33": {
+      "votes": {
+        "uncontested_primary_council_33": 0
+      },
+      "total": 0,
+      "winnerId": "uncontested_primary_council_33",
+      "margin": 100,
+      "isUncontested": true
+    }
+  },
+  "edResults": {}
+}

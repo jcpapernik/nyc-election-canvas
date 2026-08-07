@@ -1,0 +1,260 @@
+{
+  "id": "democratic_county_committee_81037",
+  "name": "2026 Primary - County Committee District 81037",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "Judicial & Party Offices",
+  "districtKey": "81037",
+  "districtType": "congressional",
+  "isUncontested": false,
+  "candidates": [
+    {
+      "id": "sophie_fermanis",
+      "name": "Sophie Fermanis",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#d97706"
+    },
+    {
+      "id": "fernanda_chaves",
+      "name": "Fernanda Chaves",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#7c3aed"
+    },
+    {
+      "id": "andrew_mcgowan",
+      "name": "Andrew McGowan",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#059669"
+    },
+    {
+      "id": "brett_saffer",
+      "name": "Brett Saffer",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#0891b2"
+    },
+    {
+      "id": "lindsay_melachrinos",
+      "name": "Lindsay Melachrinos",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#4f46e5"
+    },
+    {
+      "id": "james_melachrinos",
+      "name": "James Melachrinos",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#db2777"
+    },
+    {
+      "id": "scattered",
+      "name": "Scattered",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#64748b"
+    }
+  ],
+  "results": {
+    "81037": {
+      "votes": {
+        "sophie_fermanis": 157,
+        "fernanda_chaves": 155,
+        "andrew_mcgowan": 148,
+        "brett_saffer": 117,
+        "lindsay_melachrinos": 92,
+        "james_melachrinos": 54,
+        "scattered": 7
+      },
+      "total": 730,
+      "winnerId": "sophie_fermanis",
+      "margin": 0.3,
+      "candidates": [
+        {
+          "id": "sophie_fermanis",
+          "name": "Sophie Fermanis",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "fernanda_chaves",
+          "name": "Fernanda Chaves",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "andrew_mcgowan",
+          "name": "Andrew McGowan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "brett_saffer",
+          "name": "Brett Saffer",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "lindsay_melachrinos",
+          "name": "Lindsay Melachrinos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "james_melachrinos",
+          "name": "James Melachrinos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#64748b"
+        }
+      ]
+    }
+  },
+  "edResults": {
+    "81037": {
+      "votes": {
+        "sophie_fermanis": 157,
+        "fernanda_chaves": 155,
+        "andrew_mcgowan": 148,
+        "brett_saffer": 117,
+        "lindsay_melachrinos": 92,
+        "james_melachrinos": 54,
+        "scattered": 7
+      },
+      "total": 730,
+      "winnerId": "sophie_fermanis",
+      "margin": 0.3,
+      "candidates": [
+        {
+          "id": "sophie_fermanis",
+          "name": "Sophie Fermanis",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "fernanda_chaves",
+          "name": "Fernanda Chaves",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "andrew_mcgowan",
+          "name": "Andrew McGowan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "brett_saffer",
+          "name": "Brett Saffer",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "lindsay_melachrinos",
+          "name": "Lindsay Melachrinos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "james_melachrinos",
+          "name": "James Melachrinos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#64748b"
+        }
+      ]
+    },
+    "81/037": {
+      "votes": {
+        "sophie_fermanis": 157,
+        "fernanda_chaves": 155,
+        "andrew_mcgowan": 148,
+        "brett_saffer": 117,
+        "lindsay_melachrinos": 92,
+        "james_melachrinos": 54,
+        "scattered": 7
+      },
+      "total": 730,
+      "winnerId": "sophie_fermanis",
+      "margin": 0.3,
+      "candidates": [
+        {
+          "id": "sophie_fermanis",
+          "name": "Sophie Fermanis",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "fernanda_chaves",
+          "name": "Fernanda Chaves",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "andrew_mcgowan",
+          "name": "Andrew McGowan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "brett_saffer",
+          "name": "Brett Saffer",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "lindsay_melachrinos",
+          "name": "Lindsay Melachrinos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "james_melachrinos",
+          "name": "James Melachrinos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#64748b"
+        }
+      ]
+    }
+  }
+}

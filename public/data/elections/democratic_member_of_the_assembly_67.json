@@ -1,0 +1,31 @@
+{
+  "id": "democratic_member_of_the_assembly_67",
+  "name": "2026 Primary - Member of the Assembly District 67",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "State Assembly",
+  "districtKey": "67",
+  "districtType": "assembly",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "linda_rosenthal",
+      "name": "Linda Rosenthal",
+      "party": "Democratic",
+      "isIncumbent": true,
+      "color": "#2563eb"
+    }
+  ],
+  "results": {
+    "67": {
+      "votes": {
+        "uncontested_primary_assembly_67": 0
+      },
+      "total": 0,
+      "winnerId": "uncontested_primary_assembly_67",
+      "margin": 100,
+      "isUncontested": true
+    }
+  },
+  "edResults": {}
+}

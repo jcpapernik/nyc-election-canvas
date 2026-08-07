@@ -1,0 +1,3568 @@
+{
+  "id": "democratic_member_of_the_assembly_38",
+  "name": "2026 Primary - Member of the Assembly District 38",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "NY State Assembly",
+  "districtKey": "38",
+  "districtType": "assembly",
+  "isUncontested": false,
+  "candidates": [
+    {
+      "id": "david_orkin",
+      "name": "David Orkin",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#d97706"
+    },
+    {
+      "id": "jenifer_rajkumar",
+      "name": "Jenifer Rajkumar",
+      "party": "Democratic",
+      "isIncumbent": true,
+      "color": "#7c3aed"
+    },
+    {
+      "id": "scattered",
+      "name": "Scattered",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#059669"
+    }
+  ],
+  "results": {
+    "38": {
+      "votes": {
+        "david_orkin": 3861,
+        "jenifer_rajkumar": 2649,
+        "scattered": 18
+      },
+      "total": 6528,
+      "winnerId": "david_orkin",
+      "margin": 18.6,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    }
+  },
+  "edResults": {
+    "38001": {
+      "votes": {
+        "david_orkin": 242,
+        "jenifer_rajkumar": 81,
+        "scattered": 1
+      },
+      "total": 324,
+      "winnerId": "david_orkin",
+      "margin": 49.7,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38002": {
+      "votes": {
+        "david_orkin": 248,
+        "jenifer_rajkumar": 37,
+        "scattered": 0
+      },
+      "total": 285,
+      "winnerId": "david_orkin",
+      "margin": 74,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38003": {
+      "votes": {
+        "david_orkin": 216,
+        "jenifer_rajkumar": 36,
+        "scattered": 1
+      },
+      "total": 253,
+      "winnerId": "david_orkin",
+      "margin": 71.1,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38004": {
+      "votes": {
+        "david_orkin": 258,
+        "jenifer_rajkumar": 49,
+        "scattered": 0
+      },
+      "total": 307,
+      "winnerId": "david_orkin",
+      "margin": 68.1,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38005": {
+      "votes": {
+        "david_orkin": 141,
+        "jenifer_rajkumar": 19,
+        "scattered": 0
+      },
+      "total": 160,
+      "winnerId": "david_orkin",
+      "margin": 76.3,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38006": {
+      "votes": {
+        "david_orkin": 234,
+        "jenifer_rajkumar": 41,
+        "scattered": 1
+      },
+      "total": 276,
+      "winnerId": "david_orkin",
+      "margin": 69.9,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38007": {
+      "votes": {
+        "david_orkin": 184,
+        "jenifer_rajkumar": 42,
+        "scattered": 2
+      },
+      "total": 228,
+      "winnerId": "david_orkin",
+      "margin": 62.3,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38008": {
+      "votes": {
+        "david_orkin": 0,
+        "jenifer_rajkumar": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "david_orkin",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38009": {
+      "votes": {
+        "david_orkin": 92,
+        "jenifer_rajkumar": 62,
+        "scattered": 2
+      },
+      "total": 156,
+      "winnerId": "david_orkin",
+      "margin": 19.2,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38010": {
+      "votes": {
+        "david_orkin": 105,
+        "jenifer_rajkumar": 61,
+        "scattered": 1
+      },
+      "total": 167,
+      "winnerId": "david_orkin",
+      "margin": 26.3,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38011": {
+      "votes": {
+        "david_orkin": 41,
+        "jenifer_rajkumar": 57,
+        "scattered": 1
+      },
+      "total": 99,
+      "winnerId": "jenifer_rajkumar",
+      "margin": 16.2,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38012": {
+      "votes": {
+        "david_orkin": 92,
+        "jenifer_rajkumar": 47,
+        "scattered": 0
+      },
+      "total": 139,
+      "winnerId": "david_orkin",
+      "margin": 32.4,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38013": {
+      "votes": {
+        "david_orkin": 18,
+        "jenifer_rajkumar": 17,
+        "scattered": 0
+      },
+      "total": 35,
+      "winnerId": "david_orkin",
+      "margin": 2.9,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38014": {
+      "votes": {
+        "david_orkin": 67,
+        "jenifer_rajkumar": 64,
+        "scattered": 0
+      },
+      "total": 131,
+      "winnerId": "david_orkin",
+      "margin": 2.3,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38015": {
+      "votes": {
+        "david_orkin": 75,
+        "jenifer_rajkumar": 65,
+        "scattered": 1
+      },
+      "total": 141,
+      "winnerId": "david_orkin",
+      "margin": 7.1,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38016": {
+      "votes": {
+        "david_orkin": 9,
+        "jenifer_rajkumar": 12,
+        "scattered": 0
+      },
+      "total": 21,
+      "winnerId": "jenifer_rajkumar",
+      "margin": 14.3,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38017": {
+      "votes": {
+        "david_orkin": 67,
+        "jenifer_rajkumar": 91,
+        "scattered": 0
+      },
+      "total": 158,
+      "winnerId": "jenifer_rajkumar",
+      "margin": 15.2,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38018": {
+      "votes": {
+        "david_orkin": 70,
+        "jenifer_rajkumar": 77,
+        "scattered": 0
+      },
+      "total": 147,
+      "winnerId": "jenifer_rajkumar",
+      "margin": 4.8,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38019": {
+      "votes": {
+        "david_orkin": 58,
+        "jenifer_rajkumar": 59,
+        "scattered": 0
+      },
+      "total": 117,
+      "winnerId": "jenifer_rajkumar",
+      "margin": 0.9,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38020": {
+      "votes": {
+        "david_orkin": 59,
+        "jenifer_rajkumar": 66,
+        "scattered": 0
+      },
+      "total": 125,
+      "winnerId": "jenifer_rajkumar",
+      "margin": 5.6,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38021": {
+      "votes": {
+        "david_orkin": 59,
+        "jenifer_rajkumar": 72,
+        "scattered": 0
+      },
+      "total": 131,
+      "winnerId": "jenifer_rajkumar",
+      "margin": 9.9,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38022": {
+      "votes": {
+        "david_orkin": 27,
+        "jenifer_rajkumar": 27,
+        "scattered": 1
+      },
+      "total": 55,
+      "winnerId": "david_orkin",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38023": {
+      "votes": {
+        "david_orkin": 69,
+        "jenifer_rajkumar": 72,
+        "scattered": 1
+      },
+      "total": 142,
+      "winnerId": "jenifer_rajkumar",
+      "margin": 2.1,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38024": {
+      "votes": {
+        "david_orkin": 38,
+        "jenifer_rajkumar": 65,
+        "scattered": 0
+      },
+      "total": 103,
+      "winnerId": "jenifer_rajkumar",
+      "margin": 26.2,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38025": {
+      "votes": {
+        "david_orkin": 29,
+        "jenifer_rajkumar": 26,
+        "scattered": 0
+      },
+      "total": 55,
+      "winnerId": "david_orkin",
+      "margin": 5.5,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38026": {
+      "votes": {
+        "david_orkin": 60,
+        "jenifer_rajkumar": 48,
+        "scattered": 0
+      },
+      "total": 108,
+      "winnerId": "david_orkin",
+      "margin": 11.1,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38027": {
+      "votes": {
+        "david_orkin": 20,
+        "jenifer_rajkumar": 25,
+        "scattered": 0
+      },
+      "total": 45,
+      "winnerId": "jenifer_rajkumar",
+      "margin": 11.1,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38028": {
+      "votes": {
+        "david_orkin": 37,
+        "jenifer_rajkumar": 67,
+        "scattered": 2
+      },
+      "total": 106,
+      "winnerId": "jenifer_rajkumar",
+      "margin": 28.3,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38029": {
+      "votes": {
+        "david_orkin": 30,
+        "jenifer_rajkumar": 57,
+        "scattered": 0
+      },
+      "total": 87,
+      "winnerId": "jenifer_rajkumar",
+      "margin": 31,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38030": {
+      "votes": {
+        "david_orkin": 27,
+        "jenifer_rajkumar": 56,
+        "scattered": 0
+      },
+      "total": 83,
+      "winnerId": "jenifer_rajkumar",
+      "margin": 34.9,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38031": {
+      "votes": {
+        "david_orkin": 43,
+        "jenifer_rajkumar": 59,
+        "scattered": 0
+      },
+      "total": 102,
+      "winnerId": "jenifer_rajkumar",
+      "margin": 15.7,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38032": {
+      "votes": {
+        "david_orkin": 48,
+        "jenifer_rajkumar": 103,
+        "scattered": 0
+      },
+      "total": 151,
+      "winnerId": "jenifer_rajkumar",
+      "margin": 36.4,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38033": {
+      "votes": {
+        "david_orkin": 60,
+        "jenifer_rajkumar": 90,
+        "scattered": 2
+      },
+      "total": 152,
+      "winnerId": "jenifer_rajkumar",
+      "margin": 19.7,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38034": {
+      "votes": {
+        "david_orkin": 51,
+        "jenifer_rajkumar": 66,
+        "scattered": 0
+      },
+      "total": 117,
+      "winnerId": "jenifer_rajkumar",
+      "margin": 12.8,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38035": {
+      "votes": {
+        "david_orkin": 49,
+        "jenifer_rajkumar": 95,
+        "scattered": 0
+      },
+      "total": 144,
+      "winnerId": "jenifer_rajkumar",
+      "margin": 31.9,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38036": {
+      "votes": {
+        "david_orkin": 65,
+        "jenifer_rajkumar": 53,
+        "scattered": 0
+      },
+      "total": 118,
+      "winnerId": "david_orkin",
+      "margin": 10.2,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38037": {
+      "votes": {
+        "david_orkin": 61,
+        "jenifer_rajkumar": 66,
+        "scattered": 0
+      },
+      "total": 127,
+      "winnerId": "jenifer_rajkumar",
+      "margin": 3.9,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38038": {
+      "votes": {
+        "david_orkin": 109,
+        "jenifer_rajkumar": 31,
+        "scattered": 0
+      },
+      "total": 140,
+      "winnerId": "david_orkin",
+      "margin": 55.7,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38039": {
+      "votes": {
+        "david_orkin": 40,
+        "jenifer_rajkumar": 56,
+        "scattered": 0
+      },
+      "total": 96,
+      "winnerId": "jenifer_rajkumar",
+      "margin": 16.7,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38040": {
+      "votes": {
+        "david_orkin": 13,
+        "jenifer_rajkumar": 32,
+        "scattered": 0
+      },
+      "total": 45,
+      "winnerId": "jenifer_rajkumar",
+      "margin": 42.2,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38041": {
+      "votes": {
+        "david_orkin": 13,
+        "jenifer_rajkumar": 28,
+        "scattered": 1
+      },
+      "total": 42,
+      "winnerId": "jenifer_rajkumar",
+      "margin": 35.7,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38042": {
+      "votes": {
+        "david_orkin": 77,
+        "jenifer_rajkumar": 11,
+        "scattered": 1
+      },
+      "total": 89,
+      "winnerId": "david_orkin",
+      "margin": 74.2,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38044": {
+      "votes": {
+        "david_orkin": 127,
+        "jenifer_rajkumar": 25,
+        "scattered": 0
+      },
+      "total": 152,
+      "winnerId": "david_orkin",
+      "margin": 67.1,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38045": {
+      "votes": {
+        "david_orkin": 22,
+        "jenifer_rajkumar": 45,
+        "scattered": 0
+      },
+      "total": 67,
+      "winnerId": "jenifer_rajkumar",
+      "margin": 34.3,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38046": {
+      "votes": {
+        "david_orkin": 118,
+        "jenifer_rajkumar": 63,
+        "scattered": 0
+      },
+      "total": 181,
+      "winnerId": "david_orkin",
+      "margin": 30.4,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38047": {
+      "votes": {
+        "david_orkin": 90,
+        "jenifer_rajkumar": 94,
+        "scattered": 0
+      },
+      "total": 184,
+      "winnerId": "jenifer_rajkumar",
+      "margin": 2.2,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38048": {
+      "votes": {
+        "david_orkin": 24,
+        "jenifer_rajkumar": 55,
+        "scattered": 0
+      },
+      "total": 79,
+      "winnerId": "jenifer_rajkumar",
+      "margin": 39.2,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38049": {
+      "votes": {
+        "david_orkin": 14,
+        "jenifer_rajkumar": 32,
+        "scattered": 0
+      },
+      "total": 46,
+      "winnerId": "jenifer_rajkumar",
+      "margin": 39.1,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38050": {
+      "votes": {
+        "david_orkin": 41,
+        "jenifer_rajkumar": 63,
+        "scattered": 0
+      },
+      "total": 104,
+      "winnerId": "jenifer_rajkumar",
+      "margin": 21.2,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38051": {
+      "votes": {
+        "david_orkin": 27,
+        "jenifer_rajkumar": 42,
+        "scattered": 0
+      },
+      "total": 69,
+      "winnerId": "jenifer_rajkumar",
+      "margin": 21.7,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38052": {
+      "votes": {
+        "david_orkin": 31,
+        "jenifer_rajkumar": 11,
+        "scattered": 0
+      },
+      "total": 42,
+      "winnerId": "david_orkin",
+      "margin": 47.6,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38053": {
+      "votes": {
+        "david_orkin": 66,
+        "jenifer_rajkumar": 31,
+        "scattered": 0
+      },
+      "total": 97,
+      "winnerId": "david_orkin",
+      "margin": 36.1,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38054": {
+      "votes": {
+        "david_orkin": 0,
+        "jenifer_rajkumar": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "david_orkin",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38/001": {
+      "votes": {
+        "david_orkin": 242,
+        "jenifer_rajkumar": 81,
+        "scattered": 1
+      },
+      "total": 324,
+      "winnerId": "david_orkin",
+      "margin": 49.7,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38/002": {
+      "votes": {
+        "david_orkin": 248,
+        "jenifer_rajkumar": 37,
+        "scattered": 0
+      },
+      "total": 285,
+      "winnerId": "david_orkin",
+      "margin": 74,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38/003": {
+      "votes": {
+        "david_orkin": 216,
+        "jenifer_rajkumar": 36,
+        "scattered": 1
+      },
+      "total": 253,
+      "winnerId": "david_orkin",
+      "margin": 71.1,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38/004": {
+      "votes": {
+        "david_orkin": 258,
+        "jenifer_rajkumar": 49,
+        "scattered": 0
+      },
+      "total": 307,
+      "winnerId": "david_orkin",
+      "margin": 68.1,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38/005": {
+      "votes": {
+        "david_orkin": 141,
+        "jenifer_rajkumar": 19,
+        "scattered": 0
+      },
+      "total": 160,
+      "winnerId": "david_orkin",
+      "margin": 76.3,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38/006": {
+      "votes": {
+        "david_orkin": 234,
+        "jenifer_rajkumar": 41,
+        "scattered": 1
+      },
+      "total": 276,
+      "winnerId": "david_orkin",
+      "margin": 69.9,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38/007": {
+      "votes": {
+        "david_orkin": 184,
+        "jenifer_rajkumar": 42,
+        "scattered": 2
+      },
+      "total": 228,
+      "winnerId": "david_orkin",
+      "margin": 62.3,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38/008": {
+      "votes": {
+        "david_orkin": 0,
+        "jenifer_rajkumar": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "david_orkin",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38/009": {
+      "votes": {
+        "david_orkin": 92,
+        "jenifer_rajkumar": 62,
+        "scattered": 2
+      },
+      "total": 156,
+      "winnerId": "david_orkin",
+      "margin": 19.2,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38/010": {
+      "votes": {
+        "david_orkin": 105,
+        "jenifer_rajkumar": 61,
+        "scattered": 1
+      },
+      "total": 167,
+      "winnerId": "david_orkin",
+      "margin": 26.3,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38/011": {
+      "votes": {
+        "david_orkin": 41,
+        "jenifer_rajkumar": 57,
+        "scattered": 1
+      },
+      "total": 99,
+      "winnerId": "jenifer_rajkumar",
+      "margin": 16.2,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38/012": {
+      "votes": {
+        "david_orkin": 92,
+        "jenifer_rajkumar": 47,
+        "scattered": 0
+      },
+      "total": 139,
+      "winnerId": "david_orkin",
+      "margin": 32.4,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38/013": {
+      "votes": {
+        "david_orkin": 18,
+        "jenifer_rajkumar": 17,
+        "scattered": 0
+      },
+      "total": 35,
+      "winnerId": "david_orkin",
+      "margin": 2.9,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38/014": {
+      "votes": {
+        "david_orkin": 67,
+        "jenifer_rajkumar": 64,
+        "scattered": 0
+      },
+      "total": 131,
+      "winnerId": "david_orkin",
+      "margin": 2.3,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38/015": {
+      "votes": {
+        "david_orkin": 75,
+        "jenifer_rajkumar": 65,
+        "scattered": 1
+      },
+      "total": 141,
+      "winnerId": "david_orkin",
+      "margin": 7.1,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38/016": {
+      "votes": {
+        "david_orkin": 9,
+        "jenifer_rajkumar": 12,
+        "scattered": 0
+      },
+      "total": 21,
+      "winnerId": "jenifer_rajkumar",
+      "margin": 14.3,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38/017": {
+      "votes": {
+        "david_orkin": 67,
+        "jenifer_rajkumar": 91,
+        "scattered": 0
+      },
+      "total": 158,
+      "winnerId": "jenifer_rajkumar",
+      "margin": 15.2,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38/018": {
+      "votes": {
+        "david_orkin": 70,
+        "jenifer_rajkumar": 77,
+        "scattered": 0
+      },
+      "total": 147,
+      "winnerId": "jenifer_rajkumar",
+      "margin": 4.8,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38/019": {
+      "votes": {
+        "david_orkin": 58,
+        "jenifer_rajkumar": 59,
+        "scattered": 0
+      },
+      "total": 117,
+      "winnerId": "jenifer_rajkumar",
+      "margin": 0.9,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38/020": {
+      "votes": {
+        "david_orkin": 59,
+        "jenifer_rajkumar": 66,
+        "scattered": 0
+      },
+      "total": 125,
+      "winnerId": "jenifer_rajkumar",
+      "margin": 5.6,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38/021": {
+      "votes": {
+        "david_orkin": 59,
+        "jenifer_rajkumar": 72,
+        "scattered": 0
+      },
+      "total": 131,
+      "winnerId": "jenifer_rajkumar",
+      "margin": 9.9,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38/022": {
+      "votes": {
+        "david_orkin": 27,
+        "jenifer_rajkumar": 27,
+        "scattered": 1
+      },
+      "total": 55,
+      "winnerId": "david_orkin",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38/023": {
+      "votes": {
+        "david_orkin": 69,
+        "jenifer_rajkumar": 72,
+        "scattered": 1
+      },
+      "total": 142,
+      "winnerId": "jenifer_rajkumar",
+      "margin": 2.1,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38/024": {
+      "votes": {
+        "david_orkin": 38,
+        "jenifer_rajkumar": 65,
+        "scattered": 0
+      },
+      "total": 103,
+      "winnerId": "jenifer_rajkumar",
+      "margin": 26.2,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38/025": {
+      "votes": {
+        "david_orkin": 29,
+        "jenifer_rajkumar": 26,
+        "scattered": 0
+      },
+      "total": 55,
+      "winnerId": "david_orkin",
+      "margin": 5.5,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38/026": {
+      "votes": {
+        "david_orkin": 60,
+        "jenifer_rajkumar": 48,
+        "scattered": 0
+      },
+      "total": 108,
+      "winnerId": "david_orkin",
+      "margin": 11.1,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38/027": {
+      "votes": {
+        "david_orkin": 20,
+        "jenifer_rajkumar": 25,
+        "scattered": 0
+      },
+      "total": 45,
+      "winnerId": "jenifer_rajkumar",
+      "margin": 11.1,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38/028": {
+      "votes": {
+        "david_orkin": 37,
+        "jenifer_rajkumar": 67,
+        "scattered": 2
+      },
+      "total": 106,
+      "winnerId": "jenifer_rajkumar",
+      "margin": 28.3,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38/029": {
+      "votes": {
+        "david_orkin": 30,
+        "jenifer_rajkumar": 57,
+        "scattered": 0
+      },
+      "total": 87,
+      "winnerId": "jenifer_rajkumar",
+      "margin": 31,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38/030": {
+      "votes": {
+        "david_orkin": 27,
+        "jenifer_rajkumar": 56,
+        "scattered": 0
+      },
+      "total": 83,
+      "winnerId": "jenifer_rajkumar",
+      "margin": 34.9,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38/031": {
+      "votes": {
+        "david_orkin": 43,
+        "jenifer_rajkumar": 59,
+        "scattered": 0
+      },
+      "total": 102,
+      "winnerId": "jenifer_rajkumar",
+      "margin": 15.7,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38/032": {
+      "votes": {
+        "david_orkin": 48,
+        "jenifer_rajkumar": 103,
+        "scattered": 0
+      },
+      "total": 151,
+      "winnerId": "jenifer_rajkumar",
+      "margin": 36.4,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38/033": {
+      "votes": {
+        "david_orkin": 60,
+        "jenifer_rajkumar": 90,
+        "scattered": 2
+      },
+      "total": 152,
+      "winnerId": "jenifer_rajkumar",
+      "margin": 19.7,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38/034": {
+      "votes": {
+        "david_orkin": 51,
+        "jenifer_rajkumar": 66,
+        "scattered": 0
+      },
+      "total": 117,
+      "winnerId": "jenifer_rajkumar",
+      "margin": 12.8,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38/035": {
+      "votes": {
+        "david_orkin": 49,
+        "jenifer_rajkumar": 95,
+        "scattered": 0
+      },
+      "total": 144,
+      "winnerId": "jenifer_rajkumar",
+      "margin": 31.9,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38/036": {
+      "votes": {
+        "david_orkin": 65,
+        "jenifer_rajkumar": 53,
+        "scattered": 0
+      },
+      "total": 118,
+      "winnerId": "david_orkin",
+      "margin": 10.2,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38/037": {
+      "votes": {
+        "david_orkin": 61,
+        "jenifer_rajkumar": 66,
+        "scattered": 0
+      },
+      "total": 127,
+      "winnerId": "jenifer_rajkumar",
+      "margin": 3.9,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38/038": {
+      "votes": {
+        "david_orkin": 109,
+        "jenifer_rajkumar": 31,
+        "scattered": 0
+      },
+      "total": 140,
+      "winnerId": "david_orkin",
+      "margin": 55.7,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38/039": {
+      "votes": {
+        "david_orkin": 40,
+        "jenifer_rajkumar": 56,
+        "scattered": 0
+      },
+      "total": 96,
+      "winnerId": "jenifer_rajkumar",
+      "margin": 16.7,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38/040": {
+      "votes": {
+        "david_orkin": 13,
+        "jenifer_rajkumar": 32,
+        "scattered": 0
+      },
+      "total": 45,
+      "winnerId": "jenifer_rajkumar",
+      "margin": 42.2,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38/041": {
+      "votes": {
+        "david_orkin": 13,
+        "jenifer_rajkumar": 28,
+        "scattered": 1
+      },
+      "total": 42,
+      "winnerId": "jenifer_rajkumar",
+      "margin": 35.7,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38/042": {
+      "votes": {
+        "david_orkin": 77,
+        "jenifer_rajkumar": 11,
+        "scattered": 1
+      },
+      "total": 89,
+      "winnerId": "david_orkin",
+      "margin": 74.2,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38/044": {
+      "votes": {
+        "david_orkin": 127,
+        "jenifer_rajkumar": 25,
+        "scattered": 0
+      },
+      "total": 152,
+      "winnerId": "david_orkin",
+      "margin": 67.1,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38/045": {
+      "votes": {
+        "david_orkin": 22,
+        "jenifer_rajkumar": 45,
+        "scattered": 0
+      },
+      "total": 67,
+      "winnerId": "jenifer_rajkumar",
+      "margin": 34.3,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38/046": {
+      "votes": {
+        "david_orkin": 118,
+        "jenifer_rajkumar": 63,
+        "scattered": 0
+      },
+      "total": 181,
+      "winnerId": "david_orkin",
+      "margin": 30.4,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38/047": {
+      "votes": {
+        "david_orkin": 90,
+        "jenifer_rajkumar": 94,
+        "scattered": 0
+      },
+      "total": 184,
+      "winnerId": "jenifer_rajkumar",
+      "margin": 2.2,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38/048": {
+      "votes": {
+        "david_orkin": 24,
+        "jenifer_rajkumar": 55,
+        "scattered": 0
+      },
+      "total": 79,
+      "winnerId": "jenifer_rajkumar",
+      "margin": 39.2,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38/049": {
+      "votes": {
+        "david_orkin": 14,
+        "jenifer_rajkumar": 32,
+        "scattered": 0
+      },
+      "total": 46,
+      "winnerId": "jenifer_rajkumar",
+      "margin": 39.1,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38/050": {
+      "votes": {
+        "david_orkin": 41,
+        "jenifer_rajkumar": 63,
+        "scattered": 0
+      },
+      "total": 104,
+      "winnerId": "jenifer_rajkumar",
+      "margin": 21.2,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38/051": {
+      "votes": {
+        "david_orkin": 27,
+        "jenifer_rajkumar": 42,
+        "scattered": 0
+      },
+      "total": 69,
+      "winnerId": "jenifer_rajkumar",
+      "margin": 21.7,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38/052": {
+      "votes": {
+        "david_orkin": 31,
+        "jenifer_rajkumar": 11,
+        "scattered": 0
+      },
+      "total": 42,
+      "winnerId": "david_orkin",
+      "margin": 47.6,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38/053": {
+      "votes": {
+        "david_orkin": 66,
+        "jenifer_rajkumar": 31,
+        "scattered": 0
+      },
+      "total": 97,
+      "winnerId": "david_orkin",
+      "margin": 36.1,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "38/054": {
+      "votes": {
+        "david_orkin": 0,
+        "jenifer_rajkumar": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "david_orkin",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "david_orkin",
+          "name": "David Orkin",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jenifer_rajkumar",
+          "name": "Jenifer Rajkumar",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    }
+  }
+}

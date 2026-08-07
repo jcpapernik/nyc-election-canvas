@@ -1,0 +1,260 @@
+{
+  "id": "democratic_county_committee_81014",
+  "name": "2026 Primary - County Committee District 81014",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "Judicial & Party Offices",
+  "districtKey": "81014",
+  "districtType": "congressional",
+  "isUncontested": false,
+  "candidates": [
+    {
+      "id": "phyllis_roth",
+      "name": "Phyllis Roth",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#d97706"
+    },
+    {
+      "id": "e_doyle_mccarthy",
+      "name": "E. Doyle McCarthy",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#7c3aed"
+    },
+    {
+      "id": "leslie_boaz",
+      "name": "Leslie Boaz",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#059669"
+    },
+    {
+      "id": "laura_fieber",
+      "name": "Laura Fieber",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#0891b2"
+    },
+    {
+      "id": "jonathan_wolf",
+      "name": "Jonathan Wolf",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#4f46e5"
+    },
+    {
+      "id": "miles_harris",
+      "name": "Miles Harris",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#db2777"
+    },
+    {
+      "id": "scattered",
+      "name": "Scattered",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#64748b"
+    }
+  ],
+  "results": {
+    "81014": {
+      "votes": {
+        "phyllis_roth": 213,
+        "e_doyle_mccarthy": 203,
+        "leslie_boaz": 195,
+        "laura_fieber": 195,
+        "jonathan_wolf": 120,
+        "miles_harris": 110,
+        "scattered": 4
+      },
+      "total": 1040,
+      "winnerId": "phyllis_roth",
+      "margin": 1,
+      "candidates": [
+        {
+          "id": "phyllis_roth",
+          "name": "Phyllis Roth",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "e_doyle_mccarthy",
+          "name": "E. Doyle McCarthy",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "leslie_boaz",
+          "name": "Leslie Boaz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "laura_fieber",
+          "name": "Laura Fieber",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "jonathan_wolf",
+          "name": "Jonathan Wolf",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "miles_harris",
+          "name": "Miles Harris",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#64748b"
+        }
+      ]
+    }
+  },
+  "edResults": {
+    "81014": {
+      "votes": {
+        "phyllis_roth": 213,
+        "e_doyle_mccarthy": 203,
+        "leslie_boaz": 195,
+        "laura_fieber": 195,
+        "jonathan_wolf": 120,
+        "miles_harris": 110,
+        "scattered": 4
+      },
+      "total": 1040,
+      "winnerId": "phyllis_roth",
+      "margin": 1,
+      "candidates": [
+        {
+          "id": "phyllis_roth",
+          "name": "Phyllis Roth",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "e_doyle_mccarthy",
+          "name": "E. Doyle McCarthy",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "leslie_boaz",
+          "name": "Leslie Boaz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "laura_fieber",
+          "name": "Laura Fieber",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "jonathan_wolf",
+          "name": "Jonathan Wolf",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "miles_harris",
+          "name": "Miles Harris",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#64748b"
+        }
+      ]
+    },
+    "81/014": {
+      "votes": {
+        "phyllis_roth": 213,
+        "e_doyle_mccarthy": 203,
+        "leslie_boaz": 195,
+        "laura_fieber": 195,
+        "jonathan_wolf": 120,
+        "miles_harris": 110,
+        "scattered": 4
+      },
+      "total": 1040,
+      "winnerId": "phyllis_roth",
+      "margin": 1,
+      "candidates": [
+        {
+          "id": "phyllis_roth",
+          "name": "Phyllis Roth",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "e_doyle_mccarthy",
+          "name": "E. Doyle McCarthy",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "leslie_boaz",
+          "name": "Leslie Boaz",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "laura_fieber",
+          "name": "Laura Fieber",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "jonathan_wolf",
+          "name": "Jonathan Wolf",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "miles_harris",
+          "name": "Miles Harris",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#64748b"
+        }
+      ]
+    }
+  }
+}

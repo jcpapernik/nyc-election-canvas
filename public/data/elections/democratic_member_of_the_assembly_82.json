@@ -1,0 +1,5169 @@
+{
+  "id": "democratic_member_of_the_assembly_82",
+  "name": "2026 Primary - Member of the Assembly District 82",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "NY State Assembly",
+  "districtKey": "82",
+  "districtType": "assembly",
+  "isUncontested": false,
+  "candidates": [
+    {
+      "id": "michael_r_benedetto",
+      "name": "Michael R. Benedetto",
+      "party": "Democratic",
+      "isIncumbent": true,
+      "color": "#d97706"
+    },
+    {
+      "id": "jake_kuhl",
+      "name": "Jake Kuhl",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#7c3aed"
+    },
+    {
+      "id": "felix_omozusi",
+      "name": "Felix Omozusi",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#059669"
+    },
+    {
+      "id": "scattered",
+      "name": "Scattered",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#0891b2"
+    }
+  ],
+  "results": {
+    "82": {
+      "votes": {
+        "michael_r_benedetto": 4636,
+        "jake_kuhl": 1864,
+        "felix_omozusi": 911,
+        "scattered": 39
+      },
+      "total": 7450,
+      "winnerId": "michael_r_benedetto",
+      "margin": 37.2,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    }
+  },
+  "edResults": {
+    "82001": {
+      "votes": {
+        "michael_r_benedetto": 47,
+        "jake_kuhl": 89,
+        "felix_omozusi": 7,
+        "scattered": 0
+      },
+      "total": 143,
+      "winnerId": "jake_kuhl",
+      "margin": 29.4,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82002": {
+      "votes": {
+        "michael_r_benedetto": 16,
+        "jake_kuhl": 16,
+        "felix_omozusi": 2,
+        "scattered": 0
+      },
+      "total": 34,
+      "winnerId": "michael_r_benedetto",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82003": {
+      "votes": {
+        "michael_r_benedetto": 45,
+        "jake_kuhl": 33,
+        "felix_omozusi": 9,
+        "scattered": 0
+      },
+      "total": 87,
+      "winnerId": "michael_r_benedetto",
+      "margin": 13.8,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82004": {
+      "votes": {
+        "michael_r_benedetto": 40,
+        "jake_kuhl": 29,
+        "felix_omozusi": 5,
+        "scattered": 0
+      },
+      "total": 74,
+      "winnerId": "michael_r_benedetto",
+      "margin": 14.9,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82005": {
+      "votes": {
+        "michael_r_benedetto": 30,
+        "jake_kuhl": 36,
+        "felix_omozusi": 12,
+        "scattered": 1
+      },
+      "total": 79,
+      "winnerId": "jake_kuhl",
+      "margin": 7.6,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82006": {
+      "votes": {
+        "michael_r_benedetto": 43,
+        "jake_kuhl": 103,
+        "felix_omozusi": 6,
+        "scattered": 0
+      },
+      "total": 152,
+      "winnerId": "jake_kuhl",
+      "margin": 39.5,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82007": {
+      "votes": {
+        "michael_r_benedetto": 48,
+        "jake_kuhl": 20,
+        "felix_omozusi": 8,
+        "scattered": 1
+      },
+      "total": 77,
+      "winnerId": "michael_r_benedetto",
+      "margin": 36.4,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82008": {
+      "votes": {
+        "michael_r_benedetto": 26,
+        "jake_kuhl": 26,
+        "felix_omozusi": 14,
+        "scattered": 1
+      },
+      "total": 67,
+      "winnerId": "michael_r_benedetto",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82009": {
+      "votes": {
+        "michael_r_benedetto": 47,
+        "jake_kuhl": 36,
+        "felix_omozusi": 15,
+        "scattered": 1
+      },
+      "total": 99,
+      "winnerId": "michael_r_benedetto",
+      "margin": 11.1,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82010": {
+      "votes": {
+        "michael_r_benedetto": 55,
+        "jake_kuhl": 35,
+        "felix_omozusi": 16,
+        "scattered": 0
+      },
+      "total": 106,
+      "winnerId": "michael_r_benedetto",
+      "margin": 18.9,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82011": {
+      "votes": {
+        "michael_r_benedetto": 33,
+        "jake_kuhl": 26,
+        "felix_omozusi": 11,
+        "scattered": 1
+      },
+      "total": 71,
+      "winnerId": "michael_r_benedetto",
+      "margin": 9.9,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82012": {
+      "votes": {
+        "michael_r_benedetto": 34,
+        "jake_kuhl": 11,
+        "felix_omozusi": 17,
+        "scattered": 0
+      },
+      "total": 62,
+      "winnerId": "michael_r_benedetto",
+      "margin": 27.4,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82013": {
+      "votes": {
+        "michael_r_benedetto": 62,
+        "jake_kuhl": 25,
+        "felix_omozusi": 21,
+        "scattered": 0
+      },
+      "total": 108,
+      "winnerId": "michael_r_benedetto",
+      "margin": 34.3,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82014": {
+      "votes": {
+        "michael_r_benedetto": 172,
+        "jake_kuhl": 35,
+        "felix_omozusi": 28,
+        "scattered": 2
+      },
+      "total": 237,
+      "winnerId": "michael_r_benedetto",
+      "margin": 57.8,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82015": {
+      "votes": {
+        "michael_r_benedetto": 49,
+        "jake_kuhl": 29,
+        "felix_omozusi": 15,
+        "scattered": 0
+      },
+      "total": 93,
+      "winnerId": "michael_r_benedetto",
+      "margin": 21.5,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82016": {
+      "votes": {
+        "michael_r_benedetto": 51,
+        "jake_kuhl": 27,
+        "felix_omozusi": 17,
+        "scattered": 0
+      },
+      "total": 95,
+      "winnerId": "michael_r_benedetto",
+      "margin": 25.3,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82017": {
+      "votes": {
+        "michael_r_benedetto": 161,
+        "jake_kuhl": 37,
+        "felix_omozusi": 20,
+        "scattered": 2
+      },
+      "total": 220,
+      "winnerId": "michael_r_benedetto",
+      "margin": 56.4,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82018": {
+      "votes": {
+        "michael_r_benedetto": 45,
+        "jake_kuhl": 23,
+        "felix_omozusi": 5,
+        "scattered": 0
+      },
+      "total": 73,
+      "winnerId": "michael_r_benedetto",
+      "margin": 30.1,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82019": {
+      "votes": {
+        "michael_r_benedetto": 35,
+        "jake_kuhl": 29,
+        "felix_omozusi": 3,
+        "scattered": 1
+      },
+      "total": 68,
+      "winnerId": "michael_r_benedetto",
+      "margin": 8.8,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82020": {
+      "votes": {
+        "michael_r_benedetto": 54,
+        "jake_kuhl": 28,
+        "felix_omozusi": 7,
+        "scattered": 1
+      },
+      "total": 90,
+      "winnerId": "michael_r_benedetto",
+      "margin": 28.9,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82021": {
+      "votes": {
+        "michael_r_benedetto": 50,
+        "jake_kuhl": 28,
+        "felix_omozusi": 6,
+        "scattered": 1
+      },
+      "total": 85,
+      "winnerId": "michael_r_benedetto",
+      "margin": 25.9,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82022": {
+      "votes": {
+        "michael_r_benedetto": 139,
+        "jake_kuhl": 32,
+        "felix_omozusi": 22,
+        "scattered": 0
+      },
+      "total": 193,
+      "winnerId": "michael_r_benedetto",
+      "margin": 55.4,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82023": {
+      "votes": {
+        "michael_r_benedetto": 49,
+        "jake_kuhl": 35,
+        "felix_omozusi": 7,
+        "scattered": 1
+      },
+      "total": 92,
+      "winnerId": "michael_r_benedetto",
+      "margin": 15.2,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82024": {
+      "votes": {
+        "michael_r_benedetto": 153,
+        "jake_kuhl": 31,
+        "felix_omozusi": 38,
+        "scattered": 1
+      },
+      "total": 223,
+      "winnerId": "michael_r_benedetto",
+      "margin": 51.6,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82025": {
+      "votes": {
+        "michael_r_benedetto": 60,
+        "jake_kuhl": 31,
+        "felix_omozusi": 14,
+        "scattered": 1
+      },
+      "total": 106,
+      "winnerId": "michael_r_benedetto",
+      "margin": 27.4,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82026": {
+      "votes": {
+        "michael_r_benedetto": 31,
+        "jake_kuhl": 17,
+        "felix_omozusi": 11,
+        "scattered": 1
+      },
+      "total": 60,
+      "winnerId": "michael_r_benedetto",
+      "margin": 23.3,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82027": {
+      "votes": {
+        "michael_r_benedetto": 30,
+        "jake_kuhl": 15,
+        "felix_omozusi": 6,
+        "scattered": 2
+      },
+      "total": 53,
+      "winnerId": "michael_r_benedetto",
+      "margin": 28.3,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82028": {
+      "votes": {
+        "michael_r_benedetto": 74,
+        "jake_kuhl": 40,
+        "felix_omozusi": 13,
+        "scattered": 0
+      },
+      "total": 127,
+      "winnerId": "michael_r_benedetto",
+      "margin": 26.8,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82029": {
+      "votes": {
+        "michael_r_benedetto": 48,
+        "jake_kuhl": 47,
+        "felix_omozusi": 19,
+        "scattered": 0
+      },
+      "total": 114,
+      "winnerId": "michael_r_benedetto",
+      "margin": 0.9,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82030": {
+      "votes": {
+        "michael_r_benedetto": 69,
+        "jake_kuhl": 31,
+        "felix_omozusi": 23,
+        "scattered": 1
+      },
+      "total": 124,
+      "winnerId": "michael_r_benedetto",
+      "margin": 30.6,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82031": {
+      "votes": {
+        "michael_r_benedetto": 37,
+        "jake_kuhl": 39,
+        "felix_omozusi": 20,
+        "scattered": 1
+      },
+      "total": 97,
+      "winnerId": "jake_kuhl",
+      "margin": 2.1,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82032": {
+      "votes": {
+        "michael_r_benedetto": 48,
+        "jake_kuhl": 30,
+        "felix_omozusi": 16,
+        "scattered": 1
+      },
+      "total": 95,
+      "winnerId": "michael_r_benedetto",
+      "margin": 18.9,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82033": {
+      "votes": {
+        "michael_r_benedetto": 30,
+        "jake_kuhl": 24,
+        "felix_omozusi": 8,
+        "scattered": 0
+      },
+      "total": 62,
+      "winnerId": "michael_r_benedetto",
+      "margin": 9.7,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82034": {
+      "votes": {
+        "michael_r_benedetto": 47,
+        "jake_kuhl": 23,
+        "felix_omozusi": 6,
+        "scattered": 0
+      },
+      "total": 76,
+      "winnerId": "michael_r_benedetto",
+      "margin": 31.6,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82035": {
+      "votes": {
+        "michael_r_benedetto": 22,
+        "jake_kuhl": 16,
+        "felix_omozusi": 5,
+        "scattered": 1
+      },
+      "total": 44,
+      "winnerId": "michael_r_benedetto",
+      "margin": 13.6,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82036": {
+      "votes": {
+        "michael_r_benedetto": 34,
+        "jake_kuhl": 42,
+        "felix_omozusi": 12,
+        "scattered": 2
+      },
+      "total": 90,
+      "winnerId": "jake_kuhl",
+      "margin": 8.9,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82037": {
+      "votes": {
+        "michael_r_benedetto": 2,
+        "jake_kuhl": 1,
+        "felix_omozusi": 0,
+        "scattered": 0
+      },
+      "total": 3,
+      "winnerId": "michael_r_benedetto",
+      "margin": 33.3,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82038": {
+      "votes": {
+        "michael_r_benedetto": 51,
+        "jake_kuhl": 17,
+        "felix_omozusi": 15,
+        "scattered": 0
+      },
+      "total": 83,
+      "winnerId": "michael_r_benedetto",
+      "margin": 41,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82039": {
+      "votes": {
+        "michael_r_benedetto": 24,
+        "jake_kuhl": 12,
+        "felix_omozusi": 11,
+        "scattered": 1
+      },
+      "total": 48,
+      "winnerId": "michael_r_benedetto",
+      "margin": 25,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82040": {
+      "votes": {
+        "michael_r_benedetto": 33,
+        "jake_kuhl": 31,
+        "felix_omozusi": 13,
+        "scattered": 4
+      },
+      "total": 81,
+      "winnerId": "michael_r_benedetto",
+      "margin": 2.5,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82041": {
+      "votes": {
+        "michael_r_benedetto": 124,
+        "jake_kuhl": 64,
+        "felix_omozusi": 15,
+        "scattered": 1
+      },
+      "total": 204,
+      "winnerId": "michael_r_benedetto",
+      "margin": 29.4,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82042": {
+      "votes": {
+        "michael_r_benedetto": 97,
+        "jake_kuhl": 44,
+        "felix_omozusi": 7,
+        "scattered": 0
+      },
+      "total": 148,
+      "winnerId": "michael_r_benedetto",
+      "margin": 35.8,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82043": {
+      "votes": {
+        "michael_r_benedetto": 22,
+        "jake_kuhl": 17,
+        "felix_omozusi": 10,
+        "scattered": 0
+      },
+      "total": 49,
+      "winnerId": "michael_r_benedetto",
+      "margin": 10.2,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82044": {
+      "votes": {
+        "michael_r_benedetto": 170,
+        "jake_kuhl": 39,
+        "felix_omozusi": 46,
+        "scattered": 0
+      },
+      "total": 255,
+      "winnerId": "michael_r_benedetto",
+      "margin": 48.6,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82045": {
+      "votes": {
+        "michael_r_benedetto": 111,
+        "jake_kuhl": 22,
+        "felix_omozusi": 13,
+        "scattered": 0
+      },
+      "total": 146,
+      "winnerId": "michael_r_benedetto",
+      "margin": 61,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82046": {
+      "votes": {
+        "michael_r_benedetto": 122,
+        "jake_kuhl": 39,
+        "felix_omozusi": 13,
+        "scattered": 1
+      },
+      "total": 175,
+      "winnerId": "michael_r_benedetto",
+      "margin": 47.4,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82047": {
+      "votes": {
+        "michael_r_benedetto": 99,
+        "jake_kuhl": 14,
+        "felix_omozusi": 10,
+        "scattered": 0
+      },
+      "total": 123,
+      "winnerId": "michael_r_benedetto",
+      "margin": 69.1,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82048": {
+      "votes": {
+        "michael_r_benedetto": 150,
+        "jake_kuhl": 37,
+        "felix_omozusi": 36,
+        "scattered": 0
+      },
+      "total": 223,
+      "winnerId": "michael_r_benedetto",
+      "margin": 50.7,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82049": {
+      "votes": {
+        "michael_r_benedetto": 149,
+        "jake_kuhl": 28,
+        "felix_omozusi": 35,
+        "scattered": 0
+      },
+      "total": 212,
+      "winnerId": "michael_r_benedetto",
+      "margin": 53.8,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82050": {
+      "votes": {
+        "michael_r_benedetto": 135,
+        "jake_kuhl": 25,
+        "felix_omozusi": 12,
+        "scattered": 1
+      },
+      "total": 173,
+      "winnerId": "michael_r_benedetto",
+      "margin": 63.6,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82051": {
+      "votes": {
+        "michael_r_benedetto": 116,
+        "jake_kuhl": 27,
+        "felix_omozusi": 18,
+        "scattered": 0
+      },
+      "total": 161,
+      "winnerId": "michael_r_benedetto",
+      "margin": 55.3,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82052": {
+      "votes": {
+        "michael_r_benedetto": 161,
+        "jake_kuhl": 34,
+        "felix_omozusi": 23,
+        "scattered": 0
+      },
+      "total": 218,
+      "winnerId": "michael_r_benedetto",
+      "margin": 58.3,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82053": {
+      "votes": {
+        "michael_r_benedetto": 14,
+        "jake_kuhl": 2,
+        "felix_omozusi": 1,
+        "scattered": 0
+      },
+      "total": 17,
+      "winnerId": "michael_r_benedetto",
+      "margin": 70.6,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82054": {
+      "votes": {
+        "michael_r_benedetto": 178,
+        "jake_kuhl": 35,
+        "felix_omozusi": 24,
+        "scattered": 0
+      },
+      "total": 237,
+      "winnerId": "michael_r_benedetto",
+      "margin": 60.3,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82055": {
+      "votes": {
+        "michael_r_benedetto": 160,
+        "jake_kuhl": 46,
+        "felix_omozusi": 36,
+        "scattered": 3
+      },
+      "total": 245,
+      "winnerId": "michael_r_benedetto",
+      "margin": 46.5,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82056": {
+      "votes": {
+        "michael_r_benedetto": 128,
+        "jake_kuhl": 39,
+        "felix_omozusi": 18,
+        "scattered": 0
+      },
+      "total": 185,
+      "winnerId": "michael_r_benedetto",
+      "margin": 48.1,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82057": {
+      "votes": {
+        "michael_r_benedetto": 180,
+        "jake_kuhl": 43,
+        "felix_omozusi": 27,
+        "scattered": 0
+      },
+      "total": 250,
+      "winnerId": "michael_r_benedetto",
+      "margin": 54.8,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82058": {
+      "votes": {
+        "michael_r_benedetto": 194,
+        "jake_kuhl": 39,
+        "felix_omozusi": 25,
+        "scattered": 3
+      },
+      "total": 261,
+      "winnerId": "michael_r_benedetto",
+      "margin": 59.4,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82059": {
+      "votes": {
+        "michael_r_benedetto": 202,
+        "jake_kuhl": 35,
+        "felix_omozusi": 39,
+        "scattered": 1
+      },
+      "total": 277,
+      "winnerId": "michael_r_benedetto",
+      "margin": 58.8,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82063": {
+      "votes": {
+        "michael_r_benedetto": 0,
+        "jake_kuhl": 0,
+        "felix_omozusi": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "michael_r_benedetto",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82064": {
+      "votes": {
+        "michael_r_benedetto": 0,
+        "jake_kuhl": 0,
+        "felix_omozusi": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "michael_r_benedetto",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82066": {
+      "votes": {
+        "michael_r_benedetto": 0,
+        "jake_kuhl": 0,
+        "felix_omozusi": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "michael_r_benedetto",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82/001": {
+      "votes": {
+        "michael_r_benedetto": 47,
+        "jake_kuhl": 89,
+        "felix_omozusi": 7,
+        "scattered": 0
+      },
+      "total": 143,
+      "winnerId": "jake_kuhl",
+      "margin": 29.4,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82/002": {
+      "votes": {
+        "michael_r_benedetto": 16,
+        "jake_kuhl": 16,
+        "felix_omozusi": 2,
+        "scattered": 0
+      },
+      "total": 34,
+      "winnerId": "michael_r_benedetto",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82/003": {
+      "votes": {
+        "michael_r_benedetto": 45,
+        "jake_kuhl": 33,
+        "felix_omozusi": 9,
+        "scattered": 0
+      },
+      "total": 87,
+      "winnerId": "michael_r_benedetto",
+      "margin": 13.8,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82/004": {
+      "votes": {
+        "michael_r_benedetto": 40,
+        "jake_kuhl": 29,
+        "felix_omozusi": 5,
+        "scattered": 0
+      },
+      "total": 74,
+      "winnerId": "michael_r_benedetto",
+      "margin": 14.9,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82/005": {
+      "votes": {
+        "michael_r_benedetto": 30,
+        "jake_kuhl": 36,
+        "felix_omozusi": 12,
+        "scattered": 1
+      },
+      "total": 79,
+      "winnerId": "jake_kuhl",
+      "margin": 7.6,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82/006": {
+      "votes": {
+        "michael_r_benedetto": 43,
+        "jake_kuhl": 103,
+        "felix_omozusi": 6,
+        "scattered": 0
+      },
+      "total": 152,
+      "winnerId": "jake_kuhl",
+      "margin": 39.5,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82/007": {
+      "votes": {
+        "michael_r_benedetto": 48,
+        "jake_kuhl": 20,
+        "felix_omozusi": 8,
+        "scattered": 1
+      },
+      "total": 77,
+      "winnerId": "michael_r_benedetto",
+      "margin": 36.4,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82/008": {
+      "votes": {
+        "michael_r_benedetto": 26,
+        "jake_kuhl": 26,
+        "felix_omozusi": 14,
+        "scattered": 1
+      },
+      "total": 67,
+      "winnerId": "michael_r_benedetto",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82/009": {
+      "votes": {
+        "michael_r_benedetto": 47,
+        "jake_kuhl": 36,
+        "felix_omozusi": 15,
+        "scattered": 1
+      },
+      "total": 99,
+      "winnerId": "michael_r_benedetto",
+      "margin": 11.1,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82/010": {
+      "votes": {
+        "michael_r_benedetto": 55,
+        "jake_kuhl": 35,
+        "felix_omozusi": 16,
+        "scattered": 0
+      },
+      "total": 106,
+      "winnerId": "michael_r_benedetto",
+      "margin": 18.9,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82/011": {
+      "votes": {
+        "michael_r_benedetto": 33,
+        "jake_kuhl": 26,
+        "felix_omozusi": 11,
+        "scattered": 1
+      },
+      "total": 71,
+      "winnerId": "michael_r_benedetto",
+      "margin": 9.9,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82/012": {
+      "votes": {
+        "michael_r_benedetto": 34,
+        "jake_kuhl": 11,
+        "felix_omozusi": 17,
+        "scattered": 0
+      },
+      "total": 62,
+      "winnerId": "michael_r_benedetto",
+      "margin": 27.4,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82/013": {
+      "votes": {
+        "michael_r_benedetto": 62,
+        "jake_kuhl": 25,
+        "felix_omozusi": 21,
+        "scattered": 0
+      },
+      "total": 108,
+      "winnerId": "michael_r_benedetto",
+      "margin": 34.3,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82/014": {
+      "votes": {
+        "michael_r_benedetto": 172,
+        "jake_kuhl": 35,
+        "felix_omozusi": 28,
+        "scattered": 2
+      },
+      "total": 237,
+      "winnerId": "michael_r_benedetto",
+      "margin": 57.8,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82/015": {
+      "votes": {
+        "michael_r_benedetto": 49,
+        "jake_kuhl": 29,
+        "felix_omozusi": 15,
+        "scattered": 0
+      },
+      "total": 93,
+      "winnerId": "michael_r_benedetto",
+      "margin": 21.5,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82/016": {
+      "votes": {
+        "michael_r_benedetto": 51,
+        "jake_kuhl": 27,
+        "felix_omozusi": 17,
+        "scattered": 0
+      },
+      "total": 95,
+      "winnerId": "michael_r_benedetto",
+      "margin": 25.3,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82/017": {
+      "votes": {
+        "michael_r_benedetto": 161,
+        "jake_kuhl": 37,
+        "felix_omozusi": 20,
+        "scattered": 2
+      },
+      "total": 220,
+      "winnerId": "michael_r_benedetto",
+      "margin": 56.4,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82/018": {
+      "votes": {
+        "michael_r_benedetto": 45,
+        "jake_kuhl": 23,
+        "felix_omozusi": 5,
+        "scattered": 0
+      },
+      "total": 73,
+      "winnerId": "michael_r_benedetto",
+      "margin": 30.1,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82/019": {
+      "votes": {
+        "michael_r_benedetto": 35,
+        "jake_kuhl": 29,
+        "felix_omozusi": 3,
+        "scattered": 1
+      },
+      "total": 68,
+      "winnerId": "michael_r_benedetto",
+      "margin": 8.8,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82/020": {
+      "votes": {
+        "michael_r_benedetto": 54,
+        "jake_kuhl": 28,
+        "felix_omozusi": 7,
+        "scattered": 1
+      },
+      "total": 90,
+      "winnerId": "michael_r_benedetto",
+      "margin": 28.9,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82/021": {
+      "votes": {
+        "michael_r_benedetto": 50,
+        "jake_kuhl": 28,
+        "felix_omozusi": 6,
+        "scattered": 1
+      },
+      "total": 85,
+      "winnerId": "michael_r_benedetto",
+      "margin": 25.9,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82/022": {
+      "votes": {
+        "michael_r_benedetto": 139,
+        "jake_kuhl": 32,
+        "felix_omozusi": 22,
+        "scattered": 0
+      },
+      "total": 193,
+      "winnerId": "michael_r_benedetto",
+      "margin": 55.4,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82/023": {
+      "votes": {
+        "michael_r_benedetto": 49,
+        "jake_kuhl": 35,
+        "felix_omozusi": 7,
+        "scattered": 1
+      },
+      "total": 92,
+      "winnerId": "michael_r_benedetto",
+      "margin": 15.2,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82/024": {
+      "votes": {
+        "michael_r_benedetto": 153,
+        "jake_kuhl": 31,
+        "felix_omozusi": 38,
+        "scattered": 1
+      },
+      "total": 223,
+      "winnerId": "michael_r_benedetto",
+      "margin": 51.6,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82/025": {
+      "votes": {
+        "michael_r_benedetto": 60,
+        "jake_kuhl": 31,
+        "felix_omozusi": 14,
+        "scattered": 1
+      },
+      "total": 106,
+      "winnerId": "michael_r_benedetto",
+      "margin": 27.4,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82/026": {
+      "votes": {
+        "michael_r_benedetto": 31,
+        "jake_kuhl": 17,
+        "felix_omozusi": 11,
+        "scattered": 1
+      },
+      "total": 60,
+      "winnerId": "michael_r_benedetto",
+      "margin": 23.3,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82/027": {
+      "votes": {
+        "michael_r_benedetto": 30,
+        "jake_kuhl": 15,
+        "felix_omozusi": 6,
+        "scattered": 2
+      },
+      "total": 53,
+      "winnerId": "michael_r_benedetto",
+      "margin": 28.3,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82/028": {
+      "votes": {
+        "michael_r_benedetto": 74,
+        "jake_kuhl": 40,
+        "felix_omozusi": 13,
+        "scattered": 0
+      },
+      "total": 127,
+      "winnerId": "michael_r_benedetto",
+      "margin": 26.8,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82/029": {
+      "votes": {
+        "michael_r_benedetto": 48,
+        "jake_kuhl": 47,
+        "felix_omozusi": 19,
+        "scattered": 0
+      },
+      "total": 114,
+      "winnerId": "michael_r_benedetto",
+      "margin": 0.9,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82/030": {
+      "votes": {
+        "michael_r_benedetto": 69,
+        "jake_kuhl": 31,
+        "felix_omozusi": 23,
+        "scattered": 1
+      },
+      "total": 124,
+      "winnerId": "michael_r_benedetto",
+      "margin": 30.6,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82/031": {
+      "votes": {
+        "michael_r_benedetto": 37,
+        "jake_kuhl": 39,
+        "felix_omozusi": 20,
+        "scattered": 1
+      },
+      "total": 97,
+      "winnerId": "jake_kuhl",
+      "margin": 2.1,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82/032": {
+      "votes": {
+        "michael_r_benedetto": 48,
+        "jake_kuhl": 30,
+        "felix_omozusi": 16,
+        "scattered": 1
+      },
+      "total": 95,
+      "winnerId": "michael_r_benedetto",
+      "margin": 18.9,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82/033": {
+      "votes": {
+        "michael_r_benedetto": 30,
+        "jake_kuhl": 24,
+        "felix_omozusi": 8,
+        "scattered": 0
+      },
+      "total": 62,
+      "winnerId": "michael_r_benedetto",
+      "margin": 9.7,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82/034": {
+      "votes": {
+        "michael_r_benedetto": 47,
+        "jake_kuhl": 23,
+        "felix_omozusi": 6,
+        "scattered": 0
+      },
+      "total": 76,
+      "winnerId": "michael_r_benedetto",
+      "margin": 31.6,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82/035": {
+      "votes": {
+        "michael_r_benedetto": 22,
+        "jake_kuhl": 16,
+        "felix_omozusi": 5,
+        "scattered": 1
+      },
+      "total": 44,
+      "winnerId": "michael_r_benedetto",
+      "margin": 13.6,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82/036": {
+      "votes": {
+        "michael_r_benedetto": 34,
+        "jake_kuhl": 42,
+        "felix_omozusi": 12,
+        "scattered": 2
+      },
+      "total": 90,
+      "winnerId": "jake_kuhl",
+      "margin": 8.9,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82/037": {
+      "votes": {
+        "michael_r_benedetto": 2,
+        "jake_kuhl": 1,
+        "felix_omozusi": 0,
+        "scattered": 0
+      },
+      "total": 3,
+      "winnerId": "michael_r_benedetto",
+      "margin": 33.3,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82/038": {
+      "votes": {
+        "michael_r_benedetto": 51,
+        "jake_kuhl": 17,
+        "felix_omozusi": 15,
+        "scattered": 0
+      },
+      "total": 83,
+      "winnerId": "michael_r_benedetto",
+      "margin": 41,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82/039": {
+      "votes": {
+        "michael_r_benedetto": 24,
+        "jake_kuhl": 12,
+        "felix_omozusi": 11,
+        "scattered": 1
+      },
+      "total": 48,
+      "winnerId": "michael_r_benedetto",
+      "margin": 25,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82/040": {
+      "votes": {
+        "michael_r_benedetto": 33,
+        "jake_kuhl": 31,
+        "felix_omozusi": 13,
+        "scattered": 4
+      },
+      "total": 81,
+      "winnerId": "michael_r_benedetto",
+      "margin": 2.5,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82/041": {
+      "votes": {
+        "michael_r_benedetto": 124,
+        "jake_kuhl": 64,
+        "felix_omozusi": 15,
+        "scattered": 1
+      },
+      "total": 204,
+      "winnerId": "michael_r_benedetto",
+      "margin": 29.4,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82/042": {
+      "votes": {
+        "michael_r_benedetto": 97,
+        "jake_kuhl": 44,
+        "felix_omozusi": 7,
+        "scattered": 0
+      },
+      "total": 148,
+      "winnerId": "michael_r_benedetto",
+      "margin": 35.8,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82/043": {
+      "votes": {
+        "michael_r_benedetto": 22,
+        "jake_kuhl": 17,
+        "felix_omozusi": 10,
+        "scattered": 0
+      },
+      "total": 49,
+      "winnerId": "michael_r_benedetto",
+      "margin": 10.2,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82/044": {
+      "votes": {
+        "michael_r_benedetto": 170,
+        "jake_kuhl": 39,
+        "felix_omozusi": 46,
+        "scattered": 0
+      },
+      "total": 255,
+      "winnerId": "michael_r_benedetto",
+      "margin": 48.6,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82/045": {
+      "votes": {
+        "michael_r_benedetto": 111,
+        "jake_kuhl": 22,
+        "felix_omozusi": 13,
+        "scattered": 0
+      },
+      "total": 146,
+      "winnerId": "michael_r_benedetto",
+      "margin": 61,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82/046": {
+      "votes": {
+        "michael_r_benedetto": 122,
+        "jake_kuhl": 39,
+        "felix_omozusi": 13,
+        "scattered": 1
+      },
+      "total": 175,
+      "winnerId": "michael_r_benedetto",
+      "margin": 47.4,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82/047": {
+      "votes": {
+        "michael_r_benedetto": 99,
+        "jake_kuhl": 14,
+        "felix_omozusi": 10,
+        "scattered": 0
+      },
+      "total": 123,
+      "winnerId": "michael_r_benedetto",
+      "margin": 69.1,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82/048": {
+      "votes": {
+        "michael_r_benedetto": 150,
+        "jake_kuhl": 37,
+        "felix_omozusi": 36,
+        "scattered": 0
+      },
+      "total": 223,
+      "winnerId": "michael_r_benedetto",
+      "margin": 50.7,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82/049": {
+      "votes": {
+        "michael_r_benedetto": 149,
+        "jake_kuhl": 28,
+        "felix_omozusi": 35,
+        "scattered": 0
+      },
+      "total": 212,
+      "winnerId": "michael_r_benedetto",
+      "margin": 53.8,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82/050": {
+      "votes": {
+        "michael_r_benedetto": 135,
+        "jake_kuhl": 25,
+        "felix_omozusi": 12,
+        "scattered": 1
+      },
+      "total": 173,
+      "winnerId": "michael_r_benedetto",
+      "margin": 63.6,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82/051": {
+      "votes": {
+        "michael_r_benedetto": 116,
+        "jake_kuhl": 27,
+        "felix_omozusi": 18,
+        "scattered": 0
+      },
+      "total": 161,
+      "winnerId": "michael_r_benedetto",
+      "margin": 55.3,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82/052": {
+      "votes": {
+        "michael_r_benedetto": 161,
+        "jake_kuhl": 34,
+        "felix_omozusi": 23,
+        "scattered": 0
+      },
+      "total": 218,
+      "winnerId": "michael_r_benedetto",
+      "margin": 58.3,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82/053": {
+      "votes": {
+        "michael_r_benedetto": 14,
+        "jake_kuhl": 2,
+        "felix_omozusi": 1,
+        "scattered": 0
+      },
+      "total": 17,
+      "winnerId": "michael_r_benedetto",
+      "margin": 70.6,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82/054": {
+      "votes": {
+        "michael_r_benedetto": 178,
+        "jake_kuhl": 35,
+        "felix_omozusi": 24,
+        "scattered": 0
+      },
+      "total": 237,
+      "winnerId": "michael_r_benedetto",
+      "margin": 60.3,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82/055": {
+      "votes": {
+        "michael_r_benedetto": 160,
+        "jake_kuhl": 46,
+        "felix_omozusi": 36,
+        "scattered": 3
+      },
+      "total": 245,
+      "winnerId": "michael_r_benedetto",
+      "margin": 46.5,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82/056": {
+      "votes": {
+        "michael_r_benedetto": 128,
+        "jake_kuhl": 39,
+        "felix_omozusi": 18,
+        "scattered": 0
+      },
+      "total": 185,
+      "winnerId": "michael_r_benedetto",
+      "margin": 48.1,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82/057": {
+      "votes": {
+        "michael_r_benedetto": 180,
+        "jake_kuhl": 43,
+        "felix_omozusi": 27,
+        "scattered": 0
+      },
+      "total": 250,
+      "winnerId": "michael_r_benedetto",
+      "margin": 54.8,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82/058": {
+      "votes": {
+        "michael_r_benedetto": 194,
+        "jake_kuhl": 39,
+        "felix_omozusi": 25,
+        "scattered": 3
+      },
+      "total": 261,
+      "winnerId": "michael_r_benedetto",
+      "margin": 59.4,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82/059": {
+      "votes": {
+        "michael_r_benedetto": 202,
+        "jake_kuhl": 35,
+        "felix_omozusi": 39,
+        "scattered": 1
+      },
+      "total": 277,
+      "winnerId": "michael_r_benedetto",
+      "margin": 58.8,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82/063": {
+      "votes": {
+        "michael_r_benedetto": 0,
+        "jake_kuhl": 0,
+        "felix_omozusi": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "michael_r_benedetto",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82/064": {
+      "votes": {
+        "michael_r_benedetto": 0,
+        "jake_kuhl": 0,
+        "felix_omozusi": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "michael_r_benedetto",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "82/066": {
+      "votes": {
+        "michael_r_benedetto": 0,
+        "jake_kuhl": 0,
+        "felix_omozusi": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "michael_r_benedetto",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "michael_r_benedetto",
+          "name": "Michael R. Benedetto",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jake_kuhl",
+          "name": "Jake Kuhl",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "felix_omozusi",
+          "name": "Felix Omozusi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,322 @@
+{
+  "id": "democratic_county_committee_81029",
+  "name": "2026 Primary - County Committee District 81029",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "Judicial & Party Offices",
+  "districtKey": "81029",
+  "districtType": "congressional",
+  "isUncontested": false,
+  "candidates": [
+    {
+      "id": "helen_k_morik",
+      "name": "Helen K. Morik",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#d97706"
+    },
+    {
+      "id": "ellen_feld",
+      "name": "Ellen Feld",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#7c3aed"
+    },
+    {
+      "id": "deena_spindler",
+      "name": "Deena Spindler",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#059669"
+    },
+    {
+      "id": "susan_goldy",
+      "name": "Susan Goldy",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#0891b2"
+    },
+    {
+      "id": "aaron_stayman",
+      "name": "Aaron Stayman",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#4f46e5"
+    },
+    {
+      "id": "simone_stern",
+      "name": "Simone Stern",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#db2777"
+    },
+    {
+      "id": "jon_zeftel",
+      "name": "Jon Zeftel",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#64748b"
+    },
+    {
+      "id": "illiam_carrillo",
+      "name": "Illiam Carrillo",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#64748b"
+    },
+    {
+      "id": "scattered",
+      "name": "Scattered",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#64748b"
+    }
+  ],
+  "results": {
+    "81029": {
+      "votes": {
+        "helen_k_morik": 211,
+        "ellen_feld": 210,
+        "deena_spindler": 208,
+        "susan_goldy": 207,
+        "aaron_stayman": 182,
+        "simone_stern": 161,
+        "jon_zeftel": 159,
+        "illiam_carrillo": 149,
+        "scattered": 5
+      },
+      "total": 1492,
+      "winnerId": "helen_k_morik",
+      "margin": 0.1,
+      "candidates": [
+        {
+          "id": "helen_k_morik",
+          "name": "Helen K. Morik",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ellen_feld",
+          "name": "Ellen Feld",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "deena_spindler",
+          "name": "Deena Spindler",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "susan_goldy",
+          "name": "Susan Goldy",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "aaron_stayman",
+          "name": "Aaron Stayman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "simone_stern",
+          "name": "Simone Stern",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        },
+        {
+          "id": "jon_zeftel",
+          "name": "Jon Zeftel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#64748b"
+        },
+        {
+          "id": "illiam_carrillo",
+          "name": "Illiam Carrillo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#64748b"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#64748b"
+        }
+      ]
+    }
+  },
+  "edResults": {
+    "81029": {
+      "votes": {
+        "helen_k_morik": 211,
+        "ellen_feld": 210,
+        "deena_spindler": 208,
+        "susan_goldy": 207,
+        "aaron_stayman": 182,
+        "simone_stern": 161,
+        "jon_zeftel": 159,
+        "illiam_carrillo": 149,
+        "scattered": 5
+      },
+      "total": 1492,
+      "winnerId": "helen_k_morik",
+      "margin": 0.1,
+      "candidates": [
+        {
+          "id": "helen_k_morik",
+          "name": "Helen K. Morik",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ellen_feld",
+          "name": "Ellen Feld",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "deena_spindler",
+          "name": "Deena Spindler",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "susan_goldy",
+          "name": "Susan Goldy",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "aaron_stayman",
+          "name": "Aaron Stayman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "simone_stern",
+          "name": "Simone Stern",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        },
+        {
+          "id": "jon_zeftel",
+          "name": "Jon Zeftel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#64748b"
+        },
+        {
+          "id": "illiam_carrillo",
+          "name": "Illiam Carrillo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#64748b"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#64748b"
+        }
+      ]
+    },
+    "81/029": {
+      "votes": {
+        "helen_k_morik": 211,
+        "ellen_feld": 210,
+        "deena_spindler": 208,
+        "susan_goldy": 207,
+        "aaron_stayman": 182,
+        "simone_stern": 161,
+        "jon_zeftel": 159,
+        "illiam_carrillo": 149,
+        "scattered": 5
+      },
+      "total": 1492,
+      "winnerId": "helen_k_morik",
+      "margin": 0.1,
+      "candidates": [
+        {
+          "id": "helen_k_morik",
+          "name": "Helen K. Morik",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "ellen_feld",
+          "name": "Ellen Feld",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "deena_spindler",
+          "name": "Deena Spindler",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "susan_goldy",
+          "name": "Susan Goldy",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "aaron_stayman",
+          "name": "Aaron Stayman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "simone_stern",
+          "name": "Simone Stern",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        },
+        {
+          "id": "jon_zeftel",
+          "name": "Jon Zeftel",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#64748b"
+        },
+        {
+          "id": "illiam_carrillo",
+          "name": "Illiam Carrillo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#64748b"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#64748b"
+        }
+      ]
+    }
+  }
+}

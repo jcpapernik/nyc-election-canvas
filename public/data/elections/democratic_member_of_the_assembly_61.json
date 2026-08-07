@@ -1,0 +1,31 @@
+{
+  "id": "democratic_member_of_the_assembly_61",
+  "name": "2026 Primary - Member of the Assembly District 61",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "State Assembly",
+  "districtKey": "61",
+  "districtType": "assembly",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "charles_fall",
+      "name": "Charles Fall",
+      "party": "Democratic",
+      "isIncumbent": true,
+      "color": "#2563eb"
+    }
+  ],
+  "results": {
+    "61": {
+      "votes": {
+        "uncontested_primary_assembly_61": 0
+      },
+      "total": 0,
+      "winnerId": "uncontested_primary_assembly_61",
+      "margin": 100,
+      "isUncontested": true
+    }
+  },
+  "edResults": {}
+}

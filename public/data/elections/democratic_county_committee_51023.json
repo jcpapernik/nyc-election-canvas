@@ -1,0 +1,291 @@
+{
+  "id": "democratic_county_committee_51023",
+  "name": "2026 Primary - County Committee District 51023",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "Judicial & Party Offices",
+  "districtKey": "51023",
+  "districtType": "congressional",
+  "isUncontested": false,
+  "candidates": [
+    {
+      "id": "elizabeth-anne_m_zieminski",
+      "name": "Elizabeth-Anne M. Zieminski",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#d97706"
+    },
+    {
+      "id": "seth_m_pollack",
+      "name": "Seth M. Pollack",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#7c3aed"
+    },
+    {
+      "id": "john_v_santore",
+      "name": "John V. Santore",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#059669"
+    },
+    {
+      "id": "frank_la_frazia",
+      "name": "Frank La Frazia",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#0891b2"
+    },
+    {
+      "id": "dulcinia_ayala",
+      "name": "Dulcinia Ayala",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#4f46e5"
+    },
+    {
+      "id": "corey_velez",
+      "name": "Corey Velez",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#db2777"
+    },
+    {
+      "id": "anthony_ayala",
+      "name": "Anthony Ayala",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#64748b"
+    },
+    {
+      "id": "scattered",
+      "name": "Scattered",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#64748b"
+    }
+  ],
+  "results": {
+    "51023": {
+      "votes": {
+        "elizabeth_anne_m_zieminski": 154,
+        "seth_m_pollack": 132,
+        "john_v_santore": 122,
+        "frank_la_frazia": 120,
+        "dulcinia_ayala": 72,
+        "corey_velez": 56,
+        "anthony_ayala": 39,
+        "scattered": 13
+      },
+      "total": 708,
+      "winnerId": "elizabeth_anne_m_zieminski",
+      "margin": 3.1,
+      "candidates": [
+        {
+          "id": "elizabeth_anne_m_zieminski",
+          "name": "Elizabeth-Anne M. Zieminski",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "seth_m_pollack",
+          "name": "Seth M. Pollack",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "john_v_santore",
+          "name": "John V. Santore",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "frank_la_frazia",
+          "name": "Frank La Frazia",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "dulcinia_ayala",
+          "name": "Dulcinia Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "corey_velez",
+          "name": "Corey Velez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        },
+        {
+          "id": "anthony_ayala",
+          "name": "Anthony Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#64748b"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#64748b"
+        }
+      ]
+    }
+  },
+  "edResults": {
+    "51023": {
+      "votes": {
+        "elizabeth_anne_m_zieminski": 154,
+        "seth_m_pollack": 132,
+        "john_v_santore": 122,
+        "frank_la_frazia": 120,
+        "dulcinia_ayala": 72,
+        "corey_velez": 56,
+        "anthony_ayala": 39,
+        "scattered": 13
+      },
+      "total": 708,
+      "winnerId": "elizabeth_anne_m_zieminski",
+      "margin": 3.1,
+      "candidates": [
+        {
+          "id": "elizabeth_anne_m_zieminski",
+          "name": "Elizabeth-Anne M. Zieminski",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "seth_m_pollack",
+          "name": "Seth M. Pollack",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "john_v_santore",
+          "name": "John V. Santore",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "frank_la_frazia",
+          "name": "Frank La Frazia",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "dulcinia_ayala",
+          "name": "Dulcinia Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "corey_velez",
+          "name": "Corey Velez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        },
+        {
+          "id": "anthony_ayala",
+          "name": "Anthony Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#64748b"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#64748b"
+        }
+      ]
+    },
+    "51/023": {
+      "votes": {
+        "elizabeth_anne_m_zieminski": 154,
+        "seth_m_pollack": 132,
+        "john_v_santore": 122,
+        "frank_la_frazia": 120,
+        "dulcinia_ayala": 72,
+        "corey_velez": 56,
+        "anthony_ayala": 39,
+        "scattered": 13
+      },
+      "total": 708,
+      "winnerId": "elizabeth_anne_m_zieminski",
+      "margin": 3.1,
+      "candidates": [
+        {
+          "id": "elizabeth_anne_m_zieminski",
+          "name": "Elizabeth-Anne M. Zieminski",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "seth_m_pollack",
+          "name": "Seth M. Pollack",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "john_v_santore",
+          "name": "John V. Santore",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "frank_la_frazia",
+          "name": "Frank La Frazia",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "dulcinia_ayala",
+          "name": "Dulcinia Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        },
+        {
+          "id": "corey_velez",
+          "name": "Corey Velez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#db2777"
+        },
+        {
+          "id": "anthony_ayala",
+          "name": "Anthony Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#64748b"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#64748b"
+        }
+      ]
+    }
+  }
+}

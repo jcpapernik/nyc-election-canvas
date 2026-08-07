@@ -1,0 +1,31 @@
+{
+  "id": "democratic_member_of_the_assembly_35",
+  "name": "2026 Primary - Member of the Assembly District 35",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "State Assembly",
+  "districtKey": "35",
+  "districtType": "assembly",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "larinda_hooks",
+      "name": "Larinda Hooks",
+      "party": "Democratic",
+      "isIncumbent": true,
+      "color": "#2563eb"
+    }
+  ],
+  "results": {
+    "35": {
+      "votes": {
+        "uncontested_primary_assembly_35": 0
+      },
+      "total": 0,
+      "winnerId": "uncontested_primary_assembly_35",
+      "margin": 100,
+      "isUncontested": true
+    }
+  },
+  "edResults": {}
+}

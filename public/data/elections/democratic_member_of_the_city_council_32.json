@@ -1,0 +1,31 @@
+{
+  "id": "democratic_member_of_the_city_council_32",
+  "name": "2026 Primary - Member of the City Council District 32",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "City Council",
+  "districtKey": "32",
+  "districtType": "council",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "joann_ariola",
+      "name": "Joann Ariola",
+      "party": "Democratic",
+      "isIncumbent": true,
+      "color": "#2563eb"
+    }
+  ],
+  "results": {
+    "32": {
+      "votes": {
+        "uncontested_primary_council_32": 0
+      },
+      "total": 0,
+      "winnerId": "uncontested_primary_council_32",
+      "margin": 100,
+      "isUncontested": true
+    }
+  },
+  "edResults": {}
+}

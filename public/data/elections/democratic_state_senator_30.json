@@ -1,0 +1,31 @@
+{
+  "id": "democratic_state_senator_30",
+  "name": "2026 Primary - State Senator District 30",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "State Senate",
+  "districtKey": "30",
+  "districtType": "senate",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "cordell_cleare",
+      "name": "Cordell Cleare",
+      "party": "Democratic",
+      "isIncumbent": true,
+      "color": "#2563eb"
+    }
+  ],
+  "results": {
+    "30": {
+      "votes": {
+        "uncontested_primary_senate_30": 0
+      },
+      "total": 0,
+      "winnerId": "uncontested_primary_senate_30",
+      "margin": 100,
+      "isUncontested": true
+    }
+  },
+  "edResults": {}
+}

@@ -1,0 +1,4513 @@
+{
+  "id": "democratic_member_of_the_assembly_84",
+  "name": "2026 Primary - Member of the Assembly District 84",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "NY State Assembly",
+  "districtKey": "84",
+  "districtType": "assembly",
+  "isUncontested": false,
+  "candidates": [
+    {
+      "id": "amanda_n_septimo",
+      "name": "Amanda N. Septimo",
+      "party": "Democratic",
+      "isIncumbent": true,
+      "color": "#d97706"
+    },
+    {
+      "id": "hector_feliciano",
+      "name": "Hector Feliciano",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#7c3aed"
+    },
+    {
+      "id": "courtland_w_hankins",
+      "name": "Courtland W. Hankins",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#059669"
+    },
+    {
+      "id": "scattered",
+      "name": "Scattered",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#0891b2"
+    }
+  ],
+  "results": {
+    "84": {
+      "votes": {
+        "amanda_n_septimo": 2494,
+        "hector_feliciano": 888,
+        "courtland_w_hankins": 777,
+        "scattered": 21
+      },
+      "total": 4180,
+      "winnerId": "amanda_n_septimo",
+      "margin": 38.4,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    }
+  },
+  "edResults": {
+    "84001": {
+      "votes": {
+        "amanda_n_septimo": 56,
+        "hector_feliciano": 40,
+        "courtland_w_hankins": 19,
+        "scattered": 1
+      },
+      "total": 116,
+      "winnerId": "amanda_n_septimo",
+      "margin": 13.8,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84002": {
+      "votes": {
+        "amanda_n_septimo": 35,
+        "hector_feliciano": 9,
+        "courtland_w_hankins": 10,
+        "scattered": 0
+      },
+      "total": 54,
+      "winnerId": "amanda_n_septimo",
+      "margin": 46.3,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84003": {
+      "votes": {
+        "amanda_n_septimo": 50,
+        "hector_feliciano": 24,
+        "courtland_w_hankins": 7,
+        "scattered": 1
+      },
+      "total": 82,
+      "winnerId": "amanda_n_septimo",
+      "margin": 31.7,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84004": {
+      "votes": {
+        "amanda_n_septimo": 49,
+        "hector_feliciano": 12,
+        "courtland_w_hankins": 10,
+        "scattered": 0
+      },
+      "total": 71,
+      "winnerId": "amanda_n_septimo",
+      "margin": 52.1,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84005": {
+      "votes": {
+        "amanda_n_septimo": 54,
+        "hector_feliciano": 19,
+        "courtland_w_hankins": 13,
+        "scattered": 0
+      },
+      "total": 86,
+      "winnerId": "amanda_n_septimo",
+      "margin": 40.7,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84006": {
+      "votes": {
+        "amanda_n_septimo": 22,
+        "hector_feliciano": 13,
+        "courtland_w_hankins": 13,
+        "scattered": 0
+      },
+      "total": 48,
+      "winnerId": "amanda_n_septimo",
+      "margin": 18.8,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84007": {
+      "votes": {
+        "amanda_n_septimo": 55,
+        "hector_feliciano": 11,
+        "courtland_w_hankins": 12,
+        "scattered": 0
+      },
+      "total": 78,
+      "winnerId": "amanda_n_septimo",
+      "margin": 55.1,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84008": {
+      "votes": {
+        "amanda_n_septimo": 57,
+        "hector_feliciano": 17,
+        "courtland_w_hankins": 14,
+        "scattered": 0
+      },
+      "total": 88,
+      "winnerId": "amanda_n_septimo",
+      "margin": 45.5,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84009": {
+      "votes": {
+        "amanda_n_septimo": 44,
+        "hector_feliciano": 17,
+        "courtland_w_hankins": 21,
+        "scattered": 1
+      },
+      "total": 83,
+      "winnerId": "amanda_n_septimo",
+      "margin": 27.7,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84010": {
+      "votes": {
+        "amanda_n_septimo": 51,
+        "hector_feliciano": 31,
+        "courtland_w_hankins": 15,
+        "scattered": 0
+      },
+      "total": 97,
+      "winnerId": "amanda_n_septimo",
+      "margin": 20.6,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84011": {
+      "votes": {
+        "amanda_n_septimo": 59,
+        "hector_feliciano": 34,
+        "courtland_w_hankins": 24,
+        "scattered": 1
+      },
+      "total": 118,
+      "winnerId": "amanda_n_septimo",
+      "margin": 21.2,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84012": {
+      "votes": {
+        "amanda_n_septimo": 66,
+        "hector_feliciano": 18,
+        "courtland_w_hankins": 17,
+        "scattered": 0
+      },
+      "total": 101,
+      "winnerId": "amanda_n_septimo",
+      "margin": 47.5,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84013": {
+      "votes": {
+        "amanda_n_septimo": 48,
+        "hector_feliciano": 16,
+        "courtland_w_hankins": 12,
+        "scattered": 2
+      },
+      "total": 78,
+      "winnerId": "amanda_n_septimo",
+      "margin": 41,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84014": {
+      "votes": {
+        "amanda_n_septimo": 147,
+        "hector_feliciano": 37,
+        "courtland_w_hankins": 48,
+        "scattered": 1
+      },
+      "total": 233,
+      "winnerId": "amanda_n_septimo",
+      "margin": 42.5,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84015": {
+      "votes": {
+        "amanda_n_septimo": 32,
+        "hector_feliciano": 10,
+        "courtland_w_hankins": 11,
+        "scattered": 0
+      },
+      "total": 53,
+      "winnerId": "amanda_n_septimo",
+      "margin": 39.6,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84016": {
+      "votes": {
+        "amanda_n_septimo": 49,
+        "hector_feliciano": 5,
+        "courtland_w_hankins": 17,
+        "scattered": 0
+      },
+      "total": 71,
+      "winnerId": "amanda_n_septimo",
+      "margin": 45.1,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84017": {
+      "votes": {
+        "amanda_n_septimo": 68,
+        "hector_feliciano": 37,
+        "courtland_w_hankins": 34,
+        "scattered": 0
+      },
+      "total": 139,
+      "winnerId": "amanda_n_septimo",
+      "margin": 22.3,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84018": {
+      "votes": {
+        "amanda_n_septimo": 45,
+        "hector_feliciano": 13,
+        "courtland_w_hankins": 9,
+        "scattered": 2
+      },
+      "total": 69,
+      "winnerId": "amanda_n_septimo",
+      "margin": 46.4,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84019": {
+      "votes": {
+        "amanda_n_septimo": 49,
+        "hector_feliciano": 9,
+        "courtland_w_hankins": 18,
+        "scattered": 0
+      },
+      "total": 76,
+      "winnerId": "amanda_n_septimo",
+      "margin": 40.8,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84020": {
+      "votes": {
+        "amanda_n_septimo": 41,
+        "hector_feliciano": 29,
+        "courtland_w_hankins": 18,
+        "scattered": 2
+      },
+      "total": 90,
+      "winnerId": "amanda_n_septimo",
+      "margin": 13.3,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84021": {
+      "votes": {
+        "amanda_n_septimo": 30,
+        "hector_feliciano": 15,
+        "courtland_w_hankins": 13,
+        "scattered": 1
+      },
+      "total": 59,
+      "winnerId": "amanda_n_septimo",
+      "margin": 25.4,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84022": {
+      "votes": {
+        "amanda_n_septimo": 39,
+        "hector_feliciano": 26,
+        "courtland_w_hankins": 13,
+        "scattered": 0
+      },
+      "total": 78,
+      "winnerId": "amanda_n_septimo",
+      "margin": 16.7,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84023": {
+      "votes": {
+        "amanda_n_septimo": 34,
+        "hector_feliciano": 10,
+        "courtland_w_hankins": 12,
+        "scattered": 2
+      },
+      "total": 58,
+      "winnerId": "amanda_n_septimo",
+      "margin": 37.9,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84024": {
+      "votes": {
+        "amanda_n_septimo": 11,
+        "hector_feliciano": 17,
+        "courtland_w_hankins": 9,
+        "scattered": 0
+      },
+      "total": 37,
+      "winnerId": "hector_feliciano",
+      "margin": 16.2,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84025": {
+      "votes": {
+        "amanda_n_septimo": 41,
+        "hector_feliciano": 19,
+        "courtland_w_hankins": 11,
+        "scattered": 0
+      },
+      "total": 71,
+      "winnerId": "amanda_n_septimo",
+      "margin": 31,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84026": {
+      "votes": {
+        "amanda_n_septimo": 26,
+        "hector_feliciano": 27,
+        "courtland_w_hankins": 9,
+        "scattered": 0
+      },
+      "total": 62,
+      "winnerId": "hector_feliciano",
+      "margin": 1.6,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84027": {
+      "votes": {
+        "amanda_n_septimo": 13,
+        "hector_feliciano": 7,
+        "courtland_w_hankins": 6,
+        "scattered": 1
+      },
+      "total": 27,
+      "winnerId": "amanda_n_septimo",
+      "margin": 22.2,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84028": {
+      "votes": {
+        "amanda_n_septimo": 41,
+        "hector_feliciano": 11,
+        "courtland_w_hankins": 18,
+        "scattered": 0
+      },
+      "total": 70,
+      "winnerId": "amanda_n_septimo",
+      "margin": 32.9,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84029": {
+      "votes": {
+        "amanda_n_septimo": 35,
+        "hector_feliciano": 15,
+        "courtland_w_hankins": 18,
+        "scattered": 0
+      },
+      "total": 68,
+      "winnerId": "amanda_n_septimo",
+      "margin": 25,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84030": {
+      "votes": {
+        "amanda_n_septimo": 38,
+        "hector_feliciano": 7,
+        "courtland_w_hankins": 8,
+        "scattered": 0
+      },
+      "total": 53,
+      "winnerId": "amanda_n_septimo",
+      "margin": 56.6,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84031": {
+      "votes": {
+        "amanda_n_septimo": 36,
+        "hector_feliciano": 17,
+        "courtland_w_hankins": 14,
+        "scattered": 0
+      },
+      "total": 67,
+      "winnerId": "amanda_n_septimo",
+      "margin": 28.4,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84032": {
+      "votes": {
+        "amanda_n_septimo": 39,
+        "hector_feliciano": 14,
+        "courtland_w_hankins": 20,
+        "scattered": 0
+      },
+      "total": 73,
+      "winnerId": "amanda_n_septimo",
+      "margin": 26,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84033": {
+      "votes": {
+        "amanda_n_septimo": 26,
+        "hector_feliciano": 14,
+        "courtland_w_hankins": 7,
+        "scattered": 0
+      },
+      "total": 47,
+      "winnerId": "amanda_n_septimo",
+      "margin": 25.5,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84034": {
+      "votes": {
+        "amanda_n_septimo": 39,
+        "hector_feliciano": 12,
+        "courtland_w_hankins": 11,
+        "scattered": 0
+      },
+      "total": 62,
+      "winnerId": "amanda_n_septimo",
+      "margin": 43.5,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84035": {
+      "votes": {
+        "amanda_n_septimo": 40,
+        "hector_feliciano": 14,
+        "courtland_w_hankins": 14,
+        "scattered": 1
+      },
+      "total": 69,
+      "winnerId": "amanda_n_septimo",
+      "margin": 37.7,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84036": {
+      "votes": {
+        "amanda_n_septimo": 31,
+        "hector_feliciano": 10,
+        "courtland_w_hankins": 16,
+        "scattered": 1
+      },
+      "total": 58,
+      "winnerId": "amanda_n_septimo",
+      "margin": 25.9,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84037": {
+      "votes": {
+        "amanda_n_septimo": 50,
+        "hector_feliciano": 17,
+        "courtland_w_hankins": 11,
+        "scattered": 0
+      },
+      "total": 78,
+      "winnerId": "amanda_n_septimo",
+      "margin": 42.3,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84038": {
+      "votes": {
+        "amanda_n_septimo": 39,
+        "hector_feliciano": 7,
+        "courtland_w_hankins": 8,
+        "scattered": 0
+      },
+      "total": 54,
+      "winnerId": "amanda_n_septimo",
+      "margin": 57.4,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84039": {
+      "votes": {
+        "amanda_n_septimo": 30,
+        "hector_feliciano": 13,
+        "courtland_w_hankins": 10,
+        "scattered": 1
+      },
+      "total": 54,
+      "winnerId": "amanda_n_septimo",
+      "margin": 31.5,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84040": {
+      "votes": {
+        "amanda_n_septimo": 41,
+        "hector_feliciano": 13,
+        "courtland_w_hankins": 7,
+        "scattered": 0
+      },
+      "total": 61,
+      "winnerId": "amanda_n_septimo",
+      "margin": 45.9,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84041": {
+      "votes": {
+        "amanda_n_septimo": 38,
+        "hector_feliciano": 16,
+        "courtland_w_hankins": 8,
+        "scattered": 0
+      },
+      "total": 62,
+      "winnerId": "amanda_n_septimo",
+      "margin": 35.5,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84042": {
+      "votes": {
+        "amanda_n_septimo": 53,
+        "hector_feliciano": 12,
+        "courtland_w_hankins": 10,
+        "scattered": 0
+      },
+      "total": 75,
+      "winnerId": "amanda_n_septimo",
+      "margin": 54.7,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84043": {
+      "votes": {
+        "amanda_n_septimo": 84,
+        "hector_feliciano": 14,
+        "courtland_w_hankins": 19,
+        "scattered": 1
+      },
+      "total": 118,
+      "winnerId": "amanda_n_septimo",
+      "margin": 55.1,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84044": {
+      "votes": {
+        "amanda_n_septimo": 85,
+        "hector_feliciano": 18,
+        "courtland_w_hankins": 24,
+        "scattered": 0
+      },
+      "total": 127,
+      "winnerId": "amanda_n_septimo",
+      "margin": 48,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84045": {
+      "votes": {
+        "amanda_n_septimo": 69,
+        "hector_feliciano": 18,
+        "courtland_w_hankins": 18,
+        "scattered": 0
+      },
+      "total": 105,
+      "winnerId": "amanda_n_septimo",
+      "margin": 48.6,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84046": {
+      "votes": {
+        "amanda_n_septimo": 47,
+        "hector_feliciano": 23,
+        "courtland_w_hankins": 16,
+        "scattered": 1
+      },
+      "total": 87,
+      "winnerId": "amanda_n_septimo",
+      "margin": 27.6,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84047": {
+      "votes": {
+        "amanda_n_septimo": 31,
+        "hector_feliciano": 13,
+        "courtland_w_hankins": 8,
+        "scattered": 0
+      },
+      "total": 52,
+      "winnerId": "amanda_n_septimo",
+      "margin": 34.6,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84048": {
+      "votes": {
+        "amanda_n_septimo": 30,
+        "hector_feliciano": 14,
+        "courtland_w_hankins": 11,
+        "scattered": 0
+      },
+      "total": 55,
+      "winnerId": "amanda_n_septimo",
+      "margin": 29.1,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84049": {
+      "votes": {
+        "amanda_n_septimo": 24,
+        "hector_feliciano": 11,
+        "courtland_w_hankins": 10,
+        "scattered": 1
+      },
+      "total": 46,
+      "winnerId": "amanda_n_septimo",
+      "margin": 28.3,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84050": {
+      "votes": {
+        "amanda_n_septimo": 55,
+        "hector_feliciano": 17,
+        "courtland_w_hankins": 19,
+        "scattered": 0
+      },
+      "total": 91,
+      "winnerId": "amanda_n_septimo",
+      "margin": 39.6,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84051": {
+      "votes": {
+        "amanda_n_septimo": 113,
+        "hector_feliciano": 5,
+        "courtland_w_hankins": 29,
+        "scattered": 0
+      },
+      "total": 147,
+      "winnerId": "amanda_n_septimo",
+      "margin": 57.1,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84052": {
+      "votes": {
+        "amanda_n_septimo": 76,
+        "hector_feliciano": 25,
+        "courtland_w_hankins": 14,
+        "scattered": 0
+      },
+      "total": 115,
+      "winnerId": "amanda_n_septimo",
+      "margin": 44.3,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84053": {
+      "votes": {
+        "amanda_n_septimo": 29,
+        "hector_feliciano": 16,
+        "courtland_w_hankins": 12,
+        "scattered": 0
+      },
+      "total": 57,
+      "winnerId": "amanda_n_septimo",
+      "margin": 22.8,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84054": {
+      "votes": {
+        "amanda_n_septimo": 4,
+        "hector_feliciano": 0,
+        "courtland_w_hankins": 2,
+        "scattered": 0
+      },
+      "total": 6,
+      "winnerId": "amanda_n_septimo",
+      "margin": 33.3,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84/001": {
+      "votes": {
+        "amanda_n_septimo": 56,
+        "hector_feliciano": 40,
+        "courtland_w_hankins": 19,
+        "scattered": 1
+      },
+      "total": 116,
+      "winnerId": "amanda_n_septimo",
+      "margin": 13.8,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84/002": {
+      "votes": {
+        "amanda_n_septimo": 35,
+        "hector_feliciano": 9,
+        "courtland_w_hankins": 10,
+        "scattered": 0
+      },
+      "total": 54,
+      "winnerId": "amanda_n_septimo",
+      "margin": 46.3,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84/003": {
+      "votes": {
+        "amanda_n_septimo": 50,
+        "hector_feliciano": 24,
+        "courtland_w_hankins": 7,
+        "scattered": 1
+      },
+      "total": 82,
+      "winnerId": "amanda_n_septimo",
+      "margin": 31.7,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84/004": {
+      "votes": {
+        "amanda_n_septimo": 49,
+        "hector_feliciano": 12,
+        "courtland_w_hankins": 10,
+        "scattered": 0
+      },
+      "total": 71,
+      "winnerId": "amanda_n_septimo",
+      "margin": 52.1,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84/005": {
+      "votes": {
+        "amanda_n_septimo": 54,
+        "hector_feliciano": 19,
+        "courtland_w_hankins": 13,
+        "scattered": 0
+      },
+      "total": 86,
+      "winnerId": "amanda_n_septimo",
+      "margin": 40.7,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84/006": {
+      "votes": {
+        "amanda_n_septimo": 22,
+        "hector_feliciano": 13,
+        "courtland_w_hankins": 13,
+        "scattered": 0
+      },
+      "total": 48,
+      "winnerId": "amanda_n_septimo",
+      "margin": 18.8,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84/007": {
+      "votes": {
+        "amanda_n_septimo": 55,
+        "hector_feliciano": 11,
+        "courtland_w_hankins": 12,
+        "scattered": 0
+      },
+      "total": 78,
+      "winnerId": "amanda_n_septimo",
+      "margin": 55.1,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84/008": {
+      "votes": {
+        "amanda_n_septimo": 57,
+        "hector_feliciano": 17,
+        "courtland_w_hankins": 14,
+        "scattered": 0
+      },
+      "total": 88,
+      "winnerId": "amanda_n_septimo",
+      "margin": 45.5,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84/009": {
+      "votes": {
+        "amanda_n_septimo": 44,
+        "hector_feliciano": 17,
+        "courtland_w_hankins": 21,
+        "scattered": 1
+      },
+      "total": 83,
+      "winnerId": "amanda_n_septimo",
+      "margin": 27.7,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84/010": {
+      "votes": {
+        "amanda_n_septimo": 51,
+        "hector_feliciano": 31,
+        "courtland_w_hankins": 15,
+        "scattered": 0
+      },
+      "total": 97,
+      "winnerId": "amanda_n_septimo",
+      "margin": 20.6,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84/011": {
+      "votes": {
+        "amanda_n_septimo": 59,
+        "hector_feliciano": 34,
+        "courtland_w_hankins": 24,
+        "scattered": 1
+      },
+      "total": 118,
+      "winnerId": "amanda_n_septimo",
+      "margin": 21.2,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84/012": {
+      "votes": {
+        "amanda_n_septimo": 66,
+        "hector_feliciano": 18,
+        "courtland_w_hankins": 17,
+        "scattered": 0
+      },
+      "total": 101,
+      "winnerId": "amanda_n_septimo",
+      "margin": 47.5,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84/013": {
+      "votes": {
+        "amanda_n_septimo": 48,
+        "hector_feliciano": 16,
+        "courtland_w_hankins": 12,
+        "scattered": 2
+      },
+      "total": 78,
+      "winnerId": "amanda_n_septimo",
+      "margin": 41,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84/014": {
+      "votes": {
+        "amanda_n_septimo": 147,
+        "hector_feliciano": 37,
+        "courtland_w_hankins": 48,
+        "scattered": 1
+      },
+      "total": 233,
+      "winnerId": "amanda_n_septimo",
+      "margin": 42.5,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84/015": {
+      "votes": {
+        "amanda_n_septimo": 32,
+        "hector_feliciano": 10,
+        "courtland_w_hankins": 11,
+        "scattered": 0
+      },
+      "total": 53,
+      "winnerId": "amanda_n_septimo",
+      "margin": 39.6,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84/016": {
+      "votes": {
+        "amanda_n_septimo": 49,
+        "hector_feliciano": 5,
+        "courtland_w_hankins": 17,
+        "scattered": 0
+      },
+      "total": 71,
+      "winnerId": "amanda_n_septimo",
+      "margin": 45.1,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84/017": {
+      "votes": {
+        "amanda_n_septimo": 68,
+        "hector_feliciano": 37,
+        "courtland_w_hankins": 34,
+        "scattered": 0
+      },
+      "total": 139,
+      "winnerId": "amanda_n_septimo",
+      "margin": 22.3,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84/018": {
+      "votes": {
+        "amanda_n_septimo": 45,
+        "hector_feliciano": 13,
+        "courtland_w_hankins": 9,
+        "scattered": 2
+      },
+      "total": 69,
+      "winnerId": "amanda_n_septimo",
+      "margin": 46.4,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84/019": {
+      "votes": {
+        "amanda_n_septimo": 49,
+        "hector_feliciano": 9,
+        "courtland_w_hankins": 18,
+        "scattered": 0
+      },
+      "total": 76,
+      "winnerId": "amanda_n_septimo",
+      "margin": 40.8,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84/020": {
+      "votes": {
+        "amanda_n_septimo": 41,
+        "hector_feliciano": 29,
+        "courtland_w_hankins": 18,
+        "scattered": 2
+      },
+      "total": 90,
+      "winnerId": "amanda_n_septimo",
+      "margin": 13.3,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84/021": {
+      "votes": {
+        "amanda_n_septimo": 30,
+        "hector_feliciano": 15,
+        "courtland_w_hankins": 13,
+        "scattered": 1
+      },
+      "total": 59,
+      "winnerId": "amanda_n_septimo",
+      "margin": 25.4,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84/022": {
+      "votes": {
+        "amanda_n_septimo": 39,
+        "hector_feliciano": 26,
+        "courtland_w_hankins": 13,
+        "scattered": 0
+      },
+      "total": 78,
+      "winnerId": "amanda_n_septimo",
+      "margin": 16.7,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84/023": {
+      "votes": {
+        "amanda_n_septimo": 34,
+        "hector_feliciano": 10,
+        "courtland_w_hankins": 12,
+        "scattered": 2
+      },
+      "total": 58,
+      "winnerId": "amanda_n_septimo",
+      "margin": 37.9,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84/024": {
+      "votes": {
+        "amanda_n_septimo": 11,
+        "hector_feliciano": 17,
+        "courtland_w_hankins": 9,
+        "scattered": 0
+      },
+      "total": 37,
+      "winnerId": "hector_feliciano",
+      "margin": 16.2,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84/025": {
+      "votes": {
+        "amanda_n_septimo": 41,
+        "hector_feliciano": 19,
+        "courtland_w_hankins": 11,
+        "scattered": 0
+      },
+      "total": 71,
+      "winnerId": "amanda_n_septimo",
+      "margin": 31,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84/026": {
+      "votes": {
+        "amanda_n_septimo": 26,
+        "hector_feliciano": 27,
+        "courtland_w_hankins": 9,
+        "scattered": 0
+      },
+      "total": 62,
+      "winnerId": "hector_feliciano",
+      "margin": 1.6,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84/027": {
+      "votes": {
+        "amanda_n_septimo": 13,
+        "hector_feliciano": 7,
+        "courtland_w_hankins": 6,
+        "scattered": 1
+      },
+      "total": 27,
+      "winnerId": "amanda_n_septimo",
+      "margin": 22.2,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84/028": {
+      "votes": {
+        "amanda_n_septimo": 41,
+        "hector_feliciano": 11,
+        "courtland_w_hankins": 18,
+        "scattered": 0
+      },
+      "total": 70,
+      "winnerId": "amanda_n_septimo",
+      "margin": 32.9,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84/029": {
+      "votes": {
+        "amanda_n_septimo": 35,
+        "hector_feliciano": 15,
+        "courtland_w_hankins": 18,
+        "scattered": 0
+      },
+      "total": 68,
+      "winnerId": "amanda_n_septimo",
+      "margin": 25,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84/030": {
+      "votes": {
+        "amanda_n_septimo": 38,
+        "hector_feliciano": 7,
+        "courtland_w_hankins": 8,
+        "scattered": 0
+      },
+      "total": 53,
+      "winnerId": "amanda_n_septimo",
+      "margin": 56.6,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84/031": {
+      "votes": {
+        "amanda_n_septimo": 36,
+        "hector_feliciano": 17,
+        "courtland_w_hankins": 14,
+        "scattered": 0
+      },
+      "total": 67,
+      "winnerId": "amanda_n_septimo",
+      "margin": 28.4,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84/032": {
+      "votes": {
+        "amanda_n_septimo": 39,
+        "hector_feliciano": 14,
+        "courtland_w_hankins": 20,
+        "scattered": 0
+      },
+      "total": 73,
+      "winnerId": "amanda_n_septimo",
+      "margin": 26,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84/033": {
+      "votes": {
+        "amanda_n_septimo": 26,
+        "hector_feliciano": 14,
+        "courtland_w_hankins": 7,
+        "scattered": 0
+      },
+      "total": 47,
+      "winnerId": "amanda_n_septimo",
+      "margin": 25.5,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84/034": {
+      "votes": {
+        "amanda_n_septimo": 39,
+        "hector_feliciano": 12,
+        "courtland_w_hankins": 11,
+        "scattered": 0
+      },
+      "total": 62,
+      "winnerId": "amanda_n_septimo",
+      "margin": 43.5,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84/035": {
+      "votes": {
+        "amanda_n_septimo": 40,
+        "hector_feliciano": 14,
+        "courtland_w_hankins": 14,
+        "scattered": 1
+      },
+      "total": 69,
+      "winnerId": "amanda_n_septimo",
+      "margin": 37.7,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84/036": {
+      "votes": {
+        "amanda_n_septimo": 31,
+        "hector_feliciano": 10,
+        "courtland_w_hankins": 16,
+        "scattered": 1
+      },
+      "total": 58,
+      "winnerId": "amanda_n_septimo",
+      "margin": 25.9,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84/037": {
+      "votes": {
+        "amanda_n_septimo": 50,
+        "hector_feliciano": 17,
+        "courtland_w_hankins": 11,
+        "scattered": 0
+      },
+      "total": 78,
+      "winnerId": "amanda_n_septimo",
+      "margin": 42.3,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84/038": {
+      "votes": {
+        "amanda_n_septimo": 39,
+        "hector_feliciano": 7,
+        "courtland_w_hankins": 8,
+        "scattered": 0
+      },
+      "total": 54,
+      "winnerId": "amanda_n_septimo",
+      "margin": 57.4,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84/039": {
+      "votes": {
+        "amanda_n_septimo": 30,
+        "hector_feliciano": 13,
+        "courtland_w_hankins": 10,
+        "scattered": 1
+      },
+      "total": 54,
+      "winnerId": "amanda_n_septimo",
+      "margin": 31.5,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84/040": {
+      "votes": {
+        "amanda_n_septimo": 41,
+        "hector_feliciano": 13,
+        "courtland_w_hankins": 7,
+        "scattered": 0
+      },
+      "total": 61,
+      "winnerId": "amanda_n_septimo",
+      "margin": 45.9,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84/041": {
+      "votes": {
+        "amanda_n_septimo": 38,
+        "hector_feliciano": 16,
+        "courtland_w_hankins": 8,
+        "scattered": 0
+      },
+      "total": 62,
+      "winnerId": "amanda_n_septimo",
+      "margin": 35.5,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84/042": {
+      "votes": {
+        "amanda_n_septimo": 53,
+        "hector_feliciano": 12,
+        "courtland_w_hankins": 10,
+        "scattered": 0
+      },
+      "total": 75,
+      "winnerId": "amanda_n_septimo",
+      "margin": 54.7,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84/043": {
+      "votes": {
+        "amanda_n_septimo": 84,
+        "hector_feliciano": 14,
+        "courtland_w_hankins": 19,
+        "scattered": 1
+      },
+      "total": 118,
+      "winnerId": "amanda_n_septimo",
+      "margin": 55.1,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84/044": {
+      "votes": {
+        "amanda_n_septimo": 85,
+        "hector_feliciano": 18,
+        "courtland_w_hankins": 24,
+        "scattered": 0
+      },
+      "total": 127,
+      "winnerId": "amanda_n_septimo",
+      "margin": 48,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84/045": {
+      "votes": {
+        "amanda_n_septimo": 69,
+        "hector_feliciano": 18,
+        "courtland_w_hankins": 18,
+        "scattered": 0
+      },
+      "total": 105,
+      "winnerId": "amanda_n_septimo",
+      "margin": 48.6,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84/046": {
+      "votes": {
+        "amanda_n_septimo": 47,
+        "hector_feliciano": 23,
+        "courtland_w_hankins": 16,
+        "scattered": 1
+      },
+      "total": 87,
+      "winnerId": "amanda_n_septimo",
+      "margin": 27.6,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84/047": {
+      "votes": {
+        "amanda_n_septimo": 31,
+        "hector_feliciano": 13,
+        "courtland_w_hankins": 8,
+        "scattered": 0
+      },
+      "total": 52,
+      "winnerId": "amanda_n_septimo",
+      "margin": 34.6,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84/048": {
+      "votes": {
+        "amanda_n_septimo": 30,
+        "hector_feliciano": 14,
+        "courtland_w_hankins": 11,
+        "scattered": 0
+      },
+      "total": 55,
+      "winnerId": "amanda_n_septimo",
+      "margin": 29.1,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84/049": {
+      "votes": {
+        "amanda_n_septimo": 24,
+        "hector_feliciano": 11,
+        "courtland_w_hankins": 10,
+        "scattered": 1
+      },
+      "total": 46,
+      "winnerId": "amanda_n_septimo",
+      "margin": 28.3,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84/050": {
+      "votes": {
+        "amanda_n_septimo": 55,
+        "hector_feliciano": 17,
+        "courtland_w_hankins": 19,
+        "scattered": 0
+      },
+      "total": 91,
+      "winnerId": "amanda_n_septimo",
+      "margin": 39.6,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84/051": {
+      "votes": {
+        "amanda_n_septimo": 113,
+        "hector_feliciano": 5,
+        "courtland_w_hankins": 29,
+        "scattered": 0
+      },
+      "total": 147,
+      "winnerId": "amanda_n_septimo",
+      "margin": 57.1,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84/052": {
+      "votes": {
+        "amanda_n_septimo": 76,
+        "hector_feliciano": 25,
+        "courtland_w_hankins": 14,
+        "scattered": 0
+      },
+      "total": 115,
+      "winnerId": "amanda_n_septimo",
+      "margin": 44.3,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84/053": {
+      "votes": {
+        "amanda_n_septimo": 29,
+        "hector_feliciano": 16,
+        "courtland_w_hankins": 12,
+        "scattered": 0
+      },
+      "total": 57,
+      "winnerId": "amanda_n_septimo",
+      "margin": 22.8,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "84/054": {
+      "votes": {
+        "amanda_n_septimo": 4,
+        "hector_feliciano": 0,
+        "courtland_w_hankins": 2,
+        "scattered": 0
+      },
+      "total": 6,
+      "winnerId": "amanda_n_septimo",
+      "margin": 33.3,
+      "candidates": [
+        {
+          "id": "amanda_n_septimo",
+          "name": "Amanda N. Septimo",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "hector_feliciano",
+          "name": "Hector Feliciano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "courtland_w_hankins",
+          "name": "Courtland W. Hankins",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    }
+  }
+}

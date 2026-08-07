@@ -1,0 +1,5497 @@
+{
+  "id": "democratic_state_committee_71",
+  "name": "2026 Primary - State Committee District 71",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "Judicial & Party Offices",
+  "districtKey": "71",
+  "districtType": "congressional",
+  "isUncontested": false,
+  "candidates": [
+    {
+      "id": "maria_a_luna_(f)",
+      "name": "Maria A. Luna (F)",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#d97706"
+    },
+    {
+      "id": "minerva_roman-luna_(f)",
+      "name": "Minerva Roman-Luna (F)",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#7c3aed"
+    },
+    {
+      "id": "nobles_crawford_(m)",
+      "name": "Nobles Crawford (M)",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#059669"
+    },
+    {
+      "id": "scattered",
+      "name": "Scattered",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#0891b2"
+    }
+  ],
+  "results": {
+    "71": {
+      "votes": {
+        "maria_a_luna_f_": 9827,
+        "minerva_roman_luna_f_": 7070,
+        "nobles_crawford_m_": 5909,
+        "scattered": 204
+      },
+      "total": 23010,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 12,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    }
+  },
+  "edResults": {
+    "71001": {
+      "votes": {
+        "maria_a_luna_f_": 298,
+        "minerva_roman_luna_f_": 163,
+        "nobles_crawford_m_": 203,
+        "scattered": 7
+      },
+      "total": 671,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 14.2,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71002": {
+      "votes": {
+        "maria_a_luna_f_": 198,
+        "minerva_roman_luna_f_": 117,
+        "nobles_crawford_m_": 155,
+        "scattered": 6
+      },
+      "total": 476,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 9,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71003": {
+      "votes": {
+        "maria_a_luna_f_": 356,
+        "minerva_roman_luna_f_": 245,
+        "nobles_crawford_m_": 252,
+        "scattered": 20
+      },
+      "total": 873,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 11.9,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71004": {
+      "votes": {
+        "maria_a_luna_f_": 408,
+        "minerva_roman_luna_f_": 245,
+        "nobles_crawford_m_": 327,
+        "scattered": 4
+      },
+      "total": 984,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 8.2,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71005": {
+      "votes": {
+        "maria_a_luna_f_": 356,
+        "minerva_roman_luna_f_": 219,
+        "nobles_crawford_m_": 259,
+        "scattered": 3
+      },
+      "total": 837,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 11.6,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71006": {
+      "votes": {
+        "maria_a_luna_f_": 341,
+        "minerva_roman_luna_f_": 201,
+        "nobles_crawford_m_": 219,
+        "scattered": 7
+      },
+      "total": 768,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 15.9,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71007": {
+      "votes": {
+        "maria_a_luna_f_": 265,
+        "minerva_roman_luna_f_": 168,
+        "nobles_crawford_m_": 183,
+        "scattered": 3
+      },
+      "total": 619,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 13.2,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71008": {
+      "votes": {
+        "maria_a_luna_f_": 231,
+        "minerva_roman_luna_f_": 162,
+        "nobles_crawford_m_": 128,
+        "scattered": 3
+      },
+      "total": 524,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 13.2,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71009": {
+      "votes": {
+        "maria_a_luna_f_": 273,
+        "minerva_roman_luna_f_": 182,
+        "nobles_crawford_m_": 173,
+        "scattered": 6
+      },
+      "total": 634,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 14.4,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71010": {
+      "votes": {
+        "maria_a_luna_f_": 192,
+        "minerva_roman_luna_f_": 139,
+        "nobles_crawford_m_": 121,
+        "scattered": 5
+      },
+      "total": 457,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 11.6,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71011": {
+      "votes": {
+        "maria_a_luna_f_": 142,
+        "minerva_roman_luna_f_": 98,
+        "nobles_crawford_m_": 92,
+        "scattered": 3
+      },
+      "total": 335,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 13.1,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71012": {
+      "votes": {
+        "maria_a_luna_f_": 144,
+        "minerva_roman_luna_f_": 102,
+        "nobles_crawford_m_": 67,
+        "scattered": 9
+      },
+      "total": 322,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 13,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71013": {
+      "votes": {
+        "maria_a_luna_f_": 150,
+        "minerva_roman_luna_f_": 125,
+        "nobles_crawford_m_": 73,
+        "scattered": 4
+      },
+      "total": 352,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 7.1,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71014": {
+      "votes": {
+        "maria_a_luna_f_": 122,
+        "minerva_roman_luna_f_": 92,
+        "nobles_crawford_m_": 66,
+        "scattered": 1
+      },
+      "total": 281,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 10.7,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71015": {
+      "votes": {
+        "maria_a_luna_f_": 149,
+        "minerva_roman_luna_f_": 103,
+        "nobles_crawford_m_": 79,
+        "scattered": 1
+      },
+      "total": 332,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 13.9,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71016": {
+      "votes": {
+        "maria_a_luna_f_": 118,
+        "minerva_roman_luna_f_": 92,
+        "nobles_crawford_m_": 49,
+        "scattered": 5
+      },
+      "total": 264,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 9.8,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71017": {
+      "votes": {
+        "maria_a_luna_f_": 151,
+        "minerva_roman_luna_f_": 109,
+        "nobles_crawford_m_": 76,
+        "scattered": 2
+      },
+      "total": 338,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 12.4,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71018": {
+      "votes": {
+        "maria_a_luna_f_": 147,
+        "minerva_roman_luna_f_": 105,
+        "nobles_crawford_m_": 98,
+        "scattered": 1
+      },
+      "total": 351,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 12,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71019": {
+      "votes": {
+        "maria_a_luna_f_": 115,
+        "minerva_roman_luna_f_": 90,
+        "nobles_crawford_m_": 67,
+        "scattered": 1
+      },
+      "total": 273,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 9.2,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71020": {
+      "votes": {
+        "maria_a_luna_f_": 139,
+        "minerva_roman_luna_f_": 91,
+        "nobles_crawford_m_": 55,
+        "scattered": 5
+      },
+      "total": 290,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 16.6,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71021": {
+      "votes": {
+        "maria_a_luna_f_": 113,
+        "minerva_roman_luna_f_": 92,
+        "nobles_crawford_m_": 35,
+        "scattered": 4
+      },
+      "total": 244,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 8.6,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71022": {
+      "votes": {
+        "maria_a_luna_f_": 97,
+        "minerva_roman_luna_f_": 80,
+        "nobles_crawford_m_": 35,
+        "scattered": 5
+      },
+      "total": 217,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 7.8,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71023": {
+      "votes": {
+        "maria_a_luna_f_": 150,
+        "minerva_roman_luna_f_": 93,
+        "nobles_crawford_m_": 46,
+        "scattered": 0
+      },
+      "total": 289,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 19.7,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71024": {
+      "votes": {
+        "maria_a_luna_f_": 276,
+        "minerva_roman_luna_f_": 166,
+        "nobles_crawford_m_": 153,
+        "scattered": 8
+      },
+      "total": 603,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 18.2,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71025": {
+      "votes": {
+        "maria_a_luna_f_": 100,
+        "minerva_roman_luna_f_": 73,
+        "nobles_crawford_m_": 50,
+        "scattered": 1
+      },
+      "total": 224,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 12.1,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71026": {
+      "votes": {
+        "maria_a_luna_f_": 146,
+        "minerva_roman_luna_f_": 95,
+        "nobles_crawford_m_": 73,
+        "scattered": 1
+      },
+      "total": 315,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 16.2,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71027": {
+      "votes": {
+        "maria_a_luna_f_": 173,
+        "minerva_roman_luna_f_": 106,
+        "nobles_crawford_m_": 95,
+        "scattered": 0
+      },
+      "total": 374,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 17.9,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71028": {
+      "votes": {
+        "maria_a_luna_f_": 130,
+        "minerva_roman_luna_f_": 77,
+        "nobles_crawford_m_": 39,
+        "scattered": 1
+      },
+      "total": 247,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 21.5,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71029": {
+      "votes": {
+        "maria_a_luna_f_": 113,
+        "minerva_roman_luna_f_": 90,
+        "nobles_crawford_m_": 47,
+        "scattered": 1
+      },
+      "total": 251,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 9.2,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71030": {
+      "votes": {
+        "maria_a_luna_f_": 107,
+        "minerva_roman_luna_f_": 85,
+        "nobles_crawford_m_": 63,
+        "scattered": 3
+      },
+      "total": 258,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 8.5,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71031": {
+      "votes": {
+        "maria_a_luna_f_": 56,
+        "minerva_roman_luna_f_": 41,
+        "nobles_crawford_m_": 27,
+        "scattered": 0
+      },
+      "total": 124,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 12.1,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71032": {
+      "votes": {
+        "maria_a_luna_f_": 78,
+        "minerva_roman_luna_f_": 67,
+        "nobles_crawford_m_": 29,
+        "scattered": 1
+      },
+      "total": 175,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 6.3,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71033": {
+      "votes": {
+        "maria_a_luna_f_": 36,
+        "minerva_roman_luna_f_": 31,
+        "nobles_crawford_m_": 13,
+        "scattered": 0
+      },
+      "total": 80,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 6.3,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71034": {
+      "votes": {
+        "maria_a_luna_f_": 32,
+        "minerva_roman_luna_f_": 29,
+        "nobles_crawford_m_": 12,
+        "scattered": 3
+      },
+      "total": 76,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 3.9,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71035": {
+      "votes": {
+        "maria_a_luna_f_": 133,
+        "minerva_roman_luna_f_": 93,
+        "nobles_crawford_m_": 76,
+        "scattered": 1
+      },
+      "total": 303,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 13.2,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71036": {
+      "votes": {
+        "maria_a_luna_f_": 164,
+        "minerva_roman_luna_f_": 101,
+        "nobles_crawford_m_": 87,
+        "scattered": 5
+      },
+      "total": 357,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 17.6,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71037": {
+      "votes": {
+        "maria_a_luna_f_": 109,
+        "minerva_roman_luna_f_": 73,
+        "nobles_crawford_m_": 48,
+        "scattered": 0
+      },
+      "total": 230,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 15.7,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71038": {
+      "votes": {
+        "maria_a_luna_f_": 132,
+        "minerva_roman_luna_f_": 123,
+        "nobles_crawford_m_": 72,
+        "scattered": 3
+      },
+      "total": 330,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 2.7,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71039": {
+      "votes": {
+        "maria_a_luna_f_": 153,
+        "minerva_roman_luna_f_": 132,
+        "nobles_crawford_m_": 97,
+        "scattered": 0
+      },
+      "total": 382,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 5.5,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71040": {
+      "votes": {
+        "maria_a_luna_f_": 146,
+        "minerva_roman_luna_f_": 133,
+        "nobles_crawford_m_": 86,
+        "scattered": 4
+      },
+      "total": 369,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 3.5,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71041": {
+      "votes": {
+        "maria_a_luna_f_": 128,
+        "minerva_roman_luna_f_": 114,
+        "nobles_crawford_m_": 62,
+        "scattered": 2
+      },
+      "total": 306,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 4.6,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71042": {
+      "votes": {
+        "maria_a_luna_f_": 159,
+        "minerva_roman_luna_f_": 124,
+        "nobles_crawford_m_": 81,
+        "scattered": 1
+      },
+      "total": 365,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 9.6,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71043": {
+      "votes": {
+        "maria_a_luna_f_": 64,
+        "minerva_roman_luna_f_": 59,
+        "nobles_crawford_m_": 42,
+        "scattered": 2
+      },
+      "total": 167,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 3,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71044": {
+      "votes": {
+        "maria_a_luna_f_": 105,
+        "minerva_roman_luna_f_": 92,
+        "nobles_crawford_m_": 48,
+        "scattered": 6
+      },
+      "total": 251,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 5.2,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71045": {
+      "votes": {
+        "maria_a_luna_f_": 93,
+        "minerva_roman_luna_f_": 65,
+        "nobles_crawford_m_": 60,
+        "scattered": 3
+      },
+      "total": 221,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 12.7,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71046": {
+      "votes": {
+        "maria_a_luna_f_": 125,
+        "minerva_roman_luna_f_": 110,
+        "nobles_crawford_m_": 71,
+        "scattered": 3
+      },
+      "total": 309,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 4.9,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71047": {
+      "votes": {
+        "maria_a_luna_f_": 102,
+        "minerva_roman_luna_f_": 71,
+        "nobles_crawford_m_": 34,
+        "scattered": 2
+      },
+      "total": 209,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 14.8,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71048": {
+      "votes": {
+        "maria_a_luna_f_": 131,
+        "minerva_roman_luna_f_": 112,
+        "nobles_crawford_m_": 69,
+        "scattered": 6
+      },
+      "total": 318,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 6,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71049": {
+      "votes": {
+        "maria_a_luna_f_": 143,
+        "minerva_roman_luna_f_": 136,
+        "nobles_crawford_m_": 79,
+        "scattered": 1
+      },
+      "total": 359,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 1.9,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71050": {
+      "votes": {
+        "maria_a_luna_f_": 95,
+        "minerva_roman_luna_f_": 74,
+        "nobles_crawford_m_": 70,
+        "scattered": 4
+      },
+      "total": 243,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 8.6,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71051": {
+      "votes": {
+        "maria_a_luna_f_": 169,
+        "minerva_roman_luna_f_": 130,
+        "nobles_crawford_m_": 116,
+        "scattered": 4
+      },
+      "total": 419,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 9.3,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71052": {
+      "votes": {
+        "maria_a_luna_f_": 145,
+        "minerva_roman_luna_f_": 113,
+        "nobles_crawford_m_": 97,
+        "scattered": 1
+      },
+      "total": 356,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 9,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71053": {
+      "votes": {
+        "maria_a_luna_f_": 59,
+        "minerva_roman_luna_f_": 41,
+        "nobles_crawford_m_": 37,
+        "scattered": 0
+      },
+      "total": 137,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 13.1,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71054": {
+      "votes": {
+        "maria_a_luna_f_": 64,
+        "minerva_roman_luna_f_": 49,
+        "nobles_crawford_m_": 52,
+        "scattered": 4
+      },
+      "total": 169,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 7.1,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71055": {
+      "votes": {
+        "maria_a_luna_f_": 201,
+        "minerva_roman_luna_f_": 157,
+        "nobles_crawford_m_": 135,
+        "scattered": 3
+      },
+      "total": 496,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 8.9,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71056": {
+      "votes": {
+        "maria_a_luna_f_": 157,
+        "minerva_roman_luna_f_": 117,
+        "nobles_crawford_m_": 94,
+        "scattered": 4
+      },
+      "total": 372,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 10.8,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71057": {
+      "votes": {
+        "maria_a_luna_f_": 99,
+        "minerva_roman_luna_f_": 72,
+        "nobles_crawford_m_": 71,
+        "scattered": 5
+      },
+      "total": 247,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 10.9,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71058": {
+      "votes": {
+        "maria_a_luna_f_": 135,
+        "minerva_roman_luna_f_": 100,
+        "nobles_crawford_m_": 68,
+        "scattered": 2
+      },
+      "total": 305,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 11.5,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71059": {
+      "votes": {
+        "maria_a_luna_f_": 202,
+        "minerva_roman_luna_f_": 162,
+        "nobles_crawford_m_": 129,
+        "scattered": 1
+      },
+      "total": 494,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 8.1,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71060": {
+      "votes": {
+        "maria_a_luna_f_": 108,
+        "minerva_roman_luna_f_": 69,
+        "nobles_crawford_m_": 74,
+        "scattered": 0
+      },
+      "total": 251,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 13.5,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71061": {
+      "votes": {
+        "maria_a_luna_f_": 222,
+        "minerva_roman_luna_f_": 179,
+        "nobles_crawford_m_": 191,
+        "scattered": 1
+      },
+      "total": 593,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 5.2,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71062": {
+      "votes": {
+        "maria_a_luna_f_": 113,
+        "minerva_roman_luna_f_": 96,
+        "nobles_crawford_m_": 119,
+        "scattered": 4
+      },
+      "total": 332,
+      "winnerId": "nobles_crawford_m_",
+      "margin": 1.8,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71063": {
+      "votes": {
+        "maria_a_luna_f_": 98,
+        "minerva_roman_luna_f_": 73,
+        "nobles_crawford_m_": 91,
+        "scattered": 1
+      },
+      "total": 263,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 2.7,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71064": {
+      "votes": {
+        "maria_a_luna_f_": 78,
+        "minerva_roman_luna_f_": 59,
+        "nobles_crawford_m_": 48,
+        "scattered": 6
+      },
+      "total": 191,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 9.9,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71065": {
+      "votes": {
+        "maria_a_luna_f_": 27,
+        "minerva_roman_luna_f_": 16,
+        "nobles_crawford_m_": 8,
+        "scattered": 0
+      },
+      "total": 51,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 21.6,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71066": {
+      "votes": {
+        "maria_a_luna_f_": 66,
+        "minerva_roman_luna_f_": 52,
+        "nobles_crawford_m_": 38,
+        "scattered": 1
+      },
+      "total": 157,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 8.9,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71/001": {
+      "votes": {
+        "maria_a_luna_f_": 298,
+        "minerva_roman_luna_f_": 163,
+        "nobles_crawford_m_": 203,
+        "scattered": 7
+      },
+      "total": 671,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 14.2,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71/002": {
+      "votes": {
+        "maria_a_luna_f_": 198,
+        "minerva_roman_luna_f_": 117,
+        "nobles_crawford_m_": 155,
+        "scattered": 6
+      },
+      "total": 476,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 9,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71/003": {
+      "votes": {
+        "maria_a_luna_f_": 356,
+        "minerva_roman_luna_f_": 245,
+        "nobles_crawford_m_": 252,
+        "scattered": 20
+      },
+      "total": 873,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 11.9,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71/004": {
+      "votes": {
+        "maria_a_luna_f_": 408,
+        "minerva_roman_luna_f_": 245,
+        "nobles_crawford_m_": 327,
+        "scattered": 4
+      },
+      "total": 984,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 8.2,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71/005": {
+      "votes": {
+        "maria_a_luna_f_": 356,
+        "minerva_roman_luna_f_": 219,
+        "nobles_crawford_m_": 259,
+        "scattered": 3
+      },
+      "total": 837,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 11.6,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71/006": {
+      "votes": {
+        "maria_a_luna_f_": 341,
+        "minerva_roman_luna_f_": 201,
+        "nobles_crawford_m_": 219,
+        "scattered": 7
+      },
+      "total": 768,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 15.9,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71/007": {
+      "votes": {
+        "maria_a_luna_f_": 265,
+        "minerva_roman_luna_f_": 168,
+        "nobles_crawford_m_": 183,
+        "scattered": 3
+      },
+      "total": 619,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 13.2,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71/008": {
+      "votes": {
+        "maria_a_luna_f_": 231,
+        "minerva_roman_luna_f_": 162,
+        "nobles_crawford_m_": 128,
+        "scattered": 3
+      },
+      "total": 524,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 13.2,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71/009": {
+      "votes": {
+        "maria_a_luna_f_": 273,
+        "minerva_roman_luna_f_": 182,
+        "nobles_crawford_m_": 173,
+        "scattered": 6
+      },
+      "total": 634,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 14.4,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71/010": {
+      "votes": {
+        "maria_a_luna_f_": 192,
+        "minerva_roman_luna_f_": 139,
+        "nobles_crawford_m_": 121,
+        "scattered": 5
+      },
+      "total": 457,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 11.6,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71/011": {
+      "votes": {
+        "maria_a_luna_f_": 142,
+        "minerva_roman_luna_f_": 98,
+        "nobles_crawford_m_": 92,
+        "scattered": 3
+      },
+      "total": 335,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 13.1,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71/012": {
+      "votes": {
+        "maria_a_luna_f_": 144,
+        "minerva_roman_luna_f_": 102,
+        "nobles_crawford_m_": 67,
+        "scattered": 9
+      },
+      "total": 322,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 13,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71/013": {
+      "votes": {
+        "maria_a_luna_f_": 150,
+        "minerva_roman_luna_f_": 125,
+        "nobles_crawford_m_": 73,
+        "scattered": 4
+      },
+      "total": 352,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 7.1,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71/014": {
+      "votes": {
+        "maria_a_luna_f_": 122,
+        "minerva_roman_luna_f_": 92,
+        "nobles_crawford_m_": 66,
+        "scattered": 1
+      },
+      "total": 281,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 10.7,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71/015": {
+      "votes": {
+        "maria_a_luna_f_": 149,
+        "minerva_roman_luna_f_": 103,
+        "nobles_crawford_m_": 79,
+        "scattered": 1
+      },
+      "total": 332,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 13.9,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71/016": {
+      "votes": {
+        "maria_a_luna_f_": 118,
+        "minerva_roman_luna_f_": 92,
+        "nobles_crawford_m_": 49,
+        "scattered": 5
+      },
+      "total": 264,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 9.8,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71/017": {
+      "votes": {
+        "maria_a_luna_f_": 151,
+        "minerva_roman_luna_f_": 109,
+        "nobles_crawford_m_": 76,
+        "scattered": 2
+      },
+      "total": 338,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 12.4,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71/018": {
+      "votes": {
+        "maria_a_luna_f_": 147,
+        "minerva_roman_luna_f_": 105,
+        "nobles_crawford_m_": 98,
+        "scattered": 1
+      },
+      "total": 351,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 12,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71/019": {
+      "votes": {
+        "maria_a_luna_f_": 115,
+        "minerva_roman_luna_f_": 90,
+        "nobles_crawford_m_": 67,
+        "scattered": 1
+      },
+      "total": 273,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 9.2,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71/020": {
+      "votes": {
+        "maria_a_luna_f_": 139,
+        "minerva_roman_luna_f_": 91,
+        "nobles_crawford_m_": 55,
+        "scattered": 5
+      },
+      "total": 290,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 16.6,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71/021": {
+      "votes": {
+        "maria_a_luna_f_": 113,
+        "minerva_roman_luna_f_": 92,
+        "nobles_crawford_m_": 35,
+        "scattered": 4
+      },
+      "total": 244,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 8.6,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71/022": {
+      "votes": {
+        "maria_a_luna_f_": 97,
+        "minerva_roman_luna_f_": 80,
+        "nobles_crawford_m_": 35,
+        "scattered": 5
+      },
+      "total": 217,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 7.8,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71/023": {
+      "votes": {
+        "maria_a_luna_f_": 150,
+        "minerva_roman_luna_f_": 93,
+        "nobles_crawford_m_": 46,
+        "scattered": 0
+      },
+      "total": 289,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 19.7,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71/024": {
+      "votes": {
+        "maria_a_luna_f_": 276,
+        "minerva_roman_luna_f_": 166,
+        "nobles_crawford_m_": 153,
+        "scattered": 8
+      },
+      "total": 603,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 18.2,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71/025": {
+      "votes": {
+        "maria_a_luna_f_": 100,
+        "minerva_roman_luna_f_": 73,
+        "nobles_crawford_m_": 50,
+        "scattered": 1
+      },
+      "total": 224,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 12.1,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71/026": {
+      "votes": {
+        "maria_a_luna_f_": 146,
+        "minerva_roman_luna_f_": 95,
+        "nobles_crawford_m_": 73,
+        "scattered": 1
+      },
+      "total": 315,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 16.2,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71/027": {
+      "votes": {
+        "maria_a_luna_f_": 173,
+        "minerva_roman_luna_f_": 106,
+        "nobles_crawford_m_": 95,
+        "scattered": 0
+      },
+      "total": 374,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 17.9,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71/028": {
+      "votes": {
+        "maria_a_luna_f_": 130,
+        "minerva_roman_luna_f_": 77,
+        "nobles_crawford_m_": 39,
+        "scattered": 1
+      },
+      "total": 247,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 21.5,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71/029": {
+      "votes": {
+        "maria_a_luna_f_": 113,
+        "minerva_roman_luna_f_": 90,
+        "nobles_crawford_m_": 47,
+        "scattered": 1
+      },
+      "total": 251,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 9.2,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71/030": {
+      "votes": {
+        "maria_a_luna_f_": 107,
+        "minerva_roman_luna_f_": 85,
+        "nobles_crawford_m_": 63,
+        "scattered": 3
+      },
+      "total": 258,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 8.5,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71/031": {
+      "votes": {
+        "maria_a_luna_f_": 56,
+        "minerva_roman_luna_f_": 41,
+        "nobles_crawford_m_": 27,
+        "scattered": 0
+      },
+      "total": 124,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 12.1,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71/032": {
+      "votes": {
+        "maria_a_luna_f_": 78,
+        "minerva_roman_luna_f_": 67,
+        "nobles_crawford_m_": 29,
+        "scattered": 1
+      },
+      "total": 175,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 6.3,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71/033": {
+      "votes": {
+        "maria_a_luna_f_": 36,
+        "minerva_roman_luna_f_": 31,
+        "nobles_crawford_m_": 13,
+        "scattered": 0
+      },
+      "total": 80,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 6.3,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71/034": {
+      "votes": {
+        "maria_a_luna_f_": 32,
+        "minerva_roman_luna_f_": 29,
+        "nobles_crawford_m_": 12,
+        "scattered": 3
+      },
+      "total": 76,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 3.9,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71/035": {
+      "votes": {
+        "maria_a_luna_f_": 133,
+        "minerva_roman_luna_f_": 93,
+        "nobles_crawford_m_": 76,
+        "scattered": 1
+      },
+      "total": 303,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 13.2,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71/036": {
+      "votes": {
+        "maria_a_luna_f_": 164,
+        "minerva_roman_luna_f_": 101,
+        "nobles_crawford_m_": 87,
+        "scattered": 5
+      },
+      "total": 357,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 17.6,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71/037": {
+      "votes": {
+        "maria_a_luna_f_": 109,
+        "minerva_roman_luna_f_": 73,
+        "nobles_crawford_m_": 48,
+        "scattered": 0
+      },
+      "total": 230,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 15.7,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71/038": {
+      "votes": {
+        "maria_a_luna_f_": 132,
+        "minerva_roman_luna_f_": 123,
+        "nobles_crawford_m_": 72,
+        "scattered": 3
+      },
+      "total": 330,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 2.7,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71/039": {
+      "votes": {
+        "maria_a_luna_f_": 153,
+        "minerva_roman_luna_f_": 132,
+        "nobles_crawford_m_": 97,
+        "scattered": 0
+      },
+      "total": 382,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 5.5,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71/040": {
+      "votes": {
+        "maria_a_luna_f_": 146,
+        "minerva_roman_luna_f_": 133,
+        "nobles_crawford_m_": 86,
+        "scattered": 4
+      },
+      "total": 369,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 3.5,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71/041": {
+      "votes": {
+        "maria_a_luna_f_": 128,
+        "minerva_roman_luna_f_": 114,
+        "nobles_crawford_m_": 62,
+        "scattered": 2
+      },
+      "total": 306,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 4.6,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71/042": {
+      "votes": {
+        "maria_a_luna_f_": 159,
+        "minerva_roman_luna_f_": 124,
+        "nobles_crawford_m_": 81,
+        "scattered": 1
+      },
+      "total": 365,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 9.6,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71/043": {
+      "votes": {
+        "maria_a_luna_f_": 64,
+        "minerva_roman_luna_f_": 59,
+        "nobles_crawford_m_": 42,
+        "scattered": 2
+      },
+      "total": 167,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 3,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71/044": {
+      "votes": {
+        "maria_a_luna_f_": 105,
+        "minerva_roman_luna_f_": 92,
+        "nobles_crawford_m_": 48,
+        "scattered": 6
+      },
+      "total": 251,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 5.2,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71/045": {
+      "votes": {
+        "maria_a_luna_f_": 93,
+        "minerva_roman_luna_f_": 65,
+        "nobles_crawford_m_": 60,
+        "scattered": 3
+      },
+      "total": 221,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 12.7,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71/046": {
+      "votes": {
+        "maria_a_luna_f_": 125,
+        "minerva_roman_luna_f_": 110,
+        "nobles_crawford_m_": 71,
+        "scattered": 3
+      },
+      "total": 309,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 4.9,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71/047": {
+      "votes": {
+        "maria_a_luna_f_": 102,
+        "minerva_roman_luna_f_": 71,
+        "nobles_crawford_m_": 34,
+        "scattered": 2
+      },
+      "total": 209,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 14.8,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71/048": {
+      "votes": {
+        "maria_a_luna_f_": 131,
+        "minerva_roman_luna_f_": 112,
+        "nobles_crawford_m_": 69,
+        "scattered": 6
+      },
+      "total": 318,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 6,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71/049": {
+      "votes": {
+        "maria_a_luna_f_": 143,
+        "minerva_roman_luna_f_": 136,
+        "nobles_crawford_m_": 79,
+        "scattered": 1
+      },
+      "total": 359,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 1.9,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71/050": {
+      "votes": {
+        "maria_a_luna_f_": 95,
+        "minerva_roman_luna_f_": 74,
+        "nobles_crawford_m_": 70,
+        "scattered": 4
+      },
+      "total": 243,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 8.6,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71/051": {
+      "votes": {
+        "maria_a_luna_f_": 169,
+        "minerva_roman_luna_f_": 130,
+        "nobles_crawford_m_": 116,
+        "scattered": 4
+      },
+      "total": 419,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 9.3,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71/052": {
+      "votes": {
+        "maria_a_luna_f_": 145,
+        "minerva_roman_luna_f_": 113,
+        "nobles_crawford_m_": 97,
+        "scattered": 1
+      },
+      "total": 356,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 9,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71/053": {
+      "votes": {
+        "maria_a_luna_f_": 59,
+        "minerva_roman_luna_f_": 41,
+        "nobles_crawford_m_": 37,
+        "scattered": 0
+      },
+      "total": 137,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 13.1,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71/054": {
+      "votes": {
+        "maria_a_luna_f_": 64,
+        "minerva_roman_luna_f_": 49,
+        "nobles_crawford_m_": 52,
+        "scattered": 4
+      },
+      "total": 169,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 7.1,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71/055": {
+      "votes": {
+        "maria_a_luna_f_": 201,
+        "minerva_roman_luna_f_": 157,
+        "nobles_crawford_m_": 135,
+        "scattered": 3
+      },
+      "total": 496,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 8.9,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71/056": {
+      "votes": {
+        "maria_a_luna_f_": 157,
+        "minerva_roman_luna_f_": 117,
+        "nobles_crawford_m_": 94,
+        "scattered": 4
+      },
+      "total": 372,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 10.8,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71/057": {
+      "votes": {
+        "maria_a_luna_f_": 99,
+        "minerva_roman_luna_f_": 72,
+        "nobles_crawford_m_": 71,
+        "scattered": 5
+      },
+      "total": 247,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 10.9,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71/058": {
+      "votes": {
+        "maria_a_luna_f_": 135,
+        "minerva_roman_luna_f_": 100,
+        "nobles_crawford_m_": 68,
+        "scattered": 2
+      },
+      "total": 305,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 11.5,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71/059": {
+      "votes": {
+        "maria_a_luna_f_": 202,
+        "minerva_roman_luna_f_": 162,
+        "nobles_crawford_m_": 129,
+        "scattered": 1
+      },
+      "total": 494,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 8.1,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71/060": {
+      "votes": {
+        "maria_a_luna_f_": 108,
+        "minerva_roman_luna_f_": 69,
+        "nobles_crawford_m_": 74,
+        "scattered": 0
+      },
+      "total": 251,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 13.5,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71/061": {
+      "votes": {
+        "maria_a_luna_f_": 222,
+        "minerva_roman_luna_f_": 179,
+        "nobles_crawford_m_": 191,
+        "scattered": 1
+      },
+      "total": 593,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 5.2,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71/062": {
+      "votes": {
+        "maria_a_luna_f_": 113,
+        "minerva_roman_luna_f_": 96,
+        "nobles_crawford_m_": 119,
+        "scattered": 4
+      },
+      "total": 332,
+      "winnerId": "nobles_crawford_m_",
+      "margin": 1.8,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71/063": {
+      "votes": {
+        "maria_a_luna_f_": 98,
+        "minerva_roman_luna_f_": 73,
+        "nobles_crawford_m_": 91,
+        "scattered": 1
+      },
+      "total": 263,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 2.7,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71/064": {
+      "votes": {
+        "maria_a_luna_f_": 78,
+        "minerva_roman_luna_f_": 59,
+        "nobles_crawford_m_": 48,
+        "scattered": 6
+      },
+      "total": 191,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 9.9,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71/065": {
+      "votes": {
+        "maria_a_luna_f_": 27,
+        "minerva_roman_luna_f_": 16,
+        "nobles_crawford_m_": 8,
+        "scattered": 0
+      },
+      "total": 51,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 21.6,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "71/066": {
+      "votes": {
+        "maria_a_luna_f_": 66,
+        "minerva_roman_luna_f_": 52,
+        "nobles_crawford_m_": 38,
+        "scattered": 1
+      },
+      "total": 157,
+      "winnerId": "maria_a_luna_f_",
+      "margin": 8.9,
+      "candidates": [
+        {
+          "id": "maria_a_luna_f_",
+          "name": "Maria A. Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "minerva_roman_luna_f_",
+          "name": "Minerva Roman-Luna (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "nobles_crawford_m_",
+          "name": "Nobles Crawford (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    }
+  }
+}

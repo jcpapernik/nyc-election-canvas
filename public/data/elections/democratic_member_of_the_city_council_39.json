@@ -1,0 +1,31 @@
+{
+  "id": "democratic_member_of_the_city_council_39",
+  "name": "2026 Primary - Member of the City Council District 39",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "City Council",
+  "districtKey": "39",
+  "districtType": "council",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "shahana_hanif",
+      "name": "Shahana Hanif",
+      "party": "Democratic",
+      "isIncumbent": true,
+      "color": "#2563eb"
+    }
+  ],
+  "results": {
+    "39": {
+      "votes": {
+        "uncontested_primary_council_39": 0
+      },
+      "total": 0,
+      "winnerId": "uncontested_primary_council_39",
+      "margin": 100,
+      "isUncontested": true
+    }
+  },
+  "edResults": {}
+}

@@ -1,0 +1,4426 @@
+{
+  "id": "democratic_member_of_the_assembly_59",
+  "name": "2026 Primary - Member of the Assembly District 59",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "NY State Assembly",
+  "districtKey": "59",
+  "districtType": "assembly",
+  "isUncontested": false,
+  "candidates": [
+    {
+      "id": "jaime_r_williams",
+      "name": "Jaime R. Williams",
+      "party": "Democratic",
+      "isIncumbent": true,
+      "color": "#d97706"
+    },
+    {
+      "id": "jibreel_jalloh",
+      "name": "Jibreel Jalloh",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#7c3aed"
+    },
+    {
+      "id": "scattered",
+      "name": "Scattered",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#059669"
+    }
+  ],
+  "results": {
+    "59": {
+      "votes": {
+        "jaime_r_williams": 4277,
+        "jibreel_jalloh": 2189,
+        "scattered": 15
+      },
+      "total": 6481,
+      "winnerId": "jaime_r_williams",
+      "margin": 32.2,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    }
+  },
+  "edResults": {
+    "59001": {
+      "votes": {
+        "jaime_r_williams": 45,
+        "jibreel_jalloh": 26,
+        "scattered": 0
+      },
+      "total": 71,
+      "winnerId": "jaime_r_williams",
+      "margin": 26.8,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59002": {
+      "votes": {
+        "jaime_r_williams": 73,
+        "jibreel_jalloh": 45,
+        "scattered": 1
+      },
+      "total": 119,
+      "winnerId": "jaime_r_williams",
+      "margin": 23.5,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59003": {
+      "votes": {
+        "jaime_r_williams": 52,
+        "jibreel_jalloh": 62,
+        "scattered": 2
+      },
+      "total": 116,
+      "winnerId": "jibreel_jalloh",
+      "margin": 8.6,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59004": {
+      "votes": {
+        "jaime_r_williams": 87,
+        "jibreel_jalloh": 80,
+        "scattered": 0
+      },
+      "total": 167,
+      "winnerId": "jaime_r_williams",
+      "margin": 4.2,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59005": {
+      "votes": {
+        "jaime_r_williams": 55,
+        "jibreel_jalloh": 59,
+        "scattered": 0
+      },
+      "total": 114,
+      "winnerId": "jibreel_jalloh",
+      "margin": 3.5,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59006": {
+      "votes": {
+        "jaime_r_williams": 68,
+        "jibreel_jalloh": 55,
+        "scattered": 0
+      },
+      "total": 123,
+      "winnerId": "jaime_r_williams",
+      "margin": 10.6,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59007": {
+      "votes": {
+        "jaime_r_williams": 83,
+        "jibreel_jalloh": 71,
+        "scattered": 0
+      },
+      "total": 154,
+      "winnerId": "jaime_r_williams",
+      "margin": 7.8,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59008": {
+      "votes": {
+        "jaime_r_williams": 91,
+        "jibreel_jalloh": 50,
+        "scattered": 0
+      },
+      "total": 141,
+      "winnerId": "jaime_r_williams",
+      "margin": 29.1,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59009": {
+      "votes": {
+        "jaime_r_williams": 92,
+        "jibreel_jalloh": 74,
+        "scattered": 1
+      },
+      "total": 167,
+      "winnerId": "jaime_r_williams",
+      "margin": 10.8,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59010": {
+      "votes": {
+        "jaime_r_williams": 58,
+        "jibreel_jalloh": 60,
+        "scattered": 0
+      },
+      "total": 118,
+      "winnerId": "jibreel_jalloh",
+      "margin": 1.7,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59011": {
+      "votes": {
+        "jaime_r_williams": 68,
+        "jibreel_jalloh": 37,
+        "scattered": 0
+      },
+      "total": 105,
+      "winnerId": "jaime_r_williams",
+      "margin": 29.5,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59012": {
+      "votes": {
+        "jaime_r_williams": 95,
+        "jibreel_jalloh": 71,
+        "scattered": 0
+      },
+      "total": 166,
+      "winnerId": "jaime_r_williams",
+      "margin": 14.5,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59013": {
+      "votes": {
+        "jaime_r_williams": 111,
+        "jibreel_jalloh": 46,
+        "scattered": 0
+      },
+      "total": 157,
+      "winnerId": "jaime_r_williams",
+      "margin": 41.4,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59014": {
+      "votes": {
+        "jaime_r_williams": 60,
+        "jibreel_jalloh": 39,
+        "scattered": 1
+      },
+      "total": 100,
+      "winnerId": "jaime_r_williams",
+      "margin": 21,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59015": {
+      "votes": {
+        "jaime_r_williams": 45,
+        "jibreel_jalloh": 24,
+        "scattered": 0
+      },
+      "total": 69,
+      "winnerId": "jaime_r_williams",
+      "margin": 30.4,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59016": {
+      "votes": {
+        "jaime_r_williams": 46,
+        "jibreel_jalloh": 49,
+        "scattered": 0
+      },
+      "total": 95,
+      "winnerId": "jibreel_jalloh",
+      "margin": 3.2,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59017": {
+      "votes": {
+        "jaime_r_williams": 83,
+        "jibreel_jalloh": 64,
+        "scattered": 1
+      },
+      "total": 148,
+      "winnerId": "jaime_r_williams",
+      "margin": 12.8,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59018": {
+      "votes": {
+        "jaime_r_williams": 83,
+        "jibreel_jalloh": 84,
+        "scattered": 0
+      },
+      "total": 167,
+      "winnerId": "jibreel_jalloh",
+      "margin": 0.6,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59019": {
+      "votes": {
+        "jaime_r_williams": 89,
+        "jibreel_jalloh": 90,
+        "scattered": 0
+      },
+      "total": 179,
+      "winnerId": "jibreel_jalloh",
+      "margin": 0.6,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59020": {
+      "votes": {
+        "jaime_r_williams": 62,
+        "jibreel_jalloh": 49,
+        "scattered": 0
+      },
+      "total": 111,
+      "winnerId": "jaime_r_williams",
+      "margin": 11.7,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59021": {
+      "votes": {
+        "jaime_r_williams": 70,
+        "jibreel_jalloh": 60,
+        "scattered": 0
+      },
+      "total": 130,
+      "winnerId": "jaime_r_williams",
+      "margin": 7.7,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59022": {
+      "votes": {
+        "jaime_r_williams": 65,
+        "jibreel_jalloh": 91,
+        "scattered": 0
+      },
+      "total": 156,
+      "winnerId": "jibreel_jalloh",
+      "margin": 16.7,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59023": {
+      "votes": {
+        "jaime_r_williams": 42,
+        "jibreel_jalloh": 19,
+        "scattered": 0
+      },
+      "total": 61,
+      "winnerId": "jaime_r_williams",
+      "margin": 37.7,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59024": {
+      "votes": {
+        "jaime_r_williams": 49,
+        "jibreel_jalloh": 16,
+        "scattered": 0
+      },
+      "total": 65,
+      "winnerId": "jaime_r_williams",
+      "margin": 50.8,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59025": {
+      "votes": {
+        "jaime_r_williams": 49,
+        "jibreel_jalloh": 20,
+        "scattered": 1
+      },
+      "total": 70,
+      "winnerId": "jaime_r_williams",
+      "margin": 41.4,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59026": {
+      "votes": {
+        "jaime_r_williams": 77,
+        "jibreel_jalloh": 35,
+        "scattered": 0
+      },
+      "total": 112,
+      "winnerId": "jaime_r_williams",
+      "margin": 37.5,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59027": {
+      "votes": {
+        "jaime_r_williams": 85,
+        "jibreel_jalloh": 53,
+        "scattered": 1
+      },
+      "total": 139,
+      "winnerId": "jaime_r_williams",
+      "margin": 23,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59028": {
+      "votes": {
+        "jaime_r_williams": 56,
+        "jibreel_jalloh": 22,
+        "scattered": 0
+      },
+      "total": 78,
+      "winnerId": "jaime_r_williams",
+      "margin": 43.6,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59029": {
+      "votes": {
+        "jaime_r_williams": 69,
+        "jibreel_jalloh": 33,
+        "scattered": 1
+      },
+      "total": 103,
+      "winnerId": "jaime_r_williams",
+      "margin": 35,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59030": {
+      "votes": {
+        "jaime_r_williams": 78,
+        "jibreel_jalloh": 52,
+        "scattered": 0
+      },
+      "total": 130,
+      "winnerId": "jaime_r_williams",
+      "margin": 20,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59031": {
+      "votes": {
+        "jaime_r_williams": 27,
+        "jibreel_jalloh": 8,
+        "scattered": 0
+      },
+      "total": 35,
+      "winnerId": "jaime_r_williams",
+      "margin": 54.3,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59032": {
+      "votes": {
+        "jaime_r_williams": 121,
+        "jibreel_jalloh": 32,
+        "scattered": 1
+      },
+      "total": 154,
+      "winnerId": "jaime_r_williams",
+      "margin": 57.8,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59033": {
+      "votes": {
+        "jaime_r_williams": 77,
+        "jibreel_jalloh": 28,
+        "scattered": 0
+      },
+      "total": 105,
+      "winnerId": "jaime_r_williams",
+      "margin": 46.7,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59034": {
+      "votes": {
+        "jaime_r_williams": 64,
+        "jibreel_jalloh": 32,
+        "scattered": 1
+      },
+      "total": 97,
+      "winnerId": "jaime_r_williams",
+      "margin": 33,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59035": {
+      "votes": {
+        "jaime_r_williams": 29,
+        "jibreel_jalloh": 14,
+        "scattered": 1
+      },
+      "total": 44,
+      "winnerId": "jaime_r_williams",
+      "margin": 34.1,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59036": {
+      "votes": {
+        "jaime_r_williams": 111,
+        "jibreel_jalloh": 43,
+        "scattered": 0
+      },
+      "total": 154,
+      "winnerId": "jaime_r_williams",
+      "margin": 44.2,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59037": {
+      "votes": {
+        "jaime_r_williams": 111,
+        "jibreel_jalloh": 59,
+        "scattered": 0
+      },
+      "total": 170,
+      "winnerId": "jaime_r_williams",
+      "margin": 30.6,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59038": {
+      "votes": {
+        "jaime_r_williams": 71,
+        "jibreel_jalloh": 38,
+        "scattered": 0
+      },
+      "total": 109,
+      "winnerId": "jaime_r_williams",
+      "margin": 30.3,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59039": {
+      "votes": {
+        "jaime_r_williams": 155,
+        "jibreel_jalloh": 49,
+        "scattered": 0
+      },
+      "total": 204,
+      "winnerId": "jaime_r_williams",
+      "margin": 52,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59040": {
+      "votes": {
+        "jaime_r_williams": 15,
+        "jibreel_jalloh": 0,
+        "scattered": 0
+      },
+      "total": 15,
+      "winnerId": "jaime_r_williams",
+      "margin": 100,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59041": {
+      "votes": {
+        "jaime_r_williams": 72,
+        "jibreel_jalloh": 49,
+        "scattered": 0
+      },
+      "total": 121,
+      "winnerId": "jaime_r_williams",
+      "margin": 19,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59042": {
+      "votes": {
+        "jaime_r_williams": 48,
+        "jibreel_jalloh": 9,
+        "scattered": 0
+      },
+      "total": 57,
+      "winnerId": "jaime_r_williams",
+      "margin": 68.4,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59043": {
+      "votes": {
+        "jaime_r_williams": 80,
+        "jibreel_jalloh": 49,
+        "scattered": 0
+      },
+      "total": 129,
+      "winnerId": "jaime_r_williams",
+      "margin": 24,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59044": {
+      "votes": {
+        "jaime_r_williams": 37,
+        "jibreel_jalloh": 11,
+        "scattered": 0
+      },
+      "total": 48,
+      "winnerId": "jaime_r_williams",
+      "margin": 54.2,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59045": {
+      "votes": {
+        "jaime_r_williams": 102,
+        "jibreel_jalloh": 35,
+        "scattered": 0
+      },
+      "total": 137,
+      "winnerId": "jaime_r_williams",
+      "margin": 48.9,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59046": {
+      "votes": {
+        "jaime_r_williams": 83,
+        "jibreel_jalloh": 19,
+        "scattered": 0
+      },
+      "total": 102,
+      "winnerId": "jaime_r_williams",
+      "margin": 62.7,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59047": {
+      "votes": {
+        "jaime_r_williams": 51,
+        "jibreel_jalloh": 7,
+        "scattered": 0
+      },
+      "total": 58,
+      "winnerId": "jaime_r_williams",
+      "margin": 75.9,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59048": {
+      "votes": {
+        "jaime_r_williams": 77,
+        "jibreel_jalloh": 2,
+        "scattered": 0
+      },
+      "total": 79,
+      "winnerId": "jaime_r_williams",
+      "margin": 94.9,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59049": {
+      "votes": {
+        "jaime_r_williams": 69,
+        "jibreel_jalloh": 3,
+        "scattered": 0
+      },
+      "total": 72,
+      "winnerId": "jaime_r_williams",
+      "margin": 91.7,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59050": {
+      "votes": {
+        "jaime_r_williams": 64,
+        "jibreel_jalloh": 7,
+        "scattered": 0
+      },
+      "total": 71,
+      "winnerId": "jaime_r_williams",
+      "margin": 80.3,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59051": {
+      "votes": {
+        "jaime_r_williams": 42,
+        "jibreel_jalloh": 4,
+        "scattered": 2
+      },
+      "total": 48,
+      "winnerId": "jaime_r_williams",
+      "margin": 79.2,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59052": {
+      "votes": {
+        "jaime_r_williams": 86,
+        "jibreel_jalloh": 16,
+        "scattered": 1
+      },
+      "total": 103,
+      "winnerId": "jaime_r_williams",
+      "margin": 68,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59053": {
+      "votes": {
+        "jaime_r_williams": 67,
+        "jibreel_jalloh": 7,
+        "scattered": 0
+      },
+      "total": 74,
+      "winnerId": "jaime_r_williams",
+      "margin": 81.1,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59054": {
+      "votes": {
+        "jaime_r_williams": 46,
+        "jibreel_jalloh": 11,
+        "scattered": 0
+      },
+      "total": 57,
+      "winnerId": "jaime_r_williams",
+      "margin": 61.4,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59055": {
+      "votes": {
+        "jaime_r_williams": 87,
+        "jibreel_jalloh": 17,
+        "scattered": 0
+      },
+      "total": 104,
+      "winnerId": "jaime_r_williams",
+      "margin": 67.3,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59056": {
+      "votes": {
+        "jaime_r_williams": 107,
+        "jibreel_jalloh": 19,
+        "scattered": 0
+      },
+      "total": 126,
+      "winnerId": "jaime_r_williams",
+      "margin": 69.8,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59057": {
+      "votes": {
+        "jaime_r_williams": 73,
+        "jibreel_jalloh": 30,
+        "scattered": 0
+      },
+      "total": 103,
+      "winnerId": "jaime_r_williams",
+      "margin": 41.7,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59058": {
+      "votes": {
+        "jaime_r_williams": 30,
+        "jibreel_jalloh": 5,
+        "scattered": 0
+      },
+      "total": 35,
+      "winnerId": "jaime_r_williams",
+      "margin": 71.4,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59059": {
+      "votes": {
+        "jaime_r_williams": 34,
+        "jibreel_jalloh": 5,
+        "scattered": 0
+      },
+      "total": 39,
+      "winnerId": "jaime_r_williams",
+      "margin": 74.4,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59060": {
+      "votes": {
+        "jaime_r_williams": 32,
+        "jibreel_jalloh": 11,
+        "scattered": 0
+      },
+      "total": 43,
+      "winnerId": "jaime_r_williams",
+      "margin": 48.8,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59061": {
+      "votes": {
+        "jaime_r_williams": 19,
+        "jibreel_jalloh": 2,
+        "scattered": 0
+      },
+      "total": 21,
+      "winnerId": "jaime_r_williams",
+      "margin": 81,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59062": {
+      "votes": {
+        "jaime_r_williams": 25,
+        "jibreel_jalloh": 4,
+        "scattered": 0
+      },
+      "total": 29,
+      "winnerId": "jaime_r_williams",
+      "margin": 72.4,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59063": {
+      "votes": {
+        "jaime_r_williams": 39,
+        "jibreel_jalloh": 14,
+        "scattered": 0
+      },
+      "total": 53,
+      "winnerId": "jaime_r_williams",
+      "margin": 47.2,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59065": {
+      "votes": {
+        "jaime_r_williams": 40,
+        "jibreel_jalloh": 14,
+        "scattered": 0
+      },
+      "total": 54,
+      "winnerId": "jaime_r_williams",
+      "margin": 48.1,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59066": {
+      "votes": {
+        "jaime_r_williams": 0,
+        "jibreel_jalloh": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "jaime_r_williams",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59068": {
+      "votes": {
+        "jaime_r_williams": 0,
+        "jibreel_jalloh": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "jaime_r_williams",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59/001": {
+      "votes": {
+        "jaime_r_williams": 45,
+        "jibreel_jalloh": 26,
+        "scattered": 0
+      },
+      "total": 71,
+      "winnerId": "jaime_r_williams",
+      "margin": 26.8,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59/002": {
+      "votes": {
+        "jaime_r_williams": 73,
+        "jibreel_jalloh": 45,
+        "scattered": 1
+      },
+      "total": 119,
+      "winnerId": "jaime_r_williams",
+      "margin": 23.5,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59/003": {
+      "votes": {
+        "jaime_r_williams": 52,
+        "jibreel_jalloh": 62,
+        "scattered": 2
+      },
+      "total": 116,
+      "winnerId": "jibreel_jalloh",
+      "margin": 8.6,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59/004": {
+      "votes": {
+        "jaime_r_williams": 87,
+        "jibreel_jalloh": 80,
+        "scattered": 0
+      },
+      "total": 167,
+      "winnerId": "jaime_r_williams",
+      "margin": 4.2,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59/005": {
+      "votes": {
+        "jaime_r_williams": 55,
+        "jibreel_jalloh": 59,
+        "scattered": 0
+      },
+      "total": 114,
+      "winnerId": "jibreel_jalloh",
+      "margin": 3.5,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59/006": {
+      "votes": {
+        "jaime_r_williams": 68,
+        "jibreel_jalloh": 55,
+        "scattered": 0
+      },
+      "total": 123,
+      "winnerId": "jaime_r_williams",
+      "margin": 10.6,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59/007": {
+      "votes": {
+        "jaime_r_williams": 83,
+        "jibreel_jalloh": 71,
+        "scattered": 0
+      },
+      "total": 154,
+      "winnerId": "jaime_r_williams",
+      "margin": 7.8,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59/008": {
+      "votes": {
+        "jaime_r_williams": 91,
+        "jibreel_jalloh": 50,
+        "scattered": 0
+      },
+      "total": 141,
+      "winnerId": "jaime_r_williams",
+      "margin": 29.1,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59/009": {
+      "votes": {
+        "jaime_r_williams": 92,
+        "jibreel_jalloh": 74,
+        "scattered": 1
+      },
+      "total": 167,
+      "winnerId": "jaime_r_williams",
+      "margin": 10.8,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59/010": {
+      "votes": {
+        "jaime_r_williams": 58,
+        "jibreel_jalloh": 60,
+        "scattered": 0
+      },
+      "total": 118,
+      "winnerId": "jibreel_jalloh",
+      "margin": 1.7,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59/011": {
+      "votes": {
+        "jaime_r_williams": 68,
+        "jibreel_jalloh": 37,
+        "scattered": 0
+      },
+      "total": 105,
+      "winnerId": "jaime_r_williams",
+      "margin": 29.5,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59/012": {
+      "votes": {
+        "jaime_r_williams": 95,
+        "jibreel_jalloh": 71,
+        "scattered": 0
+      },
+      "total": 166,
+      "winnerId": "jaime_r_williams",
+      "margin": 14.5,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59/013": {
+      "votes": {
+        "jaime_r_williams": 111,
+        "jibreel_jalloh": 46,
+        "scattered": 0
+      },
+      "total": 157,
+      "winnerId": "jaime_r_williams",
+      "margin": 41.4,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59/014": {
+      "votes": {
+        "jaime_r_williams": 60,
+        "jibreel_jalloh": 39,
+        "scattered": 1
+      },
+      "total": 100,
+      "winnerId": "jaime_r_williams",
+      "margin": 21,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59/015": {
+      "votes": {
+        "jaime_r_williams": 45,
+        "jibreel_jalloh": 24,
+        "scattered": 0
+      },
+      "total": 69,
+      "winnerId": "jaime_r_williams",
+      "margin": 30.4,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59/016": {
+      "votes": {
+        "jaime_r_williams": 46,
+        "jibreel_jalloh": 49,
+        "scattered": 0
+      },
+      "total": 95,
+      "winnerId": "jibreel_jalloh",
+      "margin": 3.2,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59/017": {
+      "votes": {
+        "jaime_r_williams": 83,
+        "jibreel_jalloh": 64,
+        "scattered": 1
+      },
+      "total": 148,
+      "winnerId": "jaime_r_williams",
+      "margin": 12.8,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59/018": {
+      "votes": {
+        "jaime_r_williams": 83,
+        "jibreel_jalloh": 84,
+        "scattered": 0
+      },
+      "total": 167,
+      "winnerId": "jibreel_jalloh",
+      "margin": 0.6,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59/019": {
+      "votes": {
+        "jaime_r_williams": 89,
+        "jibreel_jalloh": 90,
+        "scattered": 0
+      },
+      "total": 179,
+      "winnerId": "jibreel_jalloh",
+      "margin": 0.6,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59/020": {
+      "votes": {
+        "jaime_r_williams": 62,
+        "jibreel_jalloh": 49,
+        "scattered": 0
+      },
+      "total": 111,
+      "winnerId": "jaime_r_williams",
+      "margin": 11.7,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59/021": {
+      "votes": {
+        "jaime_r_williams": 70,
+        "jibreel_jalloh": 60,
+        "scattered": 0
+      },
+      "total": 130,
+      "winnerId": "jaime_r_williams",
+      "margin": 7.7,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59/022": {
+      "votes": {
+        "jaime_r_williams": 65,
+        "jibreel_jalloh": 91,
+        "scattered": 0
+      },
+      "total": 156,
+      "winnerId": "jibreel_jalloh",
+      "margin": 16.7,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59/023": {
+      "votes": {
+        "jaime_r_williams": 42,
+        "jibreel_jalloh": 19,
+        "scattered": 0
+      },
+      "total": 61,
+      "winnerId": "jaime_r_williams",
+      "margin": 37.7,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59/024": {
+      "votes": {
+        "jaime_r_williams": 49,
+        "jibreel_jalloh": 16,
+        "scattered": 0
+      },
+      "total": 65,
+      "winnerId": "jaime_r_williams",
+      "margin": 50.8,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59/025": {
+      "votes": {
+        "jaime_r_williams": 49,
+        "jibreel_jalloh": 20,
+        "scattered": 1
+      },
+      "total": 70,
+      "winnerId": "jaime_r_williams",
+      "margin": 41.4,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59/026": {
+      "votes": {
+        "jaime_r_williams": 77,
+        "jibreel_jalloh": 35,
+        "scattered": 0
+      },
+      "total": 112,
+      "winnerId": "jaime_r_williams",
+      "margin": 37.5,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59/027": {
+      "votes": {
+        "jaime_r_williams": 85,
+        "jibreel_jalloh": 53,
+        "scattered": 1
+      },
+      "total": 139,
+      "winnerId": "jaime_r_williams",
+      "margin": 23,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59/028": {
+      "votes": {
+        "jaime_r_williams": 56,
+        "jibreel_jalloh": 22,
+        "scattered": 0
+      },
+      "total": 78,
+      "winnerId": "jaime_r_williams",
+      "margin": 43.6,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59/029": {
+      "votes": {
+        "jaime_r_williams": 69,
+        "jibreel_jalloh": 33,
+        "scattered": 1
+      },
+      "total": 103,
+      "winnerId": "jaime_r_williams",
+      "margin": 35,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59/030": {
+      "votes": {
+        "jaime_r_williams": 78,
+        "jibreel_jalloh": 52,
+        "scattered": 0
+      },
+      "total": 130,
+      "winnerId": "jaime_r_williams",
+      "margin": 20,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59/031": {
+      "votes": {
+        "jaime_r_williams": 27,
+        "jibreel_jalloh": 8,
+        "scattered": 0
+      },
+      "total": 35,
+      "winnerId": "jaime_r_williams",
+      "margin": 54.3,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59/032": {
+      "votes": {
+        "jaime_r_williams": 121,
+        "jibreel_jalloh": 32,
+        "scattered": 1
+      },
+      "total": 154,
+      "winnerId": "jaime_r_williams",
+      "margin": 57.8,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59/033": {
+      "votes": {
+        "jaime_r_williams": 77,
+        "jibreel_jalloh": 28,
+        "scattered": 0
+      },
+      "total": 105,
+      "winnerId": "jaime_r_williams",
+      "margin": 46.7,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59/034": {
+      "votes": {
+        "jaime_r_williams": 64,
+        "jibreel_jalloh": 32,
+        "scattered": 1
+      },
+      "total": 97,
+      "winnerId": "jaime_r_williams",
+      "margin": 33,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59/035": {
+      "votes": {
+        "jaime_r_williams": 29,
+        "jibreel_jalloh": 14,
+        "scattered": 1
+      },
+      "total": 44,
+      "winnerId": "jaime_r_williams",
+      "margin": 34.1,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59/036": {
+      "votes": {
+        "jaime_r_williams": 111,
+        "jibreel_jalloh": 43,
+        "scattered": 0
+      },
+      "total": 154,
+      "winnerId": "jaime_r_williams",
+      "margin": 44.2,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59/037": {
+      "votes": {
+        "jaime_r_williams": 111,
+        "jibreel_jalloh": 59,
+        "scattered": 0
+      },
+      "total": 170,
+      "winnerId": "jaime_r_williams",
+      "margin": 30.6,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59/038": {
+      "votes": {
+        "jaime_r_williams": 71,
+        "jibreel_jalloh": 38,
+        "scattered": 0
+      },
+      "total": 109,
+      "winnerId": "jaime_r_williams",
+      "margin": 30.3,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59/039": {
+      "votes": {
+        "jaime_r_williams": 155,
+        "jibreel_jalloh": 49,
+        "scattered": 0
+      },
+      "total": 204,
+      "winnerId": "jaime_r_williams",
+      "margin": 52,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59/040": {
+      "votes": {
+        "jaime_r_williams": 15,
+        "jibreel_jalloh": 0,
+        "scattered": 0
+      },
+      "total": 15,
+      "winnerId": "jaime_r_williams",
+      "margin": 100,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59/041": {
+      "votes": {
+        "jaime_r_williams": 72,
+        "jibreel_jalloh": 49,
+        "scattered": 0
+      },
+      "total": 121,
+      "winnerId": "jaime_r_williams",
+      "margin": 19,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59/042": {
+      "votes": {
+        "jaime_r_williams": 48,
+        "jibreel_jalloh": 9,
+        "scattered": 0
+      },
+      "total": 57,
+      "winnerId": "jaime_r_williams",
+      "margin": 68.4,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59/043": {
+      "votes": {
+        "jaime_r_williams": 80,
+        "jibreel_jalloh": 49,
+        "scattered": 0
+      },
+      "total": 129,
+      "winnerId": "jaime_r_williams",
+      "margin": 24,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59/044": {
+      "votes": {
+        "jaime_r_williams": 37,
+        "jibreel_jalloh": 11,
+        "scattered": 0
+      },
+      "total": 48,
+      "winnerId": "jaime_r_williams",
+      "margin": 54.2,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59/045": {
+      "votes": {
+        "jaime_r_williams": 102,
+        "jibreel_jalloh": 35,
+        "scattered": 0
+      },
+      "total": 137,
+      "winnerId": "jaime_r_williams",
+      "margin": 48.9,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59/046": {
+      "votes": {
+        "jaime_r_williams": 83,
+        "jibreel_jalloh": 19,
+        "scattered": 0
+      },
+      "total": 102,
+      "winnerId": "jaime_r_williams",
+      "margin": 62.7,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59/047": {
+      "votes": {
+        "jaime_r_williams": 51,
+        "jibreel_jalloh": 7,
+        "scattered": 0
+      },
+      "total": 58,
+      "winnerId": "jaime_r_williams",
+      "margin": 75.9,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59/048": {
+      "votes": {
+        "jaime_r_williams": 77,
+        "jibreel_jalloh": 2,
+        "scattered": 0
+      },
+      "total": 79,
+      "winnerId": "jaime_r_williams",
+      "margin": 94.9,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59/049": {
+      "votes": {
+        "jaime_r_williams": 69,
+        "jibreel_jalloh": 3,
+        "scattered": 0
+      },
+      "total": 72,
+      "winnerId": "jaime_r_williams",
+      "margin": 91.7,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59/050": {
+      "votes": {
+        "jaime_r_williams": 64,
+        "jibreel_jalloh": 7,
+        "scattered": 0
+      },
+      "total": 71,
+      "winnerId": "jaime_r_williams",
+      "margin": 80.3,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59/051": {
+      "votes": {
+        "jaime_r_williams": 42,
+        "jibreel_jalloh": 4,
+        "scattered": 2
+      },
+      "total": 48,
+      "winnerId": "jaime_r_williams",
+      "margin": 79.2,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59/052": {
+      "votes": {
+        "jaime_r_williams": 86,
+        "jibreel_jalloh": 16,
+        "scattered": 1
+      },
+      "total": 103,
+      "winnerId": "jaime_r_williams",
+      "margin": 68,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59/053": {
+      "votes": {
+        "jaime_r_williams": 67,
+        "jibreel_jalloh": 7,
+        "scattered": 0
+      },
+      "total": 74,
+      "winnerId": "jaime_r_williams",
+      "margin": 81.1,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59/054": {
+      "votes": {
+        "jaime_r_williams": 46,
+        "jibreel_jalloh": 11,
+        "scattered": 0
+      },
+      "total": 57,
+      "winnerId": "jaime_r_williams",
+      "margin": 61.4,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59/055": {
+      "votes": {
+        "jaime_r_williams": 87,
+        "jibreel_jalloh": 17,
+        "scattered": 0
+      },
+      "total": 104,
+      "winnerId": "jaime_r_williams",
+      "margin": 67.3,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59/056": {
+      "votes": {
+        "jaime_r_williams": 107,
+        "jibreel_jalloh": 19,
+        "scattered": 0
+      },
+      "total": 126,
+      "winnerId": "jaime_r_williams",
+      "margin": 69.8,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59/057": {
+      "votes": {
+        "jaime_r_williams": 73,
+        "jibreel_jalloh": 30,
+        "scattered": 0
+      },
+      "total": 103,
+      "winnerId": "jaime_r_williams",
+      "margin": 41.7,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59/058": {
+      "votes": {
+        "jaime_r_williams": 30,
+        "jibreel_jalloh": 5,
+        "scattered": 0
+      },
+      "total": 35,
+      "winnerId": "jaime_r_williams",
+      "margin": 71.4,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59/059": {
+      "votes": {
+        "jaime_r_williams": 34,
+        "jibreel_jalloh": 5,
+        "scattered": 0
+      },
+      "total": 39,
+      "winnerId": "jaime_r_williams",
+      "margin": 74.4,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59/060": {
+      "votes": {
+        "jaime_r_williams": 32,
+        "jibreel_jalloh": 11,
+        "scattered": 0
+      },
+      "total": 43,
+      "winnerId": "jaime_r_williams",
+      "margin": 48.8,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59/061": {
+      "votes": {
+        "jaime_r_williams": 19,
+        "jibreel_jalloh": 2,
+        "scattered": 0
+      },
+      "total": 21,
+      "winnerId": "jaime_r_williams",
+      "margin": 81,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59/062": {
+      "votes": {
+        "jaime_r_williams": 25,
+        "jibreel_jalloh": 4,
+        "scattered": 0
+      },
+      "total": 29,
+      "winnerId": "jaime_r_williams",
+      "margin": 72.4,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59/063": {
+      "votes": {
+        "jaime_r_williams": 39,
+        "jibreel_jalloh": 14,
+        "scattered": 0
+      },
+      "total": 53,
+      "winnerId": "jaime_r_williams",
+      "margin": 47.2,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59/065": {
+      "votes": {
+        "jaime_r_williams": 40,
+        "jibreel_jalloh": 14,
+        "scattered": 0
+      },
+      "total": 54,
+      "winnerId": "jaime_r_williams",
+      "margin": 48.1,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59/066": {
+      "votes": {
+        "jaime_r_williams": 0,
+        "jibreel_jalloh": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "jaime_r_williams",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "59/068": {
+      "votes": {
+        "jaime_r_williams": 0,
+        "jibreel_jalloh": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "jaime_r_williams",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "jaime_r_williams",
+          "name": "Jaime R. Williams",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jibreel_jalloh",
+          "name": "Jibreel Jalloh",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    }
+  }
+}

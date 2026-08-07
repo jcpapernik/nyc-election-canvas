@@ -1,0 +1,4888 @@
+{
+  "id": "democratic_member_of_the_assembly_28",
+  "name": "2026 Primary - Member of the Assembly District 28",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "NY State Assembly",
+  "districtKey": "28",
+  "districtType": "assembly",
+  "isUncontested": false,
+  "candidates": [
+    {
+      "id": "andrew_d_hevesi",
+      "name": "Andrew D. Hevesi",
+      "party": "Democratic",
+      "isIncumbent": true,
+      "color": "#d97706"
+    },
+    {
+      "id": "jonathan_d_rinaldi",
+      "name": "Jonathan D. Rinaldi",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#7c3aed"
+    },
+    {
+      "id": "scattered",
+      "name": "Scattered",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#059669"
+    }
+  ],
+  "results": {
+    "28": {
+      "votes": {
+        "andrew_d_hevesi": 7096,
+        "jonathan_d_rinaldi": 944,
+        "scattered": 41
+      },
+      "total": 8081,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 76.1,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    }
+  },
+  "edResults": {
+    "28001": {
+      "votes": {
+        "andrew_d_hevesi": 27,
+        "jonathan_d_rinaldi": 8,
+        "scattered": 0
+      },
+      "total": 35,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 54.3,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28002": {
+      "votes": {
+        "andrew_d_hevesi": 199,
+        "jonathan_d_rinaldi": 23,
+        "scattered": 1
+      },
+      "total": 223,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 78.9,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28003": {
+      "votes": {
+        "andrew_d_hevesi": 190,
+        "jonathan_d_rinaldi": 14,
+        "scattered": 1
+      },
+      "total": 205,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 85.9,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28004": {
+      "votes": {
+        "andrew_d_hevesi": 139,
+        "jonathan_d_rinaldi": 21,
+        "scattered": 1
+      },
+      "total": 161,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 73.3,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28005": {
+      "votes": {
+        "andrew_d_hevesi": 13,
+        "jonathan_d_rinaldi": 2,
+        "scattered": 0
+      },
+      "total": 15,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 73.3,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28006": {
+      "votes": {
+        "andrew_d_hevesi": 44,
+        "jonathan_d_rinaldi": 1,
+        "scattered": 0
+      },
+      "total": 45,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 95.6,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28007": {
+      "votes": {
+        "andrew_d_hevesi": 117,
+        "jonathan_d_rinaldi": 14,
+        "scattered": 0
+      },
+      "total": 131,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 78.6,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28008": {
+      "votes": {
+        "andrew_d_hevesi": 98,
+        "jonathan_d_rinaldi": 12,
+        "scattered": 0
+      },
+      "total": 110,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 78.2,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28009": {
+      "votes": {
+        "andrew_d_hevesi": 99,
+        "jonathan_d_rinaldi": 11,
+        "scattered": 0
+      },
+      "total": 110,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 80,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28010": {
+      "votes": {
+        "andrew_d_hevesi": 29,
+        "jonathan_d_rinaldi": 3,
+        "scattered": 0
+      },
+      "total": 32,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 81.3,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28011": {
+      "votes": {
+        "andrew_d_hevesi": 50,
+        "jonathan_d_rinaldi": 10,
+        "scattered": 0
+      },
+      "total": 60,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 66.7,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28012": {
+      "votes": {
+        "andrew_d_hevesi": 45,
+        "jonathan_d_rinaldi": 7,
+        "scattered": 0
+      },
+      "total": 52,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 73.1,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28013": {
+      "votes": {
+        "andrew_d_hevesi": 36,
+        "jonathan_d_rinaldi": 10,
+        "scattered": 0
+      },
+      "total": 46,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 56.5,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28014": {
+      "votes": {
+        "andrew_d_hevesi": 50,
+        "jonathan_d_rinaldi": 12,
+        "scattered": 0
+      },
+      "total": 62,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 61.3,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28015": {
+      "votes": {
+        "andrew_d_hevesi": 48,
+        "jonathan_d_rinaldi": 17,
+        "scattered": 0
+      },
+      "total": 65,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 47.7,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28016": {
+      "votes": {
+        "andrew_d_hevesi": 0,
+        "jonathan_d_rinaldi": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28017": {
+      "votes": {
+        "andrew_d_hevesi": 2,
+        "jonathan_d_rinaldi": 0,
+        "scattered": 0
+      },
+      "total": 2,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 100,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28018": {
+      "votes": {
+        "andrew_d_hevesi": 42,
+        "jonathan_d_rinaldi": 4,
+        "scattered": 0
+      },
+      "total": 46,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 82.6,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28019": {
+      "votes": {
+        "andrew_d_hevesi": 103,
+        "jonathan_d_rinaldi": 7,
+        "scattered": 3
+      },
+      "total": 113,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 85,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28020": {
+      "votes": {
+        "andrew_d_hevesi": 165,
+        "jonathan_d_rinaldi": 37,
+        "scattered": 3
+      },
+      "total": 205,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 62.4,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28021": {
+      "votes": {
+        "andrew_d_hevesi": 24,
+        "jonathan_d_rinaldi": 3,
+        "scattered": 2
+      },
+      "total": 29,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 72.4,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28022": {
+      "votes": {
+        "andrew_d_hevesi": 66,
+        "jonathan_d_rinaldi": 11,
+        "scattered": 0
+      },
+      "total": 77,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 71.4,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28023": {
+      "votes": {
+        "andrew_d_hevesi": 32,
+        "jonathan_d_rinaldi": 7,
+        "scattered": 0
+      },
+      "total": 39,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 64.1,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28024": {
+      "votes": {
+        "andrew_d_hevesi": 74,
+        "jonathan_d_rinaldi": 12,
+        "scattered": 1
+      },
+      "total": 87,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 71.3,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28025": {
+      "votes": {
+        "andrew_d_hevesi": 95,
+        "jonathan_d_rinaldi": 14,
+        "scattered": 0
+      },
+      "total": 109,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 74.3,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28026": {
+      "votes": {
+        "andrew_d_hevesi": 106,
+        "jonathan_d_rinaldi": 15,
+        "scattered": 0
+      },
+      "total": 121,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 75.2,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28027": {
+      "votes": {
+        "andrew_d_hevesi": 39,
+        "jonathan_d_rinaldi": 5,
+        "scattered": 0
+      },
+      "total": 44,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 77.3,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28028": {
+      "votes": {
+        "andrew_d_hevesi": 62,
+        "jonathan_d_rinaldi": 14,
+        "scattered": 0
+      },
+      "total": 76,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 63.2,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28029": {
+      "votes": {
+        "andrew_d_hevesi": 145,
+        "jonathan_d_rinaldi": 25,
+        "scattered": 3
+      },
+      "total": 173,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 69.4,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28030": {
+      "votes": {
+        "andrew_d_hevesi": 197,
+        "jonathan_d_rinaldi": 27,
+        "scattered": 0
+      },
+      "total": 224,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 75.9,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28031": {
+      "votes": {
+        "andrew_d_hevesi": 200,
+        "jonathan_d_rinaldi": 22,
+        "scattered": 3
+      },
+      "total": 225,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 79.1,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28032": {
+      "votes": {
+        "andrew_d_hevesi": 320,
+        "jonathan_d_rinaldi": 32,
+        "scattered": 1
+      },
+      "total": 353,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 81.6,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28033": {
+      "votes": {
+        "andrew_d_hevesi": 228,
+        "jonathan_d_rinaldi": 23,
+        "scattered": 1
+      },
+      "total": 252,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 81.3,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28034": {
+      "votes": {
+        "andrew_d_hevesi": 135,
+        "jonathan_d_rinaldi": 14,
+        "scattered": 0
+      },
+      "total": 149,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 81.2,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28035": {
+      "votes": {
+        "andrew_d_hevesi": 197,
+        "jonathan_d_rinaldi": 21,
+        "scattered": 0
+      },
+      "total": 218,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 80.7,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28036": {
+      "votes": {
+        "andrew_d_hevesi": 143,
+        "jonathan_d_rinaldi": 10,
+        "scattered": 1
+      },
+      "total": 154,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 86.4,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28037": {
+      "votes": {
+        "andrew_d_hevesi": 216,
+        "jonathan_d_rinaldi": 25,
+        "scattered": 1
+      },
+      "total": 242,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 78.9,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28038": {
+      "votes": {
+        "andrew_d_hevesi": 184,
+        "jonathan_d_rinaldi": 22,
+        "scattered": 1
+      },
+      "total": 207,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 78.3,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28039": {
+      "votes": {
+        "andrew_d_hevesi": 174,
+        "jonathan_d_rinaldi": 17,
+        "scattered": 0
+      },
+      "total": 191,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 82.2,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28040": {
+      "votes": {
+        "andrew_d_hevesi": 211,
+        "jonathan_d_rinaldi": 14,
+        "scattered": 0
+      },
+      "total": 225,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 87.6,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28041": {
+      "votes": {
+        "andrew_d_hevesi": 75,
+        "jonathan_d_rinaldi": 8,
+        "scattered": 1
+      },
+      "total": 84,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 79.8,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28042": {
+      "votes": {
+        "andrew_d_hevesi": 19,
+        "jonathan_d_rinaldi": 2,
+        "scattered": 0
+      },
+      "total": 21,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 81,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28043": {
+      "votes": {
+        "andrew_d_hevesi": 97,
+        "jonathan_d_rinaldi": 10,
+        "scattered": 0
+      },
+      "total": 107,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 81.3,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28044": {
+      "votes": {
+        "andrew_d_hevesi": 48,
+        "jonathan_d_rinaldi": 6,
+        "scattered": 0
+      },
+      "total": 54,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 77.8,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28045": {
+      "votes": {
+        "andrew_d_hevesi": 115,
+        "jonathan_d_rinaldi": 16,
+        "scattered": 1
+      },
+      "total": 132,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 75,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28046": {
+      "votes": {
+        "andrew_d_hevesi": 101,
+        "jonathan_d_rinaldi": 17,
+        "scattered": 0
+      },
+      "total": 118,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 71.2,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28047": {
+      "votes": {
+        "andrew_d_hevesi": 90,
+        "jonathan_d_rinaldi": 18,
+        "scattered": 1
+      },
+      "total": 109,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 66.1,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28048": {
+      "votes": {
+        "andrew_d_hevesi": 66,
+        "jonathan_d_rinaldi": 19,
+        "scattered": 0
+      },
+      "total": 85,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 55.3,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28049": {
+      "votes": {
+        "andrew_d_hevesi": 82,
+        "jonathan_d_rinaldi": 6,
+        "scattered": 0
+      },
+      "total": 88,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 86.4,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28050": {
+      "votes": {
+        "andrew_d_hevesi": 165,
+        "jonathan_d_rinaldi": 25,
+        "scattered": 1
+      },
+      "total": 191,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 73.3,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28051": {
+      "votes": {
+        "andrew_d_hevesi": 145,
+        "jonathan_d_rinaldi": 24,
+        "scattered": 2
+      },
+      "total": 171,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 70.8,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28052": {
+      "votes": {
+        "andrew_d_hevesi": 155,
+        "jonathan_d_rinaldi": 22,
+        "scattered": 0
+      },
+      "total": 177,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 75.1,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28053": {
+      "votes": {
+        "andrew_d_hevesi": 235,
+        "jonathan_d_rinaldi": 24,
+        "scattered": 1
+      },
+      "total": 260,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 81.2,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28054": {
+      "votes": {
+        "andrew_d_hevesi": 191,
+        "jonathan_d_rinaldi": 25,
+        "scattered": 0
+      },
+      "total": 216,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 76.9,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28055": {
+      "votes": {
+        "andrew_d_hevesi": 195,
+        "jonathan_d_rinaldi": 17,
+        "scattered": 3
+      },
+      "total": 215,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 82.8,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28056": {
+      "votes": {
+        "andrew_d_hevesi": 117,
+        "jonathan_d_rinaldi": 16,
+        "scattered": 1
+      },
+      "total": 134,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 75.4,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28057": {
+      "votes": {
+        "andrew_d_hevesi": 142,
+        "jonathan_d_rinaldi": 27,
+        "scattered": 2
+      },
+      "total": 171,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 67.3,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28058": {
+      "votes": {
+        "andrew_d_hevesi": 82,
+        "jonathan_d_rinaldi": 13,
+        "scattered": 0
+      },
+      "total": 95,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 72.6,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28059": {
+      "votes": {
+        "andrew_d_hevesi": 67,
+        "jonathan_d_rinaldi": 14,
+        "scattered": 0
+      },
+      "total": 81,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 65.4,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28060": {
+      "votes": {
+        "andrew_d_hevesi": 90,
+        "jonathan_d_rinaldi": 14,
+        "scattered": 1
+      },
+      "total": 105,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 72.4,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28061": {
+      "votes": {
+        "andrew_d_hevesi": 31,
+        "jonathan_d_rinaldi": 7,
+        "scattered": 0
+      },
+      "total": 38,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 63.2,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28062": {
+      "votes": {
+        "andrew_d_hevesi": 161,
+        "jonathan_d_rinaldi": 13,
+        "scattered": 0
+      },
+      "total": 174,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 85.1,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28064": {
+      "votes": {
+        "andrew_d_hevesi": 22,
+        "jonathan_d_rinaldi": 2,
+        "scattered": 0
+      },
+      "total": 24,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 83.3,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28065": {
+      "votes": {
+        "andrew_d_hevesi": 40,
+        "jonathan_d_rinaldi": 12,
+        "scattered": 0
+      },
+      "total": 52,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 53.8,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28066": {
+      "votes": {
+        "andrew_d_hevesi": 48,
+        "jonathan_d_rinaldi": 12,
+        "scattered": 1
+      },
+      "total": 61,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 59,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28067": {
+      "votes": {
+        "andrew_d_hevesi": 11,
+        "jonathan_d_rinaldi": 5,
+        "scattered": 0
+      },
+      "total": 16,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 37.5,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28068": {
+      "votes": {
+        "andrew_d_hevesi": 18,
+        "jonathan_d_rinaldi": 4,
+        "scattered": 0
+      },
+      "total": 22,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 63.6,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28069": {
+      "votes": {
+        "andrew_d_hevesi": 49,
+        "jonathan_d_rinaldi": 8,
+        "scattered": 2
+      },
+      "total": 59,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 69.5,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28071": {
+      "votes": {
+        "andrew_d_hevesi": 21,
+        "jonathan_d_rinaldi": 1,
+        "scattered": 0
+      },
+      "total": 22,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 90.9,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28072": {
+      "votes": {
+        "andrew_d_hevesi": 74,
+        "jonathan_d_rinaldi": 11,
+        "scattered": 1
+      },
+      "total": 86,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 73.3,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28073": {
+      "votes": {
+        "andrew_d_hevesi": 0,
+        "jonathan_d_rinaldi": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28074": {
+      "votes": {
+        "andrew_d_hevesi": 0,
+        "jonathan_d_rinaldi": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28075": {
+      "votes": {
+        "andrew_d_hevesi": 0,
+        "jonathan_d_rinaldi": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28/001": {
+      "votes": {
+        "andrew_d_hevesi": 27,
+        "jonathan_d_rinaldi": 8,
+        "scattered": 0
+      },
+      "total": 35,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 54.3,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28/002": {
+      "votes": {
+        "andrew_d_hevesi": 199,
+        "jonathan_d_rinaldi": 23,
+        "scattered": 1
+      },
+      "total": 223,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 78.9,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28/003": {
+      "votes": {
+        "andrew_d_hevesi": 190,
+        "jonathan_d_rinaldi": 14,
+        "scattered": 1
+      },
+      "total": 205,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 85.9,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28/004": {
+      "votes": {
+        "andrew_d_hevesi": 139,
+        "jonathan_d_rinaldi": 21,
+        "scattered": 1
+      },
+      "total": 161,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 73.3,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28/005": {
+      "votes": {
+        "andrew_d_hevesi": 13,
+        "jonathan_d_rinaldi": 2,
+        "scattered": 0
+      },
+      "total": 15,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 73.3,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28/006": {
+      "votes": {
+        "andrew_d_hevesi": 44,
+        "jonathan_d_rinaldi": 1,
+        "scattered": 0
+      },
+      "total": 45,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 95.6,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28/007": {
+      "votes": {
+        "andrew_d_hevesi": 117,
+        "jonathan_d_rinaldi": 14,
+        "scattered": 0
+      },
+      "total": 131,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 78.6,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28/008": {
+      "votes": {
+        "andrew_d_hevesi": 98,
+        "jonathan_d_rinaldi": 12,
+        "scattered": 0
+      },
+      "total": 110,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 78.2,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28/009": {
+      "votes": {
+        "andrew_d_hevesi": 99,
+        "jonathan_d_rinaldi": 11,
+        "scattered": 0
+      },
+      "total": 110,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 80,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28/010": {
+      "votes": {
+        "andrew_d_hevesi": 29,
+        "jonathan_d_rinaldi": 3,
+        "scattered": 0
+      },
+      "total": 32,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 81.3,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28/011": {
+      "votes": {
+        "andrew_d_hevesi": 50,
+        "jonathan_d_rinaldi": 10,
+        "scattered": 0
+      },
+      "total": 60,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 66.7,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28/012": {
+      "votes": {
+        "andrew_d_hevesi": 45,
+        "jonathan_d_rinaldi": 7,
+        "scattered": 0
+      },
+      "total": 52,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 73.1,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28/013": {
+      "votes": {
+        "andrew_d_hevesi": 36,
+        "jonathan_d_rinaldi": 10,
+        "scattered": 0
+      },
+      "total": 46,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 56.5,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28/014": {
+      "votes": {
+        "andrew_d_hevesi": 50,
+        "jonathan_d_rinaldi": 12,
+        "scattered": 0
+      },
+      "total": 62,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 61.3,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28/015": {
+      "votes": {
+        "andrew_d_hevesi": 48,
+        "jonathan_d_rinaldi": 17,
+        "scattered": 0
+      },
+      "total": 65,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 47.7,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28/016": {
+      "votes": {
+        "andrew_d_hevesi": 0,
+        "jonathan_d_rinaldi": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28/017": {
+      "votes": {
+        "andrew_d_hevesi": 2,
+        "jonathan_d_rinaldi": 0,
+        "scattered": 0
+      },
+      "total": 2,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 100,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28/018": {
+      "votes": {
+        "andrew_d_hevesi": 42,
+        "jonathan_d_rinaldi": 4,
+        "scattered": 0
+      },
+      "total": 46,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 82.6,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28/019": {
+      "votes": {
+        "andrew_d_hevesi": 103,
+        "jonathan_d_rinaldi": 7,
+        "scattered": 3
+      },
+      "total": 113,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 85,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28/020": {
+      "votes": {
+        "andrew_d_hevesi": 165,
+        "jonathan_d_rinaldi": 37,
+        "scattered": 3
+      },
+      "total": 205,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 62.4,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28/021": {
+      "votes": {
+        "andrew_d_hevesi": 24,
+        "jonathan_d_rinaldi": 3,
+        "scattered": 2
+      },
+      "total": 29,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 72.4,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28/022": {
+      "votes": {
+        "andrew_d_hevesi": 66,
+        "jonathan_d_rinaldi": 11,
+        "scattered": 0
+      },
+      "total": 77,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 71.4,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28/023": {
+      "votes": {
+        "andrew_d_hevesi": 32,
+        "jonathan_d_rinaldi": 7,
+        "scattered": 0
+      },
+      "total": 39,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 64.1,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28/024": {
+      "votes": {
+        "andrew_d_hevesi": 74,
+        "jonathan_d_rinaldi": 12,
+        "scattered": 1
+      },
+      "total": 87,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 71.3,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28/025": {
+      "votes": {
+        "andrew_d_hevesi": 95,
+        "jonathan_d_rinaldi": 14,
+        "scattered": 0
+      },
+      "total": 109,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 74.3,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28/026": {
+      "votes": {
+        "andrew_d_hevesi": 106,
+        "jonathan_d_rinaldi": 15,
+        "scattered": 0
+      },
+      "total": 121,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 75.2,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28/027": {
+      "votes": {
+        "andrew_d_hevesi": 39,
+        "jonathan_d_rinaldi": 5,
+        "scattered": 0
+      },
+      "total": 44,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 77.3,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28/028": {
+      "votes": {
+        "andrew_d_hevesi": 62,
+        "jonathan_d_rinaldi": 14,
+        "scattered": 0
+      },
+      "total": 76,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 63.2,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28/029": {
+      "votes": {
+        "andrew_d_hevesi": 145,
+        "jonathan_d_rinaldi": 25,
+        "scattered": 3
+      },
+      "total": 173,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 69.4,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28/030": {
+      "votes": {
+        "andrew_d_hevesi": 197,
+        "jonathan_d_rinaldi": 27,
+        "scattered": 0
+      },
+      "total": 224,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 75.9,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28/031": {
+      "votes": {
+        "andrew_d_hevesi": 200,
+        "jonathan_d_rinaldi": 22,
+        "scattered": 3
+      },
+      "total": 225,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 79.1,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28/032": {
+      "votes": {
+        "andrew_d_hevesi": 320,
+        "jonathan_d_rinaldi": 32,
+        "scattered": 1
+      },
+      "total": 353,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 81.6,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28/033": {
+      "votes": {
+        "andrew_d_hevesi": 228,
+        "jonathan_d_rinaldi": 23,
+        "scattered": 1
+      },
+      "total": 252,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 81.3,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28/034": {
+      "votes": {
+        "andrew_d_hevesi": 135,
+        "jonathan_d_rinaldi": 14,
+        "scattered": 0
+      },
+      "total": 149,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 81.2,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28/035": {
+      "votes": {
+        "andrew_d_hevesi": 197,
+        "jonathan_d_rinaldi": 21,
+        "scattered": 0
+      },
+      "total": 218,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 80.7,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28/036": {
+      "votes": {
+        "andrew_d_hevesi": 143,
+        "jonathan_d_rinaldi": 10,
+        "scattered": 1
+      },
+      "total": 154,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 86.4,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28/037": {
+      "votes": {
+        "andrew_d_hevesi": 216,
+        "jonathan_d_rinaldi": 25,
+        "scattered": 1
+      },
+      "total": 242,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 78.9,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28/038": {
+      "votes": {
+        "andrew_d_hevesi": 184,
+        "jonathan_d_rinaldi": 22,
+        "scattered": 1
+      },
+      "total": 207,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 78.3,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28/039": {
+      "votes": {
+        "andrew_d_hevesi": 174,
+        "jonathan_d_rinaldi": 17,
+        "scattered": 0
+      },
+      "total": 191,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 82.2,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28/040": {
+      "votes": {
+        "andrew_d_hevesi": 211,
+        "jonathan_d_rinaldi": 14,
+        "scattered": 0
+      },
+      "total": 225,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 87.6,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28/041": {
+      "votes": {
+        "andrew_d_hevesi": 75,
+        "jonathan_d_rinaldi": 8,
+        "scattered": 1
+      },
+      "total": 84,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 79.8,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28/042": {
+      "votes": {
+        "andrew_d_hevesi": 19,
+        "jonathan_d_rinaldi": 2,
+        "scattered": 0
+      },
+      "total": 21,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 81,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28/043": {
+      "votes": {
+        "andrew_d_hevesi": 97,
+        "jonathan_d_rinaldi": 10,
+        "scattered": 0
+      },
+      "total": 107,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 81.3,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28/044": {
+      "votes": {
+        "andrew_d_hevesi": 48,
+        "jonathan_d_rinaldi": 6,
+        "scattered": 0
+      },
+      "total": 54,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 77.8,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28/045": {
+      "votes": {
+        "andrew_d_hevesi": 115,
+        "jonathan_d_rinaldi": 16,
+        "scattered": 1
+      },
+      "total": 132,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 75,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28/046": {
+      "votes": {
+        "andrew_d_hevesi": 101,
+        "jonathan_d_rinaldi": 17,
+        "scattered": 0
+      },
+      "total": 118,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 71.2,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28/047": {
+      "votes": {
+        "andrew_d_hevesi": 90,
+        "jonathan_d_rinaldi": 18,
+        "scattered": 1
+      },
+      "total": 109,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 66.1,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28/048": {
+      "votes": {
+        "andrew_d_hevesi": 66,
+        "jonathan_d_rinaldi": 19,
+        "scattered": 0
+      },
+      "total": 85,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 55.3,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28/049": {
+      "votes": {
+        "andrew_d_hevesi": 82,
+        "jonathan_d_rinaldi": 6,
+        "scattered": 0
+      },
+      "total": 88,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 86.4,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28/050": {
+      "votes": {
+        "andrew_d_hevesi": 165,
+        "jonathan_d_rinaldi": 25,
+        "scattered": 1
+      },
+      "total": 191,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 73.3,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28/051": {
+      "votes": {
+        "andrew_d_hevesi": 145,
+        "jonathan_d_rinaldi": 24,
+        "scattered": 2
+      },
+      "total": 171,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 70.8,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28/052": {
+      "votes": {
+        "andrew_d_hevesi": 155,
+        "jonathan_d_rinaldi": 22,
+        "scattered": 0
+      },
+      "total": 177,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 75.1,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28/053": {
+      "votes": {
+        "andrew_d_hevesi": 235,
+        "jonathan_d_rinaldi": 24,
+        "scattered": 1
+      },
+      "total": 260,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 81.2,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28/054": {
+      "votes": {
+        "andrew_d_hevesi": 191,
+        "jonathan_d_rinaldi": 25,
+        "scattered": 0
+      },
+      "total": 216,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 76.9,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28/055": {
+      "votes": {
+        "andrew_d_hevesi": 195,
+        "jonathan_d_rinaldi": 17,
+        "scattered": 3
+      },
+      "total": 215,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 82.8,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28/056": {
+      "votes": {
+        "andrew_d_hevesi": 117,
+        "jonathan_d_rinaldi": 16,
+        "scattered": 1
+      },
+      "total": 134,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 75.4,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28/057": {
+      "votes": {
+        "andrew_d_hevesi": 142,
+        "jonathan_d_rinaldi": 27,
+        "scattered": 2
+      },
+      "total": 171,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 67.3,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28/058": {
+      "votes": {
+        "andrew_d_hevesi": 82,
+        "jonathan_d_rinaldi": 13,
+        "scattered": 0
+      },
+      "total": 95,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 72.6,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28/059": {
+      "votes": {
+        "andrew_d_hevesi": 67,
+        "jonathan_d_rinaldi": 14,
+        "scattered": 0
+      },
+      "total": 81,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 65.4,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28/060": {
+      "votes": {
+        "andrew_d_hevesi": 90,
+        "jonathan_d_rinaldi": 14,
+        "scattered": 1
+      },
+      "total": 105,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 72.4,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28/061": {
+      "votes": {
+        "andrew_d_hevesi": 31,
+        "jonathan_d_rinaldi": 7,
+        "scattered": 0
+      },
+      "total": 38,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 63.2,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28/062": {
+      "votes": {
+        "andrew_d_hevesi": 161,
+        "jonathan_d_rinaldi": 13,
+        "scattered": 0
+      },
+      "total": 174,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 85.1,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28/064": {
+      "votes": {
+        "andrew_d_hevesi": 22,
+        "jonathan_d_rinaldi": 2,
+        "scattered": 0
+      },
+      "total": 24,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 83.3,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28/065": {
+      "votes": {
+        "andrew_d_hevesi": 40,
+        "jonathan_d_rinaldi": 12,
+        "scattered": 0
+      },
+      "total": 52,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 53.8,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28/066": {
+      "votes": {
+        "andrew_d_hevesi": 48,
+        "jonathan_d_rinaldi": 12,
+        "scattered": 1
+      },
+      "total": 61,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 59,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28/067": {
+      "votes": {
+        "andrew_d_hevesi": 11,
+        "jonathan_d_rinaldi": 5,
+        "scattered": 0
+      },
+      "total": 16,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 37.5,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28/068": {
+      "votes": {
+        "andrew_d_hevesi": 18,
+        "jonathan_d_rinaldi": 4,
+        "scattered": 0
+      },
+      "total": 22,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 63.6,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28/069": {
+      "votes": {
+        "andrew_d_hevesi": 49,
+        "jonathan_d_rinaldi": 8,
+        "scattered": 2
+      },
+      "total": 59,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 69.5,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28/071": {
+      "votes": {
+        "andrew_d_hevesi": 21,
+        "jonathan_d_rinaldi": 1,
+        "scattered": 0
+      },
+      "total": 22,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 90.9,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28/072": {
+      "votes": {
+        "andrew_d_hevesi": 74,
+        "jonathan_d_rinaldi": 11,
+        "scattered": 1
+      },
+      "total": 86,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 73.3,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28/073": {
+      "votes": {
+        "andrew_d_hevesi": 0,
+        "jonathan_d_rinaldi": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28/074": {
+      "votes": {
+        "andrew_d_hevesi": 0,
+        "jonathan_d_rinaldi": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "28/075": {
+      "votes": {
+        "andrew_d_hevesi": 0,
+        "jonathan_d_rinaldi": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "andrew_d_hevesi",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "andrew_d_hevesi",
+          "name": "Andrew D. Hevesi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "jonathan_d_rinaldi",
+          "name": "Jonathan D. Rinaldi",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    }
+  }
+}

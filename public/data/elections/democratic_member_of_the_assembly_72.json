@@ -1,0 +1,4228 @@
+{
+  "id": "democratic_member_of_the_assembly_72",
+  "name": "2026 Primary - Member of the Assembly District 72",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "NY State Assembly",
+  "districtKey": "72",
+  "districtType": "assembly",
+  "isUncontested": false,
+  "candidates": [
+    {
+      "id": "manny_de_los_santos",
+      "name": "Manny De Los Santos",
+      "party": "Democratic",
+      "isIncumbent": true,
+      "color": "#d97706"
+    },
+    {
+      "id": "francesca_castellanos",
+      "name": "Francesca Castellanos",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#7c3aed"
+    },
+    {
+      "id": "scattered",
+      "name": "Scattered",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#059669"
+    }
+  ],
+  "results": {
+    "72": {
+      "votes": {
+        "manny_de_los_santos": 9176,
+        "francesca_castellanos": 2882,
+        "scattered": 83
+      },
+      "total": 12141,
+      "winnerId": "manny_de_los_santos",
+      "margin": 51.8,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    }
+  },
+  "edResults": {
+    "72001": {
+      "votes": {
+        "manny_de_los_santos": 111,
+        "francesca_castellanos": 18,
+        "scattered": 0
+      },
+      "total": 129,
+      "winnerId": "manny_de_los_santos",
+      "margin": 72.1,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72002": {
+      "votes": {
+        "manny_de_los_santos": 137,
+        "francesca_castellanos": 38,
+        "scattered": 0
+      },
+      "total": 175,
+      "winnerId": "manny_de_los_santos",
+      "margin": 56.6,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72003": {
+      "votes": {
+        "manny_de_los_santos": 144,
+        "francesca_castellanos": 43,
+        "scattered": 3
+      },
+      "total": 190,
+      "winnerId": "manny_de_los_santos",
+      "margin": 53.2,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72004": {
+      "votes": {
+        "manny_de_los_santos": 337,
+        "francesca_castellanos": 163,
+        "scattered": 7
+      },
+      "total": 507,
+      "winnerId": "manny_de_los_santos",
+      "margin": 34.3,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72005": {
+      "votes": {
+        "manny_de_los_santos": 277,
+        "francesca_castellanos": 155,
+        "scattered": 5
+      },
+      "total": 437,
+      "winnerId": "manny_de_los_santos",
+      "margin": 27.9,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72006": {
+      "votes": {
+        "manny_de_los_santos": 191,
+        "francesca_castellanos": 107,
+        "scattered": 8
+      },
+      "total": 306,
+      "winnerId": "manny_de_los_santos",
+      "margin": 27.5,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72007": {
+      "votes": {
+        "manny_de_los_santos": 153,
+        "francesca_castellanos": 42,
+        "scattered": 1
+      },
+      "total": 196,
+      "winnerId": "manny_de_los_santos",
+      "margin": 56.6,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72008": {
+      "votes": {
+        "manny_de_los_santos": 187,
+        "francesca_castellanos": 79,
+        "scattered": 1
+      },
+      "total": 267,
+      "winnerId": "manny_de_los_santos",
+      "margin": 40.4,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72009": {
+      "votes": {
+        "manny_de_los_santos": 244,
+        "francesca_castellanos": 131,
+        "scattered": 2
+      },
+      "total": 377,
+      "winnerId": "manny_de_los_santos",
+      "margin": 30,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72010": {
+      "votes": {
+        "manny_de_los_santos": 191,
+        "francesca_castellanos": 102,
+        "scattered": 2
+      },
+      "total": 295,
+      "winnerId": "manny_de_los_santos",
+      "margin": 30.2,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72011": {
+      "votes": {
+        "manny_de_los_santos": 188,
+        "francesca_castellanos": 32,
+        "scattered": 2
+      },
+      "total": 222,
+      "winnerId": "manny_de_los_santos",
+      "margin": 70.3,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72012": {
+      "votes": {
+        "manny_de_los_santos": 226,
+        "francesca_castellanos": 31,
+        "scattered": 3
+      },
+      "total": 260,
+      "winnerId": "manny_de_los_santos",
+      "margin": 75,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72013": {
+      "votes": {
+        "manny_de_los_santos": 197,
+        "francesca_castellanos": 33,
+        "scattered": 0
+      },
+      "total": 230,
+      "winnerId": "manny_de_los_santos",
+      "margin": 71.3,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72014": {
+      "votes": {
+        "manny_de_los_santos": 172,
+        "francesca_castellanos": 38,
+        "scattered": 0
+      },
+      "total": 210,
+      "winnerId": "manny_de_los_santos",
+      "margin": 63.8,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72015": {
+      "votes": {
+        "manny_de_los_santos": 220,
+        "francesca_castellanos": 42,
+        "scattered": 1
+      },
+      "total": 263,
+      "winnerId": "manny_de_los_santos",
+      "margin": 67.7,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72016": {
+      "votes": {
+        "manny_de_los_santos": 128,
+        "francesca_castellanos": 9,
+        "scattered": 0
+      },
+      "total": 137,
+      "winnerId": "manny_de_los_santos",
+      "margin": 86.9,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72017": {
+      "votes": {
+        "manny_de_los_santos": 116,
+        "francesca_castellanos": 15,
+        "scattered": 0
+      },
+      "total": 131,
+      "winnerId": "manny_de_los_santos",
+      "margin": 77.1,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72018": {
+      "votes": {
+        "manny_de_los_santos": 117,
+        "francesca_castellanos": 55,
+        "scattered": 2
+      },
+      "total": 174,
+      "winnerId": "manny_de_los_santos",
+      "margin": 35.6,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72019": {
+      "votes": {
+        "manny_de_los_santos": 153,
+        "francesca_castellanos": 64,
+        "scattered": 0
+      },
+      "total": 217,
+      "winnerId": "manny_de_los_santos",
+      "margin": 41,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72020": {
+      "votes": {
+        "manny_de_los_santos": 135,
+        "francesca_castellanos": 23,
+        "scattered": 0
+      },
+      "total": 158,
+      "winnerId": "manny_de_los_santos",
+      "margin": 70.9,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72021": {
+      "votes": {
+        "manny_de_los_santos": 113,
+        "francesca_castellanos": 14,
+        "scattered": 1
+      },
+      "total": 128,
+      "winnerId": "manny_de_los_santos",
+      "margin": 77.3,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72022": {
+      "votes": {
+        "manny_de_los_santos": 85,
+        "francesca_castellanos": 16,
+        "scattered": 1
+      },
+      "total": 102,
+      "winnerId": "manny_de_los_santos",
+      "margin": 67.6,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72023": {
+      "votes": {
+        "manny_de_los_santos": 128,
+        "francesca_castellanos": 28,
+        "scattered": 1
+      },
+      "total": 157,
+      "winnerId": "manny_de_los_santos",
+      "margin": 63.7,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72024": {
+      "votes": {
+        "manny_de_los_santos": 124,
+        "francesca_castellanos": 37,
+        "scattered": 1
+      },
+      "total": 162,
+      "winnerId": "manny_de_los_santos",
+      "margin": 53.7,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72025": {
+      "votes": {
+        "manny_de_los_santos": 207,
+        "francesca_castellanos": 41,
+        "scattered": 3
+      },
+      "total": 251,
+      "winnerId": "manny_de_los_santos",
+      "margin": 66.1,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72026": {
+      "votes": {
+        "manny_de_los_santos": 262,
+        "francesca_castellanos": 96,
+        "scattered": 2
+      },
+      "total": 360,
+      "winnerId": "manny_de_los_santos",
+      "margin": 46.1,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72027": {
+      "votes": {
+        "manny_de_los_santos": 177,
+        "francesca_castellanos": 48,
+        "scattered": 2
+      },
+      "total": 227,
+      "winnerId": "manny_de_los_santos",
+      "margin": 56.8,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72028": {
+      "votes": {
+        "manny_de_los_santos": 68,
+        "francesca_castellanos": 26,
+        "scattered": 1
+      },
+      "total": 95,
+      "winnerId": "manny_de_los_santos",
+      "margin": 44.2,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72029": {
+      "votes": {
+        "manny_de_los_santos": 164,
+        "francesca_castellanos": 42,
+        "scattered": 5
+      },
+      "total": 211,
+      "winnerId": "manny_de_los_santos",
+      "margin": 57.8,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72030": {
+      "votes": {
+        "manny_de_los_santos": 134,
+        "francesca_castellanos": 62,
+        "scattered": 0
+      },
+      "total": 196,
+      "winnerId": "manny_de_los_santos",
+      "margin": 36.7,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72031": {
+      "votes": {
+        "manny_de_los_santos": 113,
+        "francesca_castellanos": 39,
+        "scattered": 1
+      },
+      "total": 153,
+      "winnerId": "manny_de_los_santos",
+      "margin": 48.4,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72032": {
+      "votes": {
+        "manny_de_los_santos": 186,
+        "francesca_castellanos": 50,
+        "scattered": 2
+      },
+      "total": 238,
+      "winnerId": "manny_de_los_santos",
+      "margin": 57.1,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72033": {
+      "votes": {
+        "manny_de_los_santos": 139,
+        "francesca_castellanos": 65,
+        "scattered": 1
+      },
+      "total": 205,
+      "winnerId": "manny_de_los_santos",
+      "margin": 36.1,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72034": {
+      "votes": {
+        "manny_de_los_santos": 90,
+        "francesca_castellanos": 27,
+        "scattered": 1
+      },
+      "total": 118,
+      "winnerId": "manny_de_los_santos",
+      "margin": 53.4,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72035": {
+      "votes": {
+        "manny_de_los_santos": 126,
+        "francesca_castellanos": 27,
+        "scattered": 0
+      },
+      "total": 153,
+      "winnerId": "manny_de_los_santos",
+      "margin": 64.7,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72036": {
+      "votes": {
+        "manny_de_los_santos": 101,
+        "francesca_castellanos": 27,
+        "scattered": 2
+      },
+      "total": 130,
+      "winnerId": "manny_de_los_santos",
+      "margin": 56.9,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72037": {
+      "votes": {
+        "manny_de_los_santos": 154,
+        "francesca_castellanos": 29,
+        "scattered": 1
+      },
+      "total": 184,
+      "winnerId": "manny_de_los_santos",
+      "margin": 67.9,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72038": {
+      "votes": {
+        "manny_de_los_santos": 152,
+        "francesca_castellanos": 41,
+        "scattered": 4
+      },
+      "total": 197,
+      "winnerId": "manny_de_los_santos",
+      "margin": 56.3,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72039": {
+      "votes": {
+        "manny_de_los_santos": 116,
+        "francesca_castellanos": 28,
+        "scattered": 2
+      },
+      "total": 146,
+      "winnerId": "manny_de_los_santos",
+      "margin": 60.3,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72040": {
+      "votes": {
+        "manny_de_los_santos": 146,
+        "francesca_castellanos": 34,
+        "scattered": 0
+      },
+      "total": 180,
+      "winnerId": "manny_de_los_santos",
+      "margin": 62.2,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72041": {
+      "votes": {
+        "manny_de_los_santos": 163,
+        "francesca_castellanos": 62,
+        "scattered": 1
+      },
+      "total": 226,
+      "winnerId": "manny_de_los_santos",
+      "margin": 44.7,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72042": {
+      "votes": {
+        "manny_de_los_santos": 149,
+        "francesca_castellanos": 44,
+        "scattered": 0
+      },
+      "total": 193,
+      "winnerId": "manny_de_los_santos",
+      "margin": 54.4,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72043": {
+      "votes": {
+        "manny_de_los_santos": 128,
+        "francesca_castellanos": 36,
+        "scattered": 0
+      },
+      "total": 164,
+      "winnerId": "manny_de_los_santos",
+      "margin": 56.1,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72044": {
+      "votes": {
+        "manny_de_los_santos": 134,
+        "francesca_castellanos": 42,
+        "scattered": 0
+      },
+      "total": 176,
+      "winnerId": "manny_de_los_santos",
+      "margin": 52.3,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72045": {
+      "votes": {
+        "manny_de_los_santos": 103,
+        "francesca_castellanos": 21,
+        "scattered": 0
+      },
+      "total": 124,
+      "winnerId": "manny_de_los_santos",
+      "margin": 66.1,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72046": {
+      "votes": {
+        "manny_de_los_santos": 134,
+        "francesca_castellanos": 30,
+        "scattered": 1
+      },
+      "total": 165,
+      "winnerId": "manny_de_los_santos",
+      "margin": 63,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72047": {
+      "votes": {
+        "manny_de_los_santos": 105,
+        "francesca_castellanos": 26,
+        "scattered": 0
+      },
+      "total": 131,
+      "winnerId": "manny_de_los_santos",
+      "margin": 60.3,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72048": {
+      "votes": {
+        "manny_de_los_santos": 143,
+        "francesca_castellanos": 32,
+        "scattered": 1
+      },
+      "total": 176,
+      "winnerId": "manny_de_los_santos",
+      "margin": 63.1,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72049": {
+      "votes": {
+        "manny_de_los_santos": 117,
+        "francesca_castellanos": 20,
+        "scattered": 2
+      },
+      "total": 139,
+      "winnerId": "manny_de_los_santos",
+      "margin": 69.8,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72050": {
+      "votes": {
+        "manny_de_los_santos": 114,
+        "francesca_castellanos": 19,
+        "scattered": 0
+      },
+      "total": 133,
+      "winnerId": "manny_de_los_santos",
+      "margin": 71.4,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72051": {
+      "votes": {
+        "manny_de_los_santos": 108,
+        "francesca_castellanos": 26,
+        "scattered": 0
+      },
+      "total": 134,
+      "winnerId": "manny_de_los_santos",
+      "margin": 61.2,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72052": {
+      "votes": {
+        "manny_de_los_santos": 160,
+        "francesca_castellanos": 33,
+        "scattered": 0
+      },
+      "total": 193,
+      "winnerId": "manny_de_los_santos",
+      "margin": 65.8,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72053": {
+      "votes": {
+        "manny_de_los_santos": 130,
+        "francesca_castellanos": 32,
+        "scattered": 0
+      },
+      "total": 162,
+      "winnerId": "manny_de_los_santos",
+      "margin": 60.5,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72054": {
+      "votes": {
+        "manny_de_los_santos": 98,
+        "francesca_castellanos": 24,
+        "scattered": 1
+      },
+      "total": 123,
+      "winnerId": "manny_de_los_santos",
+      "margin": 60.2,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72055": {
+      "votes": {
+        "manny_de_los_santos": 127,
+        "francesca_castellanos": 56,
+        "scattered": 3
+      },
+      "total": 186,
+      "winnerId": "manny_de_los_santos",
+      "margin": 38.2,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72056": {
+      "votes": {
+        "manny_de_los_santos": 95,
+        "francesca_castellanos": 50,
+        "scattered": 1
+      },
+      "total": 146,
+      "winnerId": "manny_de_los_santos",
+      "margin": 30.8,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72057": {
+      "votes": {
+        "manny_de_los_santos": 115,
+        "francesca_castellanos": 47,
+        "scattered": 0
+      },
+      "total": 162,
+      "winnerId": "manny_de_los_santos",
+      "margin": 42,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72058": {
+      "votes": {
+        "manny_de_los_santos": 160,
+        "francesca_castellanos": 97,
+        "scattered": 1
+      },
+      "total": 258,
+      "winnerId": "manny_de_los_santos",
+      "margin": 24.4,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72059": {
+      "votes": {
+        "manny_de_los_santos": 98,
+        "francesca_castellanos": 52,
+        "scattered": 1
+      },
+      "total": 151,
+      "winnerId": "manny_de_los_santos",
+      "margin": 30.5,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72060": {
+      "votes": {
+        "manny_de_los_santos": 100,
+        "francesca_castellanos": 35,
+        "scattered": 1
+      },
+      "total": 136,
+      "winnerId": "manny_de_los_santos",
+      "margin": 47.8,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72061": {
+      "votes": {
+        "manny_de_los_santos": 87,
+        "francesca_castellanos": 40,
+        "scattered": 1
+      },
+      "total": 128,
+      "winnerId": "manny_de_los_santos",
+      "margin": 36.7,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72062": {
+      "votes": {
+        "manny_de_los_santos": 105,
+        "francesca_castellanos": 30,
+        "scattered": 1
+      },
+      "total": 136,
+      "winnerId": "manny_de_los_santos",
+      "margin": 55.1,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72063": {
+      "votes": {
+        "manny_de_los_santos": 94,
+        "francesca_castellanos": 31,
+        "scattered": 0
+      },
+      "total": 125,
+      "winnerId": "manny_de_los_santos",
+      "margin": 50.4,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72/001": {
+      "votes": {
+        "manny_de_los_santos": 111,
+        "francesca_castellanos": 18,
+        "scattered": 0
+      },
+      "total": 129,
+      "winnerId": "manny_de_los_santos",
+      "margin": 72.1,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72/002": {
+      "votes": {
+        "manny_de_los_santos": 137,
+        "francesca_castellanos": 38,
+        "scattered": 0
+      },
+      "total": 175,
+      "winnerId": "manny_de_los_santos",
+      "margin": 56.6,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72/003": {
+      "votes": {
+        "manny_de_los_santos": 144,
+        "francesca_castellanos": 43,
+        "scattered": 3
+      },
+      "total": 190,
+      "winnerId": "manny_de_los_santos",
+      "margin": 53.2,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72/004": {
+      "votes": {
+        "manny_de_los_santos": 337,
+        "francesca_castellanos": 163,
+        "scattered": 7
+      },
+      "total": 507,
+      "winnerId": "manny_de_los_santos",
+      "margin": 34.3,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72/005": {
+      "votes": {
+        "manny_de_los_santos": 277,
+        "francesca_castellanos": 155,
+        "scattered": 5
+      },
+      "total": 437,
+      "winnerId": "manny_de_los_santos",
+      "margin": 27.9,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72/006": {
+      "votes": {
+        "manny_de_los_santos": 191,
+        "francesca_castellanos": 107,
+        "scattered": 8
+      },
+      "total": 306,
+      "winnerId": "manny_de_los_santos",
+      "margin": 27.5,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72/007": {
+      "votes": {
+        "manny_de_los_santos": 153,
+        "francesca_castellanos": 42,
+        "scattered": 1
+      },
+      "total": 196,
+      "winnerId": "manny_de_los_santos",
+      "margin": 56.6,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72/008": {
+      "votes": {
+        "manny_de_los_santos": 187,
+        "francesca_castellanos": 79,
+        "scattered": 1
+      },
+      "total": 267,
+      "winnerId": "manny_de_los_santos",
+      "margin": 40.4,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72/009": {
+      "votes": {
+        "manny_de_los_santos": 244,
+        "francesca_castellanos": 131,
+        "scattered": 2
+      },
+      "total": 377,
+      "winnerId": "manny_de_los_santos",
+      "margin": 30,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72/010": {
+      "votes": {
+        "manny_de_los_santos": 191,
+        "francesca_castellanos": 102,
+        "scattered": 2
+      },
+      "total": 295,
+      "winnerId": "manny_de_los_santos",
+      "margin": 30.2,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72/011": {
+      "votes": {
+        "manny_de_los_santos": 188,
+        "francesca_castellanos": 32,
+        "scattered": 2
+      },
+      "total": 222,
+      "winnerId": "manny_de_los_santos",
+      "margin": 70.3,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72/012": {
+      "votes": {
+        "manny_de_los_santos": 226,
+        "francesca_castellanos": 31,
+        "scattered": 3
+      },
+      "total": 260,
+      "winnerId": "manny_de_los_santos",
+      "margin": 75,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72/013": {
+      "votes": {
+        "manny_de_los_santos": 197,
+        "francesca_castellanos": 33,
+        "scattered": 0
+      },
+      "total": 230,
+      "winnerId": "manny_de_los_santos",
+      "margin": 71.3,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72/014": {
+      "votes": {
+        "manny_de_los_santos": 172,
+        "francesca_castellanos": 38,
+        "scattered": 0
+      },
+      "total": 210,
+      "winnerId": "manny_de_los_santos",
+      "margin": 63.8,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72/015": {
+      "votes": {
+        "manny_de_los_santos": 220,
+        "francesca_castellanos": 42,
+        "scattered": 1
+      },
+      "total": 263,
+      "winnerId": "manny_de_los_santos",
+      "margin": 67.7,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72/016": {
+      "votes": {
+        "manny_de_los_santos": 128,
+        "francesca_castellanos": 9,
+        "scattered": 0
+      },
+      "total": 137,
+      "winnerId": "manny_de_los_santos",
+      "margin": 86.9,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72/017": {
+      "votes": {
+        "manny_de_los_santos": 116,
+        "francesca_castellanos": 15,
+        "scattered": 0
+      },
+      "total": 131,
+      "winnerId": "manny_de_los_santos",
+      "margin": 77.1,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72/018": {
+      "votes": {
+        "manny_de_los_santos": 117,
+        "francesca_castellanos": 55,
+        "scattered": 2
+      },
+      "total": 174,
+      "winnerId": "manny_de_los_santos",
+      "margin": 35.6,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72/019": {
+      "votes": {
+        "manny_de_los_santos": 153,
+        "francesca_castellanos": 64,
+        "scattered": 0
+      },
+      "total": 217,
+      "winnerId": "manny_de_los_santos",
+      "margin": 41,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72/020": {
+      "votes": {
+        "manny_de_los_santos": 135,
+        "francesca_castellanos": 23,
+        "scattered": 0
+      },
+      "total": 158,
+      "winnerId": "manny_de_los_santos",
+      "margin": 70.9,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72/021": {
+      "votes": {
+        "manny_de_los_santos": 113,
+        "francesca_castellanos": 14,
+        "scattered": 1
+      },
+      "total": 128,
+      "winnerId": "manny_de_los_santos",
+      "margin": 77.3,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72/022": {
+      "votes": {
+        "manny_de_los_santos": 85,
+        "francesca_castellanos": 16,
+        "scattered": 1
+      },
+      "total": 102,
+      "winnerId": "manny_de_los_santos",
+      "margin": 67.6,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72/023": {
+      "votes": {
+        "manny_de_los_santos": 128,
+        "francesca_castellanos": 28,
+        "scattered": 1
+      },
+      "total": 157,
+      "winnerId": "manny_de_los_santos",
+      "margin": 63.7,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72/024": {
+      "votes": {
+        "manny_de_los_santos": 124,
+        "francesca_castellanos": 37,
+        "scattered": 1
+      },
+      "total": 162,
+      "winnerId": "manny_de_los_santos",
+      "margin": 53.7,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72/025": {
+      "votes": {
+        "manny_de_los_santos": 207,
+        "francesca_castellanos": 41,
+        "scattered": 3
+      },
+      "total": 251,
+      "winnerId": "manny_de_los_santos",
+      "margin": 66.1,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72/026": {
+      "votes": {
+        "manny_de_los_santos": 262,
+        "francesca_castellanos": 96,
+        "scattered": 2
+      },
+      "total": 360,
+      "winnerId": "manny_de_los_santos",
+      "margin": 46.1,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72/027": {
+      "votes": {
+        "manny_de_los_santos": 177,
+        "francesca_castellanos": 48,
+        "scattered": 2
+      },
+      "total": 227,
+      "winnerId": "manny_de_los_santos",
+      "margin": 56.8,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72/028": {
+      "votes": {
+        "manny_de_los_santos": 68,
+        "francesca_castellanos": 26,
+        "scattered": 1
+      },
+      "total": 95,
+      "winnerId": "manny_de_los_santos",
+      "margin": 44.2,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72/029": {
+      "votes": {
+        "manny_de_los_santos": 164,
+        "francesca_castellanos": 42,
+        "scattered": 5
+      },
+      "total": 211,
+      "winnerId": "manny_de_los_santos",
+      "margin": 57.8,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72/030": {
+      "votes": {
+        "manny_de_los_santos": 134,
+        "francesca_castellanos": 62,
+        "scattered": 0
+      },
+      "total": 196,
+      "winnerId": "manny_de_los_santos",
+      "margin": 36.7,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72/031": {
+      "votes": {
+        "manny_de_los_santos": 113,
+        "francesca_castellanos": 39,
+        "scattered": 1
+      },
+      "total": 153,
+      "winnerId": "manny_de_los_santos",
+      "margin": 48.4,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72/032": {
+      "votes": {
+        "manny_de_los_santos": 186,
+        "francesca_castellanos": 50,
+        "scattered": 2
+      },
+      "total": 238,
+      "winnerId": "manny_de_los_santos",
+      "margin": 57.1,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72/033": {
+      "votes": {
+        "manny_de_los_santos": 139,
+        "francesca_castellanos": 65,
+        "scattered": 1
+      },
+      "total": 205,
+      "winnerId": "manny_de_los_santos",
+      "margin": 36.1,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72/034": {
+      "votes": {
+        "manny_de_los_santos": 90,
+        "francesca_castellanos": 27,
+        "scattered": 1
+      },
+      "total": 118,
+      "winnerId": "manny_de_los_santos",
+      "margin": 53.4,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72/035": {
+      "votes": {
+        "manny_de_los_santos": 126,
+        "francesca_castellanos": 27,
+        "scattered": 0
+      },
+      "total": 153,
+      "winnerId": "manny_de_los_santos",
+      "margin": 64.7,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72/036": {
+      "votes": {
+        "manny_de_los_santos": 101,
+        "francesca_castellanos": 27,
+        "scattered": 2
+      },
+      "total": 130,
+      "winnerId": "manny_de_los_santos",
+      "margin": 56.9,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72/037": {
+      "votes": {
+        "manny_de_los_santos": 154,
+        "francesca_castellanos": 29,
+        "scattered": 1
+      },
+      "total": 184,
+      "winnerId": "manny_de_los_santos",
+      "margin": 67.9,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72/038": {
+      "votes": {
+        "manny_de_los_santos": 152,
+        "francesca_castellanos": 41,
+        "scattered": 4
+      },
+      "total": 197,
+      "winnerId": "manny_de_los_santos",
+      "margin": 56.3,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72/039": {
+      "votes": {
+        "manny_de_los_santos": 116,
+        "francesca_castellanos": 28,
+        "scattered": 2
+      },
+      "total": 146,
+      "winnerId": "manny_de_los_santos",
+      "margin": 60.3,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72/040": {
+      "votes": {
+        "manny_de_los_santos": 146,
+        "francesca_castellanos": 34,
+        "scattered": 0
+      },
+      "total": 180,
+      "winnerId": "manny_de_los_santos",
+      "margin": 62.2,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72/041": {
+      "votes": {
+        "manny_de_los_santos": 163,
+        "francesca_castellanos": 62,
+        "scattered": 1
+      },
+      "total": 226,
+      "winnerId": "manny_de_los_santos",
+      "margin": 44.7,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72/042": {
+      "votes": {
+        "manny_de_los_santos": 149,
+        "francesca_castellanos": 44,
+        "scattered": 0
+      },
+      "total": 193,
+      "winnerId": "manny_de_los_santos",
+      "margin": 54.4,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72/043": {
+      "votes": {
+        "manny_de_los_santos": 128,
+        "francesca_castellanos": 36,
+        "scattered": 0
+      },
+      "total": 164,
+      "winnerId": "manny_de_los_santos",
+      "margin": 56.1,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72/044": {
+      "votes": {
+        "manny_de_los_santos": 134,
+        "francesca_castellanos": 42,
+        "scattered": 0
+      },
+      "total": 176,
+      "winnerId": "manny_de_los_santos",
+      "margin": 52.3,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72/045": {
+      "votes": {
+        "manny_de_los_santos": 103,
+        "francesca_castellanos": 21,
+        "scattered": 0
+      },
+      "total": 124,
+      "winnerId": "manny_de_los_santos",
+      "margin": 66.1,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72/046": {
+      "votes": {
+        "manny_de_los_santos": 134,
+        "francesca_castellanos": 30,
+        "scattered": 1
+      },
+      "total": 165,
+      "winnerId": "manny_de_los_santos",
+      "margin": 63,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72/047": {
+      "votes": {
+        "manny_de_los_santos": 105,
+        "francesca_castellanos": 26,
+        "scattered": 0
+      },
+      "total": 131,
+      "winnerId": "manny_de_los_santos",
+      "margin": 60.3,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72/048": {
+      "votes": {
+        "manny_de_los_santos": 143,
+        "francesca_castellanos": 32,
+        "scattered": 1
+      },
+      "total": 176,
+      "winnerId": "manny_de_los_santos",
+      "margin": 63.1,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72/049": {
+      "votes": {
+        "manny_de_los_santos": 117,
+        "francesca_castellanos": 20,
+        "scattered": 2
+      },
+      "total": 139,
+      "winnerId": "manny_de_los_santos",
+      "margin": 69.8,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72/050": {
+      "votes": {
+        "manny_de_los_santos": 114,
+        "francesca_castellanos": 19,
+        "scattered": 0
+      },
+      "total": 133,
+      "winnerId": "manny_de_los_santos",
+      "margin": 71.4,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72/051": {
+      "votes": {
+        "manny_de_los_santos": 108,
+        "francesca_castellanos": 26,
+        "scattered": 0
+      },
+      "total": 134,
+      "winnerId": "manny_de_los_santos",
+      "margin": 61.2,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72/052": {
+      "votes": {
+        "manny_de_los_santos": 160,
+        "francesca_castellanos": 33,
+        "scattered": 0
+      },
+      "total": 193,
+      "winnerId": "manny_de_los_santos",
+      "margin": 65.8,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72/053": {
+      "votes": {
+        "manny_de_los_santos": 130,
+        "francesca_castellanos": 32,
+        "scattered": 0
+      },
+      "total": 162,
+      "winnerId": "manny_de_los_santos",
+      "margin": 60.5,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72/054": {
+      "votes": {
+        "manny_de_los_santos": 98,
+        "francesca_castellanos": 24,
+        "scattered": 1
+      },
+      "total": 123,
+      "winnerId": "manny_de_los_santos",
+      "margin": 60.2,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72/055": {
+      "votes": {
+        "manny_de_los_santos": 127,
+        "francesca_castellanos": 56,
+        "scattered": 3
+      },
+      "total": 186,
+      "winnerId": "manny_de_los_santos",
+      "margin": 38.2,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72/056": {
+      "votes": {
+        "manny_de_los_santos": 95,
+        "francesca_castellanos": 50,
+        "scattered": 1
+      },
+      "total": 146,
+      "winnerId": "manny_de_los_santos",
+      "margin": 30.8,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72/057": {
+      "votes": {
+        "manny_de_los_santos": 115,
+        "francesca_castellanos": 47,
+        "scattered": 0
+      },
+      "total": 162,
+      "winnerId": "manny_de_los_santos",
+      "margin": 42,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72/058": {
+      "votes": {
+        "manny_de_los_santos": 160,
+        "francesca_castellanos": 97,
+        "scattered": 1
+      },
+      "total": 258,
+      "winnerId": "manny_de_los_santos",
+      "margin": 24.4,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72/059": {
+      "votes": {
+        "manny_de_los_santos": 98,
+        "francesca_castellanos": 52,
+        "scattered": 1
+      },
+      "total": 151,
+      "winnerId": "manny_de_los_santos",
+      "margin": 30.5,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72/060": {
+      "votes": {
+        "manny_de_los_santos": 100,
+        "francesca_castellanos": 35,
+        "scattered": 1
+      },
+      "total": 136,
+      "winnerId": "manny_de_los_santos",
+      "margin": 47.8,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72/061": {
+      "votes": {
+        "manny_de_los_santos": 87,
+        "francesca_castellanos": 40,
+        "scattered": 1
+      },
+      "total": 128,
+      "winnerId": "manny_de_los_santos",
+      "margin": 36.7,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72/062": {
+      "votes": {
+        "manny_de_los_santos": 105,
+        "francesca_castellanos": 30,
+        "scattered": 1
+      },
+      "total": 136,
+      "winnerId": "manny_de_los_santos",
+      "margin": 55.1,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    },
+    "72/063": {
+      "votes": {
+        "manny_de_los_santos": 94,
+        "francesca_castellanos": 31,
+        "scattered": 0
+      },
+      "total": 125,
+      "winnerId": "manny_de_los_santos",
+      "margin": 50.4,
+      "candidates": [
+        {
+          "id": "manny_de_los_santos",
+          "name": "Manny De Los Santos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "francesca_castellanos",
+          "name": "Francesca Castellanos",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        }
+      ]
+    }
+  }
+}

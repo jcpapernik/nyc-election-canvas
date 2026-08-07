@@ -1,0 +1,31 @@
+{
+  "id": "democratic_state_senator_22",
+  "name": "2026 Primary - State Senator District 22",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "State Senate",
+  "districtKey": "22",
+  "districtType": "senate",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "sam_sutton",
+      "name": "Sam Sutton",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#2563eb"
+    }
+  ],
+  "results": {
+    "22": {
+      "votes": {
+        "uncontested_primary_senate_22": 0
+      },
+      "total": 0,
+      "winnerId": "uncontested_primary_senate_22",
+      "margin": 100,
+      "isUncontested": true
+    }
+  },
+  "edResults": {}
+}

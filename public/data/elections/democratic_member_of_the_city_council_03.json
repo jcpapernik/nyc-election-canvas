@@ -1,0 +1,31 @@
+{
+  "id": "democratic_member_of_the_city_council_03",
+  "name": "2026 Primary - Member of the City Council District 03",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "City Council",
+  "districtKey": "3",
+  "districtType": "council",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "carl_wilson",
+      "name": "Carl Wilson",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#2563eb"
+    }
+  ],
+  "results": {
+    "3": {
+      "votes": {
+        "uncontested_primary_council_3": 0
+      },
+      "total": 0,
+      "winnerId": "uncontested_primary_council_3",
+      "margin": 100,
+      "isUncontested": true
+    }
+  },
+  "edResults": {}
+}

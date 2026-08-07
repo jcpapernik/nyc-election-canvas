@@ -1,0 +1,31 @@
+{
+  "id": "democratic_member_of_the_city_council_02",
+  "name": "2026 Primary - Member of the City Council District 02",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "City Council",
+  "districtKey": "2",
+  "districtType": "council",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "harvey_epstein",
+      "name": "Harvey Epstein",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#2563eb"
+    }
+  ],
+  "results": {
+    "2": {
+      "votes": {
+        "uncontested_primary_council_2": 0
+      },
+      "total": 0,
+      "winnerId": "uncontested_primary_council_2",
+      "margin": 100,
+      "isUncontested": true
+    }
+  },
+  "edResults": {}
+}

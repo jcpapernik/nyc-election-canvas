@@ -1,0 +1,31 @@
+{
+  "id": "democratic_member_of_the_city_council_48",
+  "name": "2026 Primary - Member of the City Council District 48",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "City Council",
+  "districtKey": "48",
+  "districtType": "council",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "inna_vernikov",
+      "name": "Inna Vernikov",
+      "party": "Democratic",
+      "isIncumbent": true,
+      "color": "#2563eb"
+    }
+  ],
+  "results": {
+    "48": {
+      "votes": {
+        "uncontested_primary_council_48": 0
+      },
+      "total": 0,
+      "winnerId": "uncontested_primary_council_48",
+      "margin": 100,
+      "isUncontested": true
+    }
+  },
+  "edResults": {}
+}

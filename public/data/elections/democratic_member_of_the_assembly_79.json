@@ -1,0 +1,31 @@
+{
+  "id": "democratic_member_of_the_assembly_79",
+  "name": "2026 Primary - Member of the Assembly District 79",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "State Assembly",
+  "districtKey": "79",
+  "districtType": "assembly",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "chantel_jackson",
+      "name": "Chantel Jackson",
+      "party": "Democratic",
+      "isIncumbent": true,
+      "color": "#2563eb"
+    }
+  ],
+  "results": {
+    "79": {
+      "votes": {
+        "uncontested_primary_assembly_79": 0
+      },
+      "total": 0,
+      "winnerId": "uncontested_primary_assembly_79",
+      "margin": 100,
+      "isUncontested": true
+    }
+  },
+  "edResults": {}
+}

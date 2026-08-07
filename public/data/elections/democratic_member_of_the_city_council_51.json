@@ -1,0 +1,31 @@
+{
+  "id": "democratic_member_of_the_city_council_51",
+  "name": "2026 Primary - Member of the City Council District 51",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "City Council",
+  "districtKey": "51",
+  "districtType": "council",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "frank_morano",
+      "name": "Frank Morano",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#2563eb"
+    }
+  ],
+  "results": {
+    "51": {
+      "votes": {
+        "uncontested_primary_council_51": 0
+      },
+      "total": 0,
+      "winnerId": "uncontested_primary_council_51",
+      "margin": 100,
+      "isUncontested": true
+    }
+  },
+  "edResults": {}
+}

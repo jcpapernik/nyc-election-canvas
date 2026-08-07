@@ -1,0 +1,31 @@
+{
+  "id": "democratic_member_of_the_city_council_40",
+  "name": "2026 Primary - Member of the City Council District 40",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "City Council",
+  "districtKey": "40",
+  "districtType": "council",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "rita_joseph",
+      "name": "Rita Joseph",
+      "party": "Democratic",
+      "isIncumbent": true,
+      "color": "#2563eb"
+    }
+  ],
+  "results": {
+    "40": {
+      "votes": {
+        "uncontested_primary_council_40": 0
+      },
+      "total": 0,
+      "winnerId": "uncontested_primary_council_40",
+      "margin": 100,
+      "isUncontested": true
+    }
+  },
+  "edResults": {}
+}

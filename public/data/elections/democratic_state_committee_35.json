@@ -1,0 +1,4677 @@
+{
+  "id": "democratic_state_committee_35",
+  "name": "2026 Primary - State Committee District 35",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "Judicial & Party Offices",
+  "districtKey": "35",
+  "districtType": "congressional",
+  "isUncontested": false,
+  "candidates": [
+    {
+      "id": "lidia_v_alvarado_(f)",
+      "name": "Lidia V. Alvarado (F)",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#d97706"
+    },
+    {
+      "id": "trenise_jessica_fuller_(f)",
+      "name": "Trenise Jessica Fuller (F)",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#7c3aed"
+    },
+    {
+      "id": "william_a_espinal_(m)",
+      "name": "William A. Espinal (M)",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#059669"
+    },
+    {
+      "id": "scattered",
+      "name": "Scattered",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#0891b2"
+    }
+  ],
+  "results": {
+    "35": {
+      "votes": {
+        "lidia_v_alvarado_f_": 2487,
+        "trenise_jessica_fuller_f_": 1947,
+        "william_a_espinal_m_": 1541,
+        "scattered": 55
+      },
+      "total": 6030,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 9,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    }
+  },
+  "edResults": {
+    "35001": {
+      "votes": {
+        "lidia_v_alvarado_f_": 43,
+        "trenise_jessica_fuller_f_": 27,
+        "william_a_espinal_m_": 30,
+        "scattered": 1
+      },
+      "total": 101,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 12.9,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35002": {
+      "votes": {
+        "lidia_v_alvarado_f_": 34,
+        "trenise_jessica_fuller_f_": 20,
+        "william_a_espinal_m_": 23,
+        "scattered": 0
+      },
+      "total": 77,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 14.3,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35003": {
+      "votes": {
+        "lidia_v_alvarado_f_": 36,
+        "trenise_jessica_fuller_f_": 24,
+        "william_a_espinal_m_": 23,
+        "scattered": 0
+      },
+      "total": 83,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 14.5,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35004": {
+      "votes": {
+        "lidia_v_alvarado_f_": 47,
+        "trenise_jessica_fuller_f_": 24,
+        "william_a_espinal_m_": 17,
+        "scattered": 3
+      },
+      "total": 91,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 25.3,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35005": {
+      "votes": {
+        "lidia_v_alvarado_f_": 56,
+        "trenise_jessica_fuller_f_": 54,
+        "william_a_espinal_m_": 38,
+        "scattered": 0
+      },
+      "total": 148,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 1.4,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35006": {
+      "votes": {
+        "lidia_v_alvarado_f_": 55,
+        "trenise_jessica_fuller_f_": 60,
+        "william_a_espinal_m_": 44,
+        "scattered": 0
+      },
+      "total": 159,
+      "winnerId": "trenise_jessica_fuller_f_",
+      "margin": 3.1,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35007": {
+      "votes": {
+        "lidia_v_alvarado_f_": 88,
+        "trenise_jessica_fuller_f_": 83,
+        "william_a_espinal_m_": 56,
+        "scattered": 2
+      },
+      "total": 229,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 2.2,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35008": {
+      "votes": {
+        "lidia_v_alvarado_f_": 106,
+        "trenise_jessica_fuller_f_": 88,
+        "william_a_espinal_m_": 84,
+        "scattered": 1
+      },
+      "total": 279,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 6.5,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35009": {
+      "votes": {
+        "lidia_v_alvarado_f_": 47,
+        "trenise_jessica_fuller_f_": 32,
+        "william_a_espinal_m_": 37,
+        "scattered": 3
+      },
+      "total": 119,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 8.4,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35010": {
+      "votes": {
+        "lidia_v_alvarado_f_": 37,
+        "trenise_jessica_fuller_f_": 29,
+        "william_a_espinal_m_": 20,
+        "scattered": 1
+      },
+      "total": 87,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 9.2,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35011": {
+      "votes": {
+        "lidia_v_alvarado_f_": 44,
+        "trenise_jessica_fuller_f_": 37,
+        "william_a_espinal_m_": 25,
+        "scattered": 1
+      },
+      "total": 107,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 6.5,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35012": {
+      "votes": {
+        "lidia_v_alvarado_f_": 49,
+        "trenise_jessica_fuller_f_": 35,
+        "william_a_espinal_m_": 31,
+        "scattered": 0
+      },
+      "total": 115,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 12.2,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35013": {
+      "votes": {
+        "lidia_v_alvarado_f_": 56,
+        "trenise_jessica_fuller_f_": 40,
+        "william_a_espinal_m_": 35,
+        "scattered": 2
+      },
+      "total": 133,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 12,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35014": {
+      "votes": {
+        "lidia_v_alvarado_f_": 88,
+        "trenise_jessica_fuller_f_": 55,
+        "william_a_espinal_m_": 63,
+        "scattered": 0
+      },
+      "total": 206,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 12.1,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35015": {
+      "votes": {
+        "lidia_v_alvarado_f_": 54,
+        "trenise_jessica_fuller_f_": 44,
+        "william_a_espinal_m_": 34,
+        "scattered": 1
+      },
+      "total": 133,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 7.5,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35016": {
+      "votes": {
+        "lidia_v_alvarado_f_": 94,
+        "trenise_jessica_fuller_f_": 81,
+        "william_a_espinal_m_": 67,
+        "scattered": 0
+      },
+      "total": 242,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 5.4,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35017": {
+      "votes": {
+        "lidia_v_alvarado_f_": 59,
+        "trenise_jessica_fuller_f_": 26,
+        "william_a_espinal_m_": 38,
+        "scattered": 4
+      },
+      "total": 127,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 16.5,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35018": {
+      "votes": {
+        "lidia_v_alvarado_f_": 21,
+        "trenise_jessica_fuller_f_": 13,
+        "william_a_espinal_m_": 18,
+        "scattered": 0
+      },
+      "total": 52,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 5.8,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35019": {
+      "votes": {
+        "lidia_v_alvarado_f_": 27,
+        "trenise_jessica_fuller_f_": 15,
+        "william_a_espinal_m_": 14,
+        "scattered": 0
+      },
+      "total": 56,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 21.4,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35020": {
+      "votes": {
+        "lidia_v_alvarado_f_": 9,
+        "trenise_jessica_fuller_f_": 15,
+        "william_a_espinal_m_": 13,
+        "scattered": 0
+      },
+      "total": 37,
+      "winnerId": "trenise_jessica_fuller_f_",
+      "margin": 5.4,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35021": {
+      "votes": {
+        "lidia_v_alvarado_f_": 49,
+        "trenise_jessica_fuller_f_": 33,
+        "william_a_espinal_m_": 20,
+        "scattered": 2
+      },
+      "total": 104,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 15.4,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35022": {
+      "votes": {
+        "lidia_v_alvarado_f_": 55,
+        "trenise_jessica_fuller_f_": 25,
+        "william_a_espinal_m_": 22,
+        "scattered": 4
+      },
+      "total": 106,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 28.3,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35023": {
+      "votes": {
+        "lidia_v_alvarado_f_": 35,
+        "trenise_jessica_fuller_f_": 15,
+        "william_a_espinal_m_": 15,
+        "scattered": 1
+      },
+      "total": 66,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 30.3,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35024": {
+      "votes": {
+        "lidia_v_alvarado_f_": 34,
+        "trenise_jessica_fuller_f_": 20,
+        "william_a_espinal_m_": 23,
+        "scattered": 1
+      },
+      "total": 78,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 14.1,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35025": {
+      "votes": {
+        "lidia_v_alvarado_f_": 93,
+        "trenise_jessica_fuller_f_": 64,
+        "william_a_espinal_m_": 50,
+        "scattered": 3
+      },
+      "total": 210,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 13.8,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35026": {
+      "votes": {
+        "lidia_v_alvarado_f_": 70,
+        "trenise_jessica_fuller_f_": 66,
+        "william_a_espinal_m_": 36,
+        "scattered": 3
+      },
+      "total": 175,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 2.3,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35027": {
+      "votes": {
+        "lidia_v_alvarado_f_": 9,
+        "trenise_jessica_fuller_f_": 9,
+        "william_a_espinal_m_": 8,
+        "scattered": 0
+      },
+      "total": 26,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35028": {
+      "votes": {
+        "lidia_v_alvarado_f_": 7,
+        "trenise_jessica_fuller_f_": 4,
+        "william_a_espinal_m_": 5,
+        "scattered": 0
+      },
+      "total": 16,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 12.5,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35029": {
+      "votes": {
+        "lidia_v_alvarado_f_": 51,
+        "trenise_jessica_fuller_f_": 24,
+        "william_a_espinal_m_": 30,
+        "scattered": 0
+      },
+      "total": 105,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 20,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35030": {
+      "votes": {
+        "lidia_v_alvarado_f_": 70,
+        "trenise_jessica_fuller_f_": 58,
+        "william_a_espinal_m_": 35,
+        "scattered": 3
+      },
+      "total": 166,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 7.2,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35031": {
+      "votes": {
+        "lidia_v_alvarado_f_": 36,
+        "trenise_jessica_fuller_f_": 22,
+        "william_a_espinal_m_": 24,
+        "scattered": 1
+      },
+      "total": 83,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 14.5,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35032": {
+      "votes": {
+        "lidia_v_alvarado_f_": 83,
+        "trenise_jessica_fuller_f_": 74,
+        "william_a_espinal_m_": 52,
+        "scattered": 1
+      },
+      "total": 210,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 4.3,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35033": {
+      "votes": {
+        "lidia_v_alvarado_f_": 88,
+        "trenise_jessica_fuller_f_": 81,
+        "william_a_espinal_m_": 61,
+        "scattered": 2
+      },
+      "total": 232,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 3,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35034": {
+      "votes": {
+        "lidia_v_alvarado_f_": 81,
+        "trenise_jessica_fuller_f_": 82,
+        "william_a_espinal_m_": 41,
+        "scattered": 1
+      },
+      "total": 205,
+      "winnerId": "trenise_jessica_fuller_f_",
+      "margin": 0.5,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35035": {
+      "votes": {
+        "lidia_v_alvarado_f_": 76,
+        "trenise_jessica_fuller_f_": 81,
+        "william_a_espinal_m_": 38,
+        "scattered": 0
+      },
+      "total": 195,
+      "winnerId": "trenise_jessica_fuller_f_",
+      "margin": 2.6,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35036": {
+      "votes": {
+        "lidia_v_alvarado_f_": 69,
+        "trenise_jessica_fuller_f_": 82,
+        "william_a_espinal_m_": 43,
+        "scattered": 1
+      },
+      "total": 195,
+      "winnerId": "trenise_jessica_fuller_f_",
+      "margin": 6.7,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35037": {
+      "votes": {
+        "lidia_v_alvarado_f_": 51,
+        "trenise_jessica_fuller_f_": 40,
+        "william_a_espinal_m_": 35,
+        "scattered": 0
+      },
+      "total": 126,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 8.7,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35038": {
+      "votes": {
+        "lidia_v_alvarado_f_": 61,
+        "trenise_jessica_fuller_f_": 36,
+        "william_a_espinal_m_": 41,
+        "scattered": 0
+      },
+      "total": 138,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 14.5,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35039": {
+      "votes": {
+        "lidia_v_alvarado_f_": 80,
+        "trenise_jessica_fuller_f_": 65,
+        "william_a_espinal_m_": 46,
+        "scattered": 0
+      },
+      "total": 191,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 7.9,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35040": {
+      "votes": {
+        "lidia_v_alvarado_f_": 43,
+        "trenise_jessica_fuller_f_": 39,
+        "william_a_espinal_m_": 30,
+        "scattered": 2
+      },
+      "total": 114,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 3.5,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35041": {
+      "votes": {
+        "lidia_v_alvarado_f_": 57,
+        "trenise_jessica_fuller_f_": 30,
+        "william_a_espinal_m_": 33,
+        "scattered": 0
+      },
+      "total": 120,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 20,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35042": {
+      "votes": {
+        "lidia_v_alvarado_f_": 54,
+        "trenise_jessica_fuller_f_": 48,
+        "william_a_espinal_m_": 28,
+        "scattered": 7
+      },
+      "total": 137,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 4.4,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35043": {
+      "votes": {
+        "lidia_v_alvarado_f_": 16,
+        "trenise_jessica_fuller_f_": 15,
+        "william_a_espinal_m_": 19,
+        "scattered": 0
+      },
+      "total": 50,
+      "winnerId": "william_a_espinal_m_",
+      "margin": 6,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35044": {
+      "votes": {
+        "lidia_v_alvarado_f_": 46,
+        "trenise_jessica_fuller_f_": 34,
+        "william_a_espinal_m_": 23,
+        "scattered": 0
+      },
+      "total": 103,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 11.7,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35045": {
+      "votes": {
+        "lidia_v_alvarado_f_": 13,
+        "trenise_jessica_fuller_f_": 21,
+        "william_a_espinal_m_": 18,
+        "scattered": 0
+      },
+      "total": 52,
+      "winnerId": "trenise_jessica_fuller_f_",
+      "margin": 5.8,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35046": {
+      "votes": {
+        "lidia_v_alvarado_f_": 47,
+        "trenise_jessica_fuller_f_": 36,
+        "william_a_espinal_m_": 26,
+        "scattered": 3
+      },
+      "total": 112,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 9.8,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35047": {
+      "votes": {
+        "lidia_v_alvarado_f_": 0,
+        "trenise_jessica_fuller_f_": 0,
+        "william_a_espinal_m_": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35048": {
+      "votes": {
+        "lidia_v_alvarado_f_": 16,
+        "trenise_jessica_fuller_f_": 15,
+        "william_a_espinal_m_": 2,
+        "scattered": 1
+      },
+      "total": 34,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 2.9,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35049": {
+      "votes": {
+        "lidia_v_alvarado_f_": 47,
+        "trenise_jessica_fuller_f_": 26,
+        "william_a_espinal_m_": 27,
+        "scattered": 0
+      },
+      "total": 100,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 20,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35050": {
+      "votes": {
+        "lidia_v_alvarado_f_": 0,
+        "trenise_jessica_fuller_f_": 0,
+        "william_a_espinal_m_": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35053": {
+      "votes": {
+        "lidia_v_alvarado_f_": 0,
+        "trenise_jessica_fuller_f_": 0,
+        "william_a_espinal_m_": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35054": {
+      "votes": {
+        "lidia_v_alvarado_f_": 0,
+        "trenise_jessica_fuller_f_": 0,
+        "william_a_espinal_m_": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35055": {
+      "votes": {
+        "lidia_v_alvarado_f_": 0,
+        "trenise_jessica_fuller_f_": 0,
+        "william_a_espinal_m_": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35056": {
+      "votes": {
+        "lidia_v_alvarado_f_": 0,
+        "trenise_jessica_fuller_f_": 0,
+        "william_a_espinal_m_": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35061": {
+      "votes": {
+        "lidia_v_alvarado_f_": 0,
+        "trenise_jessica_fuller_f_": 0,
+        "william_a_espinal_m_": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35062": {
+      "votes": {
+        "lidia_v_alvarado_f_": 0,
+        "trenise_jessica_fuller_f_": 0,
+        "william_a_espinal_m_": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35/001": {
+      "votes": {
+        "lidia_v_alvarado_f_": 43,
+        "trenise_jessica_fuller_f_": 27,
+        "william_a_espinal_m_": 30,
+        "scattered": 1
+      },
+      "total": 101,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 12.9,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35/002": {
+      "votes": {
+        "lidia_v_alvarado_f_": 34,
+        "trenise_jessica_fuller_f_": 20,
+        "william_a_espinal_m_": 23,
+        "scattered": 0
+      },
+      "total": 77,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 14.3,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35/003": {
+      "votes": {
+        "lidia_v_alvarado_f_": 36,
+        "trenise_jessica_fuller_f_": 24,
+        "william_a_espinal_m_": 23,
+        "scattered": 0
+      },
+      "total": 83,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 14.5,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35/004": {
+      "votes": {
+        "lidia_v_alvarado_f_": 47,
+        "trenise_jessica_fuller_f_": 24,
+        "william_a_espinal_m_": 17,
+        "scattered": 3
+      },
+      "total": 91,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 25.3,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35/005": {
+      "votes": {
+        "lidia_v_alvarado_f_": 56,
+        "trenise_jessica_fuller_f_": 54,
+        "william_a_espinal_m_": 38,
+        "scattered": 0
+      },
+      "total": 148,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 1.4,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35/006": {
+      "votes": {
+        "lidia_v_alvarado_f_": 55,
+        "trenise_jessica_fuller_f_": 60,
+        "william_a_espinal_m_": 44,
+        "scattered": 0
+      },
+      "total": 159,
+      "winnerId": "trenise_jessica_fuller_f_",
+      "margin": 3.1,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35/007": {
+      "votes": {
+        "lidia_v_alvarado_f_": 88,
+        "trenise_jessica_fuller_f_": 83,
+        "william_a_espinal_m_": 56,
+        "scattered": 2
+      },
+      "total": 229,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 2.2,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35/008": {
+      "votes": {
+        "lidia_v_alvarado_f_": 106,
+        "trenise_jessica_fuller_f_": 88,
+        "william_a_espinal_m_": 84,
+        "scattered": 1
+      },
+      "total": 279,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 6.5,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35/009": {
+      "votes": {
+        "lidia_v_alvarado_f_": 47,
+        "trenise_jessica_fuller_f_": 32,
+        "william_a_espinal_m_": 37,
+        "scattered": 3
+      },
+      "total": 119,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 8.4,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35/010": {
+      "votes": {
+        "lidia_v_alvarado_f_": 37,
+        "trenise_jessica_fuller_f_": 29,
+        "william_a_espinal_m_": 20,
+        "scattered": 1
+      },
+      "total": 87,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 9.2,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35/011": {
+      "votes": {
+        "lidia_v_alvarado_f_": 44,
+        "trenise_jessica_fuller_f_": 37,
+        "william_a_espinal_m_": 25,
+        "scattered": 1
+      },
+      "total": 107,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 6.5,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35/012": {
+      "votes": {
+        "lidia_v_alvarado_f_": 49,
+        "trenise_jessica_fuller_f_": 35,
+        "william_a_espinal_m_": 31,
+        "scattered": 0
+      },
+      "total": 115,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 12.2,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35/013": {
+      "votes": {
+        "lidia_v_alvarado_f_": 56,
+        "trenise_jessica_fuller_f_": 40,
+        "william_a_espinal_m_": 35,
+        "scattered": 2
+      },
+      "total": 133,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 12,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35/014": {
+      "votes": {
+        "lidia_v_alvarado_f_": 88,
+        "trenise_jessica_fuller_f_": 55,
+        "william_a_espinal_m_": 63,
+        "scattered": 0
+      },
+      "total": 206,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 12.1,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35/015": {
+      "votes": {
+        "lidia_v_alvarado_f_": 54,
+        "trenise_jessica_fuller_f_": 44,
+        "william_a_espinal_m_": 34,
+        "scattered": 1
+      },
+      "total": 133,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 7.5,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35/016": {
+      "votes": {
+        "lidia_v_alvarado_f_": 94,
+        "trenise_jessica_fuller_f_": 81,
+        "william_a_espinal_m_": 67,
+        "scattered": 0
+      },
+      "total": 242,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 5.4,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35/017": {
+      "votes": {
+        "lidia_v_alvarado_f_": 59,
+        "trenise_jessica_fuller_f_": 26,
+        "william_a_espinal_m_": 38,
+        "scattered": 4
+      },
+      "total": 127,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 16.5,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35/018": {
+      "votes": {
+        "lidia_v_alvarado_f_": 21,
+        "trenise_jessica_fuller_f_": 13,
+        "william_a_espinal_m_": 18,
+        "scattered": 0
+      },
+      "total": 52,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 5.8,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35/019": {
+      "votes": {
+        "lidia_v_alvarado_f_": 27,
+        "trenise_jessica_fuller_f_": 15,
+        "william_a_espinal_m_": 14,
+        "scattered": 0
+      },
+      "total": 56,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 21.4,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35/020": {
+      "votes": {
+        "lidia_v_alvarado_f_": 9,
+        "trenise_jessica_fuller_f_": 15,
+        "william_a_espinal_m_": 13,
+        "scattered": 0
+      },
+      "total": 37,
+      "winnerId": "trenise_jessica_fuller_f_",
+      "margin": 5.4,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35/021": {
+      "votes": {
+        "lidia_v_alvarado_f_": 49,
+        "trenise_jessica_fuller_f_": 33,
+        "william_a_espinal_m_": 20,
+        "scattered": 2
+      },
+      "total": 104,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 15.4,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35/022": {
+      "votes": {
+        "lidia_v_alvarado_f_": 55,
+        "trenise_jessica_fuller_f_": 25,
+        "william_a_espinal_m_": 22,
+        "scattered": 4
+      },
+      "total": 106,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 28.3,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35/023": {
+      "votes": {
+        "lidia_v_alvarado_f_": 35,
+        "trenise_jessica_fuller_f_": 15,
+        "william_a_espinal_m_": 15,
+        "scattered": 1
+      },
+      "total": 66,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 30.3,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35/024": {
+      "votes": {
+        "lidia_v_alvarado_f_": 34,
+        "trenise_jessica_fuller_f_": 20,
+        "william_a_espinal_m_": 23,
+        "scattered": 1
+      },
+      "total": 78,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 14.1,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35/025": {
+      "votes": {
+        "lidia_v_alvarado_f_": 93,
+        "trenise_jessica_fuller_f_": 64,
+        "william_a_espinal_m_": 50,
+        "scattered": 3
+      },
+      "total": 210,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 13.8,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35/026": {
+      "votes": {
+        "lidia_v_alvarado_f_": 70,
+        "trenise_jessica_fuller_f_": 66,
+        "william_a_espinal_m_": 36,
+        "scattered": 3
+      },
+      "total": 175,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 2.3,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35/027": {
+      "votes": {
+        "lidia_v_alvarado_f_": 9,
+        "trenise_jessica_fuller_f_": 9,
+        "william_a_espinal_m_": 8,
+        "scattered": 0
+      },
+      "total": 26,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35/028": {
+      "votes": {
+        "lidia_v_alvarado_f_": 7,
+        "trenise_jessica_fuller_f_": 4,
+        "william_a_espinal_m_": 5,
+        "scattered": 0
+      },
+      "total": 16,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 12.5,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35/029": {
+      "votes": {
+        "lidia_v_alvarado_f_": 51,
+        "trenise_jessica_fuller_f_": 24,
+        "william_a_espinal_m_": 30,
+        "scattered": 0
+      },
+      "total": 105,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 20,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35/030": {
+      "votes": {
+        "lidia_v_alvarado_f_": 70,
+        "trenise_jessica_fuller_f_": 58,
+        "william_a_espinal_m_": 35,
+        "scattered": 3
+      },
+      "total": 166,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 7.2,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35/031": {
+      "votes": {
+        "lidia_v_alvarado_f_": 36,
+        "trenise_jessica_fuller_f_": 22,
+        "william_a_espinal_m_": 24,
+        "scattered": 1
+      },
+      "total": 83,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 14.5,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35/032": {
+      "votes": {
+        "lidia_v_alvarado_f_": 83,
+        "trenise_jessica_fuller_f_": 74,
+        "william_a_espinal_m_": 52,
+        "scattered": 1
+      },
+      "total": 210,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 4.3,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35/033": {
+      "votes": {
+        "lidia_v_alvarado_f_": 88,
+        "trenise_jessica_fuller_f_": 81,
+        "william_a_espinal_m_": 61,
+        "scattered": 2
+      },
+      "total": 232,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 3,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35/034": {
+      "votes": {
+        "lidia_v_alvarado_f_": 81,
+        "trenise_jessica_fuller_f_": 82,
+        "william_a_espinal_m_": 41,
+        "scattered": 1
+      },
+      "total": 205,
+      "winnerId": "trenise_jessica_fuller_f_",
+      "margin": 0.5,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35/035": {
+      "votes": {
+        "lidia_v_alvarado_f_": 76,
+        "trenise_jessica_fuller_f_": 81,
+        "william_a_espinal_m_": 38,
+        "scattered": 0
+      },
+      "total": 195,
+      "winnerId": "trenise_jessica_fuller_f_",
+      "margin": 2.6,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35/036": {
+      "votes": {
+        "lidia_v_alvarado_f_": 69,
+        "trenise_jessica_fuller_f_": 82,
+        "william_a_espinal_m_": 43,
+        "scattered": 1
+      },
+      "total": 195,
+      "winnerId": "trenise_jessica_fuller_f_",
+      "margin": 6.7,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35/037": {
+      "votes": {
+        "lidia_v_alvarado_f_": 51,
+        "trenise_jessica_fuller_f_": 40,
+        "william_a_espinal_m_": 35,
+        "scattered": 0
+      },
+      "total": 126,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 8.7,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35/038": {
+      "votes": {
+        "lidia_v_alvarado_f_": 61,
+        "trenise_jessica_fuller_f_": 36,
+        "william_a_espinal_m_": 41,
+        "scattered": 0
+      },
+      "total": 138,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 14.5,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35/039": {
+      "votes": {
+        "lidia_v_alvarado_f_": 80,
+        "trenise_jessica_fuller_f_": 65,
+        "william_a_espinal_m_": 46,
+        "scattered": 0
+      },
+      "total": 191,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 7.9,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35/040": {
+      "votes": {
+        "lidia_v_alvarado_f_": 43,
+        "trenise_jessica_fuller_f_": 39,
+        "william_a_espinal_m_": 30,
+        "scattered": 2
+      },
+      "total": 114,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 3.5,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35/041": {
+      "votes": {
+        "lidia_v_alvarado_f_": 57,
+        "trenise_jessica_fuller_f_": 30,
+        "william_a_espinal_m_": 33,
+        "scattered": 0
+      },
+      "total": 120,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 20,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35/042": {
+      "votes": {
+        "lidia_v_alvarado_f_": 54,
+        "trenise_jessica_fuller_f_": 48,
+        "william_a_espinal_m_": 28,
+        "scattered": 7
+      },
+      "total": 137,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 4.4,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35/043": {
+      "votes": {
+        "lidia_v_alvarado_f_": 16,
+        "trenise_jessica_fuller_f_": 15,
+        "william_a_espinal_m_": 19,
+        "scattered": 0
+      },
+      "total": 50,
+      "winnerId": "william_a_espinal_m_",
+      "margin": 6,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35/044": {
+      "votes": {
+        "lidia_v_alvarado_f_": 46,
+        "trenise_jessica_fuller_f_": 34,
+        "william_a_espinal_m_": 23,
+        "scattered": 0
+      },
+      "total": 103,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 11.7,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35/045": {
+      "votes": {
+        "lidia_v_alvarado_f_": 13,
+        "trenise_jessica_fuller_f_": 21,
+        "william_a_espinal_m_": 18,
+        "scattered": 0
+      },
+      "total": 52,
+      "winnerId": "trenise_jessica_fuller_f_",
+      "margin": 5.8,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35/046": {
+      "votes": {
+        "lidia_v_alvarado_f_": 47,
+        "trenise_jessica_fuller_f_": 36,
+        "william_a_espinal_m_": 26,
+        "scattered": 3
+      },
+      "total": 112,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 9.8,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35/047": {
+      "votes": {
+        "lidia_v_alvarado_f_": 0,
+        "trenise_jessica_fuller_f_": 0,
+        "william_a_espinal_m_": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35/048": {
+      "votes": {
+        "lidia_v_alvarado_f_": 16,
+        "trenise_jessica_fuller_f_": 15,
+        "william_a_espinal_m_": 2,
+        "scattered": 1
+      },
+      "total": 34,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 2.9,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35/049": {
+      "votes": {
+        "lidia_v_alvarado_f_": 47,
+        "trenise_jessica_fuller_f_": 26,
+        "william_a_espinal_m_": 27,
+        "scattered": 0
+      },
+      "total": 100,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 20,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35/050": {
+      "votes": {
+        "lidia_v_alvarado_f_": 0,
+        "trenise_jessica_fuller_f_": 0,
+        "william_a_espinal_m_": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35/053": {
+      "votes": {
+        "lidia_v_alvarado_f_": 0,
+        "trenise_jessica_fuller_f_": 0,
+        "william_a_espinal_m_": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35/054": {
+      "votes": {
+        "lidia_v_alvarado_f_": 0,
+        "trenise_jessica_fuller_f_": 0,
+        "william_a_espinal_m_": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35/055": {
+      "votes": {
+        "lidia_v_alvarado_f_": 0,
+        "trenise_jessica_fuller_f_": 0,
+        "william_a_espinal_m_": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35/056": {
+      "votes": {
+        "lidia_v_alvarado_f_": 0,
+        "trenise_jessica_fuller_f_": 0,
+        "william_a_espinal_m_": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35/061": {
+      "votes": {
+        "lidia_v_alvarado_f_": 0,
+        "trenise_jessica_fuller_f_": 0,
+        "william_a_espinal_m_": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    },
+    "35/062": {
+      "votes": {
+        "lidia_v_alvarado_f_": 0,
+        "trenise_jessica_fuller_f_": 0,
+        "william_a_espinal_m_": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "lidia_v_alvarado_f_",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "lidia_v_alvarado_f_",
+          "name": "Lidia V. Alvarado (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "trenise_jessica_fuller_f_",
+          "name": "Trenise Jessica Fuller (F)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "william_a_espinal_m_",
+          "name": "William A. Espinal (M)",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        }
+      ]
+    }
+  }
+}

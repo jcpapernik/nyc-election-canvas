@@ -1,0 +1,31 @@
+{
+  "id": "democratic_member_of_the_city_council_34",
+  "name": "2026 Primary - Member of the City Council District 34",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "City Council",
+  "districtKey": "34",
+  "districtType": "council",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "jennifer_guti\u00e9rrez",
+      "name": "Jennifer Guti\u00e9rrez",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#2563eb"
+    }
+  ],
+  "results": {
+    "34": {
+      "votes": {
+        "uncontested_primary_council_34": 0
+      },
+      "total": 0,
+      "winnerId": "uncontested_primary_council_34",
+      "margin": 100,
+      "isUncontested": true
+    }
+  },
+  "edResults": {}
+}

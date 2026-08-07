@@ -1,0 +1,31 @@
+{
+  "id": "democratic_state_senator_21",
+  "name": "2026 Primary - State Senator District 21",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "State Senate",
+  "districtKey": "21",
+  "districtType": "senate",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "kevin_parker",
+      "name": "Kevin Parker",
+      "party": "Democratic",
+      "isIncumbent": true,
+      "color": "#2563eb"
+    }
+  ],
+  "results": {
+    "21": {
+      "votes": {
+        "uncontested_primary_senate_21": 0
+      },
+      "total": 0,
+      "winnerId": "uncontested_primary_senate_21",
+      "margin": 100,
+      "isUncontested": true
+    }
+  },
+  "edResults": {}
+}

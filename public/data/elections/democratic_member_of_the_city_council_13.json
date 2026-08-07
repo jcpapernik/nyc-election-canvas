@@ -1,0 +1,31 @@
+{
+  "id": "democratic_member_of_the_city_council_13",
+  "name": "2026 Primary - Member of the City Council District 13",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "City Council",
+  "districtKey": "13",
+  "districtType": "council",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "shirley_aldebol",
+      "name": "Shirley Aldebol",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#2563eb"
+    }
+  ],
+  "results": {
+    "13": {
+      "votes": {
+        "uncontested_primary_council_13": 0
+      },
+      "total": 0,
+      "winnerId": "uncontested_primary_council_13",
+      "margin": 100,
+      "isUncontested": true
+    }
+  },
+  "edResults": {}
+}

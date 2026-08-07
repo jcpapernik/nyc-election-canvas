@@ -1,0 +1,7646 @@
+{
+  "id": "democratic_member_of_the_assembly_68",
+  "name": "2026 Primary - Member of the Assembly District 68",
+  "date": "2026-06-23",
+  "party": "Democratic",
+  "officeCategory": "NY State Assembly",
+  "districtKey": "68",
+  "districtType": "assembly",
+  "isUncontested": false,
+  "candidates": [
+    {
+      "id": "diana_i_ayala",
+      "name": "Diana I. Ayala",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#d97706"
+    },
+    {
+      "id": "edward_gibbs",
+      "name": "Edward Gibbs",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#7c3aed"
+    },
+    {
+      "id": "tamika_mapp",
+      "name": "Tamika Mapp",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#059669"
+    },
+    {
+      "id": "william_smith",
+      "name": "William Smith",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#0891b2"
+    },
+    {
+      "id": "scattered",
+      "name": "Scattered",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#4f46e5"
+    }
+  ],
+  "results": {
+    "68": {
+      "votes": {
+        "diana_i_ayala": 5759,
+        "edward_gibbs": 3453,
+        "tamika_mapp": 1273,
+        "william_smith": 564,
+        "scattered": 40
+      },
+      "total": 11089,
+      "winnerId": "diana_i_ayala",
+      "margin": 20.8,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    }
+  },
+  "edResults": {
+    "68001": {
+      "votes": {
+        "diana_i_ayala": 54,
+        "edward_gibbs": 44,
+        "tamika_mapp": 34,
+        "william_smith": 3,
+        "scattered": 0
+      },
+      "total": 135,
+      "winnerId": "diana_i_ayala",
+      "margin": 7.4,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68002": {
+      "votes": {
+        "diana_i_ayala": 42,
+        "edward_gibbs": 34,
+        "tamika_mapp": 26,
+        "william_smith": 13,
+        "scattered": 0
+      },
+      "total": 115,
+      "winnerId": "diana_i_ayala",
+      "margin": 7,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68003": {
+      "votes": {
+        "diana_i_ayala": 20,
+        "edward_gibbs": 12,
+        "tamika_mapp": 13,
+        "william_smith": 9,
+        "scattered": 0
+      },
+      "total": 54,
+      "winnerId": "diana_i_ayala",
+      "margin": 13,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68004": {
+      "votes": {
+        "diana_i_ayala": 91,
+        "edward_gibbs": 88,
+        "tamika_mapp": 52,
+        "william_smith": 8,
+        "scattered": 0
+      },
+      "total": 239,
+      "winnerId": "diana_i_ayala",
+      "margin": 1.3,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68005": {
+      "votes": {
+        "diana_i_ayala": 88,
+        "edward_gibbs": 54,
+        "tamika_mapp": 33,
+        "william_smith": 11,
+        "scattered": 0
+      },
+      "total": 186,
+      "winnerId": "diana_i_ayala",
+      "margin": 18.3,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68006": {
+      "votes": {
+        "diana_i_ayala": 50,
+        "edward_gibbs": 33,
+        "tamika_mapp": 15,
+        "william_smith": 2,
+        "scattered": 1
+      },
+      "total": 101,
+      "winnerId": "diana_i_ayala",
+      "margin": 16.8,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68007": {
+      "votes": {
+        "diana_i_ayala": 50,
+        "edward_gibbs": 38,
+        "tamika_mapp": 15,
+        "william_smith": 1,
+        "scattered": 0
+      },
+      "total": 104,
+      "winnerId": "diana_i_ayala",
+      "margin": 11.5,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68008": {
+      "votes": {
+        "diana_i_ayala": 191,
+        "edward_gibbs": 59,
+        "tamika_mapp": 104,
+        "william_smith": 18,
+        "scattered": 1
+      },
+      "total": 373,
+      "winnerId": "diana_i_ayala",
+      "margin": 23.3,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68009": {
+      "votes": {
+        "diana_i_ayala": 29,
+        "edward_gibbs": 25,
+        "tamika_mapp": 15,
+        "william_smith": 4,
+        "scattered": 0
+      },
+      "total": 73,
+      "winnerId": "diana_i_ayala",
+      "margin": 5.5,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68010": {
+      "votes": {
+        "diana_i_ayala": 31,
+        "edward_gibbs": 33,
+        "tamika_mapp": 19,
+        "william_smith": 5,
+        "scattered": 0
+      },
+      "total": 88,
+      "winnerId": "edward_gibbs",
+      "margin": 2.3,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68011": {
+      "votes": {
+        "diana_i_ayala": 68,
+        "edward_gibbs": 60,
+        "tamika_mapp": 28,
+        "william_smith": 22,
+        "scattered": 2
+      },
+      "total": 180,
+      "winnerId": "diana_i_ayala",
+      "margin": 4.4,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68012": {
+      "votes": {
+        "diana_i_ayala": 110,
+        "edward_gibbs": 64,
+        "tamika_mapp": 35,
+        "william_smith": 14,
+        "scattered": 0
+      },
+      "total": 223,
+      "winnerId": "diana_i_ayala",
+      "margin": 20.6,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68013": {
+      "votes": {
+        "diana_i_ayala": 94,
+        "edward_gibbs": 90,
+        "tamika_mapp": 22,
+        "william_smith": 56,
+        "scattered": 1
+      },
+      "total": 263,
+      "winnerId": "diana_i_ayala",
+      "margin": 1.5,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68014": {
+      "votes": {
+        "diana_i_ayala": 57,
+        "edward_gibbs": 35,
+        "tamika_mapp": 26,
+        "william_smith": 4,
+        "scattered": 1
+      },
+      "total": 123,
+      "winnerId": "diana_i_ayala",
+      "margin": 17.9,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68015": {
+      "votes": {
+        "diana_i_ayala": 34,
+        "edward_gibbs": 26,
+        "tamika_mapp": 3,
+        "william_smith": 1,
+        "scattered": 0
+      },
+      "total": 64,
+      "winnerId": "diana_i_ayala",
+      "margin": 12.5,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68016": {
+      "votes": {
+        "diana_i_ayala": 33,
+        "edward_gibbs": 18,
+        "tamika_mapp": 12,
+        "william_smith": 3,
+        "scattered": 0
+      },
+      "total": 66,
+      "winnerId": "diana_i_ayala",
+      "margin": 22.7,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68017": {
+      "votes": {
+        "diana_i_ayala": 76,
+        "edward_gibbs": 33,
+        "tamika_mapp": 18,
+        "william_smith": 2,
+        "scattered": 0
+      },
+      "total": 129,
+      "winnerId": "diana_i_ayala",
+      "margin": 33.3,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68018": {
+      "votes": {
+        "diana_i_ayala": 45,
+        "edward_gibbs": 19,
+        "tamika_mapp": 14,
+        "william_smith": 6,
+        "scattered": 1
+      },
+      "total": 85,
+      "winnerId": "diana_i_ayala",
+      "margin": 30.6,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68019": {
+      "votes": {
+        "diana_i_ayala": 53,
+        "edward_gibbs": 32,
+        "tamika_mapp": 17,
+        "william_smith": 5,
+        "scattered": 0
+      },
+      "total": 107,
+      "winnerId": "diana_i_ayala",
+      "margin": 19.6,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68020": {
+      "votes": {
+        "diana_i_ayala": 65,
+        "edward_gibbs": 43,
+        "tamika_mapp": 18,
+        "william_smith": 5,
+        "scattered": 0
+      },
+      "total": 131,
+      "winnerId": "diana_i_ayala",
+      "margin": 16.8,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68021": {
+      "votes": {
+        "diana_i_ayala": 118,
+        "edward_gibbs": 44,
+        "tamika_mapp": 26,
+        "william_smith": 7,
+        "scattered": 2
+      },
+      "total": 197,
+      "winnerId": "diana_i_ayala",
+      "margin": 37.6,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68022": {
+      "votes": {
+        "diana_i_ayala": 60,
+        "edward_gibbs": 21,
+        "tamika_mapp": 7,
+        "william_smith": 3,
+        "scattered": 0
+      },
+      "total": 91,
+      "winnerId": "diana_i_ayala",
+      "margin": 42.9,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68023": {
+      "votes": {
+        "diana_i_ayala": 60,
+        "edward_gibbs": 24,
+        "tamika_mapp": 14,
+        "william_smith": 2,
+        "scattered": 1
+      },
+      "total": 101,
+      "winnerId": "diana_i_ayala",
+      "margin": 35.6,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68024": {
+      "votes": {
+        "diana_i_ayala": 52,
+        "edward_gibbs": 67,
+        "tamika_mapp": 9,
+        "william_smith": 12,
+        "scattered": 0
+      },
+      "total": 140,
+      "winnerId": "edward_gibbs",
+      "margin": 10.7,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68025": {
+      "votes": {
+        "diana_i_ayala": 79,
+        "edward_gibbs": 42,
+        "tamika_mapp": 21,
+        "william_smith": 0,
+        "scattered": 0
+      },
+      "total": 142,
+      "winnerId": "diana_i_ayala",
+      "margin": 26.1,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68026": {
+      "votes": {
+        "diana_i_ayala": 37,
+        "edward_gibbs": 39,
+        "tamika_mapp": 16,
+        "william_smith": 5,
+        "scattered": 0
+      },
+      "total": 97,
+      "winnerId": "edward_gibbs",
+      "margin": 2.1,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68027": {
+      "votes": {
+        "diana_i_ayala": 35,
+        "edward_gibbs": 57,
+        "tamika_mapp": 5,
+        "william_smith": 2,
+        "scattered": 1
+      },
+      "total": 100,
+      "winnerId": "edward_gibbs",
+      "margin": 22,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68028": {
+      "votes": {
+        "diana_i_ayala": 167,
+        "edward_gibbs": 46,
+        "tamika_mapp": 28,
+        "william_smith": 16,
+        "scattered": 0
+      },
+      "total": 257,
+      "winnerId": "diana_i_ayala",
+      "margin": 47.1,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68029": {
+      "votes": {
+        "diana_i_ayala": 94,
+        "edward_gibbs": 38,
+        "tamika_mapp": 29,
+        "william_smith": 6,
+        "scattered": 0
+      },
+      "total": 167,
+      "winnerId": "diana_i_ayala",
+      "margin": 33.5,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68030": {
+      "votes": {
+        "diana_i_ayala": 33,
+        "edward_gibbs": 23,
+        "tamika_mapp": 8,
+        "william_smith": 1,
+        "scattered": 0
+      },
+      "total": 65,
+      "winnerId": "diana_i_ayala",
+      "margin": 15.4,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68031": {
+      "votes": {
+        "diana_i_ayala": 91,
+        "edward_gibbs": 30,
+        "tamika_mapp": 10,
+        "william_smith": 6,
+        "scattered": 0
+      },
+      "total": 137,
+      "winnerId": "diana_i_ayala",
+      "margin": 44.5,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68032": {
+      "votes": {
+        "diana_i_ayala": 108,
+        "edward_gibbs": 49,
+        "tamika_mapp": 33,
+        "william_smith": 10,
+        "scattered": 0
+      },
+      "total": 200,
+      "winnerId": "diana_i_ayala",
+      "margin": 29.5,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68033": {
+      "votes": {
+        "diana_i_ayala": 120,
+        "edward_gibbs": 33,
+        "tamika_mapp": 25,
+        "william_smith": 9,
+        "scattered": 1
+      },
+      "total": 188,
+      "winnerId": "diana_i_ayala",
+      "margin": 46.3,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68034": {
+      "votes": {
+        "diana_i_ayala": 71,
+        "edward_gibbs": 38,
+        "tamika_mapp": 12,
+        "william_smith": 2,
+        "scattered": 0
+      },
+      "total": 123,
+      "winnerId": "diana_i_ayala",
+      "margin": 26.8,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68035": {
+      "votes": {
+        "diana_i_ayala": 91,
+        "edward_gibbs": 72,
+        "tamika_mapp": 12,
+        "william_smith": 5,
+        "scattered": 1
+      },
+      "total": 181,
+      "winnerId": "diana_i_ayala",
+      "margin": 10.5,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68036": {
+      "votes": {
+        "diana_i_ayala": 60,
+        "edward_gibbs": 30,
+        "tamika_mapp": 9,
+        "william_smith": 5,
+        "scattered": 0
+      },
+      "total": 104,
+      "winnerId": "diana_i_ayala",
+      "margin": 28.8,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68037": {
+      "votes": {
+        "diana_i_ayala": 132,
+        "edward_gibbs": 58,
+        "tamika_mapp": 5,
+        "william_smith": 9,
+        "scattered": 0
+      },
+      "total": 204,
+      "winnerId": "diana_i_ayala",
+      "margin": 36.3,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68038": {
+      "votes": {
+        "diana_i_ayala": 126,
+        "edward_gibbs": 97,
+        "tamika_mapp": 19,
+        "william_smith": 4,
+        "scattered": 1
+      },
+      "total": 247,
+      "winnerId": "diana_i_ayala",
+      "margin": 11.7,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68039": {
+      "votes": {
+        "diana_i_ayala": 41,
+        "edward_gibbs": 39,
+        "tamika_mapp": 9,
+        "william_smith": 12,
+        "scattered": 0
+      },
+      "total": 101,
+      "winnerId": "diana_i_ayala",
+      "margin": 2,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68040": {
+      "votes": {
+        "diana_i_ayala": 71,
+        "edward_gibbs": 41,
+        "tamika_mapp": 13,
+        "william_smith": 6,
+        "scattered": 0
+      },
+      "total": 131,
+      "winnerId": "diana_i_ayala",
+      "margin": 22.9,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68041": {
+      "votes": {
+        "diana_i_ayala": 88,
+        "edward_gibbs": 44,
+        "tamika_mapp": 5,
+        "william_smith": 6,
+        "scattered": 0
+      },
+      "total": 143,
+      "winnerId": "diana_i_ayala",
+      "margin": 30.8,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68042": {
+      "votes": {
+        "diana_i_ayala": 67,
+        "edward_gibbs": 27,
+        "tamika_mapp": 7,
+        "william_smith": 1,
+        "scattered": 1
+      },
+      "total": 103,
+      "winnerId": "diana_i_ayala",
+      "margin": 38.8,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68043": {
+      "votes": {
+        "diana_i_ayala": 125,
+        "edward_gibbs": 34,
+        "tamika_mapp": 22,
+        "william_smith": 9,
+        "scattered": 2
+      },
+      "total": 192,
+      "winnerId": "diana_i_ayala",
+      "margin": 47.4,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68044": {
+      "votes": {
+        "diana_i_ayala": 155,
+        "edward_gibbs": 51,
+        "tamika_mapp": 26,
+        "william_smith": 3,
+        "scattered": 1
+      },
+      "total": 236,
+      "winnerId": "diana_i_ayala",
+      "margin": 44.1,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68045": {
+      "votes": {
+        "diana_i_ayala": 83,
+        "edward_gibbs": 33,
+        "tamika_mapp": 11,
+        "william_smith": 12,
+        "scattered": 0
+      },
+      "total": 139,
+      "winnerId": "diana_i_ayala",
+      "margin": 36,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68046": {
+      "votes": {
+        "diana_i_ayala": 108,
+        "edward_gibbs": 46,
+        "tamika_mapp": 10,
+        "william_smith": 6,
+        "scattered": 0
+      },
+      "total": 170,
+      "winnerId": "diana_i_ayala",
+      "margin": 36.5,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68047": {
+      "votes": {
+        "diana_i_ayala": 73,
+        "edward_gibbs": 29,
+        "tamika_mapp": 20,
+        "william_smith": 3,
+        "scattered": 0
+      },
+      "total": 125,
+      "winnerId": "diana_i_ayala",
+      "margin": 35.2,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68048": {
+      "votes": {
+        "diana_i_ayala": 103,
+        "edward_gibbs": 110,
+        "tamika_mapp": 19,
+        "william_smith": 5,
+        "scattered": 0
+      },
+      "total": 237,
+      "winnerId": "edward_gibbs",
+      "margin": 3,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68049": {
+      "votes": {
+        "diana_i_ayala": 32,
+        "edward_gibbs": 24,
+        "tamika_mapp": 3,
+        "william_smith": 1,
+        "scattered": 0
+      },
+      "total": 60,
+      "winnerId": "diana_i_ayala",
+      "margin": 13.3,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68050": {
+      "votes": {
+        "diana_i_ayala": 36,
+        "edward_gibbs": 14,
+        "tamika_mapp": 9,
+        "william_smith": 2,
+        "scattered": 1
+      },
+      "total": 62,
+      "winnerId": "diana_i_ayala",
+      "margin": 35.5,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68051": {
+      "votes": {
+        "diana_i_ayala": 93,
+        "edward_gibbs": 36,
+        "tamika_mapp": 9,
+        "william_smith": 7,
+        "scattered": 0
+      },
+      "total": 145,
+      "winnerId": "diana_i_ayala",
+      "margin": 39.3,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68052": {
+      "votes": {
+        "diana_i_ayala": 77,
+        "edward_gibbs": 88,
+        "tamika_mapp": 6,
+        "william_smith": 10,
+        "scattered": 1
+      },
+      "total": 182,
+      "winnerId": "edward_gibbs",
+      "margin": 6,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68053": {
+      "votes": {
+        "diana_i_ayala": 73,
+        "edward_gibbs": 43,
+        "tamika_mapp": 8,
+        "william_smith": 2,
+        "scattered": 0
+      },
+      "total": 126,
+      "winnerId": "diana_i_ayala",
+      "margin": 23.8,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68054": {
+      "votes": {
+        "diana_i_ayala": 70,
+        "edward_gibbs": 70,
+        "tamika_mapp": 9,
+        "william_smith": 15,
+        "scattered": 1
+      },
+      "total": 165,
+      "winnerId": "diana_i_ayala",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68055": {
+      "votes": {
+        "diana_i_ayala": 158,
+        "edward_gibbs": 138,
+        "tamika_mapp": 15,
+        "william_smith": 17,
+        "scattered": 5
+      },
+      "total": 333,
+      "winnerId": "diana_i_ayala",
+      "margin": 6,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68056": {
+      "votes": {
+        "diana_i_ayala": 50,
+        "edward_gibbs": 46,
+        "tamika_mapp": 11,
+        "william_smith": 3,
+        "scattered": 1
+      },
+      "total": 111,
+      "winnerId": "diana_i_ayala",
+      "margin": 3.6,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68057": {
+      "votes": {
+        "diana_i_ayala": 88,
+        "edward_gibbs": 27,
+        "tamika_mapp": 11,
+        "william_smith": 8,
+        "scattered": 0
+      },
+      "total": 134,
+      "winnerId": "diana_i_ayala",
+      "margin": 45.5,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68058": {
+      "votes": {
+        "diana_i_ayala": 85,
+        "edward_gibbs": 24,
+        "tamika_mapp": 6,
+        "william_smith": 8,
+        "scattered": 0
+      },
+      "total": 123,
+      "winnerId": "diana_i_ayala",
+      "margin": 49.6,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68059": {
+      "votes": {
+        "diana_i_ayala": 64,
+        "edward_gibbs": 16,
+        "tamika_mapp": 9,
+        "william_smith": 1,
+        "scattered": 0
+      },
+      "total": 90,
+      "winnerId": "diana_i_ayala",
+      "margin": 53.3,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68060": {
+      "votes": {
+        "diana_i_ayala": 64,
+        "edward_gibbs": 28,
+        "tamika_mapp": 17,
+        "william_smith": 2,
+        "scattered": 1
+      },
+      "total": 112,
+      "winnerId": "diana_i_ayala",
+      "margin": 32.1,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68061": {
+      "votes": {
+        "diana_i_ayala": 32,
+        "edward_gibbs": 20,
+        "tamika_mapp": 5,
+        "william_smith": 5,
+        "scattered": 2
+      },
+      "total": 64,
+      "winnerId": "diana_i_ayala",
+      "margin": 18.8,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68062": {
+      "votes": {
+        "diana_i_ayala": 125,
+        "edward_gibbs": 60,
+        "tamika_mapp": 22,
+        "william_smith": 11,
+        "scattered": 2
+      },
+      "total": 220,
+      "winnerId": "diana_i_ayala",
+      "margin": 29.5,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68063": {
+      "votes": {
+        "diana_i_ayala": 100,
+        "edward_gibbs": 79,
+        "tamika_mapp": 15,
+        "william_smith": 12,
+        "scattered": 0
+      },
+      "total": 206,
+      "winnerId": "diana_i_ayala",
+      "margin": 10.2,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68064": {
+      "votes": {
+        "diana_i_ayala": 66,
+        "edward_gibbs": 65,
+        "tamika_mapp": 9,
+        "william_smith": 7,
+        "scattered": 1
+      },
+      "total": 148,
+      "winnerId": "diana_i_ayala",
+      "margin": 0.7,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68065": {
+      "votes": {
+        "diana_i_ayala": 149,
+        "edward_gibbs": 102,
+        "tamika_mapp": 18,
+        "william_smith": 10,
+        "scattered": 1
+      },
+      "total": 280,
+      "winnerId": "diana_i_ayala",
+      "margin": 16.8,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68066": {
+      "votes": {
+        "diana_i_ayala": 107,
+        "edward_gibbs": 65,
+        "tamika_mapp": 14,
+        "william_smith": 12,
+        "scattered": 1
+      },
+      "total": 199,
+      "winnerId": "diana_i_ayala",
+      "margin": 21.1,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68067": {
+      "votes": {
+        "diana_i_ayala": 71,
+        "edward_gibbs": 78,
+        "tamika_mapp": 12,
+        "william_smith": 12,
+        "scattered": 2
+      },
+      "total": 175,
+      "winnerId": "edward_gibbs",
+      "margin": 4,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68068": {
+      "votes": {
+        "diana_i_ayala": 45,
+        "edward_gibbs": 15,
+        "tamika_mapp": 7,
+        "william_smith": 5,
+        "scattered": 0
+      },
+      "total": 72,
+      "winnerId": "diana_i_ayala",
+      "margin": 41.7,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68069": {
+      "votes": {
+        "diana_i_ayala": 36,
+        "edward_gibbs": 37,
+        "tamika_mapp": 21,
+        "william_smith": 4,
+        "scattered": 0
+      },
+      "total": 98,
+      "winnerId": "edward_gibbs",
+      "margin": 1,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68070": {
+      "votes": {
+        "diana_i_ayala": 126,
+        "edward_gibbs": 73,
+        "tamika_mapp": 19,
+        "william_smith": 12,
+        "scattered": 3
+      },
+      "total": 233,
+      "winnerId": "diana_i_ayala",
+      "margin": 22.7,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68071": {
+      "votes": {
+        "diana_i_ayala": 47,
+        "edward_gibbs": 61,
+        "tamika_mapp": 18,
+        "william_smith": 7,
+        "scattered": 0
+      },
+      "total": 133,
+      "winnerId": "edward_gibbs",
+      "margin": 10.5,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68072": {
+      "votes": {
+        "diana_i_ayala": 14,
+        "edward_gibbs": 10,
+        "tamika_mapp": 8,
+        "william_smith": 4,
+        "scattered": 0
+      },
+      "total": 36,
+      "winnerId": "diana_i_ayala",
+      "margin": 11.1,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68073": {
+      "votes": {
+        "diana_i_ayala": 18,
+        "edward_gibbs": 25,
+        "tamika_mapp": 8,
+        "william_smith": 3,
+        "scattered": 0
+      },
+      "total": 54,
+      "winnerId": "edward_gibbs",
+      "margin": 13,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68074": {
+      "votes": {
+        "diana_i_ayala": 82,
+        "edward_gibbs": 25,
+        "tamika_mapp": 16,
+        "william_smith": 7,
+        "scattered": 0
+      },
+      "total": 130,
+      "winnerId": "diana_i_ayala",
+      "margin": 43.8,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68075": {
+      "votes": {
+        "diana_i_ayala": 39,
+        "edward_gibbs": 31,
+        "tamika_mapp": 5,
+        "william_smith": 6,
+        "scattered": 0
+      },
+      "total": 81,
+      "winnerId": "diana_i_ayala",
+      "margin": 9.9,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68077": {
+      "votes": {
+        "diana_i_ayala": 83,
+        "edward_gibbs": 51,
+        "tamika_mapp": 14,
+        "william_smith": 12,
+        "scattered": 0
+      },
+      "total": 160,
+      "winnerId": "diana_i_ayala",
+      "margin": 20,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68079": {
+      "votes": {
+        "diana_i_ayala": 0,
+        "edward_gibbs": 0,
+        "tamika_mapp": 0,
+        "william_smith": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "diana_i_ayala",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68/001": {
+      "votes": {
+        "diana_i_ayala": 54,
+        "edward_gibbs": 44,
+        "tamika_mapp": 34,
+        "william_smith": 3,
+        "scattered": 0
+      },
+      "total": 135,
+      "winnerId": "diana_i_ayala",
+      "margin": 7.4,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68/002": {
+      "votes": {
+        "diana_i_ayala": 42,
+        "edward_gibbs": 34,
+        "tamika_mapp": 26,
+        "william_smith": 13,
+        "scattered": 0
+      },
+      "total": 115,
+      "winnerId": "diana_i_ayala",
+      "margin": 7,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68/003": {
+      "votes": {
+        "diana_i_ayala": 20,
+        "edward_gibbs": 12,
+        "tamika_mapp": 13,
+        "william_smith": 9,
+        "scattered": 0
+      },
+      "total": 54,
+      "winnerId": "diana_i_ayala",
+      "margin": 13,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68/004": {
+      "votes": {
+        "diana_i_ayala": 91,
+        "edward_gibbs": 88,
+        "tamika_mapp": 52,
+        "william_smith": 8,
+        "scattered": 0
+      },
+      "total": 239,
+      "winnerId": "diana_i_ayala",
+      "margin": 1.3,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68/005": {
+      "votes": {
+        "diana_i_ayala": 88,
+        "edward_gibbs": 54,
+        "tamika_mapp": 33,
+        "william_smith": 11,
+        "scattered": 0
+      },
+      "total": 186,
+      "winnerId": "diana_i_ayala",
+      "margin": 18.3,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68/006": {
+      "votes": {
+        "diana_i_ayala": 50,
+        "edward_gibbs": 33,
+        "tamika_mapp": 15,
+        "william_smith": 2,
+        "scattered": 1
+      },
+      "total": 101,
+      "winnerId": "diana_i_ayala",
+      "margin": 16.8,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68/007": {
+      "votes": {
+        "diana_i_ayala": 50,
+        "edward_gibbs": 38,
+        "tamika_mapp": 15,
+        "william_smith": 1,
+        "scattered": 0
+      },
+      "total": 104,
+      "winnerId": "diana_i_ayala",
+      "margin": 11.5,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68/008": {
+      "votes": {
+        "diana_i_ayala": 191,
+        "edward_gibbs": 59,
+        "tamika_mapp": 104,
+        "william_smith": 18,
+        "scattered": 1
+      },
+      "total": 373,
+      "winnerId": "diana_i_ayala",
+      "margin": 23.3,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68/009": {
+      "votes": {
+        "diana_i_ayala": 29,
+        "edward_gibbs": 25,
+        "tamika_mapp": 15,
+        "william_smith": 4,
+        "scattered": 0
+      },
+      "total": 73,
+      "winnerId": "diana_i_ayala",
+      "margin": 5.5,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68/010": {
+      "votes": {
+        "diana_i_ayala": 31,
+        "edward_gibbs": 33,
+        "tamika_mapp": 19,
+        "william_smith": 5,
+        "scattered": 0
+      },
+      "total": 88,
+      "winnerId": "edward_gibbs",
+      "margin": 2.3,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68/011": {
+      "votes": {
+        "diana_i_ayala": 68,
+        "edward_gibbs": 60,
+        "tamika_mapp": 28,
+        "william_smith": 22,
+        "scattered": 2
+      },
+      "total": 180,
+      "winnerId": "diana_i_ayala",
+      "margin": 4.4,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68/012": {
+      "votes": {
+        "diana_i_ayala": 110,
+        "edward_gibbs": 64,
+        "tamika_mapp": 35,
+        "william_smith": 14,
+        "scattered": 0
+      },
+      "total": 223,
+      "winnerId": "diana_i_ayala",
+      "margin": 20.6,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68/013": {
+      "votes": {
+        "diana_i_ayala": 94,
+        "edward_gibbs": 90,
+        "tamika_mapp": 22,
+        "william_smith": 56,
+        "scattered": 1
+      },
+      "total": 263,
+      "winnerId": "diana_i_ayala",
+      "margin": 1.5,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68/014": {
+      "votes": {
+        "diana_i_ayala": 57,
+        "edward_gibbs": 35,
+        "tamika_mapp": 26,
+        "william_smith": 4,
+        "scattered": 1
+      },
+      "total": 123,
+      "winnerId": "diana_i_ayala",
+      "margin": 17.9,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68/015": {
+      "votes": {
+        "diana_i_ayala": 34,
+        "edward_gibbs": 26,
+        "tamika_mapp": 3,
+        "william_smith": 1,
+        "scattered": 0
+      },
+      "total": 64,
+      "winnerId": "diana_i_ayala",
+      "margin": 12.5,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68/016": {
+      "votes": {
+        "diana_i_ayala": 33,
+        "edward_gibbs": 18,
+        "tamika_mapp": 12,
+        "william_smith": 3,
+        "scattered": 0
+      },
+      "total": 66,
+      "winnerId": "diana_i_ayala",
+      "margin": 22.7,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68/017": {
+      "votes": {
+        "diana_i_ayala": 76,
+        "edward_gibbs": 33,
+        "tamika_mapp": 18,
+        "william_smith": 2,
+        "scattered": 0
+      },
+      "total": 129,
+      "winnerId": "diana_i_ayala",
+      "margin": 33.3,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68/018": {
+      "votes": {
+        "diana_i_ayala": 45,
+        "edward_gibbs": 19,
+        "tamika_mapp": 14,
+        "william_smith": 6,
+        "scattered": 1
+      },
+      "total": 85,
+      "winnerId": "diana_i_ayala",
+      "margin": 30.6,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68/019": {
+      "votes": {
+        "diana_i_ayala": 53,
+        "edward_gibbs": 32,
+        "tamika_mapp": 17,
+        "william_smith": 5,
+        "scattered": 0
+      },
+      "total": 107,
+      "winnerId": "diana_i_ayala",
+      "margin": 19.6,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68/020": {
+      "votes": {
+        "diana_i_ayala": 65,
+        "edward_gibbs": 43,
+        "tamika_mapp": 18,
+        "william_smith": 5,
+        "scattered": 0
+      },
+      "total": 131,
+      "winnerId": "diana_i_ayala",
+      "margin": 16.8,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68/021": {
+      "votes": {
+        "diana_i_ayala": 118,
+        "edward_gibbs": 44,
+        "tamika_mapp": 26,
+        "william_smith": 7,
+        "scattered": 2
+      },
+      "total": 197,
+      "winnerId": "diana_i_ayala",
+      "margin": 37.6,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68/022": {
+      "votes": {
+        "diana_i_ayala": 60,
+        "edward_gibbs": 21,
+        "tamika_mapp": 7,
+        "william_smith": 3,
+        "scattered": 0
+      },
+      "total": 91,
+      "winnerId": "diana_i_ayala",
+      "margin": 42.9,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68/023": {
+      "votes": {
+        "diana_i_ayala": 60,
+        "edward_gibbs": 24,
+        "tamika_mapp": 14,
+        "william_smith": 2,
+        "scattered": 1
+      },
+      "total": 101,
+      "winnerId": "diana_i_ayala",
+      "margin": 35.6,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68/024": {
+      "votes": {
+        "diana_i_ayala": 52,
+        "edward_gibbs": 67,
+        "tamika_mapp": 9,
+        "william_smith": 12,
+        "scattered": 0
+      },
+      "total": 140,
+      "winnerId": "edward_gibbs",
+      "margin": 10.7,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68/025": {
+      "votes": {
+        "diana_i_ayala": 79,
+        "edward_gibbs": 42,
+        "tamika_mapp": 21,
+        "william_smith": 0,
+        "scattered": 0
+      },
+      "total": 142,
+      "winnerId": "diana_i_ayala",
+      "margin": 26.1,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68/026": {
+      "votes": {
+        "diana_i_ayala": 37,
+        "edward_gibbs": 39,
+        "tamika_mapp": 16,
+        "william_smith": 5,
+        "scattered": 0
+      },
+      "total": 97,
+      "winnerId": "edward_gibbs",
+      "margin": 2.1,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68/027": {
+      "votes": {
+        "diana_i_ayala": 35,
+        "edward_gibbs": 57,
+        "tamika_mapp": 5,
+        "william_smith": 2,
+        "scattered": 1
+      },
+      "total": 100,
+      "winnerId": "edward_gibbs",
+      "margin": 22,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68/028": {
+      "votes": {
+        "diana_i_ayala": 167,
+        "edward_gibbs": 46,
+        "tamika_mapp": 28,
+        "william_smith": 16,
+        "scattered": 0
+      },
+      "total": 257,
+      "winnerId": "diana_i_ayala",
+      "margin": 47.1,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68/029": {
+      "votes": {
+        "diana_i_ayala": 94,
+        "edward_gibbs": 38,
+        "tamika_mapp": 29,
+        "william_smith": 6,
+        "scattered": 0
+      },
+      "total": 167,
+      "winnerId": "diana_i_ayala",
+      "margin": 33.5,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68/030": {
+      "votes": {
+        "diana_i_ayala": 33,
+        "edward_gibbs": 23,
+        "tamika_mapp": 8,
+        "william_smith": 1,
+        "scattered": 0
+      },
+      "total": 65,
+      "winnerId": "diana_i_ayala",
+      "margin": 15.4,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68/031": {
+      "votes": {
+        "diana_i_ayala": 91,
+        "edward_gibbs": 30,
+        "tamika_mapp": 10,
+        "william_smith": 6,
+        "scattered": 0
+      },
+      "total": 137,
+      "winnerId": "diana_i_ayala",
+      "margin": 44.5,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68/032": {
+      "votes": {
+        "diana_i_ayala": 108,
+        "edward_gibbs": 49,
+        "tamika_mapp": 33,
+        "william_smith": 10,
+        "scattered": 0
+      },
+      "total": 200,
+      "winnerId": "diana_i_ayala",
+      "margin": 29.5,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68/033": {
+      "votes": {
+        "diana_i_ayala": 120,
+        "edward_gibbs": 33,
+        "tamika_mapp": 25,
+        "william_smith": 9,
+        "scattered": 1
+      },
+      "total": 188,
+      "winnerId": "diana_i_ayala",
+      "margin": 46.3,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68/034": {
+      "votes": {
+        "diana_i_ayala": 71,
+        "edward_gibbs": 38,
+        "tamika_mapp": 12,
+        "william_smith": 2,
+        "scattered": 0
+      },
+      "total": 123,
+      "winnerId": "diana_i_ayala",
+      "margin": 26.8,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68/035": {
+      "votes": {
+        "diana_i_ayala": 91,
+        "edward_gibbs": 72,
+        "tamika_mapp": 12,
+        "william_smith": 5,
+        "scattered": 1
+      },
+      "total": 181,
+      "winnerId": "diana_i_ayala",
+      "margin": 10.5,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68/036": {
+      "votes": {
+        "diana_i_ayala": 60,
+        "edward_gibbs": 30,
+        "tamika_mapp": 9,
+        "william_smith": 5,
+        "scattered": 0
+      },
+      "total": 104,
+      "winnerId": "diana_i_ayala",
+      "margin": 28.8,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68/037": {
+      "votes": {
+        "diana_i_ayala": 132,
+        "edward_gibbs": 58,
+        "tamika_mapp": 5,
+        "william_smith": 9,
+        "scattered": 0
+      },
+      "total": 204,
+      "winnerId": "diana_i_ayala",
+      "margin": 36.3,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68/038": {
+      "votes": {
+        "diana_i_ayala": 126,
+        "edward_gibbs": 97,
+        "tamika_mapp": 19,
+        "william_smith": 4,
+        "scattered": 1
+      },
+      "total": 247,
+      "winnerId": "diana_i_ayala",
+      "margin": 11.7,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68/039": {
+      "votes": {
+        "diana_i_ayala": 41,
+        "edward_gibbs": 39,
+        "tamika_mapp": 9,
+        "william_smith": 12,
+        "scattered": 0
+      },
+      "total": 101,
+      "winnerId": "diana_i_ayala",
+      "margin": 2,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68/040": {
+      "votes": {
+        "diana_i_ayala": 71,
+        "edward_gibbs": 41,
+        "tamika_mapp": 13,
+        "william_smith": 6,
+        "scattered": 0
+      },
+      "total": 131,
+      "winnerId": "diana_i_ayala",
+      "margin": 22.9,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68/041": {
+      "votes": {
+        "diana_i_ayala": 88,
+        "edward_gibbs": 44,
+        "tamika_mapp": 5,
+        "william_smith": 6,
+        "scattered": 0
+      },
+      "total": 143,
+      "winnerId": "diana_i_ayala",
+      "margin": 30.8,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68/042": {
+      "votes": {
+        "diana_i_ayala": 67,
+        "edward_gibbs": 27,
+        "tamika_mapp": 7,
+        "william_smith": 1,
+        "scattered": 1
+      },
+      "total": 103,
+      "winnerId": "diana_i_ayala",
+      "margin": 38.8,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68/043": {
+      "votes": {
+        "diana_i_ayala": 125,
+        "edward_gibbs": 34,
+        "tamika_mapp": 22,
+        "william_smith": 9,
+        "scattered": 2
+      },
+      "total": 192,
+      "winnerId": "diana_i_ayala",
+      "margin": 47.4,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68/044": {
+      "votes": {
+        "diana_i_ayala": 155,
+        "edward_gibbs": 51,
+        "tamika_mapp": 26,
+        "william_smith": 3,
+        "scattered": 1
+      },
+      "total": 236,
+      "winnerId": "diana_i_ayala",
+      "margin": 44.1,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68/045": {
+      "votes": {
+        "diana_i_ayala": 83,
+        "edward_gibbs": 33,
+        "tamika_mapp": 11,
+        "william_smith": 12,
+        "scattered": 0
+      },
+      "total": 139,
+      "winnerId": "diana_i_ayala",
+      "margin": 36,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68/046": {
+      "votes": {
+        "diana_i_ayala": 108,
+        "edward_gibbs": 46,
+        "tamika_mapp": 10,
+        "william_smith": 6,
+        "scattered": 0
+      },
+      "total": 170,
+      "winnerId": "diana_i_ayala",
+      "margin": 36.5,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68/047": {
+      "votes": {
+        "diana_i_ayala": 73,
+        "edward_gibbs": 29,
+        "tamika_mapp": 20,
+        "william_smith": 3,
+        "scattered": 0
+      },
+      "total": 125,
+      "winnerId": "diana_i_ayala",
+      "margin": 35.2,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68/048": {
+      "votes": {
+        "diana_i_ayala": 103,
+        "edward_gibbs": 110,
+        "tamika_mapp": 19,
+        "william_smith": 5,
+        "scattered": 0
+      },
+      "total": 237,
+      "winnerId": "edward_gibbs",
+      "margin": 3,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68/049": {
+      "votes": {
+        "diana_i_ayala": 32,
+        "edward_gibbs": 24,
+        "tamika_mapp": 3,
+        "william_smith": 1,
+        "scattered": 0
+      },
+      "total": 60,
+      "winnerId": "diana_i_ayala",
+      "margin": 13.3,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68/050": {
+      "votes": {
+        "diana_i_ayala": 36,
+        "edward_gibbs": 14,
+        "tamika_mapp": 9,
+        "william_smith": 2,
+        "scattered": 1
+      },
+      "total": 62,
+      "winnerId": "diana_i_ayala",
+      "margin": 35.5,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68/051": {
+      "votes": {
+        "diana_i_ayala": 93,
+        "edward_gibbs": 36,
+        "tamika_mapp": 9,
+        "william_smith": 7,
+        "scattered": 0
+      },
+      "total": 145,
+      "winnerId": "diana_i_ayala",
+      "margin": 39.3,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68/052": {
+      "votes": {
+        "diana_i_ayala": 77,
+        "edward_gibbs": 88,
+        "tamika_mapp": 6,
+        "william_smith": 10,
+        "scattered": 1
+      },
+      "total": 182,
+      "winnerId": "edward_gibbs",
+      "margin": 6,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68/053": {
+      "votes": {
+        "diana_i_ayala": 73,
+        "edward_gibbs": 43,
+        "tamika_mapp": 8,
+        "william_smith": 2,
+        "scattered": 0
+      },
+      "total": 126,
+      "winnerId": "diana_i_ayala",
+      "margin": 23.8,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68/054": {
+      "votes": {
+        "diana_i_ayala": 70,
+        "edward_gibbs": 70,
+        "tamika_mapp": 9,
+        "william_smith": 15,
+        "scattered": 1
+      },
+      "total": 165,
+      "winnerId": "diana_i_ayala",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68/055": {
+      "votes": {
+        "diana_i_ayala": 158,
+        "edward_gibbs": 138,
+        "tamika_mapp": 15,
+        "william_smith": 17,
+        "scattered": 5
+      },
+      "total": 333,
+      "winnerId": "diana_i_ayala",
+      "margin": 6,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68/056": {
+      "votes": {
+        "diana_i_ayala": 50,
+        "edward_gibbs": 46,
+        "tamika_mapp": 11,
+        "william_smith": 3,
+        "scattered": 1
+      },
+      "total": 111,
+      "winnerId": "diana_i_ayala",
+      "margin": 3.6,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68/057": {
+      "votes": {
+        "diana_i_ayala": 88,
+        "edward_gibbs": 27,
+        "tamika_mapp": 11,
+        "william_smith": 8,
+        "scattered": 0
+      },
+      "total": 134,
+      "winnerId": "diana_i_ayala",
+      "margin": 45.5,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68/058": {
+      "votes": {
+        "diana_i_ayala": 85,
+        "edward_gibbs": 24,
+        "tamika_mapp": 6,
+        "william_smith": 8,
+        "scattered": 0
+      },
+      "total": 123,
+      "winnerId": "diana_i_ayala",
+      "margin": 49.6,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68/059": {
+      "votes": {
+        "diana_i_ayala": 64,
+        "edward_gibbs": 16,
+        "tamika_mapp": 9,
+        "william_smith": 1,
+        "scattered": 0
+      },
+      "total": 90,
+      "winnerId": "diana_i_ayala",
+      "margin": 53.3,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68/060": {
+      "votes": {
+        "diana_i_ayala": 64,
+        "edward_gibbs": 28,
+        "tamika_mapp": 17,
+        "william_smith": 2,
+        "scattered": 1
+      },
+      "total": 112,
+      "winnerId": "diana_i_ayala",
+      "margin": 32.1,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68/061": {
+      "votes": {
+        "diana_i_ayala": 32,
+        "edward_gibbs": 20,
+        "tamika_mapp": 5,
+        "william_smith": 5,
+        "scattered": 2
+      },
+      "total": 64,
+      "winnerId": "diana_i_ayala",
+      "margin": 18.8,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68/062": {
+      "votes": {
+        "diana_i_ayala": 125,
+        "edward_gibbs": 60,
+        "tamika_mapp": 22,
+        "william_smith": 11,
+        "scattered": 2
+      },
+      "total": 220,
+      "winnerId": "diana_i_ayala",
+      "margin": 29.5,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68/063": {
+      "votes": {
+        "diana_i_ayala": 100,
+        "edward_gibbs": 79,
+        "tamika_mapp": 15,
+        "william_smith": 12,
+        "scattered": 0
+      },
+      "total": 206,
+      "winnerId": "diana_i_ayala",
+      "margin": 10.2,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68/064": {
+      "votes": {
+        "diana_i_ayala": 66,
+        "edward_gibbs": 65,
+        "tamika_mapp": 9,
+        "william_smith": 7,
+        "scattered": 1
+      },
+      "total": 148,
+      "winnerId": "diana_i_ayala",
+      "margin": 0.7,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68/065": {
+      "votes": {
+        "diana_i_ayala": 149,
+        "edward_gibbs": 102,
+        "tamika_mapp": 18,
+        "william_smith": 10,
+        "scattered": 1
+      },
+      "total": 280,
+      "winnerId": "diana_i_ayala",
+      "margin": 16.8,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68/066": {
+      "votes": {
+        "diana_i_ayala": 107,
+        "edward_gibbs": 65,
+        "tamika_mapp": 14,
+        "william_smith": 12,
+        "scattered": 1
+      },
+      "total": 199,
+      "winnerId": "diana_i_ayala",
+      "margin": 21.1,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68/067": {
+      "votes": {
+        "diana_i_ayala": 71,
+        "edward_gibbs": 78,
+        "tamika_mapp": 12,
+        "william_smith": 12,
+        "scattered": 2
+      },
+      "total": 175,
+      "winnerId": "edward_gibbs",
+      "margin": 4,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68/068": {
+      "votes": {
+        "diana_i_ayala": 45,
+        "edward_gibbs": 15,
+        "tamika_mapp": 7,
+        "william_smith": 5,
+        "scattered": 0
+      },
+      "total": 72,
+      "winnerId": "diana_i_ayala",
+      "margin": 41.7,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68/069": {
+      "votes": {
+        "diana_i_ayala": 36,
+        "edward_gibbs": 37,
+        "tamika_mapp": 21,
+        "william_smith": 4,
+        "scattered": 0
+      },
+      "total": 98,
+      "winnerId": "edward_gibbs",
+      "margin": 1,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68/070": {
+      "votes": {
+        "diana_i_ayala": 126,
+        "edward_gibbs": 73,
+        "tamika_mapp": 19,
+        "william_smith": 12,
+        "scattered": 3
+      },
+      "total": 233,
+      "winnerId": "diana_i_ayala",
+      "margin": 22.7,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68/071": {
+      "votes": {
+        "diana_i_ayala": 47,
+        "edward_gibbs": 61,
+        "tamika_mapp": 18,
+        "william_smith": 7,
+        "scattered": 0
+      },
+      "total": 133,
+      "winnerId": "edward_gibbs",
+      "margin": 10.5,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68/072": {
+      "votes": {
+        "diana_i_ayala": 14,
+        "edward_gibbs": 10,
+        "tamika_mapp": 8,
+        "william_smith": 4,
+        "scattered": 0
+      },
+      "total": 36,
+      "winnerId": "diana_i_ayala",
+      "margin": 11.1,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68/073": {
+      "votes": {
+        "diana_i_ayala": 18,
+        "edward_gibbs": 25,
+        "tamika_mapp": 8,
+        "william_smith": 3,
+        "scattered": 0
+      },
+      "total": 54,
+      "winnerId": "edward_gibbs",
+      "margin": 13,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68/074": {
+      "votes": {
+        "diana_i_ayala": 82,
+        "edward_gibbs": 25,
+        "tamika_mapp": 16,
+        "william_smith": 7,
+        "scattered": 0
+      },
+      "total": 130,
+      "winnerId": "diana_i_ayala",
+      "margin": 43.8,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68/075": {
+      "votes": {
+        "diana_i_ayala": 39,
+        "edward_gibbs": 31,
+        "tamika_mapp": 5,
+        "william_smith": 6,
+        "scattered": 0
+      },
+      "total": 81,
+      "winnerId": "diana_i_ayala",
+      "margin": 9.9,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68/077": {
+      "votes": {
+        "diana_i_ayala": 83,
+        "edward_gibbs": 51,
+        "tamika_mapp": 14,
+        "william_smith": 12,
+        "scattered": 0
+      },
+      "total": 160,
+      "winnerId": "diana_i_ayala",
+      "margin": 20,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    },
+    "68/079": {
+      "votes": {
+        "diana_i_ayala": 0,
+        "edward_gibbs": 0,
+        "tamika_mapp": 0,
+        "william_smith": 0,
+        "scattered": 0
+      },
+      "total": 0,
+      "winnerId": "diana_i_ayala",
+      "margin": 0,
+      "candidates": [
+        {
+          "id": "diana_i_ayala",
+          "name": "Diana I. Ayala",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#d97706"
+        },
+        {
+          "id": "edward_gibbs",
+          "name": "Edward Gibbs",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#7c3aed"
+        },
+        {
+          "id": "tamika_mapp",
+          "name": "Tamika Mapp",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#059669"
+        },
+        {
+          "id": "william_smith",
+          "name": "William Smith",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#0891b2"
+        },
+        {
+          "id": "scattered",
+          "name": "Scattered",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#4f46e5"
+        }
+      ]
+    }
+  }
+}
