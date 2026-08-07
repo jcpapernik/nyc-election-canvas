@@ -23,22 +23,12 @@ export function generateBubbleFeatures(
 ): GeoJSON.Feature[] {
   let maxVoteDiffInRace = 0;
 
-  // 1. Pass 1: Find maximum net vote difference (winner - runner_up) across active districts
+  // 1. Pass 1: Find maximum net vote difference across active districts
   districtLabelMap.forEach(({ feature }) => {
-    const json = feature.properties?.districtResultJson;
-    if (json) {
-      try {
-        const res = JSON.parse(json);
-        const votesMap = res.votes || {};
-        const voteVals = Object.values(votesMap) as number[];
-        const sorted = voteVals.slice().sort((a, b) => b - a);
-        const top1 = sorted[0] || 0;
-        const top2 = sorted[1] || 0;
-        const voteDiff = Math.max(0, top1 - top2);
-        if (voteDiff > maxVoteDiffInRace) {
-          maxVoteDiffInRace = voteDiff;
-        }
-      } catch (e) {}
+    const props = feature.properties || {};
+    const voteDiff = props.voteDiff !== undefined ? Number(props.voteDiff) : 0;
+    if (voteDiff > maxVoteDiffInRace) {
+      maxVoteDiffInRace = voteDiff;
     }
   });
 
@@ -48,42 +38,33 @@ export function generateBubbleFeatures(
 
   // 2. Pass 2: Build circle features with square-root proportional radius values
   districtLabelMap.forEach(({ feature, labelKey }, labelText) => {
-    const json = feature.properties?.districtResultJson;
-    if (!json) return;
+    const props = feature.properties || {};
+    const voteDiff = props.voteDiff !== undefined ? Number(props.voteDiff) : 0;
 
-    try {
-      const res = JSON.parse(json);
-      const votesMap = res.votes || {};
-      const voteVals = Object.values(votesMap) as number[];
-      const sorted = voteVals.slice().sort((a, b) => b - a);
-      const top1 = sorted[0] || 0;
-      const top2 = sorted[1] || 0;
-      const voteDiff = Math.max(0, top1 - top2);
+    const centerPt = getPoleOfInaccessibilityFast(feature, labelKey);
+    if (!centerPt) return;
 
-      const centerPt = getPoleOfInaccessibilityFast(feature, labelKey);
-      if (!centerPt) return;
+    const bubbleRadius = computeProportionalBubbleRadius(voteDiff, maxVoteDiffInRace, boundaryLayer);
+    const fillColor = props.fillColor || '#3b82f6';
+    const isTie = Boolean(props.isTie);
 
-      const bubbleRadius = computeProportionalBubbleRadius(voteDiff, maxVoteDiffInRace, boundaryLayer);
-      const fillColor = feature.properties?.fillColor || '#3b82f6';
-      const isTie = feature.properties?.isTie || false;
-
-      bubbleFeatures.push({
-        id: bubbleFeatures.length + 1,
-        type: 'Feature',
-        properties: {
-          labelText,
-          voteDiff,
-          bubbleRadius: isTie ? 6.0 : bubbleRadius,
-          fillColor,
-          isTie,
-          districtResultJson: json
-        },
-        geometry: {
-          type: 'Point',
-          coordinates: centerPt
-        }
-      });
-    } catch (e) {}
+    bubbleFeatures.push({
+      id: bubbleFeatures.length + 1,
+      type: 'Feature',
+      properties: {
+        labelText,
+        districtId: props.districtId || labelText,
+        voteDiff,
+        bubbleRadius: isTie ? 6.0 : bubbleRadius,
+        fillColor,
+        isTie,
+        ...props
+      },
+      geometry: {
+        type: 'Point',
+        coordinates: centerPt
+      }
+    });
   });
 
   return bubbleFeatures;

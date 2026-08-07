@@ -164,9 +164,12 @@ export function paintRenderFeatures(
       renderFeature.properties.strokeColor = isEdLayer ? '#475569' : '#1e3a8a';
       renderFeature.properties.strokeOpacity = isEdLayer ? 0.35 : 0.70;
 
+      const voteDiff = Math.max(0, top1 - top2);
+
       renderFeature.properties.fillColor = isZeroVotes ? '#00000000' : fillColor;
       renderFeature.properties.fillOpacity = fillOpacity;
       renderFeature.properties.totalVotes = totalVotes;
+      renderFeature.properties.voteDiff = voteDiff;
       renderFeature.properties.isDimmed = false;
       renderFeature.properties.isTie = isTie;
       renderFeature.properties.isZeroVotes = isZeroVotes;

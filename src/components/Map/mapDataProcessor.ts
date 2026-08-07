@@ -12,6 +12,7 @@ import {
 import { assembleRenderFeatures } from './featureAssembly';
 import { paintRenderFeatures } from './featurePainter';
 import { generateBubbleFeatures } from './mapBubbleProcessor';
+import { fetchJsonCached } from '@/lib/fetchCache';
 import { useElectionStore } from '@/store/useElectionStore';
 
 export function processAndRenderBoundaryData(
@@ -273,8 +274,7 @@ export function updateBoundaryDataOnMap(
 
   const fileUrl = BOUNDARY_FILE_MAP[boundaryLayer];
 
-  fetch(fileUrl)
-    .then(res => res.json())
+  fetchJsonCached(fileUrl)
     .then(data => {
       boundaryDatasetsRef.current[boundaryLayer] = data;
       processAndRenderBoundaryData(

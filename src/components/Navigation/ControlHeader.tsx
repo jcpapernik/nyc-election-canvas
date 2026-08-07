@@ -5,6 +5,7 @@ import { useElectionStore, BoundaryLayerType } from '@/store/useElectionStore';
 import { Map as MapIcon, ShieldCheck, ChevronDown, Vote, Layers } from 'lucide-react';
 import { RaceSelectorModal } from './RaceSelectorModal';
 import { AddressSearchBox } from './AddressSearchBox';
+import { fetchJsonCached } from '@/lib/fetchCache';
 
 export interface IndexRaceItem {
   id: string;
@@ -33,9 +34,8 @@ export const ControlHeader: React.FC<ControlHeaderProps> = ({ onSearchSelect }) 
   const BASE_PATH = process.env.NEXT_PUBLIC_BASE_PATH || '';
 
   useEffect(() => {
-    fetch(`${BASE_PATH}/data/elections/index.json`)
-      .then(res => res.json())
-      .then((data: IndexRaceItem[]) => {
+    fetchJsonCached<IndexRaceItem[]>(`${BASE_PATH}/data/elections/index.json`)
+      .then((data) => {
         if (data && data.length > 0) {
           setRacesIndex(data);
           if (!selectedElectionId || !data.some(d => d.id === selectedElectionId)) {
@@ -50,8 +50,7 @@ export const ControlHeader: React.FC<ControlHeaderProps> = ({ onSearchSelect }) 
   useEffect(() => {
     if (!selectedElectionId) return;
 
-    fetch(`${BASE_PATH}/data/elections/${selectedElectionId}.json`)
-      .then(res => res.json())
+    fetchJsonCached(`${BASE_PATH}/data/elections/${selectedElectionId}.json`)
       .then(data => {
         setElectionData(data);
         if (data && data.districtType) {

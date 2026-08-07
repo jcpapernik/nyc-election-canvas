@@ -7,6 +7,7 @@ import { lookupAllDistrictsAtPoint } from '@/lib/districtLookup';
 import { BASEMAP_STYLE_LIGHT, BOUNDARY_FILE_MAP } from './mapHelpers';
 import { setupMapLayers } from './mapLayersSetup';
 import { updateBoundaryDataOnMap } from './mapDataProcessor';
+import { fetchJsonCached } from '@/lib/fetchCache';
 
 export interface ElectionMapRefHandle {
   flyToLocation: (loc: { lng: number; lat: number; label: string }) => void;
@@ -74,15 +75,13 @@ export const ElectionMap = React.forwardRef<ElectionMapRefHandle, { innerRef?: a
 
   useEffect(() => {
     Object.entries(BOUNDARY_FILE_MAP).forEach(([key, url]) => {
-      fetch(url)
-        .then(res => res.json())
+      fetchJsonCached(url)
         .then(data => { boundaryDatasetsRef.current[key] = data; })
         .catch(() => {});
     });
 
     const basePath = process.env.NEXT_PUBLIC_BASE_PATH || '';
-    fetch(`${basePath}/data/elections/index.json`)
-      .then(res => res.json())
+    fetchJsonCached(`${basePath}/data/elections/index.json`)
       .then(data => { electionIndexRef.current = data; })
       .catch(() => {});
   }, []);
