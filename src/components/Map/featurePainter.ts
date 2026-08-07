@@ -148,8 +148,15 @@ export function paintRenderFeatures(
       } else if (isUncontestedActiveRace || matchedResult?.isUncontested) {
         fillOpacity = 0.72;
       } else {
-        const clampedMargin = Math.min(Math.max(margin, 0), 40);
-        fillOpacity = 0.42 + (clampedMargin / 40.0) * 0.30;
+        // Non-Linear Power Curve Opacity Gradient (Gamma = 0.5):
+        // - Close races (0.5% - 2% margin): Start very transparent (0.22 opacity) to clearly signal a close nail-biter.
+        // - Steep gradient across lower margins (1% -> 5% -> 10% -> 20% margin): High visual contrast between 1, 5, 10, and 20 point wins.
+        // - Logarithmic plateau for blowouts (50% - 90% margin): Flattened response approaching max solid opacity (0.72).
+        const clampedMargin = Math.min(Math.max(margin, 0), 50);
+        const curveRatio = Math.sqrt(clampedMargin / 50.0);
+        const minOpacity = 0.22;
+        const maxOpacity = 0.72;
+        fillOpacity = minOpacity + curveRatio * (maxOpacity - minOpacity);
       }
 
       const isEdLayer = boundaryLayer === 'eds';
