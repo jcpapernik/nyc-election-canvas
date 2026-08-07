@@ -2,14 +2,16 @@ import * as turf from '@turf/turf';
 import polylabel from 'polylabel';
 import { BoundaryLayerType } from '@/store/useElectionStore';
 
+const BASE_PATH = process.env.NEXT_PUBLIC_BASE_PATH || '';
+
 export const BOUNDARY_FILE_MAP: Record<BoundaryLayerType, string> = {
-  citywide: '/boundaries/boroughs.json',
-  boroughs: '/boundaries/boroughs.json',
-  council: '/boundaries/city_council.json',
-  eds: '/boundaries/election_districts.json',
-  assembly: '/boundaries/assembly.json',
-  senate: '/boundaries/state_senate.json',
-  congressional: '/boundaries/congressional.json'
+  citywide: `${BASE_PATH}/boundaries/boroughs.json`,
+  boroughs: `${BASE_PATH}/boundaries/boroughs.json`,
+  council: `${BASE_PATH}/boundaries/city_council.json`,
+  eds: `${BASE_PATH}/boundaries/election_districts.json`,
+  assembly: `${BASE_PATH}/boundaries/assembly.json`,
+  senate: `${BASE_PATH}/boundaries/state_senate.json`,
+  congressional: `${BASE_PATH}/boundaries/congressional.json`
 };
 
 export const BOUNDARY_PROP_NAMES: Record<BoundaryLayerType, string[]> = {

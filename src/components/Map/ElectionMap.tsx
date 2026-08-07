@@ -80,7 +80,8 @@ export const ElectionMap = React.forwardRef<ElectionMapRefHandle, { innerRef?: a
         .catch(() => {});
     });
 
-    fetch('/data/elections/index.json')
+    const basePath = process.env.NEXT_PUBLIC_BASE_PATH || '';
+    fetch(`${basePath}/data/elections/index.json`)
       .then(res => res.json())
       .then(data => { electionIndexRef.current = data; })
       .catch(() => {});

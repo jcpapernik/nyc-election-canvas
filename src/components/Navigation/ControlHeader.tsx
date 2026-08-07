@@ -30,8 +30,10 @@ export const ControlHeader: React.FC<ControlHeaderProps> = ({ onSearchSelect }) 
   const [racesIndex, setRacesIndex] = useState<IndexRaceItem[]>([]);
   const [isModalOpen, setIsModalOpen] = useState(false);
 
+  const BASE_PATH = process.env.NEXT_PUBLIC_BASE_PATH || '';
+
   useEffect(() => {
-    fetch('/data/elections/index.json')
+    fetch(`${BASE_PATH}/data/elections/index.json`)
       .then(res => res.json())
       .then((data: IndexRaceItem[]) => {
         if (data && data.length > 0) {
@@ -48,7 +50,7 @@ export const ControlHeader: React.FC<ControlHeaderProps> = ({ onSearchSelect }) 
   useEffect(() => {
     if (!selectedElectionId) return;
 
-    fetch(`/data/elections/${selectedElectionId}.json`)
+    fetch(`${BASE_PATH}/data/elections/${selectedElectionId}.json`)
       .then(res => res.json())
       .then(data => {
         setElectionData(data);
