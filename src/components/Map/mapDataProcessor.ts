@@ -198,10 +198,16 @@ export function processAndRenderBoundaryData(
   // Sync layer opacities based on mapViewMode ('choropleth' | 'bubbles' | 'hybrid')
   if (map.getLayer('boundary-fill')) {
     if (mapViewMode === 'bubbles') {
-      map.setPaintProperty('boundary-fill', 'fill-opacity', 0.04);
+      map.setPaintProperty('boundary-fill', 'fill-opacity', [
+        'case',
+        ['boolean', ['get', 'isDimmed'], false], 0.35,
+        ['boolean', ['feature-state', 'hover'], false], 0.15,
+        0.04
+      ]);
     } else if (mapViewMode === 'hybrid') {
       map.setPaintProperty('boundary-fill', 'fill-opacity', [
         'case',
+        ['boolean', ['get', 'isDimmed'], false], 0.40,
         ['boolean', ['feature-state', 'hover'], false], 0.85,
         ['has', 'fillOpacity'], ['*', ['get', 'fillOpacity'], 0.45],
         0.30
