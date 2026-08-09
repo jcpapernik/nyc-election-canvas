@@ -127,15 +127,73 @@ export function createElectionsData(edFeatures: GeoJSON.Feature[]): Record<strin
     };
   });
 
+  const cong13Candidates2026: Candidate[] = [
+    { id: 'espaillat', name: 'Adriano Espaillat', shortName: 'A. Espaillat', party: 'DEM', color: '#3b82f6', bio: 'Incumbent US Representative NY-13' },
+    { id: 'spies', name: 'Francisco Spies', shortName: 'F. Spies', party: 'DEM', color: '#06b6d4', bio: 'Community Advocate' }
+  ];
+
+  const cong13Results2026: { [edId: string]: EDResult } = {};
+  edFeatures.forEach(f => {
+    const edId = f.properties?.edId as string;
+    cong13Results2026[edId] = {
+      edId,
+      edName: f.properties?.edName || edId,
+      borough: 'Manhattan',
+      councilDistrict: f.properties?.councilDistrict || 7,
+      assemblyDistrict: f.properties?.assemblyDistrict || 69,
+      senateDistrict: f.properties?.senateDistrict || 27,
+      congressionalDistrict: 13,
+      neighborhood: f.properties?.neighborhood || 'Harlem',
+      registeredVoters: f.properties?.registeredVoters || 1200,
+      totalBallots: f.properties?.totalBallots || 540,
+      rounds: computeRcvRounds(f, cong13Candidates2026, 1)
+    };
+  });
+
+  const sen27Candidates2026: Candidate[] = [
+    { id: 'kavanagh', name: 'Brian Kavanagh', shortName: 'B. Kavanagh', party: 'DEM', color: '#10b981', bio: 'Incumbent NY State Senator SD-27' },
+    { id: 'fariello', name: 'Vittoria Fariello', shortName: 'V. Fariello', party: 'DEM', color: '#f59e0b', bio: 'Democratic District Leader' },
+    { id: 'egorov', name: 'Danyela Souza Egorov', shortName: 'D. Egorov', party: 'DEM', color: '#8b5cf6', bio: 'Education Advocate' }
+  ];
+
+  const sen27Results2026: { [edId: string]: EDResult } = {};
+  edFeatures.forEach(f => {
+    const edId = f.properties?.edId as string;
+    sen27Results2026[edId] = {
+      edId,
+      edName: f.properties?.edName || edId,
+      borough: 'Manhattan',
+      councilDistrict: f.properties?.councilDistrict || 2,
+      assemblyDistrict: f.properties?.assemblyDistrict || 65,
+      senateDistrict: 27,
+      congressionalDistrict: 10,
+      neighborhood: f.properties?.neighborhood || 'Lower Manhattan',
+      registeredVoters: f.properties?.registeredVoters || 1100,
+      totalBallots: f.properties?.totalBallots || 490,
+      rounds: computeRcvRounds(f, sen27Candidates2026, 1)
+    };
+  });
+
   return {
+    'democratic_representative_in_congress_13': {
+      id: 'democratic_representative_in_congress_13',
+      title: '2026 NY-13 Congressional Democratic Primary',
+      year: 2026,
+      party: 'DEM',
+      isRcv: false,
+      maxRounds: 1,
+      description: 'Official 2026 Democratic Primary for US Representative in Congress District 13 (Upper Manhattan / West Bronx).',
+      candidates: cong13Candidates2026,
+      results: cong13Results2026
+    },
     '2026-dem-primary': {
       id: '2026-dem-primary',
-      title: '2026 Democratic Primary (Governor & Citywide)',
+      title: '2026 New York Governor Democratic Primary',
       year: 2026,
       party: 'DEM',
       isRcv: true,
       maxRounds: 4,
-      description: 'New York Democratic Primary election featuring Ranked-Choice Voting across all 5 boroughs.',
+      description: '2026 New York Gubernatorial Democratic Primary featuring Ranked-Choice Voting across all 5 boroughs.',
       candidates: demCandidates2026,
       rcvRoundsInfo: [
         { roundNumber: 1, description: 'First Preference Votes' },
@@ -147,12 +205,12 @@ export function createElectionsData(edFeatures: GeoJSON.Feature[]): Record<strin
     },
     '2026-gop-primary': {
       id: '2026-gop-primary',
-      title: '2026 Republican Primary (Gubernatorial)',
+      title: '2026 New York Governor Republican Primary',
       year: 2026,
       party: 'REP',
       isRcv: true,
       maxRounds: 2,
-      description: 'NYC Republican Primary election with RCV round eliminations.',
+      description: '2026 New York Gubernatorial Republican Primary election.',
       candidates: gopCandidates2026,
       rcvRoundsInfo: [
         { roundNumber: 1, description: 'First Choice Ballots' },
@@ -162,47 +220,25 @@ export function createElectionsData(edFeatures: GeoJSON.Feature[]): Record<strin
     },
     '2026-cong-plurality': {
       id: '2026-cong-plurality',
-      title: '2026 NY-12 Congressional Primary',
+      title: '2026 NY-12 Congressional Democratic Primary',
       year: 2026,
       party: 'DEM',
       isRcv: false,
       maxRounds: 1,
-      description: 'Official 2026 Congressional Primary Election.',
+      description: 'Official 2026 Democratic Primary for US Representative in Congress District 12 (Midtown & Upper Manhattan).',
       candidates: congCandidates2026,
       results: congResults2026
     },
-    '2026-council-d6': {
-      id: '2026-council-d6',
-      title: '2026 City Council District 6 Primary',
+    '2026-senate-d27': {
+      id: '2026-senate-d27',
+      title: '2026 State Senate District 27 Democratic Primary',
       year: 2026,
       party: 'DEM',
-      isRcv: true,
-      maxRounds: 3,
-      description: 'Upper West Side City Council District 6 Democratic Primary with RCV.',
-      candidates: ccCandidates2026,
-      rcvRoundsInfo: [
-        { roundNumber: 1, description: 'Round 1 Initial Preference' },
-        { roundNumber: 2, eliminatedCandidateId: 'weiner', eliminatedCandidateName: 'Zack Weiner', description: 'Eliminated Z. Weiner — votes transferred' },
-        { roundNumber: 3, eliminatedCandidateId: 'danzilo', eliminatedCandidateName: 'Maria Danzilo', description: 'Final Round — Gale Brewer vs Sara Lind' }
-      ],
-      results: ccResults2026
-    },
-    '2026-mayoral-primary': {
-      id: '2026-mayoral-primary',
-      title: '2026 NYC Mayoral Democratic Primary',
-      year: 2026,
-      party: 'DEM',
-      isRcv: true,
-      maxRounds: 4,
-      description: 'The 2026 NYC Democratic Mayoral Primary showing RCV transfers.',
-      candidates: mayoralCandidates2026,
-      rcvRoundsInfo: [
-        { roundNumber: 1, description: 'Round 1 Initial Count' },
-        { roundNumber: 2, eliminatedCandidateId: 'stringer26', eliminatedCandidateName: 'Scott Stringer', description: 'Eliminated S. Stringer' },
-        { roundNumber: 3, eliminatedCandidateId: 'yang26', eliminatedCandidateName: 'Andrew Yang', description: 'Eliminated A. Yang — major vote redistribution' },
-        { roundNumber: 4, eliminatedCandidateId: 'wiley26', eliminatedCandidateName: 'Maya Wiley', description: 'Final Round — Eric Adams vs Kathryn Garcia' }
-      ],
-      results: mayoralResults2026
+      isRcv: false,
+      maxRounds: 1,
+      description: 'Official 2026 Democratic Primary for New York State Senate District 27.',
+      candidates: sen27Candidates2026,
+      results: sen27Results2026
     }
   };
 }
