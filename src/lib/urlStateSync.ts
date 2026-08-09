@@ -44,7 +44,8 @@ export function parseRaceIdToUrlParams(raceId: string): { party: string; office:
 
 export function constructRaceIdFromParams(party: string, office: string, district: string): string {
   const normParty = party.toLowerCase().startsWith('rep') ? 'republican' : 'democratic';
-  const normDist = district ? (district.length === 1 ? `0${district}` : district) : '1';
+  const cleanNum = (district || '').replace(/[^0-9]/g, '');
+  const normDist = cleanNum ? (cleanNum.length === 1 ? `0${cleanNum}` : cleanNum) : '01';
 
   let officeSlug = 'representative_in_congress';
   if (office === 'assembly') officeSlug = 'member_of_the_assembly';
