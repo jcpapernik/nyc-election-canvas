@@ -143,3 +143,48 @@ export function aggregateEdResultsFast(
 
   return finalResults;
 }
+
+export function aggregateSingleFeatureVotes(
+  feature: GeoJSON.Feature,
+  electionData: ElectionData,
+  edGeoJson: GeoJSON.FeatureCollection | undefined
+): AggregatedResult | null {
+  const edResults = electionData?.edResults || {};
+  const candidates = electionData?.candidates || [];
+  if (!edGeoJson || candidates.length === 0) return null;
+
+  const votes: Record<string, number> = {};
+  candidates.forEach(c => { votes[c.id] = 0; });
+  let total = 0;
+
+  const edFeatures = edGeoJson.features || [];
+  for (const edFeat of edFeatures) {
+    try {
+      const pt = turf.pointOnFeature(edFeat as any);
+      if (turf.booleanPointInPolygon(pt, feature as any)) {
+        const edId = String(edFeat.properties?.edId || edFeat.properties?.elect_dist || '');
+        const edRes = edResults[edId];
+        if (edRes) {
+          Object.entries(edRes.votes || {}).forEach(([cid, v]) => {
+            votes[cid] = (votes[cid] || 0) + v;
+          });
+          total += edRes.total || 0;
+        }
+      }
+    } catch (err) {}
+  }
+
+  const sorted = candidates.slice().sort((a, b) => (votes[b.id] || 0) - (votes[a.id] || 0));
+  const winner = sorted[0];
+  const v1 = votes[sorted[0]?.id] || 0;
+  const v2 = votes[sorted[1]?.id] || 0;
+  const margin = total > 0 ? Math.round(((v1 - v2) / total) * 1000) / 10 : 0;
+
+  return {
+    votes,
+    total,
+    winnerId: winner ? winner.id : candidates[0]?.id || '',
+    margin,
+    candidates
+  };
+}
