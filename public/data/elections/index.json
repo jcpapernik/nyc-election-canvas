@@ -583,17 +583,6 @@
     "candidatesSummary": " (Nily Rozic)"
   },
   {
-    "id": "democratic_member_of_the_assembly_26",
-    "name": "2026 Primary - Member of the Assembly District 26",
-    "cycle": "2026 Primary",
-    "party": "Democratic",
-    "officeCategory": "NY State Assembly",
-    "districtKey": "26",
-    "districtType": "assembly",
-    "isUncontested": true,
-    "candidatesSummary": " (Edward Braunstein)"
-  },
-  {
     "id": "democratic_member_of_the_assembly_27",
     "name": "2026 Primary - Member of the Assembly District 27",
     "cycle": "2026 Primary",
@@ -1837,6 +1826,17 @@
     "candidatesSummary": " (Frank Morano)"
   },
   {
+    "id": "democratic_member_of_the_assembly_26",
+    "name": "2026 Primary - Member of the Assembly District 26",
+    "cycle": "2026 Primary",
+    "party": "Democratic",
+    "officeCategory": "State Assembly",
+    "districtKey": "26",
+    "districtType": "assembly",
+    "isUncontested": true,
+    "candidatesSummary": " (Edward Braunstein)"
+  },
+  {
     "id": "democratic_state_senator_10",
     "name": "2026 Primary - State Senator District 10",
     "cycle": "2026 Primary",
@@ -2374,17 +2374,6 @@
     "districtType": "assembly",
     "isUncontested": true,
     "candidatesSummary": " (Republican Nominee (AD-25))"
-  },
-  {
-    "id": "republican_member_of_the_assembly_26",
-    "name": "2026 Primary - Member of the Assembly District 26",
-    "cycle": "2026 Primary",
-    "party": "Republican",
-    "officeCategory": "NY State Assembly",
-    "districtKey": "26",
-    "districtType": "assembly",
-    "isUncontested": false,
-    "candidatesSummary": " (Robert J. Speranza, Philip Sean Grillo, Scattered)"
   },
   {
     "id": "republican_member_of_the_assembly_27",
@@ -3617,6 +3606,17 @@
     "districtType": "council",
     "isUncontested": true,
     "candidatesSummary": " (Joseph Borelli)"
+  },
+  {
+    "id": "republican_member_of_the_assembly_26",
+    "name": "2026 Primary - Member of the Assembly District 26",
+    "cycle": "2026 Primary",
+    "party": "Republican",
+    "officeCategory": "State Assembly",
+    "districtKey": "26",
+    "districtType": "assembly",
+    "isUncontested": false,
+    "candidatesSummary": " (Robert Speranza, Philip Sean Grillo)"
   },
   {
     "id": "republican_state_senator_10",

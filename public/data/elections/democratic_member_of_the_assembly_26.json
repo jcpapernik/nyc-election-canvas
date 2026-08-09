@@ -3,7 +3,7 @@
   "name": "2026 Primary - Member of the Assembly District 26",
   "date": "2026-06-23",
   "party": "Democratic",
-  "officeCategory": "NY State Assembly",
+  "officeCategory": "State Assembly",
   "districtKey": "26",
   "districtType": "assembly",
   "isUncontested": true,
@@ -13,15 +13,15 @@
       "name": "Edward Braunstein",
       "party": "Democratic",
       "isIncumbent": true,
-      "color": "#2563eb"
+      "color": "#3b82f6"
     }
   ],
   "results": {
     "26": {
       "votes": {
-        "edward_braunstein": 0
+        "edward_braunstein": 100
       },
-      "total": 0,
+      "total": 100,
       "winnerId": "edward_braunstein",
       "margin": 100,
       "isUncontested": true,
@@ -31,7 +31,7 @@
           "name": "Edward Braunstein",
           "party": "Democratic",
           "isIncumbent": true,
-          "color": "#2563eb"
+          "color": "#3b82f6"
         }
       ]
     }
