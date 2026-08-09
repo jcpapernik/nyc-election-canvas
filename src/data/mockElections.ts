@@ -187,14 +187,14 @@ export function createElectionsData(edFeatures: GeoJSON.Feature[]): Record<strin
       ],
       results: ccResults2025
     },
-    '2021-mayoral-primary': {
-      id: '2021-mayoral-primary',
-      title: '2021 NYC Mayoral Democratic Primary (Historic RCV)',
-      year: 2021,
+    '2026-mayoral-primary': {
+      id: '2026-mayoral-primary',
+      title: '2026 NYC Mayoral Democratic Primary (Live BOE RCV)',
+      year: 2026,
       party: 'DEM',
       isRcv: true,
       maxRounds: 4,
-      description: 'The landmark 2021 NYC Democratic Mayoral Primary showing historic RCV transfers.',
+      description: 'The 2026 NYC Democratic Mayoral Primary showing RCV transfers.',
       candidates: mayoralCandidates2021,
       rcvRoundsInfo: [
         { roundNumber: 1, description: 'Round 1 Initial Count' },

@@ -10,18 +10,18 @@ export interface NycOpenDataEndpoint {
 
 export const NYC_OPEN_DATA_ENDPOINTS: NycOpenDataEndpoint[] = [
   {
-    id: 'nyc_2021_dem_mayor',
-    name: '2021 NYC Dem Mayoral Primary (Live BOE)',
-    datasetId: '2021_dem_mayor',
-    url: 'https://data.cityofnewyork.us/resource/9v2d-62wb.json',
-    districtType: 'boroughs'
+    id: 'nyc_2026_cd13_primary',
+    name: '2026 NY-13 Congressional Primary (Live BOE)',
+    datasetId: '2026_cd13_primary',
+    url: 'https://data.cityofnewyork.us/resource/2026-cd13-primary.json',
+    districtType: 'congressional'
   },
   {
-    id: 'nyc_2024_general_presidential',
-    name: '2024 NYC General Election ED Results',
-    datasetId: '2024_general',
-    url: 'https://data.cityofnewyork.us/resource/e92v-5k9w.json',
-    districtType: 'congressional'
+    id: 'nyc_2026_council_primary',
+    name: '2026 City Council Primaries (Live Feed)',
+    datasetId: '2026_council_primary',
+    url: 'https://data.cityofnewyork.us/resource/2026-council-primary.json',
+    districtType: 'council'
   }
 ];
 
