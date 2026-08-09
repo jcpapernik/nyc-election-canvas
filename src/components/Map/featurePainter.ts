@@ -85,12 +85,12 @@ export function paintRenderFeatures(
       insideEdsSet.has(f)
     );
 
-    if (!matchedResult && isUncontestedActiveRace && isInsideActiveEds) {
+    if (!matchedResult && isUncontestedActiveRace) {
       const topCand = electionData?.candidates?.[0];
       if (topCand) {
         matchedResult = {
-          votes: { [topCand.id]: 0 },
-          total: 0,
+          votes: { [topCand.id]: 100 },
+          total: 100,
           winnerId: topCand.id,
           margin: 100,
           isUncontested: true,
@@ -101,7 +101,7 @@ export function paintRenderFeatures(
 
     const hasVotesInRace = Boolean(
       matchedResult && (matchedResult.total > 0 || matchedResult.winnerId || (matchedResult.votes && Object.values(matchedResult.votes).some((v: any) => v > 0)))
-    ) || isInsideActiveEds;
+    ) || isInsideActiveEds || isUncontestedActiveRace;
 
     const totalVotes = matchedResult?.total || 0;
     const votesMap = matchedResult?.votes || {};
@@ -109,7 +109,7 @@ export function paintRenderFeatures(
     const sortedVoteVals = voteValues.slice().sort((a, b) => b - a);
     const top1 = sortedVoteVals[0] || 0;
     const top2 = sortedVoteVals[1] || 0;
-    const isTie = totalVotes > 0 && top1 > 0 && top1 === top2;
+    const isTie = top1 > 0 && top1 === top2;
     const isZeroVotes = boundaryLayer === 'eds' && hasVotesInRace && totalVotes === 0 && !isUncontestedActiveRace && !props.isUncontested;
 
     const isOutsideParentDistrict = Boolean(props.isOutsideParentDistrict);

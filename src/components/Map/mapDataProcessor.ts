@@ -121,8 +121,14 @@ export function processAndRenderBoundaryData(
           }
         });
 
-        const margin = totalVotes > 0 ? ((maxVotes - (secondVotes > -1 ? secondVotes : 0)) / totalVotes) * 100 : 0;
-        const synthRes = { votes: candVotes, total: totalVotes, winnerId, margin };
+        const margin = electionData.isUncontested ? 100 : (totalVotes > 0 ? ((maxVotes - (secondVotes > -1 ? secondVotes : 0)) / totalVotes) * 100 : 0);
+        const synthRes = {
+          votes: candVotes,
+          total: totalVotes,
+          winnerId: winnerId || electionData.candidates?.[0]?.id || '',
+          margin,
+          isUncontested: electionData.isUncontested
+        };
 
         resultsMap[distKey] = synthRes;
         resultsMap[normDKey] = synthRes;
