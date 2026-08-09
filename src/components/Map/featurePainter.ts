@@ -76,16 +76,7 @@ export function paintRenderFeatures(
       electionData?.districtType &&
       boundaryLayer !== electionData.districtType &&
       electionData.districtType !== 'boroughs' &&
-      targetMacroFeature;
-
-    if (isCrossLayerSubBoundary && matchedResult) {
-      try {
-        const clippedGeom = turf.intersect(turf.featureCollection([f as any, targetMacroFeature as any]));
-        if (clippedGeom && clippedGeom.geometry) {
-          renderFeature.geometry = clippedGeom.geometry;
-        }
-      } catch (err) {}
-    }
+      Boolean(targetMacroFeature);
 
     const isUncontestedActiveRace = Boolean(electionData?.isUncontested);
     const isInsideActiveEds = boundaryLayer === 'eds' && (
