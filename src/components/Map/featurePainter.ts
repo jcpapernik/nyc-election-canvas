@@ -27,11 +27,16 @@ export function paintRenderFeatures(
     let labelText = '';
     let districtKey = '';
 
-    for (const pName of propNames) {
-      if (props[pName] !== undefined && props[pName] !== null) {
-        districtKey = String(props[pName]);
-        labelText = districtKey;
-        break;
+    if (props.subDistrictKey) {
+      districtKey = String(props.subDistrictKey);
+      labelText = districtKey;
+    } else {
+      for (const pName of propNames) {
+        if (props[pName] !== undefined && props[pName] !== null) {
+          districtKey = String(props[pName]);
+          labelText = districtKey;
+          break;
+        }
       }
     }
 

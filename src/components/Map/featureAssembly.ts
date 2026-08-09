@@ -121,7 +121,6 @@ export function assembleRenderFeatures(
     const propNames = BOUNDARY_PROP_NAMES[boundaryLayer];
     const insideSubDistricts: GeoJSON.Feature[] = [];
     const outsideMacroDistricts: GeoJSON.Feature[] = [];
-    const targetBbox = turf.bbox(targetMacroFeature as any);
 
     (data.features || []).forEach((subFeat: any) => {
       const props = subFeat.properties || {};
@@ -133,55 +132,35 @@ export function assembleRenderFeatures(
         }
       }
       const normSubKey = normalizeDistrictKey(subKey);
-      const hasDirectResult = Boolean(resultsMap[subKey] || resultsMap[normSubKey]);
 
       try {
-        const subBbox = turf.bbox(subFeat);
-        const bboxOverlaps = !(
-          subBbox[0] > targetBbox[2] ||
-          subBbox[2] < targetBbox[0] ||
-          subBbox[1] > targetBbox[3] ||
-          subBbox[3] < targetBbox[1]
-        );
-
-        if (hasDirectResult || bboxOverlaps) {
-          const clipped = turf.intersect(turf.featureCollection([subFeat, targetMacroFeature as any]));
-          if (clipped && clipped.geometry) {
-            insideSubDistricts.push({ ...subFeat, geometry: clipped.geometry });
-          } else if (bboxOverlaps) {
-            insideSubDistricts.push(subFeat);
-          }
+        const clipped = turf.intersect(turf.featureCollection([subFeat, targetMacroFeature as any]));
+        if (clipped && clipped.geometry) {
+          insideSubDistricts.push({
+            ...subFeat,
+            geometry: clipped.geometry,
+            properties: {
+              ...props,
+              subDistrictKey: subKey,
+              normSubDistrictKey: normSubKey
+            }
+          });
         }
-      } catch (e) {
-        if (hasDirectResult) {
-          insideSubDistricts.push(subFeat);
-        }
-      }
+      } catch (e) {}
     });
 
     (parentDataset.features || []).forEach(macroFeature => {
       const props = macroFeature.properties || {};
-      let isTargetParent = false;
-
-      for (const pName of parentPropNames) {
-        if (props[pName] !== undefined && normalizeDistrictKey(String(props[pName])) === normalizeDistrictKey(targetDistrictKey)) {
-          isTargetParent = true;
-          break;
+      outsideMacroDistricts.push({
+        ...macroFeature,
+        properties: {
+          ...props,
+          isOutsideParentDistrict: true
         }
-      }
-
-      if (!isTargetParent) {
-        outsideMacroDistricts.push({
-          ...macroFeature,
-          properties: {
-            ...props,
-            isOutsideParentDistrict: true
-          }
-        });
-      }
+      });
     });
 
-    renderRawFeatures = [...insideSubDistricts, ...outsideMacroDistricts];
+    renderRawFeatures = [...outsideMacroDistricts, ...insideSubDistricts];
   }
 
   return {
