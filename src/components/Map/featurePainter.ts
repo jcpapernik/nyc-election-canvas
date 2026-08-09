@@ -118,9 +118,9 @@ export function paintRenderFeatures(
     if (isOutsideParentDistrict) {
       renderFeature.properties.fillColor = '#475569';
       renderFeature.properties.fillOpacity = 0.45;
-      renderFeature.properties.strokeWidth = 1.0;
-      renderFeature.properties.strokeColor = '#1e3a8a';
-      renderFeature.properties.strokeOpacity = 0.70;
+      renderFeature.properties.strokeWidth = 1.2;
+      renderFeature.properties.strokeColor = '#334155';
+      renderFeature.properties.strokeOpacity = 0.80;
       renderFeature.properties.isDimmed = true;
       renderFeature.properties.isZeroVotes = false;
       delete renderFeature.properties.districtResultJson;
@@ -129,9 +129,9 @@ export function paintRenderFeatures(
     } else if (isTargetParentCanvas) {
       renderFeature.properties.fillColor = '#ffffff';
       renderFeature.properties.fillOpacity = 0.05;
-      renderFeature.properties.strokeWidth = 2.0;
-      renderFeature.properties.strokeColor = '#1e3a8a';
-      renderFeature.properties.strokeOpacity = 0.90;
+      renderFeature.properties.strokeWidth = 3.0;
+      renderFeature.properties.strokeColor = '#1d4ed8';
+      renderFeature.properties.strokeOpacity = 1.0;
       renderFeature.properties.isDimmed = false;
       renderFeature.properties.isZeroVotes = false;
       delete renderFeature.properties.districtResultJson;
@@ -169,10 +169,6 @@ export function paintRenderFeatures(
       } else if (isUncontestedActiveRace || matchedResult?.isUncontested) {
         fillOpacity = 0.72;
       } else {
-        // Non-Linear Power Curve Opacity Gradient (Gamma = 0.5):
-        // - Close races (0.5% - 2% margin): Start very transparent (0.22 opacity) to clearly signal a close nail-biter.
-        // - Steep gradient across lower margins (1% -> 5% -> 10% -> 20% margin): High visual contrast between 1, 5, 10, and 20 point wins.
-        // - Logarithmic plateau for blowouts (50% - 90% margin): Flattened response approaching max solid opacity (0.72).
         const clampedMargin = Math.min(Math.max(margin, 0), 50);
         const curveRatio = Math.sqrt(clampedMargin / 50.0);
         const minOpacity = 0.22;
@@ -181,9 +177,9 @@ export function paintRenderFeatures(
       }
 
       const isEdLayer = boundaryLayer === 'eds';
-      renderFeature.properties.strokeWidth = isEdLayer ? 0.35 : 1.0;
-      renderFeature.properties.strokeColor = isEdLayer ? '#475569' : '#1e3a8a';
-      renderFeature.properties.strokeOpacity = isEdLayer ? 0.35 : 0.70;
+      renderFeature.properties.strokeWidth = isEdLayer ? 1.0 : 1.8;
+      renderFeature.properties.strokeColor = isEdLayer ? '#334155' : '#0f172a';
+      renderFeature.properties.strokeOpacity = isEdLayer ? 0.75 : 0.95;
 
       const voteDiff = Math.max(0, top1 - top2);
 
@@ -207,14 +203,17 @@ export function paintRenderFeatures(
       if (isCrossLayerSubBoundary) {
         renderFeature.properties.fillColor = '#ffffff';
         renderFeature.properties.fillOpacity = 0.01;
-        renderFeature.properties.strokeWidth = 0.8;
-        renderFeature.properties.strokeColor = '#2563eb';
-        renderFeature.properties.strokeOpacity = 0.60;
+        renderFeature.properties.strokeWidth = 1.5;
+        renderFeature.properties.strokeColor = '#1e293b';
+        renderFeature.properties.strokeOpacity = 0.85;
         renderFeature.properties.isDimmed = false;
         renderFeature.properties.isZeroVotes = false;
       } else {
         renderFeature.properties.fillColor = '#475569';
         renderFeature.properties.fillOpacity = 0.45;
+        renderFeature.properties.strokeWidth = 1.2;
+        renderFeature.properties.strokeColor = '#334155';
+        renderFeature.properties.strokeOpacity = 0.80;
         renderFeature.properties.isDimmed = true;
         renderFeature.properties.isZeroVotes = false;
       }
