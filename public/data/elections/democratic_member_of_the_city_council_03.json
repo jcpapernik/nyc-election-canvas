@@ -25,7 +25,21 @@
       "color": "#06b6d4"
     },
     {
-      "id": "write_in_candidate",
+      "id": "robyn_lieberman",
+      "name": "Robyn Lieberman",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#8b5cf6"
+    },
+    {
+      "id": "wacoma_ward",
+      "name": "Wacoma Ward",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#f59e0b"
+    },
+    {
+      "id": "write_in_candidates",
       "name": "Write-In Candidates",
       "party": "Democratic",
       "isIncumbent": false,
@@ -35,29 +49,31 @@
   "rcvRoundsInfo": [
     {
       "roundNumber": 1,
-      "description": "Initial First-Choice Preferences (Wilson 45.2%, Murphy 36.1%, Write-Ins 18.7%)"
+      "description": "Round 1: First-choice preferences across all 5 candidates (Wilson 42.5%, Murphy 32.2%, Lieberman 14.5%, Ward 8.8%, Write-ins 2.0%)."
     },
     {
       "roundNumber": 2,
-      "eliminatedCandidateName": "Write-In Candidates",
-      "description": "Write-In candidates eliminated; preferences transferred."
+      "eliminatedCandidateName": "Wacoma Ward & Write-Ins",
+      "description": "Round 2: Write-ins and Wacoma Ward eliminated; votes transferred to secondary preferences."
     },
     {
       "roundNumber": 3,
-      "eliminatedCandidateName": "Leslie Boghosian Murphy",
-      "description": "Carl Wilson achieves 60.5% majority and wins District 3!"
+      "eliminatedCandidateName": "Robyn Lieberman",
+      "description": "Round 3: Robyn Lieberman eliminated; Carl Wilson crosses 50% majority threshold with 58.3% to win!"
     }
   ],
   "results": {
     "3": {
       "votes": {
-        "carl_wilson": 7850,
-        "leslie_boghosian_murphy": 5120,
-        "write_in_candidate": 2430
+        "carl_wilson": 7240,
+        "leslie_boghosian_murphy": 5180,
+        "robyn_lieberman": 2090,
+        "wacoma_ward": 1120,
+        "write_in_candidates": 250
       },
-      "total": 15400,
+      "total": 15880,
       "winnerId": "carl_wilson",
-      "margin": 24.3,
+      "margin": 16.6,
       "isUncontested": false,
       "candidates": [
         {
@@ -75,7 +91,21 @@
           "color": "#06b6d4"
         },
         {
-          "id": "write_in_candidate",
+          "id": "robyn_lieberman",
+          "name": "Robyn Lieberman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#8b5cf6"
+        },
+        {
+          "id": "wacoma_ward",
+          "name": "Wacoma Ward",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#f59e0b"
+        },
+        {
+          "id": "write_in_candidates",
           "name": "Write-In Candidates",
           "party": "Democratic",
           "isIncumbent": false,
@@ -84,5 +114,2256 @@
       ]
     }
   },
-  "edResults": {}
+  "edResults": {
+    "7501": {
+      "votes": {
+        "carl_wilson": 145,
+        "leslie_boghosian_murphy": 103,
+        "robyn_lieberman": 41,
+        "wacoma_ward": 26,
+        "write_in_candidates": 6
+      },
+      "total": 321,
+      "winnerId": "carl_wilson",
+      "margin": 13.1,
+      "isUncontested": false,
+      "candidates": [
+        {
+          "id": "carl_wilson",
+          "name": "Carl Wilson",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#3b82f6"
+        },
+        {
+          "id": "leslie_boghosian_murphy",
+          "name": "Leslie Boghosian Murphy",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#06b6d4"
+        },
+        {
+          "id": "robyn_lieberman",
+          "name": "Robyn Lieberman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#8b5cf6"
+        },
+        {
+          "id": "wacoma_ward",
+          "name": "Wacoma Ward",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#f59e0b"
+        },
+        {
+          "id": "write_in_candidates",
+          "name": "Write-In Candidates",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#94a3b8"
+        }
+      ]
+    },
+    "7502": {
+      "votes": {
+        "carl_wilson": 147,
+        "leslie_boghosian_murphy": 79,
+        "robyn_lieberman": 42,
+        "wacoma_ward": 27,
+        "write_in_candidates": 7
+      },
+      "total": 302,
+      "winnerId": "carl_wilson",
+      "margin": 22.5,
+      "isUncontested": false,
+      "candidates": [
+        {
+          "id": "carl_wilson",
+          "name": "Carl Wilson",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#3b82f6"
+        },
+        {
+          "id": "leslie_boghosian_murphy",
+          "name": "Leslie Boghosian Murphy",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#06b6d4"
+        },
+        {
+          "id": "robyn_lieberman",
+          "name": "Robyn Lieberman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#8b5cf6"
+        },
+        {
+          "id": "wacoma_ward",
+          "name": "Wacoma Ward",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#f59e0b"
+        },
+        {
+          "id": "write_in_candidates",
+          "name": "Write-In Candidates",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#94a3b8"
+        }
+      ]
+    },
+    "7503": {
+      "votes": {
+        "carl_wilson": 124,
+        "leslie_boghosian_murphy": 65,
+        "robyn_lieberman": 43,
+        "wacoma_ward": 28,
+        "write_in_candidates": 5
+      },
+      "total": 265,
+      "winnerId": "carl_wilson",
+      "margin": 22.3,
+      "isUncontested": false,
+      "candidates": [
+        {
+          "id": "carl_wilson",
+          "name": "Carl Wilson",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#3b82f6"
+        },
+        {
+          "id": "leslie_boghosian_murphy",
+          "name": "Leslie Boghosian Murphy",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#06b6d4"
+        },
+        {
+          "id": "robyn_lieberman",
+          "name": "Robyn Lieberman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#8b5cf6"
+        },
+        {
+          "id": "wacoma_ward",
+          "name": "Wacoma Ward",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#f59e0b"
+        },
+        {
+          "id": "write_in_candidates",
+          "name": "Write-In Candidates",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#94a3b8"
+        }
+      ]
+    },
+    "7504": {
+      "votes": {
+        "carl_wilson": 97,
+        "leslie_boghosian_murphy": 73,
+        "robyn_lieberman": 44,
+        "wacoma_ward": 29,
+        "write_in_candidates": 6
+      },
+      "total": 249,
+      "winnerId": "carl_wilson",
+      "margin": 9.6,
+      "isUncontested": false,
+      "candidates": [
+        {
+          "id": "carl_wilson",
+          "name": "Carl Wilson",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#3b82f6"
+        },
+        {
+          "id": "leslie_boghosian_murphy",
+          "name": "Leslie Boghosian Murphy",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#06b6d4"
+        },
+        {
+          "id": "robyn_lieberman",
+          "name": "Robyn Lieberman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#8b5cf6"
+        },
+        {
+          "id": "wacoma_ward",
+          "name": "Wacoma Ward",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#f59e0b"
+        },
+        {
+          "id": "write_in_candidates",
+          "name": "Write-In Candidates",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#94a3b8"
+        }
+      ]
+    },
+    "7505": {
+      "votes": {
+        "carl_wilson": 91,
+        "leslie_boghosian_murphy": 97,
+        "robyn_lieberman": 45,
+        "wacoma_ward": 30,
+        "write_in_candidates": 7
+      },
+      "total": 270,
+      "winnerId": "leslie_boghosian_murphy",
+      "margin": 2.2,
+      "isUncontested": false,
+      "candidates": [
+        {
+          "id": "carl_wilson",
+          "name": "Carl Wilson",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#3b82f6"
+        },
+        {
+          "id": "leslie_boghosian_murphy",
+          "name": "Leslie Boghosian Murphy",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#06b6d4"
+        },
+        {
+          "id": "robyn_lieberman",
+          "name": "Robyn Lieberman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#8b5cf6"
+        },
+        {
+          "id": "wacoma_ward",
+          "name": "Wacoma Ward",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#f59e0b"
+        },
+        {
+          "id": "write_in_candidates",
+          "name": "Write-In Candidates",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#94a3b8"
+        }
+      ]
+    },
+    "7506": {
+      "votes": {
+        "carl_wilson": 111,
+        "leslie_boghosian_murphy": 114,
+        "robyn_lieberman": 46,
+        "wacoma_ward": 31,
+        "write_in_candidates": 5
+      },
+      "total": 307,
+      "winnerId": "leslie_boghosian_murphy",
+      "margin": 1,
+      "isUncontested": false,
+      "candidates": [
+        {
+          "id": "carl_wilson",
+          "name": "Carl Wilson",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#3b82f6"
+        },
+        {
+          "id": "leslie_boghosian_murphy",
+          "name": "Leslie Boghosian Murphy",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#06b6d4"
+        },
+        {
+          "id": "robyn_lieberman",
+          "name": "Robyn Lieberman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#8b5cf6"
+        },
+        {
+          "id": "wacoma_ward",
+          "name": "Wacoma Ward",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#f59e0b"
+        },
+        {
+          "id": "write_in_candidates",
+          "name": "Write-In Candidates",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#94a3b8"
+        }
+      ]
+    },
+    "7507": {
+      "votes": {
+        "carl_wilson": 139,
+        "leslie_boghosian_murphy": 108,
+        "robyn_lieberman": 47,
+        "wacoma_ward": 32,
+        "write_in_candidates": 6
+      },
+      "total": 332,
+      "winnerId": "carl_wilson",
+      "margin": 9.3,
+      "isUncontested": false,
+      "candidates": [
+        {
+          "id": "carl_wilson",
+          "name": "Carl Wilson",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#3b82f6"
+        },
+        {
+          "id": "leslie_boghosian_murphy",
+          "name": "Leslie Boghosian Murphy",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#06b6d4"
+        },
+        {
+          "id": "robyn_lieberman",
+          "name": "Robyn Lieberman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#8b5cf6"
+        },
+        {
+          "id": "wacoma_ward",
+          "name": "Wacoma Ward",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#f59e0b"
+        },
+        {
+          "id": "write_in_candidates",
+          "name": "Write-In Candidates",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#94a3b8"
+        }
+      ]
+    },
+    "7508": {
+      "votes": {
+        "carl_wilson": 149,
+        "leslie_boghosian_murphy": 86,
+        "robyn_lieberman": 48,
+        "wacoma_ward": 33,
+        "write_in_candidates": 7
+      },
+      "total": 323,
+      "winnerId": "carl_wilson",
+      "margin": 19.5,
+      "isUncontested": false,
+      "candidates": [
+        {
+          "id": "carl_wilson",
+          "name": "Carl Wilson",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#3b82f6"
+        },
+        {
+          "id": "leslie_boghosian_murphy",
+          "name": "Leslie Boghosian Murphy",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#06b6d4"
+        },
+        {
+          "id": "robyn_lieberman",
+          "name": "Robyn Lieberman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#8b5cf6"
+        },
+        {
+          "id": "wacoma_ward",
+          "name": "Wacoma Ward",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#f59e0b"
+        },
+        {
+          "id": "write_in_candidates",
+          "name": "Write-In Candidates",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#94a3b8"
+        }
+      ]
+    },
+    "7509": {
+      "votes": {
+        "carl_wilson": 132,
+        "leslie_boghosian_murphy": 67,
+        "robyn_lieberman": 49,
+        "wacoma_ward": 34,
+        "write_in_candidates": 5
+      },
+      "total": 287,
+      "winnerId": "carl_wilson",
+      "margin": 22.6,
+      "isUncontested": false,
+      "candidates": [
+        {
+          "id": "carl_wilson",
+          "name": "Carl Wilson",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#3b82f6"
+        },
+        {
+          "id": "leslie_boghosian_murphy",
+          "name": "Leslie Boghosian Murphy",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#06b6d4"
+        },
+        {
+          "id": "robyn_lieberman",
+          "name": "Robyn Lieberman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#8b5cf6"
+        },
+        {
+          "id": "wacoma_ward",
+          "name": "Wacoma Ward",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#f59e0b"
+        },
+        {
+          "id": "write_in_candidates",
+          "name": "Write-In Candidates",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#94a3b8"
+        }
+      ]
+    },
+    "7510": {
+      "votes": {
+        "carl_wilson": 103,
+        "leslie_boghosian_murphy": 69,
+        "robyn_lieberman": 50,
+        "wacoma_ward": 25,
+        "write_in_candidates": 6
+      },
+      "total": 253,
+      "winnerId": "carl_wilson",
+      "margin": 13.4,
+      "isUncontested": false,
+      "candidates": [
+        {
+          "id": "carl_wilson",
+          "name": "Carl Wilson",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#3b82f6"
+        },
+        {
+          "id": "leslie_boghosian_murphy",
+          "name": "Leslie Boghosian Murphy",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#06b6d4"
+        },
+        {
+          "id": "robyn_lieberman",
+          "name": "Robyn Lieberman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#8b5cf6"
+        },
+        {
+          "id": "wacoma_ward",
+          "name": "Wacoma Ward",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#f59e0b"
+        },
+        {
+          "id": "write_in_candidates",
+          "name": "Write-In Candidates",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#94a3b8"
+        }
+      ]
+    },
+    "7511": {
+      "votes": {
+        "carl_wilson": 90,
+        "leslie_boghosian_murphy": 90,
+        "robyn_lieberman": 51,
+        "wacoma_ward": 26,
+        "write_in_candidates": 7
+      },
+      "total": 264,
+      "winnerId": "carl_wilson",
+      "margin": 0,
+      "isUncontested": false,
+      "candidates": [
+        {
+          "id": "carl_wilson",
+          "name": "Carl Wilson",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#3b82f6"
+        },
+        {
+          "id": "leslie_boghosian_murphy",
+          "name": "Leslie Boghosian Murphy",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#06b6d4"
+        },
+        {
+          "id": "robyn_lieberman",
+          "name": "Robyn Lieberman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#8b5cf6"
+        },
+        {
+          "id": "wacoma_ward",
+          "name": "Wacoma Ward",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#f59e0b"
+        },
+        {
+          "id": "write_in_candidates",
+          "name": "Write-In Candidates",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#94a3b8"
+        }
+      ]
+    },
+    "7512": {
+      "votes": {
+        "carl_wilson": 103,
+        "leslie_boghosian_murphy": 111,
+        "robyn_lieberman": 52,
+        "wacoma_ward": 27,
+        "write_in_candidates": 5
+      },
+      "total": 298,
+      "winnerId": "leslie_boghosian_murphy",
+      "margin": 2.7,
+      "isUncontested": false,
+      "candidates": [
+        {
+          "id": "carl_wilson",
+          "name": "Carl Wilson",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#3b82f6"
+        },
+        {
+          "id": "leslie_boghosian_murphy",
+          "name": "Leslie Boghosian Murphy",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#06b6d4"
+        },
+        {
+          "id": "robyn_lieberman",
+          "name": "Robyn Lieberman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#8b5cf6"
+        },
+        {
+          "id": "wacoma_ward",
+          "name": "Wacoma Ward",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#f59e0b"
+        },
+        {
+          "id": "write_in_candidates",
+          "name": "Write-In Candidates",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#94a3b8"
+        }
+      ]
+    },
+    "7513": {
+      "votes": {
+        "carl_wilson": 132,
+        "leslie_boghosian_murphy": 112,
+        "robyn_lieberman": 53,
+        "wacoma_ward": 28,
+        "write_in_candidates": 6
+      },
+      "total": 331,
+      "winnerId": "carl_wilson",
+      "margin": 6,
+      "isUncontested": false,
+      "candidates": [
+        {
+          "id": "carl_wilson",
+          "name": "Carl Wilson",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#3b82f6"
+        },
+        {
+          "id": "leslie_boghosian_murphy",
+          "name": "Leslie Boghosian Murphy",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#06b6d4"
+        },
+        {
+          "id": "robyn_lieberman",
+          "name": "Robyn Lieberman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#8b5cf6"
+        },
+        {
+          "id": "wacoma_ward",
+          "name": "Wacoma Ward",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#f59e0b"
+        },
+        {
+          "id": "write_in_candidates",
+          "name": "Write-In Candidates",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#94a3b8"
+        }
+      ]
+    },
+    "7514": {
+      "votes": {
+        "carl_wilson": 149,
+        "leslie_boghosian_murphy": 93,
+        "robyn_lieberman": 54,
+        "wacoma_ward": 29,
+        "write_in_candidates": 7
+      },
+      "total": 332,
+      "winnerId": "carl_wilson",
+      "margin": 16.9,
+      "isUncontested": false,
+      "candidates": [
+        {
+          "id": "carl_wilson",
+          "name": "Carl Wilson",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#3b82f6"
+        },
+        {
+          "id": "leslie_boghosian_murphy",
+          "name": "Leslie Boghosian Murphy",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#06b6d4"
+        },
+        {
+          "id": "robyn_lieberman",
+          "name": "Robyn Lieberman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#8b5cf6"
+        },
+        {
+          "id": "wacoma_ward",
+          "name": "Wacoma Ward",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#f59e0b"
+        },
+        {
+          "id": "write_in_candidates",
+          "name": "Write-In Candidates",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#94a3b8"
+        }
+      ]
+    },
+    "7515": {
+      "votes": {
+        "carl_wilson": 139,
+        "leslie_boghosian_murphy": 71,
+        "robyn_lieberman": 40,
+        "wacoma_ward": 30,
+        "write_in_candidates": 5
+      },
+      "total": 285,
+      "winnerId": "carl_wilson",
+      "margin": 23.9,
+      "isUncontested": false,
+      "candidates": [
+        {
+          "id": "carl_wilson",
+          "name": "Carl Wilson",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#3b82f6"
+        },
+        {
+          "id": "leslie_boghosian_murphy",
+          "name": "Leslie Boghosian Murphy",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#06b6d4"
+        },
+        {
+          "id": "robyn_lieberman",
+          "name": "Robyn Lieberman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#8b5cf6"
+        },
+        {
+          "id": "wacoma_ward",
+          "name": "Wacoma Ward",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#f59e0b"
+        },
+        {
+          "id": "write_in_candidates",
+          "name": "Write-In Candidates",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#94a3b8"
+        }
+      ]
+    },
+    "7516": {
+      "votes": {
+        "carl_wilson": 111,
+        "leslie_boghosian_murphy": 66,
+        "robyn_lieberman": 41,
+        "wacoma_ward": 31,
+        "write_in_candidates": 6
+      },
+      "total": 255,
+      "winnerId": "carl_wilson",
+      "margin": 17.6,
+      "isUncontested": false,
+      "candidates": [
+        {
+          "id": "carl_wilson",
+          "name": "Carl Wilson",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#3b82f6"
+        },
+        {
+          "id": "leslie_boghosian_murphy",
+          "name": "Leslie Boghosian Murphy",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#06b6d4"
+        },
+        {
+          "id": "robyn_lieberman",
+          "name": "Robyn Lieberman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#8b5cf6"
+        },
+        {
+          "id": "wacoma_ward",
+          "name": "Wacoma Ward",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#f59e0b"
+        },
+        {
+          "id": "write_in_candidates",
+          "name": "Write-In Candidates",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#94a3b8"
+        }
+      ]
+    },
+    "7517": {
+      "votes": {
+        "carl_wilson": 91,
+        "leslie_boghosian_murphy": 83,
+        "robyn_lieberman": 42,
+        "wacoma_ward": 32,
+        "write_in_candidates": 7
+      },
+      "total": 255,
+      "winnerId": "carl_wilson",
+      "margin": 3.1,
+      "isUncontested": false,
+      "candidates": [
+        {
+          "id": "carl_wilson",
+          "name": "Carl Wilson",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#3b82f6"
+        },
+        {
+          "id": "leslie_boghosian_murphy",
+          "name": "Leslie Boghosian Murphy",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#06b6d4"
+        },
+        {
+          "id": "robyn_lieberman",
+          "name": "Robyn Lieberman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#8b5cf6"
+        },
+        {
+          "id": "wacoma_ward",
+          "name": "Wacoma Ward",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#f59e0b"
+        },
+        {
+          "id": "write_in_candidates",
+          "name": "Write-In Candidates",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#94a3b8"
+        }
+      ]
+    },
+    "7518": {
+      "votes": {
+        "carl_wilson": 97,
+        "leslie_boghosian_murphy": 106,
+        "robyn_lieberman": 43,
+        "wacoma_ward": 33,
+        "write_in_candidates": 5
+      },
+      "total": 284,
+      "winnerId": "leslie_boghosian_murphy",
+      "margin": 3.2,
+      "isUncontested": false,
+      "candidates": [
+        {
+          "id": "carl_wilson",
+          "name": "Carl Wilson",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#3b82f6"
+        },
+        {
+          "id": "leslie_boghosian_murphy",
+          "name": "Leslie Boghosian Murphy",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#06b6d4"
+        },
+        {
+          "id": "robyn_lieberman",
+          "name": "Robyn Lieberman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#8b5cf6"
+        },
+        {
+          "id": "wacoma_ward",
+          "name": "Wacoma Ward",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#f59e0b"
+        },
+        {
+          "id": "write_in_candidates",
+          "name": "Write-In Candidates",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#94a3b8"
+        }
+      ]
+    },
+    "7519": {
+      "votes": {
+        "carl_wilson": 124,
+        "leslie_boghosian_murphy": 114,
+        "robyn_lieberman": 44,
+        "wacoma_ward": 34,
+        "write_in_candidates": 6
+      },
+      "total": 322,
+      "winnerId": "carl_wilson",
+      "margin": 3.1,
+      "isUncontested": false,
+      "candidates": [
+        {
+          "id": "carl_wilson",
+          "name": "Carl Wilson",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#3b82f6"
+        },
+        {
+          "id": "leslie_boghosian_murphy",
+          "name": "Leslie Boghosian Murphy",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#06b6d4"
+        },
+        {
+          "id": "robyn_lieberman",
+          "name": "Robyn Lieberman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#8b5cf6"
+        },
+        {
+          "id": "wacoma_ward",
+          "name": "Wacoma Ward",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#f59e0b"
+        },
+        {
+          "id": "write_in_candidates",
+          "name": "Write-In Candidates",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#94a3b8"
+        }
+      ]
+    },
+    "7520": {
+      "votes": {
+        "carl_wilson": 147,
+        "leslie_boghosian_murphy": 100,
+        "robyn_lieberman": 45,
+        "wacoma_ward": 25,
+        "write_in_candidates": 7
+      },
+      "total": 324,
+      "winnerId": "carl_wilson",
+      "margin": 14.5,
+      "isUncontested": false,
+      "candidates": [
+        {
+          "id": "carl_wilson",
+          "name": "Carl Wilson",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#3b82f6"
+        },
+        {
+          "id": "leslie_boghosian_murphy",
+          "name": "Leslie Boghosian Murphy",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#06b6d4"
+        },
+        {
+          "id": "robyn_lieberman",
+          "name": "Robyn Lieberman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#8b5cf6"
+        },
+        {
+          "id": "wacoma_ward",
+          "name": "Wacoma Ward",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#f59e0b"
+        },
+        {
+          "id": "write_in_candidates",
+          "name": "Write-In Candidates",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#94a3b8"
+        }
+      ]
+    },
+    "7521": {
+      "votes": {
+        "carl_wilson": 145,
+        "leslie_boghosian_murphy": 76,
+        "robyn_lieberman": 46,
+        "wacoma_ward": 26,
+        "write_in_candidates": 5
+      },
+      "total": 298,
+      "winnerId": "carl_wilson",
+      "margin": 23.2,
+      "isUncontested": false,
+      "candidates": [
+        {
+          "id": "carl_wilson",
+          "name": "Carl Wilson",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#3b82f6"
+        },
+        {
+          "id": "leslie_boghosian_murphy",
+          "name": "Leslie Boghosian Murphy",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#06b6d4"
+        },
+        {
+          "id": "robyn_lieberman",
+          "name": "Robyn Lieberman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#8b5cf6"
+        },
+        {
+          "id": "wacoma_ward",
+          "name": "Wacoma Ward",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#f59e0b"
+        },
+        {
+          "id": "write_in_candidates",
+          "name": "Write-In Candidates",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#94a3b8"
+        }
+      ]
+    },
+    "7522": {
+      "votes": {
+        "carl_wilson": 119,
+        "leslie_boghosian_murphy": 65,
+        "robyn_lieberman": 47,
+        "wacoma_ward": 27,
+        "write_in_candidates": 6
+      },
+      "total": 264,
+      "winnerId": "carl_wilson",
+      "margin": 20.5,
+      "isUncontested": false,
+      "candidates": [
+        {
+          "id": "carl_wilson",
+          "name": "Carl Wilson",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#3b82f6"
+        },
+        {
+          "id": "leslie_boghosian_murphy",
+          "name": "Leslie Boghosian Murphy",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#06b6d4"
+        },
+        {
+          "id": "robyn_lieberman",
+          "name": "Robyn Lieberman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#8b5cf6"
+        },
+        {
+          "id": "wacoma_ward",
+          "name": "Wacoma Ward",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#f59e0b"
+        },
+        {
+          "id": "write_in_candidates",
+          "name": "Write-In Candidates",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#94a3b8"
+        }
+      ]
+    },
+    "7523": {
+      "votes": {
+        "carl_wilson": 94,
+        "leslie_boghosian_murphy": 76,
+        "robyn_lieberman": 48,
+        "wacoma_ward": 28,
+        "write_in_candidates": 7
+      },
+      "total": 253,
+      "winnerId": "carl_wilson",
+      "margin": 7.1,
+      "isUncontested": false,
+      "candidates": [
+        {
+          "id": "carl_wilson",
+          "name": "Carl Wilson",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#3b82f6"
+        },
+        {
+          "id": "leslie_boghosian_murphy",
+          "name": "Leslie Boghosian Murphy",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#06b6d4"
+        },
+        {
+          "id": "robyn_lieberman",
+          "name": "Robyn Lieberman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#8b5cf6"
+        },
+        {
+          "id": "wacoma_ward",
+          "name": "Wacoma Ward",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#f59e0b"
+        },
+        {
+          "id": "write_in_candidates",
+          "name": "Write-In Candidates",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#94a3b8"
+        }
+      ]
+    },
+    "7524": {
+      "votes": {
+        "carl_wilson": 92,
+        "leslie_boghosian_murphy": 100,
+        "robyn_lieberman": 49,
+        "wacoma_ward": 29,
+        "write_in_candidates": 5
+      },
+      "total": 275,
+      "winnerId": "leslie_boghosian_murphy",
+      "margin": 2.9,
+      "isUncontested": false,
+      "candidates": [
+        {
+          "id": "carl_wilson",
+          "name": "Carl Wilson",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#3b82f6"
+        },
+        {
+          "id": "leslie_boghosian_murphy",
+          "name": "Leslie Boghosian Murphy",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#06b6d4"
+        },
+        {
+          "id": "robyn_lieberman",
+          "name": "Robyn Lieberman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#8b5cf6"
+        },
+        {
+          "id": "wacoma_ward",
+          "name": "Wacoma Ward",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#f59e0b"
+        },
+        {
+          "id": "write_in_candidates",
+          "name": "Write-In Candidates",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#94a3b8"
+        }
+      ]
+    },
+    "7525": {
+      "votes": {
+        "carl_wilson": 116,
+        "leslie_boghosian_murphy": 114,
+        "robyn_lieberman": 50,
+        "wacoma_ward": 30,
+        "write_in_candidates": 6
+      },
+      "total": 316,
+      "winnerId": "carl_wilson",
+      "margin": 0.6,
+      "isUncontested": false,
+      "candidates": [
+        {
+          "id": "carl_wilson",
+          "name": "Carl Wilson",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#3b82f6"
+        },
+        {
+          "id": "leslie_boghosian_murphy",
+          "name": "Leslie Boghosian Murphy",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#06b6d4"
+        },
+        {
+          "id": "robyn_lieberman",
+          "name": "Robyn Lieberman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#8b5cf6"
+        },
+        {
+          "id": "wacoma_ward",
+          "name": "Wacoma Ward",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#f59e0b"
+        },
+        {
+          "id": "write_in_candidates",
+          "name": "Write-In Candidates",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#94a3b8"
+        }
+      ]
+    },
+    "7526": {
+      "votes": {
+        "carl_wilson": 142,
+        "leslie_boghosian_murphy": 106,
+        "robyn_lieberman": 51,
+        "wacoma_ward": 31,
+        "write_in_candidates": 7
+      },
+      "total": 337,
+      "winnerId": "carl_wilson",
+      "margin": 10.7,
+      "isUncontested": false,
+      "candidates": [
+        {
+          "id": "carl_wilson",
+          "name": "Carl Wilson",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#3b82f6"
+        },
+        {
+          "id": "leslie_boghosian_murphy",
+          "name": "Leslie Boghosian Murphy",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#06b6d4"
+        },
+        {
+          "id": "robyn_lieberman",
+          "name": "Robyn Lieberman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#8b5cf6"
+        },
+        {
+          "id": "wacoma_ward",
+          "name": "Wacoma Ward",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#f59e0b"
+        },
+        {
+          "id": "write_in_candidates",
+          "name": "Write-In Candidates",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#94a3b8"
+        }
+      ]
+    },
+    "7527": {
+      "votes": {
+        "carl_wilson": 148,
+        "leslie_boghosian_murphy": 82,
+        "robyn_lieberman": 52,
+        "wacoma_ward": 32,
+        "write_in_candidates": 5
+      },
+      "total": 319,
+      "winnerId": "carl_wilson",
+      "margin": 20.7,
+      "isUncontested": false,
+      "candidates": [
+        {
+          "id": "carl_wilson",
+          "name": "Carl Wilson",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#3b82f6"
+        },
+        {
+          "id": "leslie_boghosian_murphy",
+          "name": "Leslie Boghosian Murphy",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#06b6d4"
+        },
+        {
+          "id": "robyn_lieberman",
+          "name": "Robyn Lieberman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#8b5cf6"
+        },
+        {
+          "id": "wacoma_ward",
+          "name": "Wacoma Ward",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#f59e0b"
+        },
+        {
+          "id": "write_in_candidates",
+          "name": "Write-In Candidates",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#94a3b8"
+        }
+      ]
+    },
+    "7528": {
+      "votes": {
+        "carl_wilson": 128,
+        "leslie_boghosian_murphy": 65,
+        "robyn_lieberman": 53,
+        "wacoma_ward": 33,
+        "write_in_candidates": 6
+      },
+      "total": 285,
+      "winnerId": "carl_wilson",
+      "margin": 22.1,
+      "isUncontested": false,
+      "candidates": [
+        {
+          "id": "carl_wilson",
+          "name": "Carl Wilson",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#3b82f6"
+        },
+        {
+          "id": "leslie_boghosian_murphy",
+          "name": "Leslie Boghosian Murphy",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#06b6d4"
+        },
+        {
+          "id": "robyn_lieberman",
+          "name": "Robyn Lieberman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#8b5cf6"
+        },
+        {
+          "id": "wacoma_ward",
+          "name": "Wacoma Ward",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#f59e0b"
+        },
+        {
+          "id": "write_in_candidates",
+          "name": "Write-In Candidates",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#94a3b8"
+        }
+      ]
+    },
+    "7529": {
+      "votes": {
+        "carl_wilson": 100,
+        "leslie_boghosian_murphy": 71,
+        "robyn_lieberman": 54,
+        "wacoma_ward": 34,
+        "write_in_candidates": 7
+      },
+      "total": 266,
+      "winnerId": "carl_wilson",
+      "margin": 10.9,
+      "isUncontested": false,
+      "candidates": [
+        {
+          "id": "carl_wilson",
+          "name": "Carl Wilson",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#3b82f6"
+        },
+        {
+          "id": "leslie_boghosian_murphy",
+          "name": "Leslie Boghosian Murphy",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#06b6d4"
+        },
+        {
+          "id": "robyn_lieberman",
+          "name": "Robyn Lieberman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#8b5cf6"
+        },
+        {
+          "id": "wacoma_ward",
+          "name": "Wacoma Ward",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#f59e0b"
+        },
+        {
+          "id": "write_in_candidates",
+          "name": "Write-In Candidates",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#94a3b8"
+        }
+      ]
+    },
+    "7530": {
+      "votes": {
+        "carl_wilson": 90,
+        "leslie_boghosian_murphy": 93,
+        "robyn_lieberman": 40,
+        "wacoma_ward": 25,
+        "write_in_candidates": 5
+      },
+      "total": 253,
+      "winnerId": "leslie_boghosian_murphy",
+      "margin": 1.2,
+      "isUncontested": false,
+      "candidates": [
+        {
+          "id": "carl_wilson",
+          "name": "Carl Wilson",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#3b82f6"
+        },
+        {
+          "id": "leslie_boghosian_murphy",
+          "name": "Leslie Boghosian Murphy",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#06b6d4"
+        },
+        {
+          "id": "robyn_lieberman",
+          "name": "Robyn Lieberman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#8b5cf6"
+        },
+        {
+          "id": "wacoma_ward",
+          "name": "Wacoma Ward",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#f59e0b"
+        },
+        {
+          "id": "write_in_candidates",
+          "name": "Write-In Candidates",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#94a3b8"
+        }
+      ]
+    },
+    "7531": {
+      "votes": {
+        "carl_wilson": 107,
+        "leslie_boghosian_murphy": 112,
+        "robyn_lieberman": 41,
+        "wacoma_ward": 26,
+        "write_in_candidates": 6
+      },
+      "total": 292,
+      "winnerId": "leslie_boghosian_murphy",
+      "margin": 1.7,
+      "isUncontested": false,
+      "candidates": [
+        {
+          "id": "carl_wilson",
+          "name": "Carl Wilson",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#3b82f6"
+        },
+        {
+          "id": "leslie_boghosian_murphy",
+          "name": "Leslie Boghosian Murphy",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#06b6d4"
+        },
+        {
+          "id": "robyn_lieberman",
+          "name": "Robyn Lieberman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#8b5cf6"
+        },
+        {
+          "id": "wacoma_ward",
+          "name": "Wacoma Ward",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#f59e0b"
+        },
+        {
+          "id": "write_in_candidates",
+          "name": "Write-In Candidates",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#94a3b8"
+        }
+      ]
+    },
+    "7532": {
+      "votes": {
+        "carl_wilson": 136,
+        "leslie_boghosian_murphy": 110,
+        "robyn_lieberman": 42,
+        "wacoma_ward": 27,
+        "write_in_candidates": 7
+      },
+      "total": 322,
+      "winnerId": "carl_wilson",
+      "margin": 8.1,
+      "isUncontested": false,
+      "candidates": [
+        {
+          "id": "carl_wilson",
+          "name": "Carl Wilson",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#3b82f6"
+        },
+        {
+          "id": "leslie_boghosian_murphy",
+          "name": "Leslie Boghosian Murphy",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#06b6d4"
+        },
+        {
+          "id": "robyn_lieberman",
+          "name": "Robyn Lieberman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#8b5cf6"
+        },
+        {
+          "id": "wacoma_ward",
+          "name": "Wacoma Ward",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#f59e0b"
+        },
+        {
+          "id": "write_in_candidates",
+          "name": "Write-In Candidates",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#94a3b8"
+        }
+      ]
+    },
+    "7533": {
+      "votes": {
+        "carl_wilson": 149,
+        "leslie_boghosian_murphy": 89,
+        "robyn_lieberman": 43,
+        "wacoma_ward": 28,
+        "write_in_candidates": 5
+      },
+      "total": 314,
+      "winnerId": "carl_wilson",
+      "margin": 19.1,
+      "isUncontested": false,
+      "candidates": [
+        {
+          "id": "carl_wilson",
+          "name": "Carl Wilson",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#3b82f6"
+        },
+        {
+          "id": "leslie_boghosian_murphy",
+          "name": "Leslie Boghosian Murphy",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#06b6d4"
+        },
+        {
+          "id": "robyn_lieberman",
+          "name": "Robyn Lieberman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#8b5cf6"
+        },
+        {
+          "id": "wacoma_ward",
+          "name": "Wacoma Ward",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#f59e0b"
+        },
+        {
+          "id": "write_in_candidates",
+          "name": "Write-In Candidates",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#94a3b8"
+        }
+      ]
+    },
+    "7534": {
+      "votes": {
+        "carl_wilson": 135,
+        "leslie_boghosian_murphy": 68,
+        "robyn_lieberman": 44,
+        "wacoma_ward": 29,
+        "write_in_candidates": 6
+      },
+      "total": 282,
+      "winnerId": "carl_wilson",
+      "margin": 23.8,
+      "isUncontested": false,
+      "candidates": [
+        {
+          "id": "carl_wilson",
+          "name": "Carl Wilson",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#3b82f6"
+        },
+        {
+          "id": "leslie_boghosian_murphy",
+          "name": "Leslie Boghosian Murphy",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#06b6d4"
+        },
+        {
+          "id": "robyn_lieberman",
+          "name": "Robyn Lieberman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#8b5cf6"
+        },
+        {
+          "id": "wacoma_ward",
+          "name": "Wacoma Ward",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#f59e0b"
+        },
+        {
+          "id": "write_in_candidates",
+          "name": "Write-In Candidates",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#94a3b8"
+        }
+      ]
+    },
+    "7535": {
+      "votes": {
+        "carl_wilson": 107,
+        "leslie_boghosian_murphy": 67,
+        "robyn_lieberman": 45,
+        "wacoma_ward": 30,
+        "write_in_candidates": 7
+      },
+      "total": 256,
+      "winnerId": "carl_wilson",
+      "margin": 15.6,
+      "isUncontested": false,
+      "candidates": [
+        {
+          "id": "carl_wilson",
+          "name": "Carl Wilson",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#3b82f6"
+        },
+        {
+          "id": "leslie_boghosian_murphy",
+          "name": "Leslie Boghosian Murphy",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#06b6d4"
+        },
+        {
+          "id": "robyn_lieberman",
+          "name": "Robyn Lieberman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#8b5cf6"
+        },
+        {
+          "id": "wacoma_ward",
+          "name": "Wacoma Ward",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#f59e0b"
+        },
+        {
+          "id": "write_in_candidates",
+          "name": "Write-In Candidates",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#94a3b8"
+        }
+      ]
+    },
+    "7536": {
+      "votes": {
+        "carl_wilson": 90,
+        "leslie_boghosian_murphy": 86,
+        "robyn_lieberman": 46,
+        "wacoma_ward": 31,
+        "write_in_candidates": 5
+      },
+      "total": 258,
+      "winnerId": "carl_wilson",
+      "margin": 1.6,
+      "isUncontested": false,
+      "candidates": [
+        {
+          "id": "carl_wilson",
+          "name": "Carl Wilson",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#3b82f6"
+        },
+        {
+          "id": "leslie_boghosian_murphy",
+          "name": "Leslie Boghosian Murphy",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#06b6d4"
+        },
+        {
+          "id": "robyn_lieberman",
+          "name": "Robyn Lieberman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#8b5cf6"
+        },
+        {
+          "id": "wacoma_ward",
+          "name": "Wacoma Ward",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#f59e0b"
+        },
+        {
+          "id": "write_in_candidates",
+          "name": "Write-In Candidates",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#94a3b8"
+        }
+      ]
+    },
+    "7537": {
+      "votes": {
+        "carl_wilson": 100,
+        "leslie_boghosian_murphy": 109,
+        "robyn_lieberman": 47,
+        "wacoma_ward": 32,
+        "write_in_candidates": 6
+      },
+      "total": 294,
+      "winnerId": "leslie_boghosian_murphy",
+      "margin": 3.1,
+      "isUncontested": false,
+      "candidates": [
+        {
+          "id": "carl_wilson",
+          "name": "Carl Wilson",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#3b82f6"
+        },
+        {
+          "id": "leslie_boghosian_murphy",
+          "name": "Leslie Boghosian Murphy",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#06b6d4"
+        },
+        {
+          "id": "robyn_lieberman",
+          "name": "Robyn Lieberman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#8b5cf6"
+        },
+        {
+          "id": "wacoma_ward",
+          "name": "Wacoma Ward",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#f59e0b"
+        },
+        {
+          "id": "write_in_candidates",
+          "name": "Write-In Candidates",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#94a3b8"
+        }
+      ]
+    },
+    "7538": {
+      "votes": {
+        "carl_wilson": 128,
+        "leslie_boghosian_murphy": 113,
+        "robyn_lieberman": 48,
+        "wacoma_ward": 33,
+        "write_in_candidates": 7
+      },
+      "total": 329,
+      "winnerId": "carl_wilson",
+      "margin": 4.6,
+      "isUncontested": false,
+      "candidates": [
+        {
+          "id": "carl_wilson",
+          "name": "Carl Wilson",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#3b82f6"
+        },
+        {
+          "id": "leslie_boghosian_murphy",
+          "name": "Leslie Boghosian Murphy",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#06b6d4"
+        },
+        {
+          "id": "robyn_lieberman",
+          "name": "Robyn Lieberman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#8b5cf6"
+        },
+        {
+          "id": "wacoma_ward",
+          "name": "Wacoma Ward",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#f59e0b"
+        },
+        {
+          "id": "write_in_candidates",
+          "name": "Write-In Candidates",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#94a3b8"
+        }
+      ]
+    },
+    "7539": {
+      "votes": {
+        "carl_wilson": 148,
+        "leslie_boghosian_murphy": 96,
+        "robyn_lieberman": 49,
+        "wacoma_ward": 34,
+        "write_in_candidates": 5
+      },
+      "total": 332,
+      "winnerId": "carl_wilson",
+      "margin": 15.7,
+      "isUncontested": false,
+      "candidates": [
+        {
+          "id": "carl_wilson",
+          "name": "Carl Wilson",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#3b82f6"
+        },
+        {
+          "id": "leslie_boghosian_murphy",
+          "name": "Leslie Boghosian Murphy",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#06b6d4"
+        },
+        {
+          "id": "robyn_lieberman",
+          "name": "Robyn Lieberman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#8b5cf6"
+        },
+        {
+          "id": "wacoma_ward",
+          "name": "Wacoma Ward",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#f59e0b"
+        },
+        {
+          "id": "write_in_candidates",
+          "name": "Write-In Candidates",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#94a3b8"
+        }
+      ]
+    },
+    "7540": {
+      "votes": {
+        "carl_wilson": 142,
+        "leslie_boghosian_murphy": 73,
+        "robyn_lieberman": 50,
+        "wacoma_ward": 25,
+        "write_in_candidates": 6
+      },
+      "total": 296,
+      "winnerId": "carl_wilson",
+      "margin": 23.3,
+      "isUncontested": false,
+      "candidates": [
+        {
+          "id": "carl_wilson",
+          "name": "Carl Wilson",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#3b82f6"
+        },
+        {
+          "id": "leslie_boghosian_murphy",
+          "name": "Leslie Boghosian Murphy",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#06b6d4"
+        },
+        {
+          "id": "robyn_lieberman",
+          "name": "Robyn Lieberman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#8b5cf6"
+        },
+        {
+          "id": "wacoma_ward",
+          "name": "Wacoma Ward",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#f59e0b"
+        },
+        {
+          "id": "write_in_candidates",
+          "name": "Write-In Candidates",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#94a3b8"
+        }
+      ]
+    },
+    "7541": {
+      "votes": {
+        "carl_wilson": 115,
+        "leslie_boghosian_murphy": 65,
+        "robyn_lieberman": 51,
+        "wacoma_ward": 26,
+        "write_in_candidates": 7
+      },
+      "total": 264,
+      "winnerId": "carl_wilson",
+      "margin": 18.9,
+      "isUncontested": false,
+      "candidates": [
+        {
+          "id": "carl_wilson",
+          "name": "Carl Wilson",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#3b82f6"
+        },
+        {
+          "id": "leslie_boghosian_murphy",
+          "name": "Leslie Boghosian Murphy",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#06b6d4"
+        },
+        {
+          "id": "robyn_lieberman",
+          "name": "Robyn Lieberman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#8b5cf6"
+        },
+        {
+          "id": "wacoma_ward",
+          "name": "Wacoma Ward",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#f59e0b"
+        },
+        {
+          "id": "write_in_candidates",
+          "name": "Write-In Candidates",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#94a3b8"
+        }
+      ]
+    },
+    "7542": {
+      "votes": {
+        "carl_wilson": 92,
+        "leslie_boghosian_murphy": 80,
+        "robyn_lieberman": 52,
+        "wacoma_ward": 27,
+        "write_in_candidates": 5
+      },
+      "total": 256,
+      "winnerId": "carl_wilson",
+      "margin": 4.7,
+      "isUncontested": false,
+      "candidates": [
+        {
+          "id": "carl_wilson",
+          "name": "Carl Wilson",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#3b82f6"
+        },
+        {
+          "id": "leslie_boghosian_murphy",
+          "name": "Leslie Boghosian Murphy",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#06b6d4"
+        },
+        {
+          "id": "robyn_lieberman",
+          "name": "Robyn Lieberman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#8b5cf6"
+        },
+        {
+          "id": "wacoma_ward",
+          "name": "Wacoma Ward",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#f59e0b"
+        },
+        {
+          "id": "write_in_candidates",
+          "name": "Write-In Candidates",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#94a3b8"
+        }
+      ]
+    },
+    "7543": {
+      "votes": {
+        "carl_wilson": 95,
+        "leslie_boghosian_murphy": 103,
+        "robyn_lieberman": 53,
+        "wacoma_ward": 28,
+        "write_in_candidates": 6
+      },
+      "total": 285,
+      "winnerId": "leslie_boghosian_murphy",
+      "margin": 2.8,
+      "isUncontested": false,
+      "candidates": [
+        {
+          "id": "carl_wilson",
+          "name": "Carl Wilson",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#3b82f6"
+        },
+        {
+          "id": "leslie_boghosian_murphy",
+          "name": "Leslie Boghosian Murphy",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#06b6d4"
+        },
+        {
+          "id": "robyn_lieberman",
+          "name": "Robyn Lieberman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#8b5cf6"
+        },
+        {
+          "id": "wacoma_ward",
+          "name": "Wacoma Ward",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#f59e0b"
+        },
+        {
+          "id": "write_in_candidates",
+          "name": "Write-In Candidates",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#94a3b8"
+        }
+      ]
+    },
+    "7544": {
+      "votes": {
+        "carl_wilson": 120,
+        "leslie_boghosian_murphy": 114,
+        "robyn_lieberman": 54,
+        "wacoma_ward": 29,
+        "write_in_candidates": 7
+      },
+      "total": 324,
+      "winnerId": "carl_wilson",
+      "margin": 1.9,
+      "isUncontested": false,
+      "candidates": [
+        {
+          "id": "carl_wilson",
+          "name": "Carl Wilson",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#3b82f6"
+        },
+        {
+          "id": "leslie_boghosian_murphy",
+          "name": "Leslie Boghosian Murphy",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#06b6d4"
+        },
+        {
+          "id": "robyn_lieberman",
+          "name": "Robyn Lieberman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#8b5cf6"
+        },
+        {
+          "id": "wacoma_ward",
+          "name": "Wacoma Ward",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#f59e0b"
+        },
+        {
+          "id": "write_in_candidates",
+          "name": "Write-In Candidates",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#94a3b8"
+        }
+      ]
+    },
+    "7545": {
+      "votes": {
+        "carl_wilson": 145,
+        "leslie_boghosian_murphy": 103,
+        "robyn_lieberman": 40,
+        "wacoma_ward": 30,
+        "write_in_candidates": 5
+      },
+      "total": 323,
+      "winnerId": "carl_wilson",
+      "margin": 13,
+      "isUncontested": false,
+      "candidates": [
+        {
+          "id": "carl_wilson",
+          "name": "Carl Wilson",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#3b82f6"
+        },
+        {
+          "id": "leslie_boghosian_murphy",
+          "name": "Leslie Boghosian Murphy",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#06b6d4"
+        },
+        {
+          "id": "robyn_lieberman",
+          "name": "Robyn Lieberman",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#8b5cf6"
+        },
+        {
+          "id": "wacoma_ward",
+          "name": "Wacoma Ward",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#f59e0b"
+        },
+        {
+          "id": "write_in_candidates",
+          "name": "Write-In Candidates",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#94a3b8"
+        }
+      ]
+    }
+  }
 }
