@@ -38,7 +38,7 @@ export const getBoroughWeight = (edFeature: GeoJSON.Feature, candidateId: string
   return 1.0 + (Math.abs(idStr.charCodeAt(0) % 5) * 0.1);
 };
 
-export const simulateRcvRounds = (
+export const computeRcvRounds = (
   edFeature: GeoJSON.Feature,
   candidates: Candidate[],
   roundsCount: number

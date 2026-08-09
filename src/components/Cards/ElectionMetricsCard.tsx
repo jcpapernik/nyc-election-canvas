@@ -260,7 +260,7 @@ export const ElectionMetricsCard: React.FC = () => {
             Dataset Empty (2026 Cycle)
           </div>
           <p className="text-[11px] text-slate-500 dark:text-slate-400">
-            No prior-year candidate names or mock metrics present. Awaiting official 2026 dataset import.
+            Awaiting official 2026 Board of Elections dataset updates.
           </p>
         </div>
       )}

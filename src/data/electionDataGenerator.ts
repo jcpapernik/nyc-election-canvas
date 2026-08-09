@@ -16,7 +16,6 @@ const NYC_BOROUGHS = [
       'Gramercy', 'Midtown West', 'Upper West Side', 'Upper East Side', 'Harlem',
       'Washington Heights', 'Inwood', 'Morningside Heights', 'Hell\'s Kitchen'
     ],
-    // Authentic shoreline polygon defining Manhattan Island shape
     shoreline: [
       [-74.016, 40.701], [-74.014, 40.715], [-74.009, 40.735], [-74.008, 40.755],
       [-73.996, 40.772], [-73.985, 40.792], [-73.968, 40.815], [-73.948, 40.840],
@@ -60,143 +59,140 @@ const NYC_BOROUGHS = [
       'Kew Gardens', 'Whitestone', 'Woodside', 'Elmhurst'
     ],
     shoreline: [
-      [-73.960, 40.745], [-73.925, 40.778], [-73.880, 40.795], [-73.780, 40.790],
-      [-73.700, 40.750], [-73.720, 40.650], [-73.750, 40.600], [-73.830, 40.550],
-      [-73.920, 40.575], [-73.880, 40.670], [-73.920, 40.710], [-73.960, 40.745]
+      [-73.960, 40.750], [-73.900, 40.790], [-73.780, 40.800], [-73.700, 40.750],
+      [-73.720, 40.620], [-73.770, 40.590], [-73.850, 40.620], [-73.930, 40.710],
+      [-73.960, 40.750]
     ] as [number, number][]
   },
   {
     name: 'Bronx',
     prefix: 'BX',
     center: [-73.8648, 40.8448] as [number, number],
-    bounds: { minLon: -73.925, maxLon: -73.780, minLat: 40.800, maxLat: 40.915 },
+    bounds: { minLon: -73.930, maxLon: -73.750, minLat: 40.785, maxLat: 40.915 },
     councilDistricts: [11, 12, 13, 14, 15, 16, 17, 18],
     congressional: [13, 14, 15, 16],
     senate: [29, 32, 33, 34, 36],
     assembly: [77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87],
     neighborhoods: [
-      'Mott Haven', 'South Bronx', 'Highbridge', 'Riverdale', 'Kingsbridge',
-      'Fordham', 'Belmont', 'Pelham Bay', 'Throggs Neck', 'Morris Park',
-      'Woodlawn', 'Soundview'
+      'South Bronx', 'Mott Haven', 'Riverdale', 'Pelham Bay', 'Fordham',
+      'Throggs Neck', 'Norwood', 'Morris Park', 'Kingsbridge', 'Woodlawn'
     ],
     shoreline: [
-      [-73.925, 40.805], [-73.920, 40.845], [-73.910, 40.910], [-73.850, 40.915],
-      [-73.780, 40.875], [-73.800, 40.820], [-73.850, 40.800], [-73.925, 40.805]
+      [-73.930, 40.800], [-73.910, 40.880], [-73.880, 40.915], [-73.780, 40.880],
+      [-73.760, 40.830], [-73.800, 40.800], [-73.890, 40.785], [-73.930, 40.800]
     ] as [number, number][]
   },
   {
     name: 'Staten Island',
     prefix: 'SI',
     center: [-74.1502, 40.5795] as [number, number],
-    bounds: { minLon: -74.255, maxLon: -74.060, minLat: 40.500, maxLat: 40.645 },
+    bounds: { minLon: -74.255, maxLon: -74.050, minLat: 40.490, maxLat: 40.650 },
     councilDistricts: [49, 50, 51],
     congressional: [11],
     senate: [24],
-    assembly: [61, 62, 63],
+    assembly: [61, 62, 63, 64],
     neighborhoods: [
-      'St. George', 'Stapleton', 'West Brighton', 'Todt Hill', 'New Dorp',
-      'Great Kills', 'Annadale', 'Tottenville', 'Castleton Corners'
+      'St. George', 'Stapleton', 'Todt Hill', 'Great Kills', 'Tottenville',
+      'New Dorp', 'Eltingville', 'Port Richmond', 'Annadale'
     ],
     shoreline: [
-      [-74.075, 40.645], [-74.060, 40.600], [-74.110, 40.550], [-74.250, 40.500],
-      [-74.240, 40.550], [-74.180, 40.620], [-74.075, 40.645]
+      [-74.100, 40.650], [-74.050, 40.610], [-74.100, 40.530], [-74.250, 40.490],
+      [-74.255, 40.550], [-74.180, 40.640], [-74.100, 40.650]
     ] as [number, number][]
   }
 ];
 
-export function generateEdGeoJSON(): GeoJSON.FeatureCollection {
+export function generateEdFeatures(): GeoJSON.Feature[] {
   const features: GeoJSON.Feature[] = [];
-  let globalEdCount = 1;
+  let globalEdCounter = 1;
 
-  NYC_BOROUGHS.forEach(b => {
-    const rows = b.name === 'Manhattan' ? 8 : b.name === 'Brooklyn' ? 8 : b.name === 'Queens' ? 7 : 5;
-    const cols = b.name === 'Manhattan' ? 4 : b.name === 'Brooklyn' ? 6 : b.name === 'Queens' ? 6 : 4;
+  NYC_BOROUGHS.forEach(boro => {
+    const totalEdsForBoro = boro.name === 'Manhattan' ? 420 : boro.name === 'Brooklyn' ? 580 : boro.name === 'Queens' ? 480 : boro.name === 'Bronx' ? 320 : 200;
 
-    const dLat = (b.bounds.maxLat - b.bounds.minLat) / rows;
-    const dLon = (b.bounds.maxLon - b.bounds.minLon) / cols;
+    for (let i = 1; i <= totalEdsForBoro; i++) {
+      const ad = boro.assembly[i % boro.assembly.length];
+      const edNum = (i % 95) + 1;
+      const rawEd = `${ad}${String(edNum).padStart(3, '0')}`;
+      const edId = `ED-${rawEd}`;
+      const edName = `AD ${ad} / ED ${edNum}`;
 
-    for (let r = 0; r < rows; r++) {
-      for (let c = 0; c < cols; c++) {
-        const edId = `ED-${b.prefix}-${String(globalEdCount).padStart(3, '0')}`;
-        const cd = b.councilDistricts[(r + c) % b.councilDistricts.length];
-        const cong = b.congressional[(r * c) % b.congressional.length];
-        const sen = b.senate[(r + c) % b.senate.length];
-        const asm = b.assembly[(r + c) % b.assembly.length];
-        const neighborhood = b.neighborhoods[(r * cols + c) % b.neighborhoods.length];
+      const lonSpan = boro.bounds.maxLon - boro.bounds.minLon;
+      const latSpan = boro.bounds.maxLat - boro.bounds.minLat;
 
-        const minLon = b.bounds.minLon + c * dLon;
-        const maxLon = minLon + dLon * 0.95;
-        const minLat = b.bounds.minLat + r * dLat;
-        const maxLat = minLat + dLat * 0.95;
+      const cols = Math.ceil(Math.sqrt(totalEdsForBoro * 1.5));
+      const rows = Math.ceil(totalEdsForBoro / cols);
 
-        // Realistic polygon within borough shoreline bounds
-        const p1: [number, number] = [minLon, minLat];
-        const p2: [number, number] = [maxLon, minLat + (c % 2 ? 0.001 : -0.001)];
-        const p3: [number, number] = [maxLon + (r % 2 ? -0.001 : 0.001), maxLat];
-        const p4: [number, number] = [minLon, maxLat];
+      const r = Math.floor((i - 1) / cols);
+      const c = (i - 1) % cols;
 
-        features.push({
-          type: 'Feature',
-          id: edId,
-          properties: {
-            edId,
-            edName: `${b.name} ED ${globalEdCount}`,
-            borough: b.name,
-            councilDistrict: cd,
-            assemblyDistrict: asm,
-            senateDistrict: sen,
-            congressionalDistrict: cong,
-            neighborhood: neighborhood,
-            registeredVoters: Math.floor(900 + Math.random() * 1100),
-            totalBallots: Math.floor(400 + Math.random() * 550),
-          },
-          geometry: {
-            type: 'Polygon',
-            coordinates: [[p1, p2, p3, p4, p1]]
-          }
-        });
+      const baseLon = boro.bounds.minLon + (c / cols) * lonSpan + (Math.random() * 0.002 - 0.001);
+      const baseLat = boro.bounds.minLat + (r / rows) * latSpan + (Math.random() * 0.002 - 0.001);
+      const sizeLon = (lonSpan / cols) * 0.92;
+      const sizeLat = (latSpan / rows) * 0.92;
 
-        globalEdCount++;
-      }
+      const polyCoordinates = [
+        [baseLon, baseLat],
+        [baseLon + sizeLon, baseLat],
+        [baseLon + sizeLon, baseLat + sizeLat],
+        [baseLon, baseLat + sizeLat],
+        [baseLon, baseLat]
+      ] as [number, number][];
+
+      features.push({
+        type: 'Feature',
+        id: edId,
+        properties: {
+          edId,
+          edName,
+          elect_dist: rawEd,
+          borough: boro.name,
+          councilDistrict: boro.councilDistricts[i % boro.councilDistricts.length],
+          assemblyDistrict: ad,
+          senateDistrict: boro.senate[i % boro.senate.length],
+          congressionalDistrict: boro.congressional[i % boro.congressional.length],
+          neighborhood: boro.neighborhoods[i % boro.neighborhoods.length],
+          registeredVoters: Math.floor(700 + Math.random() * 800),
+          totalBallots: Math.floor(300 + Math.random() * 450)
+        },
+        geometry: {
+          type: 'Polygon',
+          coordinates: [polyCoordinates]
+        }
+      });
+
+      globalEdCounter++;
     }
   });
 
-  return {
-    type: 'FeatureCollection',
-    features
-  };
+  return features;
 }
 
-export function generateParentDistrictsGeoJSON(edGeoJSON: GeoJSON.FeatureCollection): {
-  council: GeoJSON.FeatureCollection;
-  congressional: GeoJSON.FeatureCollection;
-  senate: GeoJSON.FeatureCollection;
-  assembly: GeoJSON.FeatureCollection;
-} {
-  const createDistrictCollection = (propKey: string, namePrefix: string) => {
-    const districtsMap = new Map<number, { minLon: number; minLat: number; maxLon: number; maxLat: number; count: number }>();
+export function generateDerivedBoundaryGeoJson(edFeatures: GeoJSON.Feature[]) {
+  const createDistrictCollection = (keyProp: string, namePrefix: string): GeoJSON.FeatureCollection => {
+    const districtsMap = new Map<number, { minLon: number; maxLon: number; minLat: number; maxLat: number; count: number }>();
 
-    edGeoJSON.features.forEach(f => {
-      const distNum = f.properties?.[propKey];
-      if (distNum === undefined) return;
+    edFeatures.forEach(ed => {
+      const distNum = ed.properties?.[keyProp] as number;
+      if (!distNum) return;
+      const geom = ed.geometry as any;
+      if (!geom || !geom.coordinates || !geom.coordinates[0]) return;
 
-      const coords = (f.geometry as GeoJSON.Polygon).coordinates[0];
-      let minLon = 180, minLat = 90, maxLon = -180, maxLat = -90;
-      coords.forEach(pt => {
+      let minLon = Infinity, maxLon = -Infinity, minLat = Infinity, maxLat = -Infinity;
+      geom.coordinates[0].forEach((pt: [number, number]) => {
         if (pt[0] < minLon) minLon = pt[0];
         if (pt[0] > maxLon) maxLon = pt[0];
         if (pt[1] < minLat) minLat = pt[1];
         if (pt[1] > maxLat) maxLat = pt[1];
       });
 
-      if (!districtsMap.has(distNum)) {
-        districtsMap.set(distNum, { minLon, minLat, maxLon, maxLat, count: 1 });
+      const d = districtsMap.get(distNum);
+      if (!d) {
+        districtsMap.set(distNum, { minLon, maxLon, minLat, maxLat, count: 1 });
       } else {
-        const d = districtsMap.get(distNum)!;
-        d.minLon = Math.min(d.minLon, minLon);
-        d.minLat = Math.min(d.minLat, minLat);
-        d.maxLon = Math.max(d.maxLon, maxLon);
-        d.maxLat = Math.max(d.maxLat, maxLat);
+        if (minLon < d.minLon) d.minLon = minLon;
+        if (maxLon > d.maxLon) d.maxLon = maxLon;
+        if (minLat < d.minLat) d.minLat = minLat;
+        if (maxLat > d.maxLat) d.maxLat = maxLat;
         d.count++;
       }
     });
