@@ -9,6 +9,8 @@ import { ElectionMetricsCard } from '@/components/Cards/ElectionMetricsCard';
 import { BubbleLegendCard } from '@/components/Cards/BubbleLegendCard';
 import { ElectionMapRefHandle } from '@/components/Map/ElectionMap';
 
+import { setupUrlStateSync } from '@/lib/urlStateSync';
+
 const ElectionMapClient = dynamic(
   () => import('@/components/Map/ElectionMap').then(mod => mod.ElectionMap),
   { ssr: false }
@@ -21,6 +23,11 @@ ElectionMap.displayName = 'ElectionMap';
 
 export default function Home() {
   const mapRef = useRef<ElectionMapRefHandle>(null);
+
+  React.useEffect(() => {
+    const cleanup = setupUrlStateSync();
+    return cleanup;
+  }, []);
 
   const handleSearchSelect = (loc: { lng: number; lat: number; label: string }) => {
     if (mapRef.current) {
