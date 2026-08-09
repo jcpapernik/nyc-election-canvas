@@ -1838,14 +1838,14 @@
   },
   {
     "id": "democratic_member_of_the_city_council_03",
-    "name": "2026 Primary - Member of the City Council District 03",
+    "name": "2026 Primary - Special Democratic Primary Member of the City Council District 3",
     "party": "Democratic",
     "officeCategory": "NYC City Council",
     "districtKey": "3",
     "districtType": "council",
-    "isUncontested": true,
+    "isUncontested": false,
     "voteCount": 100,
-    "candidatesSummary": "Carl Wilson"
+    "candidatesSummary": "Carl Wilson, Leslie Boghosian Murphy"
   },
   {
     "id": "republican_member_of_the_city_council_03",

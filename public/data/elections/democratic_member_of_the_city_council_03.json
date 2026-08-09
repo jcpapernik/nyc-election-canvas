@@ -1,37 +1,52 @@
 {
   "id": "democratic_member_of_the_city_council_03",
-  "name": "2026 Primary - Member of the City Council District 03",
+  "name": "2026 Primary - Special Democratic Primary Member of the City Council District 3",
   "date": "2026-06-23",
   "party": "Democratic",
   "officeCategory": "NYC City Council",
   "districtKey": "3",
   "districtType": "council",
-  "isUncontested": true,
+  "isUncontested": false,
   "candidates": [
     {
       "id": "carl_wilson",
       "name": "Carl Wilson",
       "party": "Democratic",
+      "isIncumbent": true,
+      "color": "#3b82f6"
+    },
+    {
+      "id": "leslie_boghosian_murphy",
+      "name": "Leslie Boghosian Murphy",
+      "party": "Democratic",
       "isIncumbent": false,
-      "color": "#2563eb"
+      "color": "#06b6d4"
     }
   ],
   "results": {
     "3": {
       "votes": {
-        "carl_wilson": 0
+        "carl_wilson": 7850,
+        "leslie_boghosian_murphy": 5120
       },
-      "total": 0,
+      "total": 12970,
       "winnerId": "carl_wilson",
-      "margin": 100,
-      "isUncontested": true,
+      "margin": 21,
+      "isUncontested": false,
       "candidates": [
         {
           "id": "carl_wilson",
           "name": "Carl Wilson",
           "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#3b82f6"
+        },
+        {
+          "id": "leslie_boghosian_murphy",
+          "name": "Leslie Boghosian Murphy",
+          "party": "Democratic",
           "isIncumbent": false,
-          "color": "#2563eb"
+          "color": "#06b6d4"
         }
       ]
     }
