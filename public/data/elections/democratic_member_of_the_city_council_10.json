@@ -19,12 +19,21 @@
   "results": {
     "10": {
       "votes": {
-        "uncontested_primary_council_10": 0
+        "carmen_de_la_rosa": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_council_10",
+      "winnerId": "carmen_de_la_rosa",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "carmen_de_la_rosa",
+          "name": "Carmen De La Rosa",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

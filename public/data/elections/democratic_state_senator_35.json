@@ -19,12 +19,21 @@
   "results": {
     "35": {
       "votes": {
-        "uncontested_primary_senate_35": 0
+        "andrea_stewart-cousins": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_senate_35",
+      "winnerId": "andrea_stewart-cousins",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "andrea_stewart-cousins",
+          "name": "Andrea Stewart-Cousins",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

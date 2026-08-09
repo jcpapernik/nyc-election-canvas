@@ -19,12 +19,21 @@
   "results": {
     "37": {
       "votes": {
-        "uncontested_primary_council_37": 0
+        "sandy_nurse": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_council_37",
+      "winnerId": "sandy_nurse",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "sandy_nurse",
+          "name": "Sandy Nurse",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

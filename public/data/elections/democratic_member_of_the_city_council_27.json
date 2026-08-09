@@ -19,12 +19,21 @@
   "results": {
     "27": {
       "votes": {
-        "uncontested_primary_council_27": 0
+        "nantasha_williams": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_council_27",
+      "winnerId": "nantasha_williams",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "nantasha_williams",
+          "name": "Nantasha Williams",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

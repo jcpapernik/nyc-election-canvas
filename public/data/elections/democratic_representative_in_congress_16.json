@@ -19,12 +19,21 @@
   "results": {
     "16": {
       "votes": {
-        "uncontested_primary_congressional_16": 0
+        "george_latimer": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_congressional_16",
+      "winnerId": "george_latimer",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "george_latimer",
+          "name": "George Latimer",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

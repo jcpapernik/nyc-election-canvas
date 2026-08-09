@@ -40,17 +40,17 @@
   "results": {
     "13": {
       "votes": {
-        "jessica_gonzalez_rojas": 6636,
+        "jessica_gonzalez-rojas": 6636,
         "jessica_ramos": 5133,
         "hiram_monserrate": 2000,
         "scattered": 60
       },
       "total": 13829,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 10.9,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -60,7 +60,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -83,17 +83,17 @@
   "edResults": {
     "30003": {
       "votes": {
-        "jessica_gonzalez_rojas": 32,
+        "jessica_gonzalez-rojas": 32,
         "jessica_ramos": 21,
         "hiram_monserrate": 4,
         "scattered": 0
       },
       "total": 57,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 19.3,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -103,7 +103,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -124,7 +124,7 @@
     },
     "30004": {
       "votes": {
-        "jessica_gonzalez_rojas": 58,
+        "jessica_gonzalez-rojas": 58,
         "jessica_ramos": 69,
         "hiram_monserrate": 22,
         "scattered": 3
@@ -134,7 +134,7 @@
       "margin": 7.2,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -144,7 +144,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -165,17 +165,17 @@
     },
     "30014": {
       "votes": {
-        "jessica_gonzalez_rojas": 13,
+        "jessica_gonzalez-rojas": 13,
         "jessica_ramos": 11,
         "hiram_monserrate": 0,
         "scattered": 2
       },
       "total": 26,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 7.7,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -185,7 +185,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -206,17 +206,17 @@
     },
     "30015": {
       "votes": {
-        "jessica_gonzalez_rojas": 56,
+        "jessica_gonzalez-rojas": 56,
         "jessica_ramos": 37,
         "hiram_monserrate": 15,
         "scattered": 0
       },
       "total": 108,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 17.6,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -226,7 +226,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -247,7 +247,7 @@
     },
     "30040": {
       "votes": {
-        "jessica_gonzalez_rojas": 41,
+        "jessica_gonzalez-rojas": 41,
         "jessica_ramos": 51,
         "hiram_monserrate": 7,
         "scattered": 0
@@ -257,7 +257,7 @@
       "margin": 10.1,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -267,7 +267,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -288,17 +288,17 @@
     },
     "30041": {
       "votes": {
-        "jessica_gonzalez_rojas": 77,
+        "jessica_gonzalez-rojas": 77,
         "jessica_ramos": 56,
         "hiram_monserrate": 17,
         "scattered": 4
       },
       "total": 154,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 13.6,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -308,7 +308,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -329,17 +329,17 @@
     },
     "30046": {
       "votes": {
-        "jessica_gonzalez_rojas": 111,
+        "jessica_gonzalez-rojas": 111,
         "jessica_ramos": 90,
         "hiram_monserrate": 29,
         "scattered": 3
       },
       "total": 233,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 9,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -349,7 +349,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -370,17 +370,17 @@
     },
     "30047": {
       "votes": {
-        "jessica_gonzalez_rojas": 87,
+        "jessica_gonzalez-rojas": 87,
         "jessica_ramos": 44,
         "hiram_monserrate": 19,
         "scattered": 3
       },
       "total": 153,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 28.1,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -390,7 +390,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -411,7 +411,7 @@
     },
     "34002": {
       "votes": {
-        "jessica_gonzalez_rojas": 10,
+        "jessica_gonzalez-rojas": 10,
         "jessica_ramos": 7,
         "hiram_monserrate": 16,
         "scattered": 0
@@ -421,7 +421,7 @@
       "margin": 18.2,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -431,7 +431,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -452,7 +452,7 @@
     },
     "34010": {
       "votes": {
-        "jessica_gonzalez_rojas": 28,
+        "jessica_gonzalez-rojas": 28,
         "jessica_ramos": 16,
         "hiram_monserrate": 41,
         "scattered": 0
@@ -462,7 +462,7 @@
       "margin": 15.3,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -472,7 +472,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -493,7 +493,7 @@
     },
     "34011": {
       "votes": {
-        "jessica_gonzalez_rojas": 24,
+        "jessica_gonzalez-rojas": 24,
         "jessica_ramos": 24,
         "hiram_monserrate": 27,
         "scattered": 0
@@ -503,7 +503,7 @@
       "margin": 4,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -513,7 +513,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -534,17 +534,17 @@
     },
     "34028": {
       "votes": {
-        "jessica_gonzalez_rojas": 37,
+        "jessica_gonzalez-rojas": 37,
         "jessica_ramos": 17,
         "hiram_monserrate": 37,
         "scattered": 0
       },
       "total": 91,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 0,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -554,7 +554,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -575,17 +575,17 @@
     },
     "34029": {
       "votes": {
-        "jessica_gonzalez_rojas": 41,
+        "jessica_gonzalez-rojas": 41,
         "jessica_ramos": 26,
         "hiram_monserrate": 10,
         "scattered": 0
       },
       "total": 77,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 19.5,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -595,7 +595,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -616,17 +616,17 @@
     },
     "34030": {
       "votes": {
-        "jessica_gonzalez_rojas": 31,
+        "jessica_gonzalez-rojas": 31,
         "jessica_ramos": 22,
         "hiram_monserrate": 8,
         "scattered": 3
       },
       "total": 64,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 14.1,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -636,7 +636,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -657,17 +657,17 @@
     },
     "34031": {
       "votes": {
-        "jessica_gonzalez_rojas": 63,
+        "jessica_gonzalez-rojas": 63,
         "jessica_ramos": 31,
         "hiram_monserrate": 12,
         "scattered": 1
       },
       "total": 107,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 29.9,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -677,7 +677,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -698,17 +698,17 @@
     },
     "34032": {
       "votes": {
-        "jessica_gonzalez_rojas": 36,
+        "jessica_gonzalez-rojas": 36,
         "jessica_ramos": 28,
         "hiram_monserrate": 8,
         "scattered": 0
       },
       "total": 72,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 11.1,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -718,7 +718,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -739,17 +739,17 @@
     },
     "34033": {
       "votes": {
-        "jessica_gonzalez_rojas": 23,
+        "jessica_gonzalez-rojas": 23,
         "jessica_ramos": 14,
         "hiram_monserrate": 8,
         "scattered": 0
       },
       "total": 45,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 20,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -759,7 +759,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -780,17 +780,17 @@
     },
     "34034": {
       "votes": {
-        "jessica_gonzalez_rojas": 43,
+        "jessica_gonzalez-rojas": 43,
         "jessica_ramos": 38,
         "hiram_monserrate": 10,
         "scattered": 0
       },
       "total": 91,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 5.5,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -800,7 +800,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -821,17 +821,17 @@
     },
     "34035": {
       "votes": {
-        "jessica_gonzalez_rojas": 36,
+        "jessica_gonzalez-rojas": 36,
         "jessica_ramos": 32,
         "hiram_monserrate": 10,
         "scattered": 1
       },
       "total": 79,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 5.1,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -841,7 +841,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -862,17 +862,17 @@
     },
     "34036": {
       "votes": {
-        "jessica_gonzalez_rojas": 69,
+        "jessica_gonzalez-rojas": 69,
         "jessica_ramos": 57,
         "hiram_monserrate": 15,
         "scattered": 2
       },
       "total": 143,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 8.4,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -882,7 +882,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -903,17 +903,17 @@
     },
     "34037": {
       "votes": {
-        "jessica_gonzalez_rojas": 27,
+        "jessica_gonzalez-rojas": 27,
         "jessica_ramos": 23,
         "hiram_monserrate": 4,
         "scattered": 1
       },
       "total": 55,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 7.3,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -923,7 +923,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -944,17 +944,17 @@
     },
     "34038": {
       "votes": {
-        "jessica_gonzalez_rojas": 40,
+        "jessica_gonzalez-rojas": 40,
         "jessica_ramos": 22,
         "hiram_monserrate": 9,
         "scattered": 0
       },
       "total": 71,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 25.4,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -964,7 +964,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -985,17 +985,17 @@
     },
     "34039": {
       "votes": {
-        "jessica_gonzalez_rojas": 112,
+        "jessica_gonzalez-rojas": 112,
         "jessica_ramos": 96,
         "hiram_monserrate": 12,
         "scattered": 0
       },
       "total": 220,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 7.3,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -1005,7 +1005,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -1026,17 +1026,17 @@
     },
     "34040": {
       "votes": {
-        "jessica_gonzalez_rojas": 33,
+        "jessica_gonzalez-rojas": 33,
         "jessica_ramos": 29,
         "hiram_monserrate": 5,
         "scattered": 0
       },
       "total": 67,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 6,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -1046,7 +1046,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -1067,17 +1067,17 @@
     },
     "34041": {
       "votes": {
-        "jessica_gonzalez_rojas": 149,
+        "jessica_gonzalez-rojas": 149,
         "jessica_ramos": 119,
         "hiram_monserrate": 14,
         "scattered": 1
       },
       "total": 283,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 10.6,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -1087,7 +1087,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -1108,17 +1108,17 @@
     },
     "34042": {
       "votes": {
-        "jessica_gonzalez_rojas": 76,
+        "jessica_gonzalez-rojas": 76,
         "jessica_ramos": 68,
         "hiram_monserrate": 13,
         "scattered": 1
       },
       "total": 158,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 5.1,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -1128,7 +1128,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -1149,7 +1149,7 @@
     },
     "34043": {
       "votes": {
-        "jessica_gonzalez_rojas": 61,
+        "jessica_gonzalez-rojas": 61,
         "jessica_ramos": 64,
         "hiram_monserrate": 16,
         "scattered": 1
@@ -1159,7 +1159,7 @@
       "margin": 2.1,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -1169,7 +1169,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -1190,17 +1190,17 @@
     },
     "34044": {
       "votes": {
-        "jessica_gonzalez_rojas": 73,
+        "jessica_gonzalez-rojas": 73,
         "jessica_ramos": 58,
         "hiram_monserrate": 18,
         "scattered": 0
       },
       "total": 149,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 10.1,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -1210,7 +1210,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -1231,7 +1231,7 @@
     },
     "34045": {
       "votes": {
-        "jessica_gonzalez_rojas": 15,
+        "jessica_gonzalez-rojas": 15,
         "jessica_ramos": 29,
         "hiram_monserrate": 15,
         "scattered": 0
@@ -1241,7 +1241,7 @@
       "margin": 23.7,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -1251,7 +1251,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -1272,17 +1272,17 @@
     },
     "34046": {
       "votes": {
-        "jessica_gonzalez_rojas": 148,
+        "jessica_gonzalez-rojas": 148,
         "jessica_ramos": 100,
         "hiram_monserrate": 26,
         "scattered": 0
       },
       "total": 274,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 17.5,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -1292,7 +1292,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -1313,17 +1313,17 @@
     },
     "34047": {
       "votes": {
-        "jessica_gonzalez_rojas": 100,
+        "jessica_gonzalez-rojas": 100,
         "jessica_ramos": 66,
         "hiram_monserrate": 21,
         "scattered": 0
       },
       "total": 187,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 18.2,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -1333,7 +1333,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -1354,17 +1354,17 @@
     },
     "34048": {
       "votes": {
-        "jessica_gonzalez_rojas": 81,
+        "jessica_gonzalez-rojas": 81,
         "jessica_ramos": 45,
         "hiram_monserrate": 11,
         "scattered": 1
       },
       "total": 138,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 26.1,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -1374,7 +1374,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -1395,17 +1395,17 @@
     },
     "34049": {
       "votes": {
-        "jessica_gonzalez_rojas": 131,
+        "jessica_gonzalez-rojas": 131,
         "jessica_ramos": 114,
         "hiram_monserrate": 7,
         "scattered": 2
       },
       "total": 254,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 6.7,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -1415,7 +1415,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -1436,7 +1436,7 @@
     },
     "34050": {
       "votes": {
-        "jessica_gonzalez_rojas": 73,
+        "jessica_gonzalez-rojas": 73,
         "jessica_ramos": 75,
         "hiram_monserrate": 32,
         "scattered": 0
@@ -1446,7 +1446,7 @@
       "margin": 1.1,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -1456,7 +1456,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -1477,17 +1477,17 @@
     },
     "34051": {
       "votes": {
-        "jessica_gonzalez_rojas": 71,
+        "jessica_gonzalez-rojas": 71,
         "jessica_ramos": 48,
         "hiram_monserrate": 10,
         "scattered": 1
       },
       "total": 130,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 17.7,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -1497,7 +1497,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -1518,7 +1518,7 @@
     },
     "34052": {
       "votes": {
-        "jessica_gonzalez_rojas": 23,
+        "jessica_gonzalez-rojas": 23,
         "jessica_ramos": 36,
         "hiram_monserrate": 12,
         "scattered": 0
@@ -1528,7 +1528,7 @@
       "margin": 18.3,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -1538,7 +1538,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -1559,7 +1559,7 @@
     },
     "34053": {
       "votes": {
-        "jessica_gonzalez_rojas": 0,
+        "jessica_gonzalez-rojas": 0,
         "jessica_ramos": 1,
         "hiram_monserrate": 0,
         "scattered": 0
@@ -1569,7 +1569,7 @@
       "margin": 100,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -1579,7 +1579,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -1600,17 +1600,17 @@
     },
     "34054": {
       "votes": {
-        "jessica_gonzalez_rojas": 47,
+        "jessica_gonzalez-rojas": 47,
         "jessica_ramos": 41,
         "hiram_monserrate": 25,
         "scattered": 0
       },
       "total": 113,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 5.3,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -1620,7 +1620,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -1641,17 +1641,17 @@
     },
     "34055": {
       "votes": {
-        "jessica_gonzalez_rojas": 44,
+        "jessica_gonzalez-rojas": 44,
         "jessica_ramos": 31,
         "hiram_monserrate": 22,
         "scattered": 0
       },
       "total": 97,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 13.4,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -1661,7 +1661,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -1682,7 +1682,7 @@
     },
     "34056": {
       "votes": {
-        "jessica_gonzalez_rojas": 27,
+        "jessica_gonzalez-rojas": 27,
         "jessica_ramos": 20,
         "hiram_monserrate": 30,
         "scattered": 0
@@ -1692,7 +1692,7 @@
       "margin": 3.9,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -1702,7 +1702,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -1723,17 +1723,17 @@
     },
     "35002": {
       "votes": {
-        "jessica_gonzalez_rojas": 31,
+        "jessica_gonzalez-rojas": 31,
         "jessica_ramos": 21,
         "hiram_monserrate": 8,
         "scattered": 0
       },
       "total": 60,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 16.7,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -1743,7 +1743,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -1764,17 +1764,17 @@
     },
     "35003": {
       "votes": {
-        "jessica_gonzalez_rojas": 28,
+        "jessica_gonzalez-rojas": 28,
         "jessica_ramos": 24,
         "hiram_monserrate": 9,
         "scattered": 0
       },
       "total": 61,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 6.6,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -1784,7 +1784,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -1805,17 +1805,17 @@
     },
     "35004": {
       "votes": {
-        "jessica_gonzalez_rojas": 26,
+        "jessica_gonzalez-rojas": 26,
         "jessica_ramos": 21,
         "hiram_monserrate": 15,
         "scattered": 2
       },
       "total": 64,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 7.8,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -1825,7 +1825,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -1846,17 +1846,17 @@
     },
     "35005": {
       "votes": {
-        "jessica_gonzalez_rojas": 43,
+        "jessica_gonzalez-rojas": 43,
         "jessica_ramos": 35,
         "hiram_monserrate": 41,
         "scattered": 0
       },
       "total": 119,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 1.7,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -1866,7 +1866,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -1887,7 +1887,7 @@
     },
     "35006": {
       "votes": {
-        "jessica_gonzalez_rojas": 40,
+        "jessica_gonzalez-rojas": 40,
         "jessica_ramos": 37,
         "hiram_monserrate": 41,
         "scattered": 0
@@ -1897,7 +1897,7 @@
       "margin": 0.8,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -1907,7 +1907,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -1928,17 +1928,17 @@
     },
     "35007": {
       "votes": {
-        "jessica_gonzalez_rojas": 73,
+        "jessica_gonzalez-rojas": 73,
         "jessica_ramos": 41,
         "hiram_monserrate": 54,
         "scattered": 0
       },
       "total": 168,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 11.3,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -1948,7 +1948,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -1969,17 +1969,17 @@
     },
     "35008": {
       "votes": {
-        "jessica_gonzalez_rojas": 79,
+        "jessica_gonzalez-rojas": 79,
         "jessica_ramos": 58,
         "hiram_monserrate": 58,
         "scattered": 1
       },
       "total": 196,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 10.7,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -1989,7 +1989,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -2010,17 +2010,17 @@
     },
     "35010": {
       "votes": {
-        "jessica_gonzalez_rojas": 30,
+        "jessica_gonzalez-rojas": 30,
         "jessica_ramos": 24,
         "hiram_monserrate": 13,
         "scattered": 0
       },
       "total": 67,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 9,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -2030,7 +2030,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -2051,17 +2051,17 @@
     },
     "35011": {
       "votes": {
-        "jessica_gonzalez_rojas": 36,
+        "jessica_gonzalez-rojas": 36,
         "jessica_ramos": 28,
         "hiram_monserrate": 20,
         "scattered": 0
       },
       "total": 84,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 9.5,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -2071,7 +2071,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -2092,17 +2092,17 @@
     },
     "35012": {
       "votes": {
-        "jessica_gonzalez_rojas": 36,
+        "jessica_gonzalez-rojas": 36,
         "jessica_ramos": 29,
         "hiram_monserrate": 31,
         "scattered": 0
       },
       "total": 96,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 5.2,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -2112,7 +2112,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -2133,7 +2133,7 @@
     },
     "35013": {
       "votes": {
-        "jessica_gonzalez_rojas": 30,
+        "jessica_gonzalez-rojas": 30,
         "jessica_ramos": 36,
         "hiram_monserrate": 36,
         "scattered": 0
@@ -2143,7 +2143,7 @@
       "margin": 0,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -2153,7 +2153,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -2174,7 +2174,7 @@
     },
     "35014": {
       "votes": {
-        "jessica_gonzalez_rojas": 50,
+        "jessica_gonzalez-rojas": 50,
         "jessica_ramos": 57,
         "hiram_monserrate": 40,
         "scattered": 0
@@ -2184,7 +2184,7 @@
       "margin": 4.8,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -2194,7 +2194,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -2215,17 +2215,17 @@
     },
     "35015": {
       "votes": {
-        "jessica_gonzalez_rojas": 37,
+        "jessica_gonzalez-rojas": 37,
         "jessica_ramos": 34,
         "hiram_monserrate": 34,
         "scattered": 0
       },
       "total": 105,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 2.9,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -2235,7 +2235,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -2256,17 +2256,17 @@
     },
     "35016": {
       "votes": {
-        "jessica_gonzalez_rojas": 85,
+        "jessica_gonzalez-rojas": 85,
         "jessica_ramos": 39,
         "hiram_monserrate": 46,
         "scattered": 0
       },
       "total": 170,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 22.9,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -2276,7 +2276,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -2297,17 +2297,17 @@
     },
     "35017": {
       "votes": {
-        "jessica_gonzalez_rojas": 42,
+        "jessica_gonzalez-rojas": 42,
         "jessica_ramos": 22,
         "hiram_monserrate": 26,
         "scattered": 0
       },
       "total": 90,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 17.8,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -2317,7 +2317,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -2338,7 +2338,7 @@
     },
     "35018": {
       "votes": {
-        "jessica_gonzalez_rojas": 13,
+        "jessica_gonzalez-rojas": 13,
         "jessica_ramos": 10,
         "hiram_monserrate": 17,
         "scattered": 0
@@ -2348,7 +2348,7 @@
       "margin": 10,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -2358,7 +2358,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -2379,17 +2379,17 @@
     },
     "35019": {
       "votes": {
-        "jessica_gonzalez_rojas": 21,
+        "jessica_gonzalez-rojas": 21,
         "jessica_ramos": 17,
         "hiram_monserrate": 11,
         "scattered": 0
       },
       "total": 49,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 8.2,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -2399,7 +2399,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -2420,17 +2420,17 @@
     },
     "35020": {
       "votes": {
-        "jessica_gonzalez_rojas": 11,
+        "jessica_gonzalez-rojas": 11,
         "jessica_ramos": 6,
         "hiram_monserrate": 9,
         "scattered": 0
       },
       "total": 26,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 7.7,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -2440,7 +2440,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -2461,7 +2461,7 @@
     },
     "35021": {
       "votes": {
-        "jessica_gonzalez_rojas": 23,
+        "jessica_gonzalez-rojas": 23,
         "jessica_ramos": 34,
         "hiram_monserrate": 19,
         "scattered": 0
@@ -2471,7 +2471,7 @@
       "margin": 14.5,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -2481,7 +2481,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -2502,17 +2502,17 @@
     },
     "35022": {
       "votes": {
-        "jessica_gonzalez_rojas": 43,
+        "jessica_gonzalez-rojas": 43,
         "jessica_ramos": 28,
         "hiram_monserrate": 9,
         "scattered": 0
       },
       "total": 80,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 18.8,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -2522,7 +2522,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -2543,7 +2543,7 @@
     },
     "35023": {
       "votes": {
-        "jessica_gonzalez_rojas": 17,
+        "jessica_gonzalez-rojas": 17,
         "jessica_ramos": 28,
         "hiram_monserrate": 15,
         "scattered": 2
@@ -2553,7 +2553,7 @@
       "margin": 17.7,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -2563,7 +2563,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -2584,17 +2584,17 @@
     },
     "35024": {
       "votes": {
-        "jessica_gonzalez_rojas": 23,
+        "jessica_gonzalez-rojas": 23,
         "jessica_ramos": 23,
         "hiram_monserrate": 8,
         "scattered": 0
       },
       "total": 54,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 0,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -2604,7 +2604,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -2625,7 +2625,7 @@
     },
     "35025": {
       "votes": {
-        "jessica_gonzalez_rojas": 57,
+        "jessica_gonzalez-rojas": 57,
         "jessica_ramos": 59,
         "hiram_monserrate": 22,
         "scattered": 0
@@ -2635,7 +2635,7 @@
       "margin": 1.4,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -2645,7 +2645,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -2666,17 +2666,17 @@
     },
     "35026": {
       "votes": {
-        "jessica_gonzalez_rojas": 64,
+        "jessica_gonzalez-rojas": 64,
         "jessica_ramos": 42,
         "hiram_monserrate": 25,
         "scattered": 0
       },
       "total": 131,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 16.8,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -2686,7 +2686,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -2707,17 +2707,17 @@
     },
     "35027": {
       "votes": {
-        "jessica_gonzalez_rojas": 8,
+        "jessica_gonzalez-rojas": 8,
         "jessica_ramos": 5,
         "hiram_monserrate": 5,
         "scattered": 0
       },
       "total": 18,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 16.7,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -2727,7 +2727,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -2748,17 +2748,17 @@
     },
     "35029": {
       "votes": {
-        "jessica_gonzalez_rojas": 37,
+        "jessica_gonzalez-rojas": 37,
         "jessica_ramos": 26,
         "hiram_monserrate": 11,
         "scattered": 1
       },
       "total": 75,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 14.7,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -2768,7 +2768,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -2789,17 +2789,17 @@
     },
     "35030": {
       "votes": {
-        "jessica_gonzalez_rojas": 65,
+        "jessica_gonzalez-rojas": 65,
         "jessica_ramos": 45,
         "hiram_monserrate": 19,
         "scattered": 0
       },
       "total": 129,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 15.5,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -2809,7 +2809,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -2830,17 +2830,17 @@
     },
     "35032": {
       "votes": {
-        "jessica_gonzalez_rojas": 64,
+        "jessica_gonzalez-rojas": 64,
         "jessica_ramos": 60,
         "hiram_monserrate": 31,
         "scattered": 1
       },
       "total": 156,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 2.6,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -2850,7 +2850,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -2871,17 +2871,17 @@
     },
     "35033": {
       "votes": {
-        "jessica_gonzalez_rojas": 67,
+        "jessica_gonzalez-rojas": 67,
         "jessica_ramos": 52,
         "hiram_monserrate": 41,
         "scattered": 0
       },
       "total": 160,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 9.4,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -2891,7 +2891,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -2912,7 +2912,7 @@
     },
     "35034": {
       "votes": {
-        "jessica_gonzalez_rojas": 57,
+        "jessica_gonzalez-rojas": 57,
         "jessica_ramos": 59,
         "hiram_monserrate": 22,
         "scattered": 0
@@ -2922,7 +2922,7 @@
       "margin": 1.4,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -2932,7 +2932,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -2953,17 +2953,17 @@
     },
     "35035": {
       "votes": {
-        "jessica_gonzalez_rojas": 53,
+        "jessica_gonzalez-rojas": 53,
         "jessica_ramos": 51,
         "hiram_monserrate": 25,
         "scattered": 0
       },
       "total": 129,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 1.6,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -2973,7 +2973,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -2994,17 +2994,17 @@
     },
     "35036": {
       "votes": {
-        "jessica_gonzalez_rojas": 71,
+        "jessica_gonzalez-rojas": 71,
         "jessica_ramos": 47,
         "hiram_monserrate": 42,
         "scattered": 0
       },
       "total": 160,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 15,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -3014,7 +3014,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -3035,17 +3035,17 @@
     },
     "35037": {
       "votes": {
-        "jessica_gonzalez_rojas": 42,
+        "jessica_gonzalez-rojas": 42,
         "jessica_ramos": 27,
         "hiram_monserrate": 11,
         "scattered": 0
       },
       "total": 80,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 18.8,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -3055,7 +3055,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -3076,7 +3076,7 @@
     },
     "35039": {
       "votes": {
-        "jessica_gonzalez_rojas": 54,
+        "jessica_gonzalez-rojas": 54,
         "jessica_ramos": 59,
         "hiram_monserrate": 14,
         "scattered": 1
@@ -3086,7 +3086,7 @@
       "margin": 3.9,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -3096,7 +3096,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -3117,17 +3117,17 @@
     },
     "35043": {
       "votes": {
-        "jessica_gonzalez_rojas": 13,
+        "jessica_gonzalez-rojas": 13,
         "jessica_ramos": 12,
         "hiram_monserrate": 3,
         "scattered": 0
       },
       "total": 28,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 3.6,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -3137,7 +3137,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -3158,7 +3158,7 @@
     },
     "35044": {
       "votes": {
-        "jessica_gonzalez_rojas": 27,
+        "jessica_gonzalez-rojas": 27,
         "jessica_ramos": 34,
         "hiram_monserrate": 8,
         "scattered": 0
@@ -3168,7 +3168,7 @@
       "margin": 10.1,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -3178,7 +3178,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -3199,7 +3199,7 @@
     },
     "35046": {
       "votes": {
-        "jessica_gonzalez_rojas": 31,
+        "jessica_gonzalez-rojas": 31,
         "jessica_ramos": 42,
         "hiram_monserrate": 18,
         "scattered": 0
@@ -3209,7 +3209,7 @@
       "margin": 12.1,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -3219,7 +3219,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -3240,17 +3240,17 @@
     },
     "35048": {
       "votes": {
-        "jessica_gonzalez_rojas": 13,
+        "jessica_gonzalez-rojas": 13,
         "jessica_ramos": 7,
         "hiram_monserrate": 1,
         "scattered": 0
       },
       "total": 21,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 28.6,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -3260,7 +3260,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -3281,17 +3281,17 @@
     },
     "35050": {
       "votes": {
-        "jessica_gonzalez_rojas": 0,
+        "jessica_gonzalez-rojas": 0,
         "jessica_ramos": 0,
         "hiram_monserrate": 0,
         "scattered": 0
       },
       "total": 0,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 0,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -3301,7 +3301,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -3322,17 +3322,17 @@
     },
     "35054": {
       "votes": {
-        "jessica_gonzalez_rojas": 0,
+        "jessica_gonzalez-rojas": 0,
         "jessica_ramos": 0,
         "hiram_monserrate": 0,
         "scattered": 0
       },
       "total": 0,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 0,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -3342,7 +3342,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -3363,17 +3363,17 @@
     },
     "39001": {
       "votes": {
-        "jessica_gonzalez_rojas": 201,
+        "jessica_gonzalez-rojas": 201,
         "jessica_ramos": 155,
         "hiram_monserrate": 31,
         "scattered": 1
       },
       "total": 388,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 11.9,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -3383,7 +3383,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -3404,17 +3404,17 @@
     },
     "39002": {
       "votes": {
-        "jessica_gonzalez_rojas": 297,
+        "jessica_gonzalez-rojas": 297,
         "jessica_ramos": 189,
         "hiram_monserrate": 17,
         "scattered": 2
       },
       "total": 505,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 21.4,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -3424,7 +3424,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -3445,17 +3445,17 @@
     },
     "39003": {
       "votes": {
-        "jessica_gonzalez_rojas": 194,
+        "jessica_gonzalez-rojas": 194,
         "jessica_ramos": 107,
         "hiram_monserrate": 21,
         "scattered": 2
       },
       "total": 324,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 26.9,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -3465,7 +3465,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -3486,17 +3486,17 @@
     },
     "39004": {
       "votes": {
-        "jessica_gonzalez_rojas": 162,
+        "jessica_gonzalez-rojas": 162,
         "jessica_ramos": 113,
         "hiram_monserrate": 21,
         "scattered": 1
       },
       "total": 297,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 16.5,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -3506,7 +3506,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -3527,17 +3527,17 @@
     },
     "39005": {
       "votes": {
-        "jessica_gonzalez_rojas": 183,
+        "jessica_gonzalez-rojas": 183,
         "jessica_ramos": 90,
         "hiram_monserrate": 15,
         "scattered": 3
       },
       "total": 291,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 32,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -3547,7 +3547,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -3568,17 +3568,17 @@
     },
     "39006": {
       "votes": {
-        "jessica_gonzalez_rojas": 294,
+        "jessica_gonzalez-rojas": 294,
         "jessica_ramos": 208,
         "hiram_monserrate": 26,
         "scattered": 1
       },
       "total": 529,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 16.3,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -3588,7 +3588,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -3609,17 +3609,17 @@
     },
     "39007": {
       "votes": {
-        "jessica_gonzalez_rojas": 215,
+        "jessica_gonzalez-rojas": 215,
         "jessica_ramos": 132,
         "hiram_monserrate": 23,
         "scattered": 3
       },
       "total": 373,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 22.3,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -3629,7 +3629,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -3650,17 +3650,17 @@
     },
     "39008": {
       "votes": {
-        "jessica_gonzalez_rojas": 173,
+        "jessica_gonzalez-rojas": 173,
         "jessica_ramos": 146,
         "hiram_monserrate": 19,
         "scattered": 2
       },
       "total": 340,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 7.9,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -3670,7 +3670,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -3691,17 +3691,17 @@
     },
     "39009": {
       "votes": {
-        "jessica_gonzalez_rojas": 183,
+        "jessica_gonzalez-rojas": 183,
         "jessica_ramos": 107,
         "hiram_monserrate": 12,
         "scattered": 0
       },
       "total": 302,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 25.2,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -3711,7 +3711,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -3732,17 +3732,17 @@
     },
     "39010": {
       "votes": {
-        "jessica_gonzalez_rojas": 40,
+        "jessica_gonzalez-rojas": 40,
         "jessica_ramos": 31,
         "hiram_monserrate": 10,
         "scattered": 0
       },
       "total": 81,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 11.1,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -3752,7 +3752,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -3773,7 +3773,7 @@
     },
     "39013": {
       "votes": {
-        "jessica_gonzalez_rojas": 46,
+        "jessica_gonzalez-rojas": 46,
         "jessica_ramos": 56,
         "hiram_monserrate": 9,
         "scattered": 2
@@ -3783,7 +3783,7 @@
       "margin": 8.8,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -3793,7 +3793,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -3814,7 +3814,7 @@
     },
     "39014": {
       "votes": {
-        "jessica_gonzalez_rojas": 39,
+        "jessica_gonzalez-rojas": 39,
         "jessica_ramos": 53,
         "hiram_monserrate": 15,
         "scattered": 0
@@ -3824,7 +3824,7 @@
       "margin": 13.1,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -3834,7 +3834,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -3855,17 +3855,17 @@
     },
     "39015": {
       "votes": {
-        "jessica_gonzalez_rojas": 65,
+        "jessica_gonzalez-rojas": 65,
         "jessica_ramos": 58,
         "hiram_monserrate": 37,
         "scattered": 0
       },
       "total": 160,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 4.4,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -3875,7 +3875,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -3896,17 +3896,17 @@
     },
     "39016": {
       "votes": {
-        "jessica_gonzalez_rojas": 4,
+        "jessica_gonzalez-rojas": 4,
         "jessica_ramos": 3,
         "hiram_monserrate": 0,
         "scattered": 0
       },
       "total": 7,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 14.3,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -3916,7 +3916,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -3937,17 +3937,17 @@
     },
     "39017": {
       "votes": {
-        "jessica_gonzalez_rojas": 17,
+        "jessica_gonzalez-rojas": 17,
         "jessica_ramos": 8,
         "hiram_monserrate": 2,
         "scattered": 0
       },
       "total": 27,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 33.3,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -3957,7 +3957,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -3978,7 +3978,7 @@
     },
     "39018": {
       "votes": {
-        "jessica_gonzalez_rojas": 50,
+        "jessica_gonzalez-rojas": 50,
         "jessica_ramos": 57,
         "hiram_monserrate": 15,
         "scattered": 1
@@ -3988,7 +3988,7 @@
       "margin": 5.7,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -3998,7 +3998,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -4019,17 +4019,17 @@
     },
     "39019": {
       "votes": {
-        "jessica_gonzalez_rojas": 59,
+        "jessica_gonzalez-rojas": 59,
         "jessica_ramos": 54,
         "hiram_monserrate": 12,
         "scattered": 1
       },
       "total": 126,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 4,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -4039,7 +4039,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -4060,17 +4060,17 @@
     },
     "39020": {
       "votes": {
-        "jessica_gonzalez_rojas": 33,
+        "jessica_gonzalez-rojas": 33,
         "jessica_ramos": 26,
         "hiram_monserrate": 10,
         "scattered": 1
       },
       "total": 70,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 10,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -4080,7 +4080,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -4101,17 +4101,17 @@
     },
     "39021": {
       "votes": {
-        "jessica_gonzalez_rojas": 51,
+        "jessica_gonzalez-rojas": 51,
         "jessica_ramos": 50,
         "hiram_monserrate": 11,
         "scattered": 1
       },
       "total": 113,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 0.9,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -4121,7 +4121,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -4142,17 +4142,17 @@
     },
     "39023": {
       "votes": {
-        "jessica_gonzalez_rojas": 59,
+        "jessica_gonzalez-rojas": 59,
         "jessica_ramos": 57,
         "hiram_monserrate": 16,
         "scattered": 0
       },
       "total": 132,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 1.5,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -4162,7 +4162,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -4183,7 +4183,7 @@
     },
     "39024": {
       "votes": {
-        "jessica_gonzalez_rojas": 20,
+        "jessica_gonzalez-rojas": 20,
         "jessica_ramos": 30,
         "hiram_monserrate": 20,
         "scattered": 0
@@ -4193,7 +4193,7 @@
       "margin": 14.3,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -4203,7 +4203,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -4224,17 +4224,17 @@
     },
     "39025": {
       "votes": {
-        "jessica_gonzalez_rojas": 44,
+        "jessica_gonzalez-rojas": 44,
         "jessica_ramos": 36,
         "hiram_monserrate": 6,
         "scattered": 0
       },
       "total": 86,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 9.3,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -4244,7 +4244,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -4265,17 +4265,17 @@
     },
     "39026": {
       "votes": {
-        "jessica_gonzalez_rojas": 45,
+        "jessica_gonzalez-rojas": 45,
         "jessica_ramos": 34,
         "hiram_monserrate": 8,
         "scattered": 0
       },
       "total": 87,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 12.6,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -4285,7 +4285,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -4306,17 +4306,17 @@
     },
     "39027": {
       "votes": {
-        "jessica_gonzalez_rojas": 5,
+        "jessica_gonzalez-rojas": 5,
         "jessica_ramos": 5,
         "hiram_monserrate": 3,
         "scattered": 0
       },
       "total": 13,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 0,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -4326,7 +4326,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -4347,17 +4347,17 @@
     },
     "39029": {
       "votes": {
-        "jessica_gonzalez_rojas": 23,
+        "jessica_gonzalez-rojas": 23,
         "jessica_ramos": 16,
         "hiram_monserrate": 17,
         "scattered": 0
       },
       "total": 56,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 10.7,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -4367,7 +4367,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -4388,7 +4388,7 @@
     },
     "39030": {
       "votes": {
-        "jessica_gonzalez_rojas": 15,
+        "jessica_gonzalez-rojas": 15,
         "jessica_ramos": 33,
         "hiram_monserrate": 27,
         "scattered": 0
@@ -4398,7 +4398,7 @@
       "margin": 8,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -4408,7 +4408,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -4429,7 +4429,7 @@
     },
     "39031": {
       "votes": {
-        "jessica_gonzalez_rojas": 16,
+        "jessica_gonzalez-rojas": 16,
         "jessica_ramos": 18,
         "hiram_monserrate": 12,
         "scattered": 0
@@ -4439,7 +4439,7 @@
       "margin": 4.3,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -4449,7 +4449,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -4470,17 +4470,17 @@
     },
     "39032": {
       "votes": {
-        "jessica_gonzalez_rojas": 38,
+        "jessica_gonzalez-rojas": 38,
         "jessica_ramos": 13,
         "hiram_monserrate": 31,
         "scattered": 1
       },
       "total": 83,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 8.4,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -4490,7 +4490,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -4511,17 +4511,17 @@
     },
     "39033": {
       "votes": {
-        "jessica_gonzalez_rojas": 35,
+        "jessica_gonzalez-rojas": 35,
         "jessica_ramos": 26,
         "hiram_monserrate": 18,
         "scattered": 0
       },
       "total": 79,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 11.4,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -4531,7 +4531,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -4552,17 +4552,17 @@
     },
     "39034": {
       "votes": {
-        "jessica_gonzalez_rojas": 39,
+        "jessica_gonzalez-rojas": 39,
         "jessica_ramos": 23,
         "hiram_monserrate": 8,
         "scattered": 0
       },
       "total": 70,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 22.9,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -4572,7 +4572,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -4593,17 +4593,17 @@
     },
     "39035": {
       "votes": {
-        "jessica_gonzalez_rojas": 46,
+        "jessica_gonzalez-rojas": 46,
         "jessica_ramos": 38,
         "hiram_monserrate": 17,
         "scattered": 0
       },
       "total": 101,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 7.9,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -4613,7 +4613,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -4634,17 +4634,17 @@
     },
     "39036": {
       "votes": {
-        "jessica_gonzalez_rojas": 19,
+        "jessica_gonzalez-rojas": 19,
         "jessica_ramos": 10,
         "hiram_monserrate": 9,
         "scattered": 0
       },
       "total": 38,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 23.7,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -4654,7 +4654,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -4675,17 +4675,17 @@
     },
     "39037": {
       "votes": {
-        "jessica_gonzalez_rojas": 34,
+        "jessica_gonzalez-rojas": 34,
         "jessica_ramos": 17,
         "hiram_monserrate": 8,
         "scattered": 0
       },
       "total": 59,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 28.8,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -4695,7 +4695,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -4716,17 +4716,17 @@
     },
     "39038": {
       "votes": {
-        "jessica_gonzalez_rojas": 21,
+        "jessica_gonzalez-rojas": 21,
         "jessica_ramos": 17,
         "hiram_monserrate": 3,
         "scattered": 0
       },
       "total": 41,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 9.8,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -4736,7 +4736,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -4757,17 +4757,17 @@
     },
     "39039": {
       "votes": {
-        "jessica_gonzalez_rojas": 21,
+        "jessica_gonzalez-rojas": 21,
         "jessica_ramos": 20,
         "hiram_monserrate": 7,
         "scattered": 0
       },
       "total": 48,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 2.1,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -4777,7 +4777,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -4798,17 +4798,17 @@
     },
     "39048": {
       "votes": {
-        "jessica_gonzalez_rojas": 63,
+        "jessica_gonzalez-rojas": 63,
         "jessica_ramos": 42,
         "hiram_monserrate": 9,
         "scattered": 0
       },
       "total": 114,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 18.4,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -4818,7 +4818,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -4839,17 +4839,17 @@
     },
     "30/003": {
       "votes": {
-        "jessica_gonzalez_rojas": 32,
+        "jessica_gonzalez-rojas": 32,
         "jessica_ramos": 21,
         "hiram_monserrate": 4,
         "scattered": 0
       },
       "total": 57,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 19.3,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -4859,7 +4859,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -4880,7 +4880,7 @@
     },
     "30/004": {
       "votes": {
-        "jessica_gonzalez_rojas": 58,
+        "jessica_gonzalez-rojas": 58,
         "jessica_ramos": 69,
         "hiram_monserrate": 22,
         "scattered": 3
@@ -4890,7 +4890,7 @@
       "margin": 7.2,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -4900,7 +4900,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -4921,17 +4921,17 @@
     },
     "30/014": {
       "votes": {
-        "jessica_gonzalez_rojas": 13,
+        "jessica_gonzalez-rojas": 13,
         "jessica_ramos": 11,
         "hiram_monserrate": 0,
         "scattered": 2
       },
       "total": 26,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 7.7,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -4941,7 +4941,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -4962,17 +4962,17 @@
     },
     "30/015": {
       "votes": {
-        "jessica_gonzalez_rojas": 56,
+        "jessica_gonzalez-rojas": 56,
         "jessica_ramos": 37,
         "hiram_monserrate": 15,
         "scattered": 0
       },
       "total": 108,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 17.6,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -4982,7 +4982,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -5003,7 +5003,7 @@
     },
     "30/040": {
       "votes": {
-        "jessica_gonzalez_rojas": 41,
+        "jessica_gonzalez-rojas": 41,
         "jessica_ramos": 51,
         "hiram_monserrate": 7,
         "scattered": 0
@@ -5013,7 +5013,7 @@
       "margin": 10.1,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -5023,7 +5023,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -5044,17 +5044,17 @@
     },
     "30/041": {
       "votes": {
-        "jessica_gonzalez_rojas": 77,
+        "jessica_gonzalez-rojas": 77,
         "jessica_ramos": 56,
         "hiram_monserrate": 17,
         "scattered": 4
       },
       "total": 154,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 13.6,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -5064,7 +5064,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -5085,17 +5085,17 @@
     },
     "30/046": {
       "votes": {
-        "jessica_gonzalez_rojas": 111,
+        "jessica_gonzalez-rojas": 111,
         "jessica_ramos": 90,
         "hiram_monserrate": 29,
         "scattered": 3
       },
       "total": 233,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 9,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -5105,7 +5105,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -5126,17 +5126,17 @@
     },
     "30/047": {
       "votes": {
-        "jessica_gonzalez_rojas": 87,
+        "jessica_gonzalez-rojas": 87,
         "jessica_ramos": 44,
         "hiram_monserrate": 19,
         "scattered": 3
       },
       "total": 153,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 28.1,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -5146,7 +5146,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -5167,7 +5167,7 @@
     },
     "34/002": {
       "votes": {
-        "jessica_gonzalez_rojas": 10,
+        "jessica_gonzalez-rojas": 10,
         "jessica_ramos": 7,
         "hiram_monserrate": 16,
         "scattered": 0
@@ -5177,7 +5177,7 @@
       "margin": 18.2,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -5187,7 +5187,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -5208,7 +5208,7 @@
     },
     "34/010": {
       "votes": {
-        "jessica_gonzalez_rojas": 28,
+        "jessica_gonzalez-rojas": 28,
         "jessica_ramos": 16,
         "hiram_monserrate": 41,
         "scattered": 0
@@ -5218,7 +5218,7 @@
       "margin": 15.3,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -5228,7 +5228,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -5249,7 +5249,7 @@
     },
     "34/011": {
       "votes": {
-        "jessica_gonzalez_rojas": 24,
+        "jessica_gonzalez-rojas": 24,
         "jessica_ramos": 24,
         "hiram_monserrate": 27,
         "scattered": 0
@@ -5259,7 +5259,7 @@
       "margin": 4,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -5269,7 +5269,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -5290,17 +5290,17 @@
     },
     "34/028": {
       "votes": {
-        "jessica_gonzalez_rojas": 37,
+        "jessica_gonzalez-rojas": 37,
         "jessica_ramos": 17,
         "hiram_monserrate": 37,
         "scattered": 0
       },
       "total": 91,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 0,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -5310,7 +5310,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -5331,17 +5331,17 @@
     },
     "34/029": {
       "votes": {
-        "jessica_gonzalez_rojas": 41,
+        "jessica_gonzalez-rojas": 41,
         "jessica_ramos": 26,
         "hiram_monserrate": 10,
         "scattered": 0
       },
       "total": 77,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 19.5,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -5351,7 +5351,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -5372,17 +5372,17 @@
     },
     "34/030": {
       "votes": {
-        "jessica_gonzalez_rojas": 31,
+        "jessica_gonzalez-rojas": 31,
         "jessica_ramos": 22,
         "hiram_monserrate": 8,
         "scattered": 3
       },
       "total": 64,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 14.1,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -5392,7 +5392,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -5413,17 +5413,17 @@
     },
     "34/031": {
       "votes": {
-        "jessica_gonzalez_rojas": 63,
+        "jessica_gonzalez-rojas": 63,
         "jessica_ramos": 31,
         "hiram_monserrate": 12,
         "scattered": 1
       },
       "total": 107,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 29.9,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -5433,7 +5433,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -5454,17 +5454,17 @@
     },
     "34/032": {
       "votes": {
-        "jessica_gonzalez_rojas": 36,
+        "jessica_gonzalez-rojas": 36,
         "jessica_ramos": 28,
         "hiram_monserrate": 8,
         "scattered": 0
       },
       "total": 72,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 11.1,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -5474,7 +5474,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -5495,17 +5495,17 @@
     },
     "34/033": {
       "votes": {
-        "jessica_gonzalez_rojas": 23,
+        "jessica_gonzalez-rojas": 23,
         "jessica_ramos": 14,
         "hiram_monserrate": 8,
         "scattered": 0
       },
       "total": 45,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 20,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -5515,7 +5515,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -5536,17 +5536,17 @@
     },
     "34/034": {
       "votes": {
-        "jessica_gonzalez_rojas": 43,
+        "jessica_gonzalez-rojas": 43,
         "jessica_ramos": 38,
         "hiram_monserrate": 10,
         "scattered": 0
       },
       "total": 91,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 5.5,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -5556,7 +5556,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -5577,17 +5577,17 @@
     },
     "34/035": {
       "votes": {
-        "jessica_gonzalez_rojas": 36,
+        "jessica_gonzalez-rojas": 36,
         "jessica_ramos": 32,
         "hiram_monserrate": 10,
         "scattered": 1
       },
       "total": 79,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 5.1,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -5597,7 +5597,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -5618,17 +5618,17 @@
     },
     "34/036": {
       "votes": {
-        "jessica_gonzalez_rojas": 69,
+        "jessica_gonzalez-rojas": 69,
         "jessica_ramos": 57,
         "hiram_monserrate": 15,
         "scattered": 2
       },
       "total": 143,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 8.4,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -5638,7 +5638,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -5659,17 +5659,17 @@
     },
     "34/037": {
       "votes": {
-        "jessica_gonzalez_rojas": 27,
+        "jessica_gonzalez-rojas": 27,
         "jessica_ramos": 23,
         "hiram_monserrate": 4,
         "scattered": 1
       },
       "total": 55,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 7.3,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -5679,7 +5679,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -5700,17 +5700,17 @@
     },
     "34/038": {
       "votes": {
-        "jessica_gonzalez_rojas": 40,
+        "jessica_gonzalez-rojas": 40,
         "jessica_ramos": 22,
         "hiram_monserrate": 9,
         "scattered": 0
       },
       "total": 71,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 25.4,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -5720,7 +5720,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -5741,17 +5741,17 @@
     },
     "34/039": {
       "votes": {
-        "jessica_gonzalez_rojas": 112,
+        "jessica_gonzalez-rojas": 112,
         "jessica_ramos": 96,
         "hiram_monserrate": 12,
         "scattered": 0
       },
       "total": 220,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 7.3,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -5761,7 +5761,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -5782,17 +5782,17 @@
     },
     "34/040": {
       "votes": {
-        "jessica_gonzalez_rojas": 33,
+        "jessica_gonzalez-rojas": 33,
         "jessica_ramos": 29,
         "hiram_monserrate": 5,
         "scattered": 0
       },
       "total": 67,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 6,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -5802,7 +5802,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -5823,17 +5823,17 @@
     },
     "34/041": {
       "votes": {
-        "jessica_gonzalez_rojas": 149,
+        "jessica_gonzalez-rojas": 149,
         "jessica_ramos": 119,
         "hiram_monserrate": 14,
         "scattered": 1
       },
       "total": 283,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 10.6,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -5843,7 +5843,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -5864,17 +5864,17 @@
     },
     "34/042": {
       "votes": {
-        "jessica_gonzalez_rojas": 76,
+        "jessica_gonzalez-rojas": 76,
         "jessica_ramos": 68,
         "hiram_monserrate": 13,
         "scattered": 1
       },
       "total": 158,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 5.1,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -5884,7 +5884,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -5905,7 +5905,7 @@
     },
     "34/043": {
       "votes": {
-        "jessica_gonzalez_rojas": 61,
+        "jessica_gonzalez-rojas": 61,
         "jessica_ramos": 64,
         "hiram_monserrate": 16,
         "scattered": 1
@@ -5915,7 +5915,7 @@
       "margin": 2.1,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -5925,7 +5925,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -5946,17 +5946,17 @@
     },
     "34/044": {
       "votes": {
-        "jessica_gonzalez_rojas": 73,
+        "jessica_gonzalez-rojas": 73,
         "jessica_ramos": 58,
         "hiram_monserrate": 18,
         "scattered": 0
       },
       "total": 149,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 10.1,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -5966,7 +5966,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -5987,7 +5987,7 @@
     },
     "34/045": {
       "votes": {
-        "jessica_gonzalez_rojas": 15,
+        "jessica_gonzalez-rojas": 15,
         "jessica_ramos": 29,
         "hiram_monserrate": 15,
         "scattered": 0
@@ -5997,7 +5997,7 @@
       "margin": 23.7,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -6007,7 +6007,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -6028,17 +6028,17 @@
     },
     "34/046": {
       "votes": {
-        "jessica_gonzalez_rojas": 148,
+        "jessica_gonzalez-rojas": 148,
         "jessica_ramos": 100,
         "hiram_monserrate": 26,
         "scattered": 0
       },
       "total": 274,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 17.5,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -6048,7 +6048,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -6069,17 +6069,17 @@
     },
     "34/047": {
       "votes": {
-        "jessica_gonzalez_rojas": 100,
+        "jessica_gonzalez-rojas": 100,
         "jessica_ramos": 66,
         "hiram_monserrate": 21,
         "scattered": 0
       },
       "total": 187,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 18.2,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -6089,7 +6089,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -6110,17 +6110,17 @@
     },
     "34/048": {
       "votes": {
-        "jessica_gonzalez_rojas": 81,
+        "jessica_gonzalez-rojas": 81,
         "jessica_ramos": 45,
         "hiram_monserrate": 11,
         "scattered": 1
       },
       "total": 138,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 26.1,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -6130,7 +6130,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -6151,17 +6151,17 @@
     },
     "34/049": {
       "votes": {
-        "jessica_gonzalez_rojas": 131,
+        "jessica_gonzalez-rojas": 131,
         "jessica_ramos": 114,
         "hiram_monserrate": 7,
         "scattered": 2
       },
       "total": 254,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 6.7,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -6171,7 +6171,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -6192,7 +6192,7 @@
     },
     "34/050": {
       "votes": {
-        "jessica_gonzalez_rojas": 73,
+        "jessica_gonzalez-rojas": 73,
         "jessica_ramos": 75,
         "hiram_monserrate": 32,
         "scattered": 0
@@ -6202,7 +6202,7 @@
       "margin": 1.1,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -6212,7 +6212,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -6233,17 +6233,17 @@
     },
     "34/051": {
       "votes": {
-        "jessica_gonzalez_rojas": 71,
+        "jessica_gonzalez-rojas": 71,
         "jessica_ramos": 48,
         "hiram_monserrate": 10,
         "scattered": 1
       },
       "total": 130,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 17.7,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -6253,7 +6253,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -6274,7 +6274,7 @@
     },
     "34/052": {
       "votes": {
-        "jessica_gonzalez_rojas": 23,
+        "jessica_gonzalez-rojas": 23,
         "jessica_ramos": 36,
         "hiram_monserrate": 12,
         "scattered": 0
@@ -6284,7 +6284,7 @@
       "margin": 18.3,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -6294,7 +6294,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -6315,7 +6315,7 @@
     },
     "34/053": {
       "votes": {
-        "jessica_gonzalez_rojas": 0,
+        "jessica_gonzalez-rojas": 0,
         "jessica_ramos": 1,
         "hiram_monserrate": 0,
         "scattered": 0
@@ -6325,7 +6325,7 @@
       "margin": 100,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -6335,7 +6335,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -6356,17 +6356,17 @@
     },
     "34/054": {
       "votes": {
-        "jessica_gonzalez_rojas": 47,
+        "jessica_gonzalez-rojas": 47,
         "jessica_ramos": 41,
         "hiram_monserrate": 25,
         "scattered": 0
       },
       "total": 113,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 5.3,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -6376,7 +6376,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -6397,17 +6397,17 @@
     },
     "34/055": {
       "votes": {
-        "jessica_gonzalez_rojas": 44,
+        "jessica_gonzalez-rojas": 44,
         "jessica_ramos": 31,
         "hiram_monserrate": 22,
         "scattered": 0
       },
       "total": 97,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 13.4,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -6417,7 +6417,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -6438,7 +6438,7 @@
     },
     "34/056": {
       "votes": {
-        "jessica_gonzalez_rojas": 27,
+        "jessica_gonzalez-rojas": 27,
         "jessica_ramos": 20,
         "hiram_monserrate": 30,
         "scattered": 0
@@ -6448,7 +6448,7 @@
       "margin": 3.9,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -6458,7 +6458,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -6479,17 +6479,17 @@
     },
     "35/002": {
       "votes": {
-        "jessica_gonzalez_rojas": 31,
+        "jessica_gonzalez-rojas": 31,
         "jessica_ramos": 21,
         "hiram_monserrate": 8,
         "scattered": 0
       },
       "total": 60,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 16.7,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -6499,7 +6499,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -6520,17 +6520,17 @@
     },
     "35/003": {
       "votes": {
-        "jessica_gonzalez_rojas": 28,
+        "jessica_gonzalez-rojas": 28,
         "jessica_ramos": 24,
         "hiram_monserrate": 9,
         "scattered": 0
       },
       "total": 61,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 6.6,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -6540,7 +6540,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -6561,17 +6561,17 @@
     },
     "35/004": {
       "votes": {
-        "jessica_gonzalez_rojas": 26,
+        "jessica_gonzalez-rojas": 26,
         "jessica_ramos": 21,
         "hiram_monserrate": 15,
         "scattered": 2
       },
       "total": 64,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 7.8,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -6581,7 +6581,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -6602,17 +6602,17 @@
     },
     "35/005": {
       "votes": {
-        "jessica_gonzalez_rojas": 43,
+        "jessica_gonzalez-rojas": 43,
         "jessica_ramos": 35,
         "hiram_monserrate": 41,
         "scattered": 0
       },
       "total": 119,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 1.7,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -6622,7 +6622,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -6643,7 +6643,7 @@
     },
     "35/006": {
       "votes": {
-        "jessica_gonzalez_rojas": 40,
+        "jessica_gonzalez-rojas": 40,
         "jessica_ramos": 37,
         "hiram_monserrate": 41,
         "scattered": 0
@@ -6653,7 +6653,7 @@
       "margin": 0.8,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -6663,7 +6663,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -6684,17 +6684,17 @@
     },
     "35/007": {
       "votes": {
-        "jessica_gonzalez_rojas": 73,
+        "jessica_gonzalez-rojas": 73,
         "jessica_ramos": 41,
         "hiram_monserrate": 54,
         "scattered": 0
       },
       "total": 168,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 11.3,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -6704,7 +6704,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -6725,17 +6725,17 @@
     },
     "35/008": {
       "votes": {
-        "jessica_gonzalez_rojas": 79,
+        "jessica_gonzalez-rojas": 79,
         "jessica_ramos": 58,
         "hiram_monserrate": 58,
         "scattered": 1
       },
       "total": 196,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 10.7,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -6745,7 +6745,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -6766,17 +6766,17 @@
     },
     "35/010": {
       "votes": {
-        "jessica_gonzalez_rojas": 30,
+        "jessica_gonzalez-rojas": 30,
         "jessica_ramos": 24,
         "hiram_monserrate": 13,
         "scattered": 0
       },
       "total": 67,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 9,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -6786,7 +6786,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -6807,17 +6807,17 @@
     },
     "35/011": {
       "votes": {
-        "jessica_gonzalez_rojas": 36,
+        "jessica_gonzalez-rojas": 36,
         "jessica_ramos": 28,
         "hiram_monserrate": 20,
         "scattered": 0
       },
       "total": 84,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 9.5,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -6827,7 +6827,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -6848,17 +6848,17 @@
     },
     "35/012": {
       "votes": {
-        "jessica_gonzalez_rojas": 36,
+        "jessica_gonzalez-rojas": 36,
         "jessica_ramos": 29,
         "hiram_monserrate": 31,
         "scattered": 0
       },
       "total": 96,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 5.2,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -6868,7 +6868,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -6889,7 +6889,7 @@
     },
     "35/013": {
       "votes": {
-        "jessica_gonzalez_rojas": 30,
+        "jessica_gonzalez-rojas": 30,
         "jessica_ramos": 36,
         "hiram_monserrate": 36,
         "scattered": 0
@@ -6899,7 +6899,7 @@
       "margin": 0,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -6909,7 +6909,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -6930,7 +6930,7 @@
     },
     "35/014": {
       "votes": {
-        "jessica_gonzalez_rojas": 50,
+        "jessica_gonzalez-rojas": 50,
         "jessica_ramos": 57,
         "hiram_monserrate": 40,
         "scattered": 0
@@ -6940,7 +6940,7 @@
       "margin": 4.8,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -6950,7 +6950,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -6971,17 +6971,17 @@
     },
     "35/015": {
       "votes": {
-        "jessica_gonzalez_rojas": 37,
+        "jessica_gonzalez-rojas": 37,
         "jessica_ramos": 34,
         "hiram_monserrate": 34,
         "scattered": 0
       },
       "total": 105,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 2.9,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -6991,7 +6991,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -7012,17 +7012,17 @@
     },
     "35/016": {
       "votes": {
-        "jessica_gonzalez_rojas": 85,
+        "jessica_gonzalez-rojas": 85,
         "jessica_ramos": 39,
         "hiram_monserrate": 46,
         "scattered": 0
       },
       "total": 170,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 22.9,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -7032,7 +7032,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -7053,17 +7053,17 @@
     },
     "35/017": {
       "votes": {
-        "jessica_gonzalez_rojas": 42,
+        "jessica_gonzalez-rojas": 42,
         "jessica_ramos": 22,
         "hiram_monserrate": 26,
         "scattered": 0
       },
       "total": 90,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 17.8,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -7073,7 +7073,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -7094,7 +7094,7 @@
     },
     "35/018": {
       "votes": {
-        "jessica_gonzalez_rojas": 13,
+        "jessica_gonzalez-rojas": 13,
         "jessica_ramos": 10,
         "hiram_monserrate": 17,
         "scattered": 0
@@ -7104,7 +7104,7 @@
       "margin": 10,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -7114,7 +7114,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -7135,17 +7135,17 @@
     },
     "35/019": {
       "votes": {
-        "jessica_gonzalez_rojas": 21,
+        "jessica_gonzalez-rojas": 21,
         "jessica_ramos": 17,
         "hiram_monserrate": 11,
         "scattered": 0
       },
       "total": 49,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 8.2,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -7155,7 +7155,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -7176,17 +7176,17 @@
     },
     "35/020": {
       "votes": {
-        "jessica_gonzalez_rojas": 11,
+        "jessica_gonzalez-rojas": 11,
         "jessica_ramos": 6,
         "hiram_monserrate": 9,
         "scattered": 0
       },
       "total": 26,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 7.7,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -7196,7 +7196,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -7217,7 +7217,7 @@
     },
     "35/021": {
       "votes": {
-        "jessica_gonzalez_rojas": 23,
+        "jessica_gonzalez-rojas": 23,
         "jessica_ramos": 34,
         "hiram_monserrate": 19,
         "scattered": 0
@@ -7227,7 +7227,7 @@
       "margin": 14.5,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -7237,7 +7237,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -7258,17 +7258,17 @@
     },
     "35/022": {
       "votes": {
-        "jessica_gonzalez_rojas": 43,
+        "jessica_gonzalez-rojas": 43,
         "jessica_ramos": 28,
         "hiram_monserrate": 9,
         "scattered": 0
       },
       "total": 80,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 18.8,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -7278,7 +7278,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -7299,7 +7299,7 @@
     },
     "35/023": {
       "votes": {
-        "jessica_gonzalez_rojas": 17,
+        "jessica_gonzalez-rojas": 17,
         "jessica_ramos": 28,
         "hiram_monserrate": 15,
         "scattered": 2
@@ -7309,7 +7309,7 @@
       "margin": 17.7,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -7319,7 +7319,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -7340,17 +7340,17 @@
     },
     "35/024": {
       "votes": {
-        "jessica_gonzalez_rojas": 23,
+        "jessica_gonzalez-rojas": 23,
         "jessica_ramos": 23,
         "hiram_monserrate": 8,
         "scattered": 0
       },
       "total": 54,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 0,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -7360,7 +7360,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -7381,7 +7381,7 @@
     },
     "35/025": {
       "votes": {
-        "jessica_gonzalez_rojas": 57,
+        "jessica_gonzalez-rojas": 57,
         "jessica_ramos": 59,
         "hiram_monserrate": 22,
         "scattered": 0
@@ -7391,7 +7391,7 @@
       "margin": 1.4,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -7401,7 +7401,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -7422,17 +7422,17 @@
     },
     "35/026": {
       "votes": {
-        "jessica_gonzalez_rojas": 64,
+        "jessica_gonzalez-rojas": 64,
         "jessica_ramos": 42,
         "hiram_monserrate": 25,
         "scattered": 0
       },
       "total": 131,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 16.8,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -7442,7 +7442,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -7463,17 +7463,17 @@
     },
     "35/027": {
       "votes": {
-        "jessica_gonzalez_rojas": 8,
+        "jessica_gonzalez-rojas": 8,
         "jessica_ramos": 5,
         "hiram_monserrate": 5,
         "scattered": 0
       },
       "total": 18,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 16.7,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -7483,7 +7483,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -7504,17 +7504,17 @@
     },
     "35/029": {
       "votes": {
-        "jessica_gonzalez_rojas": 37,
+        "jessica_gonzalez-rojas": 37,
         "jessica_ramos": 26,
         "hiram_monserrate": 11,
         "scattered": 1
       },
       "total": 75,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 14.7,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -7524,7 +7524,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -7545,17 +7545,17 @@
     },
     "35/030": {
       "votes": {
-        "jessica_gonzalez_rojas": 65,
+        "jessica_gonzalez-rojas": 65,
         "jessica_ramos": 45,
         "hiram_monserrate": 19,
         "scattered": 0
       },
       "total": 129,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 15.5,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -7565,7 +7565,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -7586,17 +7586,17 @@
     },
     "35/032": {
       "votes": {
-        "jessica_gonzalez_rojas": 64,
+        "jessica_gonzalez-rojas": 64,
         "jessica_ramos": 60,
         "hiram_monserrate": 31,
         "scattered": 1
       },
       "total": 156,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 2.6,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -7606,7 +7606,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -7627,17 +7627,17 @@
     },
     "35/033": {
       "votes": {
-        "jessica_gonzalez_rojas": 67,
+        "jessica_gonzalez-rojas": 67,
         "jessica_ramos": 52,
         "hiram_monserrate": 41,
         "scattered": 0
       },
       "total": 160,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 9.4,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -7647,7 +7647,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -7668,7 +7668,7 @@
     },
     "35/034": {
       "votes": {
-        "jessica_gonzalez_rojas": 57,
+        "jessica_gonzalez-rojas": 57,
         "jessica_ramos": 59,
         "hiram_monserrate": 22,
         "scattered": 0
@@ -7678,7 +7678,7 @@
       "margin": 1.4,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -7688,7 +7688,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -7709,17 +7709,17 @@
     },
     "35/035": {
       "votes": {
-        "jessica_gonzalez_rojas": 53,
+        "jessica_gonzalez-rojas": 53,
         "jessica_ramos": 51,
         "hiram_monserrate": 25,
         "scattered": 0
       },
       "total": 129,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 1.6,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -7729,7 +7729,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -7750,17 +7750,17 @@
     },
     "35/036": {
       "votes": {
-        "jessica_gonzalez_rojas": 71,
+        "jessica_gonzalez-rojas": 71,
         "jessica_ramos": 47,
         "hiram_monserrate": 42,
         "scattered": 0
       },
       "total": 160,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 15,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -7770,7 +7770,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -7791,17 +7791,17 @@
     },
     "35/037": {
       "votes": {
-        "jessica_gonzalez_rojas": 42,
+        "jessica_gonzalez-rojas": 42,
         "jessica_ramos": 27,
         "hiram_monserrate": 11,
         "scattered": 0
       },
       "total": 80,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 18.8,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -7811,7 +7811,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -7832,7 +7832,7 @@
     },
     "35/039": {
       "votes": {
-        "jessica_gonzalez_rojas": 54,
+        "jessica_gonzalez-rojas": 54,
         "jessica_ramos": 59,
         "hiram_monserrate": 14,
         "scattered": 1
@@ -7842,7 +7842,7 @@
       "margin": 3.9,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -7852,7 +7852,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -7873,17 +7873,17 @@
     },
     "35/043": {
       "votes": {
-        "jessica_gonzalez_rojas": 13,
+        "jessica_gonzalez-rojas": 13,
         "jessica_ramos": 12,
         "hiram_monserrate": 3,
         "scattered": 0
       },
       "total": 28,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 3.6,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -7893,7 +7893,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -7914,7 +7914,7 @@
     },
     "35/044": {
       "votes": {
-        "jessica_gonzalez_rojas": 27,
+        "jessica_gonzalez-rojas": 27,
         "jessica_ramos": 34,
         "hiram_monserrate": 8,
         "scattered": 0
@@ -7924,7 +7924,7 @@
       "margin": 10.1,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -7934,7 +7934,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -7955,7 +7955,7 @@
     },
     "35/046": {
       "votes": {
-        "jessica_gonzalez_rojas": 31,
+        "jessica_gonzalez-rojas": 31,
         "jessica_ramos": 42,
         "hiram_monserrate": 18,
         "scattered": 0
@@ -7965,7 +7965,7 @@
       "margin": 12.1,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -7975,7 +7975,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -7996,17 +7996,17 @@
     },
     "35/048": {
       "votes": {
-        "jessica_gonzalez_rojas": 13,
+        "jessica_gonzalez-rojas": 13,
         "jessica_ramos": 7,
         "hiram_monserrate": 1,
         "scattered": 0
       },
       "total": 21,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 28.6,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -8016,7 +8016,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -8037,17 +8037,17 @@
     },
     "35/050": {
       "votes": {
-        "jessica_gonzalez_rojas": 0,
+        "jessica_gonzalez-rojas": 0,
         "jessica_ramos": 0,
         "hiram_monserrate": 0,
         "scattered": 0
       },
       "total": 0,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 0,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -8057,7 +8057,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -8078,17 +8078,17 @@
     },
     "35/054": {
       "votes": {
-        "jessica_gonzalez_rojas": 0,
+        "jessica_gonzalez-rojas": 0,
         "jessica_ramos": 0,
         "hiram_monserrate": 0,
         "scattered": 0
       },
       "total": 0,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 0,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -8098,7 +8098,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -8119,17 +8119,17 @@
     },
     "39/001": {
       "votes": {
-        "jessica_gonzalez_rojas": 201,
+        "jessica_gonzalez-rojas": 201,
         "jessica_ramos": 155,
         "hiram_monserrate": 31,
         "scattered": 1
       },
       "total": 388,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 11.9,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -8139,7 +8139,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -8160,17 +8160,17 @@
     },
     "39/002": {
       "votes": {
-        "jessica_gonzalez_rojas": 297,
+        "jessica_gonzalez-rojas": 297,
         "jessica_ramos": 189,
         "hiram_monserrate": 17,
         "scattered": 2
       },
       "total": 505,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 21.4,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -8180,7 +8180,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -8201,17 +8201,17 @@
     },
     "39/003": {
       "votes": {
-        "jessica_gonzalez_rojas": 194,
+        "jessica_gonzalez-rojas": 194,
         "jessica_ramos": 107,
         "hiram_monserrate": 21,
         "scattered": 2
       },
       "total": 324,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 26.9,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -8221,7 +8221,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -8242,17 +8242,17 @@
     },
     "39/004": {
       "votes": {
-        "jessica_gonzalez_rojas": 162,
+        "jessica_gonzalez-rojas": 162,
         "jessica_ramos": 113,
         "hiram_monserrate": 21,
         "scattered": 1
       },
       "total": 297,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 16.5,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -8262,7 +8262,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -8283,17 +8283,17 @@
     },
     "39/005": {
       "votes": {
-        "jessica_gonzalez_rojas": 183,
+        "jessica_gonzalez-rojas": 183,
         "jessica_ramos": 90,
         "hiram_monserrate": 15,
         "scattered": 3
       },
       "total": 291,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 32,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -8303,7 +8303,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -8324,17 +8324,17 @@
     },
     "39/006": {
       "votes": {
-        "jessica_gonzalez_rojas": 294,
+        "jessica_gonzalez-rojas": 294,
         "jessica_ramos": 208,
         "hiram_monserrate": 26,
         "scattered": 1
       },
       "total": 529,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 16.3,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -8344,7 +8344,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -8365,17 +8365,17 @@
     },
     "39/007": {
       "votes": {
-        "jessica_gonzalez_rojas": 215,
+        "jessica_gonzalez-rojas": 215,
         "jessica_ramos": 132,
         "hiram_monserrate": 23,
         "scattered": 3
       },
       "total": 373,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 22.3,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -8385,7 +8385,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -8406,17 +8406,17 @@
     },
     "39/008": {
       "votes": {
-        "jessica_gonzalez_rojas": 173,
+        "jessica_gonzalez-rojas": 173,
         "jessica_ramos": 146,
         "hiram_monserrate": 19,
         "scattered": 2
       },
       "total": 340,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 7.9,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -8426,7 +8426,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -8447,17 +8447,17 @@
     },
     "39/009": {
       "votes": {
-        "jessica_gonzalez_rojas": 183,
+        "jessica_gonzalez-rojas": 183,
         "jessica_ramos": 107,
         "hiram_monserrate": 12,
         "scattered": 0
       },
       "total": 302,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 25.2,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -8467,7 +8467,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -8488,17 +8488,17 @@
     },
     "39/010": {
       "votes": {
-        "jessica_gonzalez_rojas": 40,
+        "jessica_gonzalez-rojas": 40,
         "jessica_ramos": 31,
         "hiram_monserrate": 10,
         "scattered": 0
       },
       "total": 81,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 11.1,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -8508,7 +8508,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -8529,7 +8529,7 @@
     },
     "39/013": {
       "votes": {
-        "jessica_gonzalez_rojas": 46,
+        "jessica_gonzalez-rojas": 46,
         "jessica_ramos": 56,
         "hiram_monserrate": 9,
         "scattered": 2
@@ -8539,7 +8539,7 @@
       "margin": 8.8,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -8549,7 +8549,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -8570,7 +8570,7 @@
     },
     "39/014": {
       "votes": {
-        "jessica_gonzalez_rojas": 39,
+        "jessica_gonzalez-rojas": 39,
         "jessica_ramos": 53,
         "hiram_monserrate": 15,
         "scattered": 0
@@ -8580,7 +8580,7 @@
       "margin": 13.1,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -8590,7 +8590,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -8611,17 +8611,17 @@
     },
     "39/015": {
       "votes": {
-        "jessica_gonzalez_rojas": 65,
+        "jessica_gonzalez-rojas": 65,
         "jessica_ramos": 58,
         "hiram_monserrate": 37,
         "scattered": 0
       },
       "total": 160,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 4.4,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -8631,7 +8631,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -8652,17 +8652,17 @@
     },
     "39/016": {
       "votes": {
-        "jessica_gonzalez_rojas": 4,
+        "jessica_gonzalez-rojas": 4,
         "jessica_ramos": 3,
         "hiram_monserrate": 0,
         "scattered": 0
       },
       "total": 7,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 14.3,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -8672,7 +8672,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -8693,17 +8693,17 @@
     },
     "39/017": {
       "votes": {
-        "jessica_gonzalez_rojas": 17,
+        "jessica_gonzalez-rojas": 17,
         "jessica_ramos": 8,
         "hiram_monserrate": 2,
         "scattered": 0
       },
       "total": 27,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 33.3,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -8713,7 +8713,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -8734,7 +8734,7 @@
     },
     "39/018": {
       "votes": {
-        "jessica_gonzalez_rojas": 50,
+        "jessica_gonzalez-rojas": 50,
         "jessica_ramos": 57,
         "hiram_monserrate": 15,
         "scattered": 1
@@ -8744,7 +8744,7 @@
       "margin": 5.7,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -8754,7 +8754,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -8775,17 +8775,17 @@
     },
     "39/019": {
       "votes": {
-        "jessica_gonzalez_rojas": 59,
+        "jessica_gonzalez-rojas": 59,
         "jessica_ramos": 54,
         "hiram_monserrate": 12,
         "scattered": 1
       },
       "total": 126,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 4,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -8795,7 +8795,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -8816,17 +8816,17 @@
     },
     "39/020": {
       "votes": {
-        "jessica_gonzalez_rojas": 33,
+        "jessica_gonzalez-rojas": 33,
         "jessica_ramos": 26,
         "hiram_monserrate": 10,
         "scattered": 1
       },
       "total": 70,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 10,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -8836,7 +8836,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -8857,17 +8857,17 @@
     },
     "39/021": {
       "votes": {
-        "jessica_gonzalez_rojas": 51,
+        "jessica_gonzalez-rojas": 51,
         "jessica_ramos": 50,
         "hiram_monserrate": 11,
         "scattered": 1
       },
       "total": 113,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 0.9,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -8877,7 +8877,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -8898,17 +8898,17 @@
     },
     "39/023": {
       "votes": {
-        "jessica_gonzalez_rojas": 59,
+        "jessica_gonzalez-rojas": 59,
         "jessica_ramos": 57,
         "hiram_monserrate": 16,
         "scattered": 0
       },
       "total": 132,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 1.5,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -8918,7 +8918,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -8939,7 +8939,7 @@
     },
     "39/024": {
       "votes": {
-        "jessica_gonzalez_rojas": 20,
+        "jessica_gonzalez-rojas": 20,
         "jessica_ramos": 30,
         "hiram_monserrate": 20,
         "scattered": 0
@@ -8949,7 +8949,7 @@
       "margin": 14.3,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -8959,7 +8959,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -8980,17 +8980,17 @@
     },
     "39/025": {
       "votes": {
-        "jessica_gonzalez_rojas": 44,
+        "jessica_gonzalez-rojas": 44,
         "jessica_ramos": 36,
         "hiram_monserrate": 6,
         "scattered": 0
       },
       "total": 86,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 9.3,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -9000,7 +9000,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -9021,17 +9021,17 @@
     },
     "39/026": {
       "votes": {
-        "jessica_gonzalez_rojas": 45,
+        "jessica_gonzalez-rojas": 45,
         "jessica_ramos": 34,
         "hiram_monserrate": 8,
         "scattered": 0
       },
       "total": 87,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 12.6,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -9041,7 +9041,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -9062,17 +9062,17 @@
     },
     "39/027": {
       "votes": {
-        "jessica_gonzalez_rojas": 5,
+        "jessica_gonzalez-rojas": 5,
         "jessica_ramos": 5,
         "hiram_monserrate": 3,
         "scattered": 0
       },
       "total": 13,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 0,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -9082,7 +9082,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -9103,17 +9103,17 @@
     },
     "39/029": {
       "votes": {
-        "jessica_gonzalez_rojas": 23,
+        "jessica_gonzalez-rojas": 23,
         "jessica_ramos": 16,
         "hiram_monserrate": 17,
         "scattered": 0
       },
       "total": 56,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 10.7,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -9123,7 +9123,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -9144,7 +9144,7 @@
     },
     "39/030": {
       "votes": {
-        "jessica_gonzalez_rojas": 15,
+        "jessica_gonzalez-rojas": 15,
         "jessica_ramos": 33,
         "hiram_monserrate": 27,
         "scattered": 0
@@ -9154,7 +9154,7 @@
       "margin": 8,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -9164,7 +9164,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -9185,7 +9185,7 @@
     },
     "39/031": {
       "votes": {
-        "jessica_gonzalez_rojas": 16,
+        "jessica_gonzalez-rojas": 16,
         "jessica_ramos": 18,
         "hiram_monserrate": 12,
         "scattered": 0
@@ -9195,7 +9195,7 @@
       "margin": 4.3,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -9205,7 +9205,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -9226,17 +9226,17 @@
     },
     "39/032": {
       "votes": {
-        "jessica_gonzalez_rojas": 38,
+        "jessica_gonzalez-rojas": 38,
         "jessica_ramos": 13,
         "hiram_monserrate": 31,
         "scattered": 1
       },
       "total": 83,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 8.4,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -9246,7 +9246,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -9267,17 +9267,17 @@
     },
     "39/033": {
       "votes": {
-        "jessica_gonzalez_rojas": 35,
+        "jessica_gonzalez-rojas": 35,
         "jessica_ramos": 26,
         "hiram_monserrate": 18,
         "scattered": 0
       },
       "total": 79,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 11.4,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -9287,7 +9287,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -9308,17 +9308,17 @@
     },
     "39/034": {
       "votes": {
-        "jessica_gonzalez_rojas": 39,
+        "jessica_gonzalez-rojas": 39,
         "jessica_ramos": 23,
         "hiram_monserrate": 8,
         "scattered": 0
       },
       "total": 70,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 22.9,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -9328,7 +9328,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -9349,17 +9349,17 @@
     },
     "39/035": {
       "votes": {
-        "jessica_gonzalez_rojas": 46,
+        "jessica_gonzalez-rojas": 46,
         "jessica_ramos": 38,
         "hiram_monserrate": 17,
         "scattered": 0
       },
       "total": 101,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 7.9,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -9369,7 +9369,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -9390,17 +9390,17 @@
     },
     "39/036": {
       "votes": {
-        "jessica_gonzalez_rojas": 19,
+        "jessica_gonzalez-rojas": 19,
         "jessica_ramos": 10,
         "hiram_monserrate": 9,
         "scattered": 0
       },
       "total": 38,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 23.7,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -9410,7 +9410,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -9431,17 +9431,17 @@
     },
     "39/037": {
       "votes": {
-        "jessica_gonzalez_rojas": 34,
+        "jessica_gonzalez-rojas": 34,
         "jessica_ramos": 17,
         "hiram_monserrate": 8,
         "scattered": 0
       },
       "total": 59,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 28.8,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -9451,7 +9451,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -9472,17 +9472,17 @@
     },
     "39/038": {
       "votes": {
-        "jessica_gonzalez_rojas": 21,
+        "jessica_gonzalez-rojas": 21,
         "jessica_ramos": 17,
         "hiram_monserrate": 3,
         "scattered": 0
       },
       "total": 41,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 9.8,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -9492,7 +9492,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -9513,17 +9513,17 @@
     },
     "39/039": {
       "votes": {
-        "jessica_gonzalez_rojas": 21,
+        "jessica_gonzalez-rojas": 21,
         "jessica_ramos": 20,
         "hiram_monserrate": 7,
         "scattered": 0
       },
       "total": 48,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 2.1,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -9533,7 +9533,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {
@@ -9554,17 +9554,17 @@
     },
     "39/048": {
       "votes": {
-        "jessica_gonzalez_rojas": 63,
+        "jessica_gonzalez-rojas": 63,
         "jessica_ramos": 42,
         "hiram_monserrate": 9,
         "scattered": 0
       },
       "total": 114,
-      "winnerId": "jessica_gonzalez_rojas",
+      "winnerId": "jessica_gonzalez-rojas",
       "margin": 18.4,
       "candidates": [
         {
-          "id": "jessica_gonzalez_rojas",
+          "id": "jessica_gonzalez-rojas",
           "name": "Jessica Gonzalez-Rojas",
           "party": "Democratic",
           "isIncumbent": false,
@@ -9574,7 +9574,7 @@
           "id": "jessica_ramos",
           "name": "Jessica Ramos",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#7c3aed"
         },
         {

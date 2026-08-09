@@ -19,12 +19,21 @@
   "results": {
     "23": {
       "votes": {
-        "uncontested_primary_council_23": 0
+        "linda_lee": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_council_23",
+      "winnerId": "linda_lee",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "linda_lee",
+          "name": "Linda Lee",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

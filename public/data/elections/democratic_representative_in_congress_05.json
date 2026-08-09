@@ -19,12 +19,21 @@
   "results": {
     "5": {
       "votes": {
-        "uncontested_primary_congressional_5": 0
+        "gregory_meeks": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_congressional_5",
+      "winnerId": "gregory_meeks",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "gregory_meeks",
+          "name": "Gregory Meeks",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

@@ -19,12 +19,21 @@
   "results": {
     "18": {
       "votes": {
-        "uncontested_primary_senate_18": 0
+        "julia_salazar": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_senate_18",
+      "winnerId": "julia_salazar",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "julia_salazar",
+          "name": "Julia Salazar",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

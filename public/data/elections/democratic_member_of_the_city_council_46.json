@@ -19,12 +19,21 @@
   "results": {
     "46": {
       "votes": {
-        "uncontested_primary_council_46": 0
+        "mercedes_narcisse": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_council_46",
+      "winnerId": "mercedes_narcisse",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "mercedes_narcisse",
+          "name": "Mercedes Narcisse",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

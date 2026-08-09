@@ -19,12 +19,21 @@
   "results": {
     "42": {
       "votes": {
-        "uncontested_primary_assembly_42": 0
+        "rodneyse_bichotte_hermelyn": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_assembly_42",
+      "winnerId": "rodneyse_bichotte_hermelyn",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "rodneyse_bichotte_hermelyn",
+          "name": "Rodneyse Bichotte Hermelyn",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

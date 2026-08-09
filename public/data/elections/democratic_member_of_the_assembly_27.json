@@ -19,12 +19,21 @@
   "results": {
     "27": {
       "votes": {
-        "uncontested_primary_assembly_27": 0
+        "sam_berger": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_assembly_27",
+      "winnerId": "sam_berger",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "sam_berger",
+          "name": "Sam Berger",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

@@ -19,12 +19,21 @@
   "results": {
     "55": {
       "votes": {
-        "uncontested_primary_assembly_55": 0
+        "latrice_walker": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_assembly_55",
+      "winnerId": "latrice_walker",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "latrice_walker",
+          "name": "Latrice Walker",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

@@ -19,12 +19,21 @@
   "results": {
     "10": {
       "votes": {
-        "uncontested_primary_senate_10": 0
+        "james_sanders_jr": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_senate_10",
+      "winnerId": "james_sanders_jr",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "james_sanders_jr",
+          "name": "James Sanders Jr.",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

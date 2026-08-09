@@ -19,12 +19,21 @@
   "results": {
     "12": {
       "votes": {
-        "uncontested_primary_council_12": 0
+        "kevin_riley": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_council_12",
+      "winnerId": "kevin_riley",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "kevin_riley",
+          "name": "Kevin Riley",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

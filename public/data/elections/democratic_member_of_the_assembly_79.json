@@ -19,12 +19,21 @@
   "results": {
     "79": {
       "votes": {
-        "uncontested_primary_assembly_79": 0
+        "chantel_jackson": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_assembly_79",
+      "winnerId": "chantel_jackson",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "chantel_jackson",
+          "name": "Chantel Jackson",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

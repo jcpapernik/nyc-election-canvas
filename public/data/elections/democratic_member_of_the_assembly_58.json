@@ -19,12 +19,21 @@
   "results": {
     "58": {
       "votes": {
-        "uncontested_primary_assembly_58": 0
+        "monique_chandler-waterman": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_assembly_58",
+      "winnerId": "monique_chandler-waterman",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "monique_chandler-waterman",
+          "name": "Monique Chandler-Waterman",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

@@ -19,12 +19,21 @@
   "results": {
     "13": {
       "votes": {
-        "uncontested_primary_council_13": 0
+        "shirley_aldebol": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_council_13",
+      "winnerId": "shirley_aldebol",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "shirley_aldebol",
+          "name": "Shirley Aldebol",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

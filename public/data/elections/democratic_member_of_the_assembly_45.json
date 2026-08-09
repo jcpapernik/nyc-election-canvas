@@ -19,12 +19,21 @@
   "results": {
     "45": {
       "votes": {
-        "uncontested_primary_assembly_45": 0
+        "michael_novakhov": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_assembly_45",
+      "winnerId": "michael_novakhov",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "michael_novakhov",
+          "name": "Michael Novakhov",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

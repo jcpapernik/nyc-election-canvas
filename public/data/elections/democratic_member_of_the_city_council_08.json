@@ -19,12 +19,21 @@
   "results": {
     "8": {
       "votes": {
-        "uncontested_primary_council_8": 0
+        "elsie_encarnacion": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_council_8",
+      "winnerId": "elsie_encarnacion",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "elsie_encarnacion",
+          "name": "Elsie Encarnacion",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

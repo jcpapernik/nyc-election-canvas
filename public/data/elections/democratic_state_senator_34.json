@@ -19,12 +19,21 @@
   "results": {
     "34": {
       "votes": {
-        "uncontested_primary_senate_34": 0
+        "nathalia_fernandez": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_senate_34",
+      "winnerId": "nathalia_fernandez",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "nathalia_fernandez",
+          "name": "Nathalia Fernandez",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

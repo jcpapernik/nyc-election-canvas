@@ -19,12 +19,21 @@
   "results": {
     "50": {
       "votes": {
-        "uncontested_primary_council_50": 0
+        "david_carr": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_council_50",
+      "winnerId": "david_carr",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "david_carr",
+          "name": "David Carr",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

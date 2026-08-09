@@ -19,12 +19,21 @@
   "results": {
     "11": {
       "votes": {
-        "uncontested_primary_senate_11": 0
+        "toby_ann_stavisky": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_senate_11",
+      "winnerId": "toby_ann_stavisky",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "toby_ann_stavisky",
+          "name": "Toby Ann Stavisky",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

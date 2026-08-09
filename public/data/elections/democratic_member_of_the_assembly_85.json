@@ -19,12 +19,21 @@
   "results": {
     "85": {
       "votes": {
-        "uncontested_primary_assembly_85": 0
+        "emerita_torres": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_assembly_85",
+      "winnerId": "emerita_torres",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "emerita_torres",
+          "name": "Emerita Torres",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

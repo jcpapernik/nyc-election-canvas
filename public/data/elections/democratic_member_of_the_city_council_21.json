@@ -19,12 +19,21 @@
   "results": {
     "21": {
       "votes": {
-        "uncontested_primary_council_21": 0
+        "shanel_thomas-henry": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_council_21",
+      "winnerId": "shanel_thomas-henry",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "shanel_thomas-henry",
+          "name": "Shanel Thomas-Henry",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

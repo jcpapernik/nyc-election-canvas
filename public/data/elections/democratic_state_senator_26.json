@@ -19,12 +19,21 @@
   "results": {
     "26": {
       "votes": {
-        "uncontested_primary_senate_26": 0
+        "andrew_gounardes": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_senate_26",
+      "winnerId": "andrew_gounardes",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "andrew_gounardes",
+          "name": "Andrew Gounardes",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

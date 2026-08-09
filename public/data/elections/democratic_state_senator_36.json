@@ -19,12 +19,21 @@
   "results": {
     "36": {
       "votes": {
-        "uncontested_primary_senate_36": 0
+        "jamaal_bailey": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_senate_36",
+      "winnerId": "jamaal_bailey",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "jamaal_bailey",
+          "name": "Jamaal Bailey",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

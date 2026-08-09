@@ -60,12 +60,21 @@ export const ElectionMetricsCard: React.FC = () => {
     electionData.candidates.forEach(c => { candidateCitywideVotes[c.id] = 0; });
   }
 
-  if (electionData.results) {
-    Object.values(electionData.results).forEach(res => {
-      totalCitywideVotes += res.total;
+  if (electionData.edResults && Object.keys(electionData.edResults).length > 0) {
+    Object.values(electionData.edResults).forEach(res => {
+      totalCitywideVotes += res.total || 0;
       if (electionData.candidates) {
         electionData.candidates.forEach(c => {
-          candidateCitywideVotes[c.id] += res.votes[c.id] || 0;
+          candidateCitywideVotes[c.id] += (res.votes?.[c.id] || 0);
+        });
+      }
+    });
+  } else if (electionData.results) {
+    Object.values(electionData.results).forEach(res => {
+      totalCitywideVotes += res.total || 0;
+      if (electionData.candidates) {
+        electionData.candidates.forEach(c => {
+          candidateCitywideVotes[c.id] += (res.votes?.[c.id] || 0);
         });
       }
     });

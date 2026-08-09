@@ -34,7 +34,7 @@
     "31": {
       "votes": {
         "robert_jackson": 18882,
-        "nayma_silver_matos": 7280,
+        "nayma_silver-matos": 7280,
         "scattered": 108
       },
       "total": 26270,
@@ -45,11 +45,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -69,7 +69,7 @@
     "71001": {
       "votes": {
         "robert_jackson": 380,
-        "nayma_silver_matos": 74,
+        "nayma_silver-matos": 74,
         "scattered": 0
       },
       "total": 454,
@@ -80,11 +80,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -102,7 +102,7 @@
     "71002": {
       "votes": {
         "robert_jackson": 272,
-        "nayma_silver_matos": 62,
+        "nayma_silver-matos": 62,
         "scattered": 1
       },
       "total": 335,
@@ -113,11 +113,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -135,7 +135,7 @@
     "71003": {
       "votes": {
         "robert_jackson": 527,
-        "nayma_silver_matos": 101,
+        "nayma_silver-matos": 101,
         "scattered": 3
       },
       "total": 631,
@@ -146,11 +146,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -168,7 +168,7 @@
     "71004": {
       "votes": {
         "robert_jackson": 623,
-        "nayma_silver_matos": 95,
+        "nayma_silver-matos": 95,
         "scattered": 4
       },
       "total": 722,
@@ -179,11 +179,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -201,7 +201,7 @@
     "71005": {
       "votes": {
         "robert_jackson": 546,
-        "nayma_silver_matos": 66,
+        "nayma_silver-matos": 66,
         "scattered": 3
       },
       "total": 615,
@@ -212,11 +212,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -234,7 +234,7 @@
     "71006": {
       "votes": {
         "robert_jackson": 497,
-        "nayma_silver_matos": 69,
+        "nayma_silver-matos": 69,
         "scattered": 2
       },
       "total": 568,
@@ -245,11 +245,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -267,7 +267,7 @@
     "71007": {
       "votes": {
         "robert_jackson": 383,
-        "nayma_silver_matos": 59,
+        "nayma_silver-matos": 59,
         "scattered": 0
       },
       "total": 442,
@@ -278,11 +278,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -300,7 +300,7 @@
     "71008": {
       "votes": {
         "robert_jackson": 329,
-        "nayma_silver_matos": 72,
+        "nayma_silver-matos": 72,
         "scattered": 0
       },
       "total": 401,
@@ -311,11 +311,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -333,7 +333,7 @@
     "71009": {
       "votes": {
         "robert_jackson": 380,
-        "nayma_silver_matos": 78,
+        "nayma_silver-matos": 78,
         "scattered": 0
       },
       "total": 458,
@@ -344,11 +344,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -366,7 +366,7 @@
     "71010": {
       "votes": {
         "robert_jackson": 277,
-        "nayma_silver_matos": 48,
+        "nayma_silver-matos": 48,
         "scattered": 1
       },
       "total": 326,
@@ -377,11 +377,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -399,7 +399,7 @@
     "71011": {
       "votes": {
         "robert_jackson": 183,
-        "nayma_silver_matos": 38,
+        "nayma_silver-matos": 38,
         "scattered": 2
       },
       "total": 223,
@@ -410,11 +410,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -432,7 +432,7 @@
     "71012": {
       "votes": {
         "robert_jackson": 169,
-        "nayma_silver_matos": 56,
+        "nayma_silver-matos": 56,
         "scattered": 1
       },
       "total": 226,
@@ -443,11 +443,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -465,7 +465,7 @@
     "71013": {
       "votes": {
         "robert_jackson": 191,
-        "nayma_silver_matos": 64,
+        "nayma_silver-matos": 64,
         "scattered": 1
       },
       "total": 256,
@@ -476,11 +476,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -498,7 +498,7 @@
     "71014": {
       "votes": {
         "robert_jackson": 147,
-        "nayma_silver_matos": 56,
+        "nayma_silver-matos": 56,
         "scattered": 0
       },
       "total": 203,
@@ -509,11 +509,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -531,7 +531,7 @@
     "71015": {
       "votes": {
         "robert_jackson": 164,
-        "nayma_silver_matos": 70,
+        "nayma_silver-matos": 70,
         "scattered": 0
       },
       "total": 234,
@@ -542,11 +542,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -564,7 +564,7 @@
     "71016": {
       "votes": {
         "robert_jackson": 131,
-        "nayma_silver_matos": 74,
+        "nayma_silver-matos": 74,
         "scattered": 0
       },
       "total": 205,
@@ -575,11 +575,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -597,7 +597,7 @@
     "71017": {
       "votes": {
         "robert_jackson": 177,
-        "nayma_silver_matos": 67,
+        "nayma_silver-matos": 67,
         "scattered": 1
       },
       "total": 245,
@@ -608,11 +608,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -630,7 +630,7 @@
     "71018": {
       "votes": {
         "robert_jackson": 172,
-        "nayma_silver_matos": 59,
+        "nayma_silver-matos": 59,
         "scattered": 2
       },
       "total": 233,
@@ -641,11 +641,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -663,7 +663,7 @@
     "71019": {
       "votes": {
         "robert_jackson": 132,
-        "nayma_silver_matos": 44,
+        "nayma_silver-matos": 44,
         "scattered": 1
       },
       "total": 177,
@@ -674,11 +674,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -696,7 +696,7 @@
     "71020": {
       "votes": {
         "robert_jackson": 148,
-        "nayma_silver_matos": 45,
+        "nayma_silver-matos": 45,
         "scattered": 2
       },
       "total": 195,
@@ -707,11 +707,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -729,7 +729,7 @@
     "71021": {
       "votes": {
         "robert_jackson": 121,
-        "nayma_silver_matos": 65,
+        "nayma_silver-matos": 65,
         "scattered": 1
       },
       "total": 187,
@@ -740,11 +740,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -762,7 +762,7 @@
     "71022": {
       "votes": {
         "robert_jackson": 122,
-        "nayma_silver_matos": 44,
+        "nayma_silver-matos": 44,
         "scattered": 1
       },
       "total": 167,
@@ -773,11 +773,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -795,7 +795,7 @@
     "71023": {
       "votes": {
         "robert_jackson": 160,
-        "nayma_silver_matos": 57,
+        "nayma_silver-matos": 57,
         "scattered": 0
       },
       "total": 217,
@@ -806,11 +806,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -828,7 +828,7 @@
     "71024": {
       "votes": {
         "robert_jackson": 319,
-        "nayma_silver_matos": 96,
+        "nayma_silver-matos": 96,
         "scattered": 2
       },
       "total": 417,
@@ -839,11 +839,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -861,7 +861,7 @@
     "71025": {
       "votes": {
         "robert_jackson": 112,
-        "nayma_silver_matos": 41,
+        "nayma_silver-matos": 41,
         "scattered": 0
       },
       "total": 153,
@@ -872,11 +872,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -894,7 +894,7 @@
     "71026": {
       "votes": {
         "robert_jackson": 184,
-        "nayma_silver_matos": 42,
+        "nayma_silver-matos": 42,
         "scattered": 0
       },
       "total": 226,
@@ -905,11 +905,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -927,7 +927,7 @@
     "71027": {
       "votes": {
         "robert_jackson": 217,
-        "nayma_silver_matos": 45,
+        "nayma_silver-matos": 45,
         "scattered": 0
       },
       "total": 262,
@@ -938,11 +938,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -960,7 +960,7 @@
     "71028": {
       "votes": {
         "robert_jackson": 128,
-        "nayma_silver_matos": 66,
+        "nayma_silver-matos": 66,
         "scattered": 0
       },
       "total": 194,
@@ -971,11 +971,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -993,7 +993,7 @@
     "71029": {
       "votes": {
         "robert_jackson": 126,
-        "nayma_silver_matos": 62,
+        "nayma_silver-matos": 62,
         "scattered": 0
       },
       "total": 188,
@@ -1004,11 +1004,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -1026,7 +1026,7 @@
     "71030": {
       "votes": {
         "robert_jackson": 133,
-        "nayma_silver_matos": 58,
+        "nayma_silver-matos": 58,
         "scattered": 0
       },
       "total": 191,
@@ -1037,11 +1037,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -1059,7 +1059,7 @@
     "71035": {
       "votes": {
         "robert_jackson": 162,
-        "nayma_silver_matos": 64,
+        "nayma_silver-matos": 64,
         "scattered": 0
       },
       "total": 226,
@@ -1070,11 +1070,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -1092,7 +1092,7 @@
     "71065": {
       "votes": {
         "robert_jackson": 37,
-        "nayma_silver_matos": 8,
+        "nayma_silver-matos": 8,
         "scattered": 0
       },
       "total": 45,
@@ -1103,11 +1103,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -1125,7 +1125,7 @@
     "72001": {
       "votes": {
         "robert_jackson": 86,
-        "nayma_silver_matos": 30,
+        "nayma_silver-matos": 30,
         "scattered": 0
       },
       "total": 116,
@@ -1136,11 +1136,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -1158,7 +1158,7 @@
     "72002": {
       "votes": {
         "robert_jackson": 118,
-        "nayma_silver_matos": 45,
+        "nayma_silver-matos": 45,
         "scattered": 0
       },
       "total": 163,
@@ -1169,11 +1169,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -1191,7 +1191,7 @@
     "72003": {
       "votes": {
         "robert_jackson": 111,
-        "nayma_silver_matos": 71,
+        "nayma_silver-matos": 71,
         "scattered": 2
       },
       "total": 184,
@@ -1202,11 +1202,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -1224,7 +1224,7 @@
     "72004": {
       "votes": {
         "robert_jackson": 479,
-        "nayma_silver_matos": 62,
+        "nayma_silver-matos": 62,
         "scattered": 1
       },
       "total": 542,
@@ -1235,11 +1235,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -1257,7 +1257,7 @@
     "72005": {
       "votes": {
         "robert_jackson": 419,
-        "nayma_silver_matos": 60,
+        "nayma_silver-matos": 60,
         "scattered": 1
       },
       "total": 480,
@@ -1268,11 +1268,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -1290,7 +1290,7 @@
     "72006": {
       "votes": {
         "robert_jackson": 244,
-        "nayma_silver_matos": 74,
+        "nayma_silver-matos": 74,
         "scattered": 2
       },
       "total": 320,
@@ -1301,11 +1301,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -1323,7 +1323,7 @@
     "72007": {
       "votes": {
         "robert_jackson": 97,
-        "nayma_silver_matos": 63,
+        "nayma_silver-matos": 63,
         "scattered": 1
       },
       "total": 161,
@@ -1334,11 +1334,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -1356,7 +1356,7 @@
     "72008": {
       "votes": {
         "robert_jackson": 229,
-        "nayma_silver_matos": 51,
+        "nayma_silver-matos": 51,
         "scattered": 2
       },
       "total": 282,
@@ -1367,11 +1367,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -1389,7 +1389,7 @@
     "72009": {
       "votes": {
         "robert_jackson": 310,
-        "nayma_silver_matos": 82,
+        "nayma_silver-matos": 82,
         "scattered": 0
       },
       "total": 392,
@@ -1400,11 +1400,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -1422,7 +1422,7 @@
     "72010": {
       "votes": {
         "robert_jackson": 226,
-        "nayma_silver_matos": 75,
+        "nayma_silver-matos": 75,
         "scattered": 0
       },
       "total": 301,
@@ -1433,11 +1433,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -1455,7 +1455,7 @@
     "72011": {
       "votes": {
         "robert_jackson": 89,
-        "nayma_silver_matos": 76,
+        "nayma_silver-matos": 76,
         "scattered": 0
       },
       "total": 165,
@@ -1466,11 +1466,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -1488,7 +1488,7 @@
     "72012": {
       "votes": {
         "robert_jackson": 93,
-        "nayma_silver_matos": 87,
+        "nayma_silver-matos": 87,
         "scattered": 1
       },
       "total": 181,
@@ -1499,11 +1499,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -1521,7 +1521,7 @@
     "72013": {
       "votes": {
         "robert_jackson": 123,
-        "nayma_silver_matos": 68,
+        "nayma_silver-matos": 68,
         "scattered": 0
       },
       "total": 191,
@@ -1532,11 +1532,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -1554,7 +1554,7 @@
     "72014": {
       "votes": {
         "robert_jackson": 118,
-        "nayma_silver_matos": 60,
+        "nayma_silver-matos": 60,
         "scattered": 0
       },
       "total": 178,
@@ -1565,11 +1565,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -1587,7 +1587,7 @@
     "72015": {
       "votes": {
         "robert_jackson": 123,
-        "nayma_silver_matos": 88,
+        "nayma_silver-matos": 88,
         "scattered": 0
       },
       "total": 211,
@@ -1598,11 +1598,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -1620,7 +1620,7 @@
     "72016": {
       "votes": {
         "robert_jackson": 65,
-        "nayma_silver_matos": 38,
+        "nayma_silver-matos": 38,
         "scattered": 0
       },
       "total": 103,
@@ -1631,11 +1631,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -1653,7 +1653,7 @@
     "72017": {
       "votes": {
         "robert_jackson": 64,
-        "nayma_silver_matos": 44,
+        "nayma_silver-matos": 44,
         "scattered": 1
       },
       "total": 109,
@@ -1664,11 +1664,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -1686,7 +1686,7 @@
     "72018": {
       "votes": {
         "robert_jackson": 124,
-        "nayma_silver_matos": 42,
+        "nayma_silver-matos": 42,
         "scattered": 1
       },
       "total": 167,
@@ -1697,11 +1697,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -1719,7 +1719,7 @@
     "72019": {
       "votes": {
         "robert_jackson": 157,
-        "nayma_silver_matos": 57,
+        "nayma_silver-matos": 57,
         "scattered": 2
       },
       "total": 216,
@@ -1730,11 +1730,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -1752,7 +1752,7 @@
     "72020": {
       "votes": {
         "robert_jackson": 88,
-        "nayma_silver_matos": 46,
+        "nayma_silver-matos": 46,
         "scattered": 0
       },
       "total": 134,
@@ -1763,11 +1763,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -1785,7 +1785,7 @@
     "72021": {
       "votes": {
         "robert_jackson": 55,
-        "nayma_silver_matos": 42,
+        "nayma_silver-matos": 42,
         "scattered": 0
       },
       "total": 97,
@@ -1796,11 +1796,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -1818,7 +1818,7 @@
     "72022": {
       "votes": {
         "robert_jackson": 52,
-        "nayma_silver_matos": 43,
+        "nayma_silver-matos": 43,
         "scattered": 0
       },
       "total": 95,
@@ -1829,11 +1829,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -1851,7 +1851,7 @@
     "72023": {
       "votes": {
         "robert_jackson": 90,
-        "nayma_silver_matos": 47,
+        "nayma_silver-matos": 47,
         "scattered": 0
       },
       "total": 137,
@@ -1862,11 +1862,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -1884,7 +1884,7 @@
     "72024": {
       "votes": {
         "robert_jackson": 97,
-        "nayma_silver_matos": 61,
+        "nayma_silver-matos": 61,
         "scattered": 0
       },
       "total": 158,
@@ -1895,11 +1895,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -1917,7 +1917,7 @@
     "72025": {
       "votes": {
         "robert_jackson": 174,
-        "nayma_silver_matos": 55,
+        "nayma_silver-matos": 55,
         "scattered": 0
       },
       "total": 229,
@@ -1928,11 +1928,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -1950,7 +1950,7 @@
     "72026": {
       "votes": {
         "robert_jackson": 275,
-        "nayma_silver_matos": 80,
+        "nayma_silver-matos": 80,
         "scattered": 0
       },
       "total": 355,
@@ -1961,11 +1961,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -1983,7 +1983,7 @@
     "72027": {
       "votes": {
         "robert_jackson": 159,
-        "nayma_silver_matos": 55,
+        "nayma_silver-matos": 55,
         "scattered": 0
       },
       "total": 214,
@@ -1994,11 +1994,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -2016,7 +2016,7 @@
     "72028": {
       "votes": {
         "robert_jackson": 58,
-        "nayma_silver_matos": 28,
+        "nayma_silver-matos": 28,
         "scattered": 0
       },
       "total": 86,
@@ -2027,11 +2027,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -2049,7 +2049,7 @@
     "72029": {
       "votes": {
         "robert_jackson": 149,
-        "nayma_silver_matos": 51,
+        "nayma_silver-matos": 51,
         "scattered": 1
       },
       "total": 201,
@@ -2060,11 +2060,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -2082,7 +2082,7 @@
     "72030": {
       "votes": {
         "robert_jackson": 153,
-        "nayma_silver_matos": 53,
+        "nayma_silver-matos": 53,
         "scattered": 0
       },
       "total": 206,
@@ -2093,11 +2093,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -2115,7 +2115,7 @@
     "72031": {
       "votes": {
         "robert_jackson": 79,
-        "nayma_silver_matos": 61,
+        "nayma_silver-matos": 61,
         "scattered": 1
       },
       "total": 141,
@@ -2126,11 +2126,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -2148,7 +2148,7 @@
     "72032": {
       "votes": {
         "robert_jackson": 149,
-        "nayma_silver_matos": 83,
+        "nayma_silver-matos": 83,
         "scattered": 0
       },
       "total": 232,
@@ -2159,11 +2159,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -2181,7 +2181,7 @@
     "72033": {
       "votes": {
         "robert_jackson": 161,
-        "nayma_silver_matos": 44,
+        "nayma_silver-matos": 44,
         "scattered": 0
       },
       "total": 205,
@@ -2192,11 +2192,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -2214,7 +2214,7 @@
     "72034": {
       "votes": {
         "robert_jackson": 54,
-        "nayma_silver_matos": 51,
+        "nayma_silver-matos": 51,
         "scattered": 0
       },
       "total": 105,
@@ -2225,11 +2225,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -2247,7 +2247,7 @@
     "72035": {
       "votes": {
         "robert_jackson": 76,
-        "nayma_silver_matos": 57,
+        "nayma_silver-matos": 57,
         "scattered": 0
       },
       "total": 133,
@@ -2258,11 +2258,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -2280,7 +2280,7 @@
     "72036": {
       "votes": {
         "robert_jackson": 69,
-        "nayma_silver_matos": 48,
+        "nayma_silver-matos": 48,
         "scattered": 0
       },
       "total": 117,
@@ -2291,11 +2291,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -2313,7 +2313,7 @@
     "72037": {
       "votes": {
         "robert_jackson": 112,
-        "nayma_silver_matos": 57,
+        "nayma_silver-matos": 57,
         "scattered": 2
       },
       "total": 171,
@@ -2324,11 +2324,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -2346,7 +2346,7 @@
     "72038": {
       "votes": {
         "robert_jackson": 95,
-        "nayma_silver_matos": 69,
+        "nayma_silver-matos": 69,
         "scattered": 7
       },
       "total": 171,
@@ -2357,11 +2357,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -2379,7 +2379,7 @@
     "72039": {
       "votes": {
         "robert_jackson": 85,
-        "nayma_silver_matos": 38,
+        "nayma_silver-matos": 38,
         "scattered": 0
       },
       "total": 123,
@@ -2390,11 +2390,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -2412,7 +2412,7 @@
     "72040": {
       "votes": {
         "robert_jackson": 97,
-        "nayma_silver_matos": 63,
+        "nayma_silver-matos": 63,
         "scattered": 1
       },
       "total": 161,
@@ -2423,11 +2423,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -2445,7 +2445,7 @@
     "72041": {
       "votes": {
         "robert_jackson": 153,
-        "nayma_silver_matos": 65,
+        "nayma_silver-matos": 65,
         "scattered": 2
       },
       "total": 220,
@@ -2456,11 +2456,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -2478,7 +2478,7 @@
     "72042": {
       "votes": {
         "robert_jackson": 100,
-        "nayma_silver_matos": 75,
+        "nayma_silver-matos": 75,
         "scattered": 0
       },
       "total": 175,
@@ -2489,11 +2489,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -2511,7 +2511,7 @@
     "72043": {
       "votes": {
         "robert_jackson": 100,
-        "nayma_silver_matos": 60,
+        "nayma_silver-matos": 60,
         "scattered": 0
       },
       "total": 160,
@@ -2522,11 +2522,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -2544,7 +2544,7 @@
     "72044": {
       "votes": {
         "robert_jackson": 102,
-        "nayma_silver_matos": 65,
+        "nayma_silver-matos": 65,
         "scattered": 0
       },
       "total": 167,
@@ -2555,11 +2555,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -2577,7 +2577,7 @@
     "72045": {
       "votes": {
         "robert_jackson": 58,
-        "nayma_silver_matos": 47,
+        "nayma_silver-matos": 47,
         "scattered": 0
       },
       "total": 105,
@@ -2588,11 +2588,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -2610,7 +2610,7 @@
     "72046": {
       "votes": {
         "robert_jackson": 103,
-        "nayma_silver_matos": 41,
+        "nayma_silver-matos": 41,
         "scattered": 1
       },
       "total": 145,
@@ -2621,11 +2621,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -2643,7 +2643,7 @@
     "72047": {
       "votes": {
         "robert_jackson": 65,
-        "nayma_silver_matos": 48,
+        "nayma_silver-matos": 48,
         "scattered": 0
       },
       "total": 113,
@@ -2654,11 +2654,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -2676,7 +2676,7 @@
     "72048": {
       "votes": {
         "robert_jackson": 82,
-        "nayma_silver_matos": 54,
+        "nayma_silver-matos": 54,
         "scattered": 0
       },
       "total": 136,
@@ -2687,11 +2687,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -2709,7 +2709,7 @@
     "72049": {
       "votes": {
         "robert_jackson": 73,
-        "nayma_silver_matos": 38,
+        "nayma_silver-matos": 38,
         "scattered": 0
       },
       "total": 111,
@@ -2720,11 +2720,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -2742,7 +2742,7 @@
     "72050": {
       "votes": {
         "robert_jackson": 59,
-        "nayma_silver_matos": 47,
+        "nayma_silver-matos": 47,
         "scattered": 0
       },
       "total": 106,
@@ -2753,11 +2753,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -2775,7 +2775,7 @@
     "72051": {
       "votes": {
         "robert_jackson": 62,
-        "nayma_silver_matos": 57,
+        "nayma_silver-matos": 57,
         "scattered": 1
       },
       "total": 120,
@@ -2786,11 +2786,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -2808,7 +2808,7 @@
     "72052": {
       "votes": {
         "robert_jackson": 113,
-        "nayma_silver_matos": 44,
+        "nayma_silver-matos": 44,
         "scattered": 1
       },
       "total": 158,
@@ -2819,11 +2819,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -2841,7 +2841,7 @@
     "72053": {
       "votes": {
         "robert_jackson": 91,
-        "nayma_silver_matos": 44,
+        "nayma_silver-matos": 44,
         "scattered": 0
       },
       "total": 135,
@@ -2852,11 +2852,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -2874,7 +2874,7 @@
     "72054": {
       "votes": {
         "robert_jackson": 74,
-        "nayma_silver_matos": 31,
+        "nayma_silver-matos": 31,
         "scattered": 1
       },
       "total": 106,
@@ -2885,11 +2885,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -2907,7 +2907,7 @@
     "72055": {
       "votes": {
         "robert_jackson": 124,
-        "nayma_silver_matos": 58,
+        "nayma_silver-matos": 58,
         "scattered": 1
       },
       "total": 183,
@@ -2918,11 +2918,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -2940,7 +2940,7 @@
     "72056": {
       "votes": {
         "robert_jackson": 86,
-        "nayma_silver_matos": 46,
+        "nayma_silver-matos": 46,
         "scattered": 1
       },
       "total": 133,
@@ -2951,11 +2951,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -2973,7 +2973,7 @@
     "72057": {
       "votes": {
         "robert_jackson": 95,
-        "nayma_silver_matos": 51,
+        "nayma_silver-matos": 51,
         "scattered": 0
       },
       "total": 146,
@@ -2984,11 +2984,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -3006,7 +3006,7 @@
     "72058": {
       "votes": {
         "robert_jackson": 186,
-        "nayma_silver_matos": 65,
+        "nayma_silver-matos": 65,
         "scattered": 1
       },
       "total": 252,
@@ -3017,11 +3017,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -3039,7 +3039,7 @@
     "72059": {
       "votes": {
         "robert_jackson": 90,
-        "nayma_silver_matos": 47,
+        "nayma_silver-matos": 47,
         "scattered": 1
       },
       "total": 138,
@@ -3050,11 +3050,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -3072,7 +3072,7 @@
     "72060": {
       "votes": {
         "robert_jackson": 94,
-        "nayma_silver_matos": 50,
+        "nayma_silver-matos": 50,
         "scattered": 1
       },
       "total": 145,
@@ -3083,11 +3083,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -3105,7 +3105,7 @@
     "72061": {
       "votes": {
         "robert_jackson": 83,
-        "nayma_silver_matos": 40,
+        "nayma_silver-matos": 40,
         "scattered": 1
       },
       "total": 124,
@@ -3116,11 +3116,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -3138,7 +3138,7 @@
     "72062": {
       "votes": {
         "robert_jackson": 92,
-        "nayma_silver_matos": 40,
+        "nayma_silver-matos": 40,
         "scattered": 1
       },
       "total": 133,
@@ -3149,11 +3149,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -3171,7 +3171,7 @@
     "72063": {
       "votes": {
         "robert_jackson": 84,
-        "nayma_silver_matos": 28,
+        "nayma_silver-matos": 28,
         "scattered": 0
       },
       "total": 112,
@@ -3182,11 +3182,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -3204,7 +3204,7 @@
     "77013": {
       "votes": {
         "robert_jackson": 120,
-        "nayma_silver_matos": 42,
+        "nayma_silver-matos": 42,
         "scattered": 1
       },
       "total": 163,
@@ -3215,11 +3215,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -3237,7 +3237,7 @@
     "77014": {
       "votes": {
         "robert_jackson": 77,
-        "nayma_silver_matos": 31,
+        "nayma_silver-matos": 31,
         "scattered": 4
       },
       "total": 112,
@@ -3248,11 +3248,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -3270,7 +3270,7 @@
     "77015": {
       "votes": {
         "robert_jackson": 14,
-        "nayma_silver_matos": 5,
+        "nayma_silver-matos": 5,
         "scattered": 0
       },
       "total": 19,
@@ -3281,11 +3281,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -3303,7 +3303,7 @@
     "77017": {
       "votes": {
         "robert_jackson": 37,
-        "nayma_silver_matos": 22,
+        "nayma_silver-matos": 22,
         "scattered": 0
       },
       "total": 59,
@@ -3314,11 +3314,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -3336,7 +3336,7 @@
     "77018": {
       "votes": {
         "robert_jackson": 43,
-        "nayma_silver_matos": 23,
+        "nayma_silver-matos": 23,
         "scattered": 2
       },
       "total": 68,
@@ -3347,11 +3347,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -3369,7 +3369,7 @@
     "77019": {
       "votes": {
         "robert_jackson": 63,
-        "nayma_silver_matos": 16,
+        "nayma_silver-matos": 16,
         "scattered": 2
       },
       "total": 81,
@@ -3380,11 +3380,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -3402,7 +3402,7 @@
     "77020": {
       "votes": {
         "robert_jackson": 24,
-        "nayma_silver_matos": 12,
+        "nayma_silver-matos": 12,
         "scattered": 0
       },
       "total": 36,
@@ -3413,11 +3413,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -3435,7 +3435,7 @@
     "77025": {
       "votes": {
         "robert_jackson": 35,
-        "nayma_silver_matos": 19,
+        "nayma_silver-matos": 19,
         "scattered": 0
       },
       "total": 54,
@@ -3446,11 +3446,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -3468,7 +3468,7 @@
     "77026": {
       "votes": {
         "robert_jackson": 34,
-        "nayma_silver_matos": 23,
+        "nayma_silver-matos": 23,
         "scattered": 1
       },
       "total": 58,
@@ -3479,11 +3479,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -3501,7 +3501,7 @@
     "77027": {
       "votes": {
         "robert_jackson": 41,
-        "nayma_silver_matos": 26,
+        "nayma_silver-matos": 26,
         "scattered": 0
       },
       "total": 67,
@@ -3512,11 +3512,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -3534,7 +3534,7 @@
     "77028": {
       "votes": {
         "robert_jackson": 36,
-        "nayma_silver_matos": 15,
+        "nayma_silver-matos": 15,
         "scattered": 0
       },
       "total": 51,
@@ -3545,11 +3545,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -3567,7 +3567,7 @@
     "78032": {
       "votes": {
         "robert_jackson": 249,
-        "nayma_silver_matos": 75,
+        "nayma_silver-matos": 75,
         "scattered": 1
       },
       "total": 325,
@@ -3578,11 +3578,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -3600,7 +3600,7 @@
     "78033": {
       "votes": {
         "robert_jackson": 48,
-        "nayma_silver_matos": 29,
+        "nayma_silver-matos": 29,
         "scattered": 1
       },
       "total": 78,
@@ -3611,11 +3611,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -3633,7 +3633,7 @@
     "78034": {
       "votes": {
         "robert_jackson": 58,
-        "nayma_silver_matos": 36,
+        "nayma_silver-matos": 36,
         "scattered": 0
       },
       "total": 94,
@@ -3644,11 +3644,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -3666,7 +3666,7 @@
     "78035": {
       "votes": {
         "robert_jackson": 53,
-        "nayma_silver_matos": 33,
+        "nayma_silver-matos": 33,
         "scattered": 2
       },
       "total": 88,
@@ -3677,11 +3677,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -3699,7 +3699,7 @@
     "78036": {
       "votes": {
         "robert_jackson": 58,
-        "nayma_silver_matos": 26,
+        "nayma_silver-matos": 26,
         "scattered": 0
       },
       "total": 84,
@@ -3710,11 +3710,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -3732,7 +3732,7 @@
     "78037": {
       "votes": {
         "robert_jackson": 84,
-        "nayma_silver_matos": 49,
+        "nayma_silver-matos": 49,
         "scattered": 0
       },
       "total": 133,
@@ -3743,11 +3743,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -3765,7 +3765,7 @@
     "78043": {
       "votes": {
         "robert_jackson": 58,
-        "nayma_silver_matos": 45,
+        "nayma_silver-matos": 45,
         "scattered": 1
       },
       "total": 104,
@@ -3776,11 +3776,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -3798,7 +3798,7 @@
     "78044": {
       "votes": {
         "robert_jackson": 77,
-        "nayma_silver_matos": 59,
+        "nayma_silver-matos": 59,
         "scattered": 0
       },
       "total": 136,
@@ -3809,11 +3809,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -3831,7 +3831,7 @@
     "78046": {
       "votes": {
         "robert_jackson": 37,
-        "nayma_silver_matos": 23,
+        "nayma_silver-matos": 23,
         "scattered": 1
       },
       "total": 61,
@@ -3842,11 +3842,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -3864,7 +3864,7 @@
     "78047": {
       "votes": {
         "robert_jackson": 30,
-        "nayma_silver_matos": 29,
+        "nayma_silver-matos": 29,
         "scattered": 1
       },
       "total": 60,
@@ -3875,11 +3875,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -3897,7 +3897,7 @@
     "81001": {
       "votes": {
         "robert_jackson": 61,
-        "nayma_silver_matos": 33,
+        "nayma_silver-matos": 33,
         "scattered": 0
       },
       "total": 94,
@@ -3908,11 +3908,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -3930,7 +3930,7 @@
     "81002": {
       "votes": {
         "robert_jackson": 77,
-        "nayma_silver_matos": 35,
+        "nayma_silver-matos": 35,
         "scattered": 0
       },
       "total": 112,
@@ -3941,11 +3941,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -3963,7 +3963,7 @@
     "81004": {
       "votes": {
         "robert_jackson": 54,
-        "nayma_silver_matos": 24,
+        "nayma_silver-matos": 24,
         "scattered": 0
       },
       "total": 78,
@@ -3974,11 +3974,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -3996,7 +3996,7 @@
     "81005": {
       "votes": {
         "robert_jackson": 88,
-        "nayma_silver_matos": 61,
+        "nayma_silver-matos": 61,
         "scattered": 3
       },
       "total": 152,
@@ -4007,11 +4007,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -4029,7 +4029,7 @@
     "81006": {
       "votes": {
         "robert_jackson": 91,
-        "nayma_silver_matos": 54,
+        "nayma_silver-matos": 54,
         "scattered": 0
       },
       "total": 145,
@@ -4040,11 +4040,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -4062,7 +4062,7 @@
     "81007": {
       "votes": {
         "robert_jackson": 65,
-        "nayma_silver_matos": 38,
+        "nayma_silver-matos": 38,
         "scattered": 1
       },
       "total": 104,
@@ -4073,11 +4073,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -4095,7 +4095,7 @@
     "81008": {
       "votes": {
         "robert_jackson": 96,
-        "nayma_silver_matos": 53,
+        "nayma_silver-matos": 53,
         "scattered": 0
       },
       "total": 149,
@@ -4106,11 +4106,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -4128,7 +4128,7 @@
     "81009": {
       "votes": {
         "robert_jackson": 104,
-        "nayma_silver_matos": 66,
+        "nayma_silver-matos": 66,
         "scattered": 1
       },
       "total": 171,
@@ -4139,11 +4139,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -4161,7 +4161,7 @@
     "81010": {
       "votes": {
         "robert_jackson": 110,
-        "nayma_silver_matos": 55,
+        "nayma_silver-matos": 55,
         "scattered": 1
       },
       "total": 166,
@@ -4172,11 +4172,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -4194,7 +4194,7 @@
     "81011": {
       "votes": {
         "robert_jackson": 114,
-        "nayma_silver_matos": 53,
+        "nayma_silver-matos": 53,
         "scattered": 0
       },
       "total": 167,
@@ -4205,11 +4205,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -4227,7 +4227,7 @@
     "81012": {
       "votes": {
         "robert_jackson": 116,
-        "nayma_silver_matos": 41,
+        "nayma_silver-matos": 41,
         "scattered": 1
       },
       "total": 158,
@@ -4238,11 +4238,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -4260,7 +4260,7 @@
     "81013": {
       "votes": {
         "robert_jackson": 13,
-        "nayma_silver_matos": 9,
+        "nayma_silver-matos": 9,
         "scattered": 0
       },
       "total": 22,
@@ -4271,11 +4271,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -4293,7 +4293,7 @@
     "81017": {
       "votes": {
         "robert_jackson": 139,
-        "nayma_silver_matos": 70,
+        "nayma_silver-matos": 70,
         "scattered": 5
       },
       "total": 214,
@@ -4304,11 +4304,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -4326,7 +4326,7 @@
     "81053": {
       "votes": {
         "robert_jackson": 104,
-        "nayma_silver_matos": 46,
+        "nayma_silver-matos": 46,
         "scattered": 2
       },
       "total": 152,
@@ -4337,11 +4337,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -4359,7 +4359,7 @@
     "81054": {
       "votes": {
         "robert_jackson": 154,
-        "nayma_silver_matos": 67,
+        "nayma_silver-matos": 67,
         "scattered": 1
       },
       "total": 222,
@@ -4370,11 +4370,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -4392,7 +4392,7 @@
     "81056": {
       "votes": {
         "robert_jackson": 153,
-        "nayma_silver_matos": 70,
+        "nayma_silver-matos": 70,
         "scattered": 2
       },
       "total": 225,
@@ -4403,11 +4403,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -4425,7 +4425,7 @@
     "86001": {
       "votes": {
         "robert_jackson": 39,
-        "nayma_silver_matos": 30,
+        "nayma_silver-matos": 30,
         "scattered": 0
       },
       "total": 69,
@@ -4436,11 +4436,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -4458,7 +4458,7 @@
     "86002": {
       "votes": {
         "robert_jackson": 48,
-        "nayma_silver_matos": 25,
+        "nayma_silver-matos": 25,
         "scattered": 2
       },
       "total": 75,
@@ -4469,11 +4469,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -4491,22 +4491,22 @@
     "86004": {
       "votes": {
         "robert_jackson": 41,
-        "nayma_silver_matos": 48,
+        "nayma_silver-matos": 48,
         "scattered": 0
       },
       "total": 89,
-      "winnerId": "nayma_silver_matos",
+      "winnerId": "nayma_silver-matos",
       "margin": 7.9,
       "candidates": [
         {
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -4524,7 +4524,7 @@
     "86005": {
       "votes": {
         "robert_jackson": 57,
-        "nayma_silver_matos": 25,
+        "nayma_silver-matos": 25,
         "scattered": 0
       },
       "total": 82,
@@ -4535,11 +4535,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -4557,7 +4557,7 @@
     "86006": {
       "votes": {
         "robert_jackson": 60,
-        "nayma_silver_matos": 27,
+        "nayma_silver-matos": 27,
         "scattered": 1
       },
       "total": 88,
@@ -4568,11 +4568,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -4590,7 +4590,7 @@
     "86008": {
       "votes": {
         "robert_jackson": 62,
-        "nayma_silver_matos": 51,
+        "nayma_silver-matos": 51,
         "scattered": 3
       },
       "total": 116,
@@ -4601,11 +4601,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -4623,7 +4623,7 @@
     "86009": {
       "votes": {
         "robert_jackson": 80,
-        "nayma_silver_matos": 36,
+        "nayma_silver-matos": 36,
         "scattered": 1
       },
       "total": 117,
@@ -4634,11 +4634,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -4656,7 +4656,7 @@
     "86020": {
       "votes": {
         "robert_jackson": 40,
-        "nayma_silver_matos": 32,
+        "nayma_silver-matos": 32,
         "scattered": 0
       },
       "total": 72,
@@ -4667,11 +4667,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -4689,7 +4689,7 @@
     "86022": {
       "votes": {
         "robert_jackson": 38,
-        "nayma_silver_matos": 35,
+        "nayma_silver-matos": 35,
         "scattered": 0
       },
       "total": 73,
@@ -4700,11 +4700,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -4722,7 +4722,7 @@
     "86023": {
       "votes": {
         "robert_jackson": 38,
-        "nayma_silver_matos": 26,
+        "nayma_silver-matos": 26,
         "scattered": 0
       },
       "total": 64,
@@ -4733,11 +4733,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -4755,22 +4755,22 @@
     "86024": {
       "votes": {
         "robert_jackson": 43,
-        "nayma_silver_matos": 47,
+        "nayma_silver-matos": 47,
         "scattered": 0
       },
       "total": 90,
-      "winnerId": "nayma_silver_matos",
+      "winnerId": "nayma_silver-matos",
       "margin": 4.4,
       "candidates": [
         {
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -4788,7 +4788,7 @@
     "86025": {
       "votes": {
         "robert_jackson": 54,
-        "nayma_silver_matos": 50,
+        "nayma_silver-matos": 50,
         "scattered": 0
       },
       "total": 104,
@@ -4799,11 +4799,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -4821,7 +4821,7 @@
     "86026": {
       "votes": {
         "robert_jackson": 47,
-        "nayma_silver_matos": 44,
+        "nayma_silver-matos": 44,
         "scattered": 0
       },
       "total": 91,
@@ -4832,11 +4832,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -4854,7 +4854,7 @@
     "71/001": {
       "votes": {
         "robert_jackson": 380,
-        "nayma_silver_matos": 74,
+        "nayma_silver-matos": 74,
         "scattered": 0
       },
       "total": 454,
@@ -4865,11 +4865,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -4887,7 +4887,7 @@
     "71/002": {
       "votes": {
         "robert_jackson": 272,
-        "nayma_silver_matos": 62,
+        "nayma_silver-matos": 62,
         "scattered": 1
       },
       "total": 335,
@@ -4898,11 +4898,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -4920,7 +4920,7 @@
     "71/003": {
       "votes": {
         "robert_jackson": 527,
-        "nayma_silver_matos": 101,
+        "nayma_silver-matos": 101,
         "scattered": 3
       },
       "total": 631,
@@ -4931,11 +4931,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -4953,7 +4953,7 @@
     "71/004": {
       "votes": {
         "robert_jackson": 623,
-        "nayma_silver_matos": 95,
+        "nayma_silver-matos": 95,
         "scattered": 4
       },
       "total": 722,
@@ -4964,11 +4964,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -4986,7 +4986,7 @@
     "71/005": {
       "votes": {
         "robert_jackson": 546,
-        "nayma_silver_matos": 66,
+        "nayma_silver-matos": 66,
         "scattered": 3
       },
       "total": 615,
@@ -4997,11 +4997,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -5019,7 +5019,7 @@
     "71/006": {
       "votes": {
         "robert_jackson": 497,
-        "nayma_silver_matos": 69,
+        "nayma_silver-matos": 69,
         "scattered": 2
       },
       "total": 568,
@@ -5030,11 +5030,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -5052,7 +5052,7 @@
     "71/007": {
       "votes": {
         "robert_jackson": 383,
-        "nayma_silver_matos": 59,
+        "nayma_silver-matos": 59,
         "scattered": 0
       },
       "total": 442,
@@ -5063,11 +5063,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -5085,7 +5085,7 @@
     "71/008": {
       "votes": {
         "robert_jackson": 329,
-        "nayma_silver_matos": 72,
+        "nayma_silver-matos": 72,
         "scattered": 0
       },
       "total": 401,
@@ -5096,11 +5096,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -5118,7 +5118,7 @@
     "71/009": {
       "votes": {
         "robert_jackson": 380,
-        "nayma_silver_matos": 78,
+        "nayma_silver-matos": 78,
         "scattered": 0
       },
       "total": 458,
@@ -5129,11 +5129,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -5151,7 +5151,7 @@
     "71/010": {
       "votes": {
         "robert_jackson": 277,
-        "nayma_silver_matos": 48,
+        "nayma_silver-matos": 48,
         "scattered": 1
       },
       "total": 326,
@@ -5162,11 +5162,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -5184,7 +5184,7 @@
     "71/011": {
       "votes": {
         "robert_jackson": 183,
-        "nayma_silver_matos": 38,
+        "nayma_silver-matos": 38,
         "scattered": 2
       },
       "total": 223,
@@ -5195,11 +5195,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -5217,7 +5217,7 @@
     "71/012": {
       "votes": {
         "robert_jackson": 169,
-        "nayma_silver_matos": 56,
+        "nayma_silver-matos": 56,
         "scattered": 1
       },
       "total": 226,
@@ -5228,11 +5228,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -5250,7 +5250,7 @@
     "71/013": {
       "votes": {
         "robert_jackson": 191,
-        "nayma_silver_matos": 64,
+        "nayma_silver-matos": 64,
         "scattered": 1
       },
       "total": 256,
@@ -5261,11 +5261,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -5283,7 +5283,7 @@
     "71/014": {
       "votes": {
         "robert_jackson": 147,
-        "nayma_silver_matos": 56,
+        "nayma_silver-matos": 56,
         "scattered": 0
       },
       "total": 203,
@@ -5294,11 +5294,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -5316,7 +5316,7 @@
     "71/015": {
       "votes": {
         "robert_jackson": 164,
-        "nayma_silver_matos": 70,
+        "nayma_silver-matos": 70,
         "scattered": 0
       },
       "total": 234,
@@ -5327,11 +5327,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -5349,7 +5349,7 @@
     "71/016": {
       "votes": {
         "robert_jackson": 131,
-        "nayma_silver_matos": 74,
+        "nayma_silver-matos": 74,
         "scattered": 0
       },
       "total": 205,
@@ -5360,11 +5360,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -5382,7 +5382,7 @@
     "71/017": {
       "votes": {
         "robert_jackson": 177,
-        "nayma_silver_matos": 67,
+        "nayma_silver-matos": 67,
         "scattered": 1
       },
       "total": 245,
@@ -5393,11 +5393,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -5415,7 +5415,7 @@
     "71/018": {
       "votes": {
         "robert_jackson": 172,
-        "nayma_silver_matos": 59,
+        "nayma_silver-matos": 59,
         "scattered": 2
       },
       "total": 233,
@@ -5426,11 +5426,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -5448,7 +5448,7 @@
     "71/019": {
       "votes": {
         "robert_jackson": 132,
-        "nayma_silver_matos": 44,
+        "nayma_silver-matos": 44,
         "scattered": 1
       },
       "total": 177,
@@ -5459,11 +5459,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -5481,7 +5481,7 @@
     "71/020": {
       "votes": {
         "robert_jackson": 148,
-        "nayma_silver_matos": 45,
+        "nayma_silver-matos": 45,
         "scattered": 2
       },
       "total": 195,
@@ -5492,11 +5492,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -5514,7 +5514,7 @@
     "71/021": {
       "votes": {
         "robert_jackson": 121,
-        "nayma_silver_matos": 65,
+        "nayma_silver-matos": 65,
         "scattered": 1
       },
       "total": 187,
@@ -5525,11 +5525,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -5547,7 +5547,7 @@
     "71/022": {
       "votes": {
         "robert_jackson": 122,
-        "nayma_silver_matos": 44,
+        "nayma_silver-matos": 44,
         "scattered": 1
       },
       "total": 167,
@@ -5558,11 +5558,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -5580,7 +5580,7 @@
     "71/023": {
       "votes": {
         "robert_jackson": 160,
-        "nayma_silver_matos": 57,
+        "nayma_silver-matos": 57,
         "scattered": 0
       },
       "total": 217,
@@ -5591,11 +5591,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -5613,7 +5613,7 @@
     "71/024": {
       "votes": {
         "robert_jackson": 319,
-        "nayma_silver_matos": 96,
+        "nayma_silver-matos": 96,
         "scattered": 2
       },
       "total": 417,
@@ -5624,11 +5624,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -5646,7 +5646,7 @@
     "71/025": {
       "votes": {
         "robert_jackson": 112,
-        "nayma_silver_matos": 41,
+        "nayma_silver-matos": 41,
         "scattered": 0
       },
       "total": 153,
@@ -5657,11 +5657,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -5679,7 +5679,7 @@
     "71/026": {
       "votes": {
         "robert_jackson": 184,
-        "nayma_silver_matos": 42,
+        "nayma_silver-matos": 42,
         "scattered": 0
       },
       "total": 226,
@@ -5690,11 +5690,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -5712,7 +5712,7 @@
     "71/027": {
       "votes": {
         "robert_jackson": 217,
-        "nayma_silver_matos": 45,
+        "nayma_silver-matos": 45,
         "scattered": 0
       },
       "total": 262,
@@ -5723,11 +5723,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -5745,7 +5745,7 @@
     "71/028": {
       "votes": {
         "robert_jackson": 128,
-        "nayma_silver_matos": 66,
+        "nayma_silver-matos": 66,
         "scattered": 0
       },
       "total": 194,
@@ -5756,11 +5756,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -5778,7 +5778,7 @@
     "71/029": {
       "votes": {
         "robert_jackson": 126,
-        "nayma_silver_matos": 62,
+        "nayma_silver-matos": 62,
         "scattered": 0
       },
       "total": 188,
@@ -5789,11 +5789,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -5811,7 +5811,7 @@
     "71/030": {
       "votes": {
         "robert_jackson": 133,
-        "nayma_silver_matos": 58,
+        "nayma_silver-matos": 58,
         "scattered": 0
       },
       "total": 191,
@@ -5822,11 +5822,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -5844,7 +5844,7 @@
     "71/035": {
       "votes": {
         "robert_jackson": 162,
-        "nayma_silver_matos": 64,
+        "nayma_silver-matos": 64,
         "scattered": 0
       },
       "total": 226,
@@ -5855,11 +5855,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -5877,7 +5877,7 @@
     "71/065": {
       "votes": {
         "robert_jackson": 37,
-        "nayma_silver_matos": 8,
+        "nayma_silver-matos": 8,
         "scattered": 0
       },
       "total": 45,
@@ -5888,11 +5888,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -5910,7 +5910,7 @@
     "72/001": {
       "votes": {
         "robert_jackson": 86,
-        "nayma_silver_matos": 30,
+        "nayma_silver-matos": 30,
         "scattered": 0
       },
       "total": 116,
@@ -5921,11 +5921,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -5943,7 +5943,7 @@
     "72/002": {
       "votes": {
         "robert_jackson": 118,
-        "nayma_silver_matos": 45,
+        "nayma_silver-matos": 45,
         "scattered": 0
       },
       "total": 163,
@@ -5954,11 +5954,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -5976,7 +5976,7 @@
     "72/003": {
       "votes": {
         "robert_jackson": 111,
-        "nayma_silver_matos": 71,
+        "nayma_silver-matos": 71,
         "scattered": 2
       },
       "total": 184,
@@ -5987,11 +5987,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -6009,7 +6009,7 @@
     "72/004": {
       "votes": {
         "robert_jackson": 479,
-        "nayma_silver_matos": 62,
+        "nayma_silver-matos": 62,
         "scattered": 1
       },
       "total": 542,
@@ -6020,11 +6020,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -6042,7 +6042,7 @@
     "72/005": {
       "votes": {
         "robert_jackson": 419,
-        "nayma_silver_matos": 60,
+        "nayma_silver-matos": 60,
         "scattered": 1
       },
       "total": 480,
@@ -6053,11 +6053,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -6075,7 +6075,7 @@
     "72/006": {
       "votes": {
         "robert_jackson": 244,
-        "nayma_silver_matos": 74,
+        "nayma_silver-matos": 74,
         "scattered": 2
       },
       "total": 320,
@@ -6086,11 +6086,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -6108,7 +6108,7 @@
     "72/007": {
       "votes": {
         "robert_jackson": 97,
-        "nayma_silver_matos": 63,
+        "nayma_silver-matos": 63,
         "scattered": 1
       },
       "total": 161,
@@ -6119,11 +6119,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -6141,7 +6141,7 @@
     "72/008": {
       "votes": {
         "robert_jackson": 229,
-        "nayma_silver_matos": 51,
+        "nayma_silver-matos": 51,
         "scattered": 2
       },
       "total": 282,
@@ -6152,11 +6152,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -6174,7 +6174,7 @@
     "72/009": {
       "votes": {
         "robert_jackson": 310,
-        "nayma_silver_matos": 82,
+        "nayma_silver-matos": 82,
         "scattered": 0
       },
       "total": 392,
@@ -6185,11 +6185,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -6207,7 +6207,7 @@
     "72/010": {
       "votes": {
         "robert_jackson": 226,
-        "nayma_silver_matos": 75,
+        "nayma_silver-matos": 75,
         "scattered": 0
       },
       "total": 301,
@@ -6218,11 +6218,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -6240,7 +6240,7 @@
     "72/011": {
       "votes": {
         "robert_jackson": 89,
-        "nayma_silver_matos": 76,
+        "nayma_silver-matos": 76,
         "scattered": 0
       },
       "total": 165,
@@ -6251,11 +6251,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -6273,7 +6273,7 @@
     "72/012": {
       "votes": {
         "robert_jackson": 93,
-        "nayma_silver_matos": 87,
+        "nayma_silver-matos": 87,
         "scattered": 1
       },
       "total": 181,
@@ -6284,11 +6284,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -6306,7 +6306,7 @@
     "72/013": {
       "votes": {
         "robert_jackson": 123,
-        "nayma_silver_matos": 68,
+        "nayma_silver-matos": 68,
         "scattered": 0
       },
       "total": 191,
@@ -6317,11 +6317,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -6339,7 +6339,7 @@
     "72/014": {
       "votes": {
         "robert_jackson": 118,
-        "nayma_silver_matos": 60,
+        "nayma_silver-matos": 60,
         "scattered": 0
       },
       "total": 178,
@@ -6350,11 +6350,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -6372,7 +6372,7 @@
     "72/015": {
       "votes": {
         "robert_jackson": 123,
-        "nayma_silver_matos": 88,
+        "nayma_silver-matos": 88,
         "scattered": 0
       },
       "total": 211,
@@ -6383,11 +6383,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -6405,7 +6405,7 @@
     "72/016": {
       "votes": {
         "robert_jackson": 65,
-        "nayma_silver_matos": 38,
+        "nayma_silver-matos": 38,
         "scattered": 0
       },
       "total": 103,
@@ -6416,11 +6416,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -6438,7 +6438,7 @@
     "72/017": {
       "votes": {
         "robert_jackson": 64,
-        "nayma_silver_matos": 44,
+        "nayma_silver-matos": 44,
         "scattered": 1
       },
       "total": 109,
@@ -6449,11 +6449,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -6471,7 +6471,7 @@
     "72/018": {
       "votes": {
         "robert_jackson": 124,
-        "nayma_silver_matos": 42,
+        "nayma_silver-matos": 42,
         "scattered": 1
       },
       "total": 167,
@@ -6482,11 +6482,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -6504,7 +6504,7 @@
     "72/019": {
       "votes": {
         "robert_jackson": 157,
-        "nayma_silver_matos": 57,
+        "nayma_silver-matos": 57,
         "scattered": 2
       },
       "total": 216,
@@ -6515,11 +6515,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -6537,7 +6537,7 @@
     "72/020": {
       "votes": {
         "robert_jackson": 88,
-        "nayma_silver_matos": 46,
+        "nayma_silver-matos": 46,
         "scattered": 0
       },
       "total": 134,
@@ -6548,11 +6548,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -6570,7 +6570,7 @@
     "72/021": {
       "votes": {
         "robert_jackson": 55,
-        "nayma_silver_matos": 42,
+        "nayma_silver-matos": 42,
         "scattered": 0
       },
       "total": 97,
@@ -6581,11 +6581,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -6603,7 +6603,7 @@
     "72/022": {
       "votes": {
         "robert_jackson": 52,
-        "nayma_silver_matos": 43,
+        "nayma_silver-matos": 43,
         "scattered": 0
       },
       "total": 95,
@@ -6614,11 +6614,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -6636,7 +6636,7 @@
     "72/023": {
       "votes": {
         "robert_jackson": 90,
-        "nayma_silver_matos": 47,
+        "nayma_silver-matos": 47,
         "scattered": 0
       },
       "total": 137,
@@ -6647,11 +6647,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -6669,7 +6669,7 @@
     "72/024": {
       "votes": {
         "robert_jackson": 97,
-        "nayma_silver_matos": 61,
+        "nayma_silver-matos": 61,
         "scattered": 0
       },
       "total": 158,
@@ -6680,11 +6680,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -6702,7 +6702,7 @@
     "72/025": {
       "votes": {
         "robert_jackson": 174,
-        "nayma_silver_matos": 55,
+        "nayma_silver-matos": 55,
         "scattered": 0
       },
       "total": 229,
@@ -6713,11 +6713,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -6735,7 +6735,7 @@
     "72/026": {
       "votes": {
         "robert_jackson": 275,
-        "nayma_silver_matos": 80,
+        "nayma_silver-matos": 80,
         "scattered": 0
       },
       "total": 355,
@@ -6746,11 +6746,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -6768,7 +6768,7 @@
     "72/027": {
       "votes": {
         "robert_jackson": 159,
-        "nayma_silver_matos": 55,
+        "nayma_silver-matos": 55,
         "scattered": 0
       },
       "total": 214,
@@ -6779,11 +6779,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -6801,7 +6801,7 @@
     "72/028": {
       "votes": {
         "robert_jackson": 58,
-        "nayma_silver_matos": 28,
+        "nayma_silver-matos": 28,
         "scattered": 0
       },
       "total": 86,
@@ -6812,11 +6812,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -6834,7 +6834,7 @@
     "72/029": {
       "votes": {
         "robert_jackson": 149,
-        "nayma_silver_matos": 51,
+        "nayma_silver-matos": 51,
         "scattered": 1
       },
       "total": 201,
@@ -6845,11 +6845,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -6867,7 +6867,7 @@
     "72/030": {
       "votes": {
         "robert_jackson": 153,
-        "nayma_silver_matos": 53,
+        "nayma_silver-matos": 53,
         "scattered": 0
       },
       "total": 206,
@@ -6878,11 +6878,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -6900,7 +6900,7 @@
     "72/031": {
       "votes": {
         "robert_jackson": 79,
-        "nayma_silver_matos": 61,
+        "nayma_silver-matos": 61,
         "scattered": 1
       },
       "total": 141,
@@ -6911,11 +6911,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -6933,7 +6933,7 @@
     "72/032": {
       "votes": {
         "robert_jackson": 149,
-        "nayma_silver_matos": 83,
+        "nayma_silver-matos": 83,
         "scattered": 0
       },
       "total": 232,
@@ -6944,11 +6944,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -6966,7 +6966,7 @@
     "72/033": {
       "votes": {
         "robert_jackson": 161,
-        "nayma_silver_matos": 44,
+        "nayma_silver-matos": 44,
         "scattered": 0
       },
       "total": 205,
@@ -6977,11 +6977,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -6999,7 +6999,7 @@
     "72/034": {
       "votes": {
         "robert_jackson": 54,
-        "nayma_silver_matos": 51,
+        "nayma_silver-matos": 51,
         "scattered": 0
       },
       "total": 105,
@@ -7010,11 +7010,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -7032,7 +7032,7 @@
     "72/035": {
       "votes": {
         "robert_jackson": 76,
-        "nayma_silver_matos": 57,
+        "nayma_silver-matos": 57,
         "scattered": 0
       },
       "total": 133,
@@ -7043,11 +7043,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -7065,7 +7065,7 @@
     "72/036": {
       "votes": {
         "robert_jackson": 69,
-        "nayma_silver_matos": 48,
+        "nayma_silver-matos": 48,
         "scattered": 0
       },
       "total": 117,
@@ -7076,11 +7076,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -7098,7 +7098,7 @@
     "72/037": {
       "votes": {
         "robert_jackson": 112,
-        "nayma_silver_matos": 57,
+        "nayma_silver-matos": 57,
         "scattered": 2
       },
       "total": 171,
@@ -7109,11 +7109,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -7131,7 +7131,7 @@
     "72/038": {
       "votes": {
         "robert_jackson": 95,
-        "nayma_silver_matos": 69,
+        "nayma_silver-matos": 69,
         "scattered": 7
       },
       "total": 171,
@@ -7142,11 +7142,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -7164,7 +7164,7 @@
     "72/039": {
       "votes": {
         "robert_jackson": 85,
-        "nayma_silver_matos": 38,
+        "nayma_silver-matos": 38,
         "scattered": 0
       },
       "total": 123,
@@ -7175,11 +7175,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -7197,7 +7197,7 @@
     "72/040": {
       "votes": {
         "robert_jackson": 97,
-        "nayma_silver_matos": 63,
+        "nayma_silver-matos": 63,
         "scattered": 1
       },
       "total": 161,
@@ -7208,11 +7208,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -7230,7 +7230,7 @@
     "72/041": {
       "votes": {
         "robert_jackson": 153,
-        "nayma_silver_matos": 65,
+        "nayma_silver-matos": 65,
         "scattered": 2
       },
       "total": 220,
@@ -7241,11 +7241,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -7263,7 +7263,7 @@
     "72/042": {
       "votes": {
         "robert_jackson": 100,
-        "nayma_silver_matos": 75,
+        "nayma_silver-matos": 75,
         "scattered": 0
       },
       "total": 175,
@@ -7274,11 +7274,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -7296,7 +7296,7 @@
     "72/043": {
       "votes": {
         "robert_jackson": 100,
-        "nayma_silver_matos": 60,
+        "nayma_silver-matos": 60,
         "scattered": 0
       },
       "total": 160,
@@ -7307,11 +7307,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -7329,7 +7329,7 @@
     "72/044": {
       "votes": {
         "robert_jackson": 102,
-        "nayma_silver_matos": 65,
+        "nayma_silver-matos": 65,
         "scattered": 0
       },
       "total": 167,
@@ -7340,11 +7340,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -7362,7 +7362,7 @@
     "72/045": {
       "votes": {
         "robert_jackson": 58,
-        "nayma_silver_matos": 47,
+        "nayma_silver-matos": 47,
         "scattered": 0
       },
       "total": 105,
@@ -7373,11 +7373,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -7395,7 +7395,7 @@
     "72/046": {
       "votes": {
         "robert_jackson": 103,
-        "nayma_silver_matos": 41,
+        "nayma_silver-matos": 41,
         "scattered": 1
       },
       "total": 145,
@@ -7406,11 +7406,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -7428,7 +7428,7 @@
     "72/047": {
       "votes": {
         "robert_jackson": 65,
-        "nayma_silver_matos": 48,
+        "nayma_silver-matos": 48,
         "scattered": 0
       },
       "total": 113,
@@ -7439,11 +7439,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -7461,7 +7461,7 @@
     "72/048": {
       "votes": {
         "robert_jackson": 82,
-        "nayma_silver_matos": 54,
+        "nayma_silver-matos": 54,
         "scattered": 0
       },
       "total": 136,
@@ -7472,11 +7472,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -7494,7 +7494,7 @@
     "72/049": {
       "votes": {
         "robert_jackson": 73,
-        "nayma_silver_matos": 38,
+        "nayma_silver-matos": 38,
         "scattered": 0
       },
       "total": 111,
@@ -7505,11 +7505,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -7527,7 +7527,7 @@
     "72/050": {
       "votes": {
         "robert_jackson": 59,
-        "nayma_silver_matos": 47,
+        "nayma_silver-matos": 47,
         "scattered": 0
       },
       "total": 106,
@@ -7538,11 +7538,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -7560,7 +7560,7 @@
     "72/051": {
       "votes": {
         "robert_jackson": 62,
-        "nayma_silver_matos": 57,
+        "nayma_silver-matos": 57,
         "scattered": 1
       },
       "total": 120,
@@ -7571,11 +7571,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -7593,7 +7593,7 @@
     "72/052": {
       "votes": {
         "robert_jackson": 113,
-        "nayma_silver_matos": 44,
+        "nayma_silver-matos": 44,
         "scattered": 1
       },
       "total": 158,
@@ -7604,11 +7604,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -7626,7 +7626,7 @@
     "72/053": {
       "votes": {
         "robert_jackson": 91,
-        "nayma_silver_matos": 44,
+        "nayma_silver-matos": 44,
         "scattered": 0
       },
       "total": 135,
@@ -7637,11 +7637,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -7659,7 +7659,7 @@
     "72/054": {
       "votes": {
         "robert_jackson": 74,
-        "nayma_silver_matos": 31,
+        "nayma_silver-matos": 31,
         "scattered": 1
       },
       "total": 106,
@@ -7670,11 +7670,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -7692,7 +7692,7 @@
     "72/055": {
       "votes": {
         "robert_jackson": 124,
-        "nayma_silver_matos": 58,
+        "nayma_silver-matos": 58,
         "scattered": 1
       },
       "total": 183,
@@ -7703,11 +7703,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -7725,7 +7725,7 @@
     "72/056": {
       "votes": {
         "robert_jackson": 86,
-        "nayma_silver_matos": 46,
+        "nayma_silver-matos": 46,
         "scattered": 1
       },
       "total": 133,
@@ -7736,11 +7736,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -7758,7 +7758,7 @@
     "72/057": {
       "votes": {
         "robert_jackson": 95,
-        "nayma_silver_matos": 51,
+        "nayma_silver-matos": 51,
         "scattered": 0
       },
       "total": 146,
@@ -7769,11 +7769,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -7791,7 +7791,7 @@
     "72/058": {
       "votes": {
         "robert_jackson": 186,
-        "nayma_silver_matos": 65,
+        "nayma_silver-matos": 65,
         "scattered": 1
       },
       "total": 252,
@@ -7802,11 +7802,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -7824,7 +7824,7 @@
     "72/059": {
       "votes": {
         "robert_jackson": 90,
-        "nayma_silver_matos": 47,
+        "nayma_silver-matos": 47,
         "scattered": 1
       },
       "total": 138,
@@ -7835,11 +7835,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -7857,7 +7857,7 @@
     "72/060": {
       "votes": {
         "robert_jackson": 94,
-        "nayma_silver_matos": 50,
+        "nayma_silver-matos": 50,
         "scattered": 1
       },
       "total": 145,
@@ -7868,11 +7868,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -7890,7 +7890,7 @@
     "72/061": {
       "votes": {
         "robert_jackson": 83,
-        "nayma_silver_matos": 40,
+        "nayma_silver-matos": 40,
         "scattered": 1
       },
       "total": 124,
@@ -7901,11 +7901,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -7923,7 +7923,7 @@
     "72/062": {
       "votes": {
         "robert_jackson": 92,
-        "nayma_silver_matos": 40,
+        "nayma_silver-matos": 40,
         "scattered": 1
       },
       "total": 133,
@@ -7934,11 +7934,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -7956,7 +7956,7 @@
     "72/063": {
       "votes": {
         "robert_jackson": 84,
-        "nayma_silver_matos": 28,
+        "nayma_silver-matos": 28,
         "scattered": 0
       },
       "total": 112,
@@ -7967,11 +7967,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -7989,7 +7989,7 @@
     "77/013": {
       "votes": {
         "robert_jackson": 120,
-        "nayma_silver_matos": 42,
+        "nayma_silver-matos": 42,
         "scattered": 1
       },
       "total": 163,
@@ -8000,11 +8000,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -8022,7 +8022,7 @@
     "77/014": {
       "votes": {
         "robert_jackson": 77,
-        "nayma_silver_matos": 31,
+        "nayma_silver-matos": 31,
         "scattered": 4
       },
       "total": 112,
@@ -8033,11 +8033,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -8055,7 +8055,7 @@
     "77/015": {
       "votes": {
         "robert_jackson": 14,
-        "nayma_silver_matos": 5,
+        "nayma_silver-matos": 5,
         "scattered": 0
       },
       "total": 19,
@@ -8066,11 +8066,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -8088,7 +8088,7 @@
     "77/017": {
       "votes": {
         "robert_jackson": 37,
-        "nayma_silver_matos": 22,
+        "nayma_silver-matos": 22,
         "scattered": 0
       },
       "total": 59,
@@ -8099,11 +8099,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -8121,7 +8121,7 @@
     "77/018": {
       "votes": {
         "robert_jackson": 43,
-        "nayma_silver_matos": 23,
+        "nayma_silver-matos": 23,
         "scattered": 2
       },
       "total": 68,
@@ -8132,11 +8132,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -8154,7 +8154,7 @@
     "77/019": {
       "votes": {
         "robert_jackson": 63,
-        "nayma_silver_matos": 16,
+        "nayma_silver-matos": 16,
         "scattered": 2
       },
       "total": 81,
@@ -8165,11 +8165,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -8187,7 +8187,7 @@
     "77/020": {
       "votes": {
         "robert_jackson": 24,
-        "nayma_silver_matos": 12,
+        "nayma_silver-matos": 12,
         "scattered": 0
       },
       "total": 36,
@@ -8198,11 +8198,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -8220,7 +8220,7 @@
     "77/025": {
       "votes": {
         "robert_jackson": 35,
-        "nayma_silver_matos": 19,
+        "nayma_silver-matos": 19,
         "scattered": 0
       },
       "total": 54,
@@ -8231,11 +8231,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -8253,7 +8253,7 @@
     "77/026": {
       "votes": {
         "robert_jackson": 34,
-        "nayma_silver_matos": 23,
+        "nayma_silver-matos": 23,
         "scattered": 1
       },
       "total": 58,
@@ -8264,11 +8264,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -8286,7 +8286,7 @@
     "77/027": {
       "votes": {
         "robert_jackson": 41,
-        "nayma_silver_matos": 26,
+        "nayma_silver-matos": 26,
         "scattered": 0
       },
       "total": 67,
@@ -8297,11 +8297,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -8319,7 +8319,7 @@
     "77/028": {
       "votes": {
         "robert_jackson": 36,
-        "nayma_silver_matos": 15,
+        "nayma_silver-matos": 15,
         "scattered": 0
       },
       "total": 51,
@@ -8330,11 +8330,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -8352,7 +8352,7 @@
     "78/032": {
       "votes": {
         "robert_jackson": 249,
-        "nayma_silver_matos": 75,
+        "nayma_silver-matos": 75,
         "scattered": 1
       },
       "total": 325,
@@ -8363,11 +8363,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -8385,7 +8385,7 @@
     "78/033": {
       "votes": {
         "robert_jackson": 48,
-        "nayma_silver_matos": 29,
+        "nayma_silver-matos": 29,
         "scattered": 1
       },
       "total": 78,
@@ -8396,11 +8396,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -8418,7 +8418,7 @@
     "78/034": {
       "votes": {
         "robert_jackson": 58,
-        "nayma_silver_matos": 36,
+        "nayma_silver-matos": 36,
         "scattered": 0
       },
       "total": 94,
@@ -8429,11 +8429,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -8451,7 +8451,7 @@
     "78/035": {
       "votes": {
         "robert_jackson": 53,
-        "nayma_silver_matos": 33,
+        "nayma_silver-matos": 33,
         "scattered": 2
       },
       "total": 88,
@@ -8462,11 +8462,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -8484,7 +8484,7 @@
     "78/036": {
       "votes": {
         "robert_jackson": 58,
-        "nayma_silver_matos": 26,
+        "nayma_silver-matos": 26,
         "scattered": 0
       },
       "total": 84,
@@ -8495,11 +8495,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -8517,7 +8517,7 @@
     "78/037": {
       "votes": {
         "robert_jackson": 84,
-        "nayma_silver_matos": 49,
+        "nayma_silver-matos": 49,
         "scattered": 0
       },
       "total": 133,
@@ -8528,11 +8528,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -8550,7 +8550,7 @@
     "78/043": {
       "votes": {
         "robert_jackson": 58,
-        "nayma_silver_matos": 45,
+        "nayma_silver-matos": 45,
         "scattered": 1
       },
       "total": 104,
@@ -8561,11 +8561,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -8583,7 +8583,7 @@
     "78/044": {
       "votes": {
         "robert_jackson": 77,
-        "nayma_silver_matos": 59,
+        "nayma_silver-matos": 59,
         "scattered": 0
       },
       "total": 136,
@@ -8594,11 +8594,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -8616,7 +8616,7 @@
     "78/046": {
       "votes": {
         "robert_jackson": 37,
-        "nayma_silver_matos": 23,
+        "nayma_silver-matos": 23,
         "scattered": 1
       },
       "total": 61,
@@ -8627,11 +8627,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -8649,7 +8649,7 @@
     "78/047": {
       "votes": {
         "robert_jackson": 30,
-        "nayma_silver_matos": 29,
+        "nayma_silver-matos": 29,
         "scattered": 1
       },
       "total": 60,
@@ -8660,11 +8660,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -8682,7 +8682,7 @@
     "81/001": {
       "votes": {
         "robert_jackson": 61,
-        "nayma_silver_matos": 33,
+        "nayma_silver-matos": 33,
         "scattered": 0
       },
       "total": 94,
@@ -8693,11 +8693,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -8715,7 +8715,7 @@
     "81/002": {
       "votes": {
         "robert_jackson": 77,
-        "nayma_silver_matos": 35,
+        "nayma_silver-matos": 35,
         "scattered": 0
       },
       "total": 112,
@@ -8726,11 +8726,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -8748,7 +8748,7 @@
     "81/004": {
       "votes": {
         "robert_jackson": 54,
-        "nayma_silver_matos": 24,
+        "nayma_silver-matos": 24,
         "scattered": 0
       },
       "total": 78,
@@ -8759,11 +8759,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -8781,7 +8781,7 @@
     "81/005": {
       "votes": {
         "robert_jackson": 88,
-        "nayma_silver_matos": 61,
+        "nayma_silver-matos": 61,
         "scattered": 3
       },
       "total": 152,
@@ -8792,11 +8792,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -8814,7 +8814,7 @@
     "81/006": {
       "votes": {
         "robert_jackson": 91,
-        "nayma_silver_matos": 54,
+        "nayma_silver-matos": 54,
         "scattered": 0
       },
       "total": 145,
@@ -8825,11 +8825,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -8847,7 +8847,7 @@
     "81/007": {
       "votes": {
         "robert_jackson": 65,
-        "nayma_silver_matos": 38,
+        "nayma_silver-matos": 38,
         "scattered": 1
       },
       "total": 104,
@@ -8858,11 +8858,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -8880,7 +8880,7 @@
     "81/008": {
       "votes": {
         "robert_jackson": 96,
-        "nayma_silver_matos": 53,
+        "nayma_silver-matos": 53,
         "scattered": 0
       },
       "total": 149,
@@ -8891,11 +8891,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -8913,7 +8913,7 @@
     "81/009": {
       "votes": {
         "robert_jackson": 104,
-        "nayma_silver_matos": 66,
+        "nayma_silver-matos": 66,
         "scattered": 1
       },
       "total": 171,
@@ -8924,11 +8924,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -8946,7 +8946,7 @@
     "81/010": {
       "votes": {
         "robert_jackson": 110,
-        "nayma_silver_matos": 55,
+        "nayma_silver-matos": 55,
         "scattered": 1
       },
       "total": 166,
@@ -8957,11 +8957,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -8979,7 +8979,7 @@
     "81/011": {
       "votes": {
         "robert_jackson": 114,
-        "nayma_silver_matos": 53,
+        "nayma_silver-matos": 53,
         "scattered": 0
       },
       "total": 167,
@@ -8990,11 +8990,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -9012,7 +9012,7 @@
     "81/012": {
       "votes": {
         "robert_jackson": 116,
-        "nayma_silver_matos": 41,
+        "nayma_silver-matos": 41,
         "scattered": 1
       },
       "total": 158,
@@ -9023,11 +9023,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -9045,7 +9045,7 @@
     "81/013": {
       "votes": {
         "robert_jackson": 13,
-        "nayma_silver_matos": 9,
+        "nayma_silver-matos": 9,
         "scattered": 0
       },
       "total": 22,
@@ -9056,11 +9056,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -9078,7 +9078,7 @@
     "81/017": {
       "votes": {
         "robert_jackson": 139,
-        "nayma_silver_matos": 70,
+        "nayma_silver-matos": 70,
         "scattered": 5
       },
       "total": 214,
@@ -9089,11 +9089,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -9111,7 +9111,7 @@
     "81/053": {
       "votes": {
         "robert_jackson": 104,
-        "nayma_silver_matos": 46,
+        "nayma_silver-matos": 46,
         "scattered": 2
       },
       "total": 152,
@@ -9122,11 +9122,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -9144,7 +9144,7 @@
     "81/054": {
       "votes": {
         "robert_jackson": 154,
-        "nayma_silver_matos": 67,
+        "nayma_silver-matos": 67,
         "scattered": 1
       },
       "total": 222,
@@ -9155,11 +9155,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -9177,7 +9177,7 @@
     "81/056": {
       "votes": {
         "robert_jackson": 153,
-        "nayma_silver_matos": 70,
+        "nayma_silver-matos": 70,
         "scattered": 2
       },
       "total": 225,
@@ -9188,11 +9188,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -9210,7 +9210,7 @@
     "86/001": {
       "votes": {
         "robert_jackson": 39,
-        "nayma_silver_matos": 30,
+        "nayma_silver-matos": 30,
         "scattered": 0
       },
       "total": 69,
@@ -9221,11 +9221,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -9243,7 +9243,7 @@
     "86/002": {
       "votes": {
         "robert_jackson": 48,
-        "nayma_silver_matos": 25,
+        "nayma_silver-matos": 25,
         "scattered": 2
       },
       "total": 75,
@@ -9254,11 +9254,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -9276,22 +9276,22 @@
     "86/004": {
       "votes": {
         "robert_jackson": 41,
-        "nayma_silver_matos": 48,
+        "nayma_silver-matos": 48,
         "scattered": 0
       },
       "total": 89,
-      "winnerId": "nayma_silver_matos",
+      "winnerId": "nayma_silver-matos",
       "margin": 7.9,
       "candidates": [
         {
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -9309,7 +9309,7 @@
     "86/005": {
       "votes": {
         "robert_jackson": 57,
-        "nayma_silver_matos": 25,
+        "nayma_silver-matos": 25,
         "scattered": 0
       },
       "total": 82,
@@ -9320,11 +9320,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -9342,7 +9342,7 @@
     "86/006": {
       "votes": {
         "robert_jackson": 60,
-        "nayma_silver_matos": 27,
+        "nayma_silver-matos": 27,
         "scattered": 1
       },
       "total": 88,
@@ -9353,11 +9353,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -9375,7 +9375,7 @@
     "86/008": {
       "votes": {
         "robert_jackson": 62,
-        "nayma_silver_matos": 51,
+        "nayma_silver-matos": 51,
         "scattered": 3
       },
       "total": 116,
@@ -9386,11 +9386,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -9408,7 +9408,7 @@
     "86/009": {
       "votes": {
         "robert_jackson": 80,
-        "nayma_silver_matos": 36,
+        "nayma_silver-matos": 36,
         "scattered": 1
       },
       "total": 117,
@@ -9419,11 +9419,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -9441,7 +9441,7 @@
     "86/020": {
       "votes": {
         "robert_jackson": 40,
-        "nayma_silver_matos": 32,
+        "nayma_silver-matos": 32,
         "scattered": 0
       },
       "total": 72,
@@ -9452,11 +9452,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -9474,7 +9474,7 @@
     "86/022": {
       "votes": {
         "robert_jackson": 38,
-        "nayma_silver_matos": 35,
+        "nayma_silver-matos": 35,
         "scattered": 0
       },
       "total": 73,
@@ -9485,11 +9485,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -9507,7 +9507,7 @@
     "86/023": {
       "votes": {
         "robert_jackson": 38,
-        "nayma_silver_matos": 26,
+        "nayma_silver-matos": 26,
         "scattered": 0
       },
       "total": 64,
@@ -9518,11 +9518,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -9540,22 +9540,22 @@
     "86/024": {
       "votes": {
         "robert_jackson": 43,
-        "nayma_silver_matos": 47,
+        "nayma_silver-matos": 47,
         "scattered": 0
       },
       "total": 90,
-      "winnerId": "nayma_silver_matos",
+      "winnerId": "nayma_silver-matos",
       "margin": 4.4,
       "candidates": [
         {
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -9573,7 +9573,7 @@
     "86/025": {
       "votes": {
         "robert_jackson": 54,
-        "nayma_silver_matos": 50,
+        "nayma_silver-matos": 50,
         "scattered": 0
       },
       "total": 104,
@@ -9584,11 +9584,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,
@@ -9606,7 +9606,7 @@
     "86/026": {
       "votes": {
         "robert_jackson": 47,
-        "nayma_silver_matos": 44,
+        "nayma_silver-matos": 44,
         "scattered": 0
       },
       "total": 91,
@@ -9617,11 +9617,11 @@
           "id": "robert_jackson",
           "name": "Robert Jackson",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#d97706"
         },
         {
-          "id": "nayma_silver_matos",
+          "id": "nayma_silver-matos",
           "name": "Nayma Silver-Matos",
           "party": "Democratic",
           "isIncumbent": false,

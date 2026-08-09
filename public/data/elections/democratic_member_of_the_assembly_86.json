@@ -19,12 +19,21 @@
   "results": {
     "86": {
       "votes": {
-        "uncontested_primary_assembly_86": 0
+        "yudelka_tapia": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_assembly_86",
+      "winnerId": "yudelka_tapia",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "yudelka_tapia",
+          "name": "Yudelka Tapia",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

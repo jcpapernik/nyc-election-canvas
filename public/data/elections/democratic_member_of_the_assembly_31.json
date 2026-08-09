@@ -19,12 +19,21 @@
   "results": {
     "31": {
       "votes": {
-        "uncontested_primary_assembly_31": 0
+        "khaleel_anderson": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_assembly_31",
+      "winnerId": "khaleel_anderson",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "khaleel_anderson",
+          "name": "Khaleel Anderson",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

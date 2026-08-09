@@ -19,12 +19,21 @@
   "results": {
     "73": {
       "votes": {
-        "uncontested_primary_assembly_73": 0
+        "alex_aronson": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_assembly_73",
+      "winnerId": "alex_aronson",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "alex_aronson",
+          "name": "Alex Aronson",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

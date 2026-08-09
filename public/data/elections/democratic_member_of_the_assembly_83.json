@@ -19,12 +19,21 @@
   "results": {
     "83": {
       "votes": {
-        "uncontested_primary_assembly_83": 0
+        "carl_heastie": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_assembly_83",
+      "winnerId": "carl_heastie",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "carl_heastie",
+          "name": "Carl Heastie",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

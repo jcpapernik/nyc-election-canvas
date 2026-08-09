@@ -19,12 +19,21 @@
   "results": {
     "61": {
       "votes": {
-        "uncontested_primary_assembly_61": 0
+        "charles_fall": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_assembly_61",
+      "winnerId": "charles_fall",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "charles_fall",
+          "name": "Charles Fall",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

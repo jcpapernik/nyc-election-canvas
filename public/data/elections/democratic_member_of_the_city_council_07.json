@@ -19,12 +19,21 @@
   "results": {
     "7": {
       "votes": {
-        "uncontested_primary_council_7": 0
+        "shaun_abreu": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_council_7",
+      "winnerId": "shaun_abreu",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "shaun_abreu",
+          "name": "Shaun Abreu",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

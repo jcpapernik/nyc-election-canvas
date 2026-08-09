@@ -19,12 +19,21 @@
   "results": {
     "64": {
       "votes": {
-        "uncontested_primary_assembly_64": 0
+        "michael_tannousis": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_assembly_64",
+      "winnerId": "michael_tannousis",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "michael_tannousis",
+          "name": "Michael Tannousis",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

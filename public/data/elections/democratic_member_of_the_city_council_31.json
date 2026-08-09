@@ -19,12 +19,21 @@
   "results": {
     "31": {
       "votes": {
-        "uncontested_primary_council_31": 0
+        "selvena_brooks-powers": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_council_31",
+      "winnerId": "selvena_brooks-powers",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "selvena_brooks-powers",
+          "name": "Selvena Brooks-Powers",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

@@ -19,12 +19,21 @@
   "results": {
     "16": {
       "votes": {
-        "uncontested_primary_senate_16": 0
+        "john_liu": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_senate_16",
+      "winnerId": "john_liu",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "john_liu",
+          "name": "John Liu",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

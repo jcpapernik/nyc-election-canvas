@@ -19,12 +19,21 @@
   "results": {
     "19": {
       "votes": {
-        "uncontested_primary_council_19": 0
+        "vickie_paladino": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_council_19",
+      "winnerId": "vickie_paladino",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "vickie_paladino",
+          "name": "Vickie Paladino",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

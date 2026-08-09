@@ -19,12 +19,21 @@
   "results": {
     "51": {
       "votes": {
-        "uncontested_primary_council_51": 0
+        "frank_morano": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_council_51",
+      "winnerId": "frank_morano",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "frank_morano",
+          "name": "Frank Morano",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

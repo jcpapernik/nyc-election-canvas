@@ -19,12 +19,21 @@
   "results": {
     "9": {
       "votes": {
-        "uncontested_primary_council_9": 0
+        "yusef_salaam": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_council_9",
+      "winnerId": "yusef_salaam",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "yusef_salaam",
+          "name": "Yusef Salaam",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

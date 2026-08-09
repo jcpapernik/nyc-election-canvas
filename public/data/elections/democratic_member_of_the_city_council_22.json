@@ -9,8 +9,8 @@
   "isUncontested": true,
   "candidates": [
     {
-      "id": "tiffany_cab\u00e1n",
-      "name": "Tiffany Cab\u00e1n",
+      "id": "tiffany_cabán",
+      "name": "Tiffany Cabán",
       "party": "Democratic",
       "isIncumbent": false,
       "color": "#2563eb"
@@ -19,12 +19,21 @@
   "results": {
     "22": {
       "votes": {
-        "uncontested_primary_council_22": 0
+        "tiffany_cabán": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_council_22",
+      "winnerId": "tiffany_cabán",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "tiffany_cabán",
+          "name": "Tiffany Cabán",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

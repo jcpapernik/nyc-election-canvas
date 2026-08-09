@@ -19,12 +19,21 @@
   "results": {
     "28": {
       "votes": {
-        "uncontested_primary_council_28": 0
+        "tyrell_hankerson": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_council_28",
+      "winnerId": "tyrell_hankerson",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "tyrell_hankerson",
+          "name": "Tyrell Hankerson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

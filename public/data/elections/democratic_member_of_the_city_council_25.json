@@ -19,12 +19,21 @@
   "results": {
     "25": {
       "votes": {
-        "uncontested_primary_council_25": 0
+        "shekar_krishnan": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_council_25",
+      "winnerId": "shekar_krishnan",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "shekar_krishnan",
+          "name": "Shekar Krishnan",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

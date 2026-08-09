@@ -19,12 +19,21 @@
   "results": {
     "17": {
       "votes": {
-        "uncontested_primary_senate_17": 0
+        "stephen_t_chan": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_senate_17",
+      "winnerId": "stephen_t_chan",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "stephen_t_chan",
+          "name": "Stephen T. Chan",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

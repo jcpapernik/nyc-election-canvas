@@ -19,12 +19,21 @@
   "results": {
     "5": {
       "votes": {
-        "uncontested_primary_council_5": 0
+        "julie_menin": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_council_5",
+      "winnerId": "julie_menin",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "julie_menin",
+          "name": "Julie Menin",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

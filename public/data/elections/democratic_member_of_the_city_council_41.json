@@ -19,12 +19,21 @@
   "results": {
     "41": {
       "votes": {
-        "uncontested_primary_council_41": 0
+        "darlene_mealy": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_council_41",
+      "winnerId": "darlene_mealy",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "darlene_mealy",
+          "name": "Darlene Mealy",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

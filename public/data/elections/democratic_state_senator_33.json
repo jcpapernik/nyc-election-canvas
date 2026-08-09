@@ -19,12 +19,21 @@
   "results": {
     "33": {
       "votes": {
-        "uncontested_primary_senate_33": 0
+        "gustavo_rivera": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_senate_33",
+      "winnerId": "gustavo_rivera",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "gustavo_rivera",
+          "name": "Gustavo Rivera",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

@@ -19,12 +19,21 @@
   "results": {
     "40": {
       "votes": {
-        "uncontested_primary_assembly_40": 0
+        "ron_kim": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_assembly_40",
+      "winnerId": "ron_kim",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "ron_kim",
+          "name": "Ron Kim",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

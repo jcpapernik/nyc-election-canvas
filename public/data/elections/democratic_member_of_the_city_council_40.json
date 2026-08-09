@@ -19,12 +19,21 @@
   "results": {
     "40": {
       "votes": {
-        "uncontested_primary_council_40": 0
+        "rita_joseph": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_council_40",
+      "winnerId": "rita_joseph",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "rita_joseph",
+          "name": "Rita Joseph",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

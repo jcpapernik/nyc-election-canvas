@@ -9,8 +9,8 @@
   "isUncontested": true,
   "candidates": [
     {
-      "id": "jennifer_guti\u00e9rrez",
-      "name": "Jennifer Guti\u00e9rrez",
+      "id": "jennifer_gutiérrez",
+      "name": "Jennifer Gutiérrez",
       "party": "Democratic",
       "isIncumbent": false,
       "color": "#2563eb"
@@ -19,12 +19,21 @@
   "results": {
     "34": {
       "votes": {
-        "uncontested_primary_council_34": 0
+        "jennifer_gutiérrez": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_council_34",
+      "winnerId": "jennifer_gutiérrez",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "jennifer_gutiérrez",
+          "name": "Jennifer Gutiérrez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

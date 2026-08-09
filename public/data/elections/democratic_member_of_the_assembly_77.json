@@ -19,12 +19,21 @@
   "results": {
     "77": {
       "votes": {
-        "uncontested_primary_assembly_77": 0
+        "landon_dais": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_assembly_77",
+      "winnerId": "landon_dais",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "landon_dais",
+          "name": "Landon Dais",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

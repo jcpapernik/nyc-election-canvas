@@ -19,12 +19,21 @@
   "results": {
     "22": {
       "votes": {
-        "uncontested_primary_senate_22": 0
+        "sam_sutton": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_senate_22",
+      "winnerId": "sam_sutton",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "sam_sutton",
+          "name": "Sam Sutton",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

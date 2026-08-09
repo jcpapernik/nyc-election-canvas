@@ -19,12 +19,21 @@
   "results": {
     "15": {
       "votes": {
-        "uncontested_primary_council_15": 0
+        "oswald_feliz": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_council_15",
+      "winnerId": "oswald_feliz",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "oswald_feliz",
+          "name": "Oswald Feliz",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

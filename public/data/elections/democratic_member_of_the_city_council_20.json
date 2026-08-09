@@ -19,12 +19,21 @@
   "results": {
     "20": {
       "votes": {
-        "uncontested_primary_council_20": 0
+        "sandra_ung": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_council_20",
+      "winnerId": "sandra_ung",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "sandra_ung",
+          "name": "Sandra Ung",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

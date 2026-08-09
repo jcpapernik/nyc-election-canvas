@@ -19,12 +19,21 @@
   "results": {
     "1": {
       "votes": {
-        "uncontested_primary_council_1": 0
+        "christopher_marte": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_council_1",
+      "winnerId": "christopher_marte",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "christopher_marte",
+          "name": "Christopher Marte",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

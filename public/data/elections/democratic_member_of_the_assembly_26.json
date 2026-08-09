@@ -19,12 +19,21 @@
   "results": {
     "26": {
       "votes": {
-        "uncontested_primary_assembly_26": 0
+        "edward_braunstein": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_assembly_26",
+      "winnerId": "edward_braunstein",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "edward_braunstein",
+          "name": "Edward Braunstein",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

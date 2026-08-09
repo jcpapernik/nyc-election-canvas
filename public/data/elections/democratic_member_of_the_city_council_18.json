@@ -9,8 +9,8 @@
   "isUncontested": true,
   "candidates": [
     {
-      "id": "amanda_far\u00edas",
-      "name": "Amanda Far\u00edas",
+      "id": "amanda_farías",
+      "name": "Amanda Farías",
       "party": "Democratic",
       "isIncumbent": false,
       "color": "#2563eb"
@@ -19,12 +19,21 @@
   "results": {
     "18": {
       "votes": {
-        "uncontested_primary_council_18": 0
+        "amanda_farías": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_council_18",
+      "winnerId": "amanda_farías",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "amanda_farías",
+          "name": "Amanda Farías",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

@@ -19,12 +19,21 @@
   "results": {
     "41": {
       "votes": {
-        "uncontested_primary_assembly_41": 0
+        "kalman_yeger": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_assembly_41",
+      "winnerId": "kalman_yeger",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "kalman_yeger",
+          "name": "Kalman Yeger",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

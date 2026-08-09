@@ -19,12 +19,21 @@
   "results": {
     "17": {
       "votes": {
-        "uncontested_primary_council_17": 0
+        "justin_sanchez": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_council_17",
+      "winnerId": "justin_sanchez",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "justin_sanchez",
+          "name": "Justin Sanchez",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

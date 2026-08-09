@@ -19,12 +19,21 @@
   "results": {
     "60": {
       "votes": {
-        "uncontested_primary_assembly_60": 0
+        "nikki_lucas": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_assembly_60",
+      "winnerId": "nikki_lucas",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "nikki_lucas",
+          "name": "Nikki Lucas",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

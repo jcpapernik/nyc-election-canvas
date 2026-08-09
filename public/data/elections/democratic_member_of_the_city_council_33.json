@@ -19,12 +19,21 @@
   "results": {
     "33": {
       "votes": {
-        "uncontested_primary_council_33": 0
+        "lincoln_restler": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_council_33",
+      "winnerId": "lincoln_restler",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "lincoln_restler",
+          "name": "Lincoln Restler",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

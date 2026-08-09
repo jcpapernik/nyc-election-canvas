@@ -19,12 +19,21 @@
   "results": {
     "26": {
       "votes": {
-        "uncontested_primary_council_26": 0
+        "julie_won": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_council_26",
+      "winnerId": "julie_won",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "julie_won",
+          "name": "Julie Won",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

@@ -19,12 +19,21 @@
   "results": {
     "30": {
       "votes": {
-        "uncontested_primary_assembly_30": 0
+        "steven_raga": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_assembly_30",
+      "winnerId": "steven_raga",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "steven_raga",
+          "name": "Steven Raga",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

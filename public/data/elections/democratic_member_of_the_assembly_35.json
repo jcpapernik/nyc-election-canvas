@@ -19,12 +19,21 @@
   "results": {
     "35": {
       "votes": {
-        "uncontested_primary_assembly_35": 0
+        "larinda_hooks": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_assembly_35",
+      "winnerId": "larinda_hooks",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "larinda_hooks",
+          "name": "Larinda Hooks",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

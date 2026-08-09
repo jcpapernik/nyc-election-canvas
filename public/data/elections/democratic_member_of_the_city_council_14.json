@@ -19,12 +19,21 @@
   "results": {
     "14": {
       "votes": {
-        "uncontested_primary_council_14": 0
+        "pierina_sanchez": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_council_14",
+      "winnerId": "pierina_sanchez",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "pierina_sanchez",
+          "name": "Pierina Sanchez",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

@@ -19,12 +19,21 @@
   "results": {
     "80": {
       "votes": {
-        "uncontested_primary_assembly_80": 0
+        "john_zaccaro_jr": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_assembly_80",
+      "winnerId": "john_zaccaro_jr",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "john_zaccaro_jr",
+          "name": "John Zaccaro Jr.",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

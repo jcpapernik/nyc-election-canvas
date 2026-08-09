@@ -19,12 +19,21 @@
   "results": {
     "63": {
       "votes": {
-        "uncontested_primary_assembly_63": 0
+        "sam_pirozzolo": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_assembly_63",
+      "winnerId": "sam_pirozzolo",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "sam_pirozzolo",
+          "name": "Sam Pirozzolo",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

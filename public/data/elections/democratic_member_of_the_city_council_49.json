@@ -19,12 +19,21 @@
   "results": {
     "49": {
       "votes": {
-        "uncontested_primary_council_49": 0
+        "kamillah_hanks": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_council_49",
+      "winnerId": "kamillah_hanks",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "kamillah_hanks",
+          "name": "Kamillah Hanks",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

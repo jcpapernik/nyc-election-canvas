@@ -19,12 +19,21 @@
   "results": {
     "67": {
       "votes": {
-        "uncontested_primary_assembly_67": 0
+        "linda_rosenthal": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_assembly_67",
+      "winnerId": "linda_rosenthal",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "linda_rosenthal",
+          "name": "Linda Rosenthal",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

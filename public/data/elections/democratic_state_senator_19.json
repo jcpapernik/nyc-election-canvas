@@ -19,12 +19,21 @@
   "results": {
     "19": {
       "votes": {
-        "uncontested_primary_senate_19": 0
+        "roxanne_persaud": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_senate_19",
+      "winnerId": "roxanne_persaud",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "roxanne_persaud",
+          "name": "Roxanne Persaud",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

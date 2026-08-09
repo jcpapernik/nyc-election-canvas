@@ -19,12 +19,21 @@
   "results": {
     "4": {
       "votes": {
-        "uncontested_primary_congressional_4": 0
+        "laura_gillen": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_congressional_4",
+      "winnerId": "laura_gillen",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "laura_gillen",
+          "name": "Laura Gillen",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

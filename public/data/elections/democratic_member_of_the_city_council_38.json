@@ -9,8 +9,8 @@
   "isUncontested": true,
   "candidates": [
     {
-      "id": "alexa_avil\u00e9s",
-      "name": "Alexa Avil\u00e9s",
+      "id": "alexa_avilés",
+      "name": "Alexa Avilés",
       "party": "Democratic",
       "isIncumbent": false,
       "color": "#2563eb"
@@ -19,12 +19,21 @@
   "results": {
     "38": {
       "votes": {
-        "uncontested_primary_council_38": 0
+        "alexa_avilés": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_council_38",
+      "winnerId": "alexa_avilés",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "alexa_avilés",
+          "name": "Alexa Avilés",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

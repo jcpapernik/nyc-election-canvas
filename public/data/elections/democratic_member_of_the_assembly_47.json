@@ -19,12 +19,21 @@
   "results": {
     "47": {
       "votes": {
-        "uncontested_primary_assembly_47": 0
+        "william_colton": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_assembly_47",
+      "winnerId": "william_colton",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "william_colton",
+          "name": "William Colton",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

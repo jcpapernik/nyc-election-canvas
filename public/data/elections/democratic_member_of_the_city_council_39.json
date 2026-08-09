@@ -19,12 +19,21 @@
   "results": {
     "39": {
       "votes": {
-        "uncontested_primary_council_39": 0
+        "shahana_hanif": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_council_39",
+      "winnerId": "shahana_hanif",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "shahana_hanif",
+          "name": "Shahana Hanif",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

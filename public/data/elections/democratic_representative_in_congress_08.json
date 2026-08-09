@@ -19,12 +19,21 @@
   "results": {
     "8": {
       "votes": {
-        "uncontested_primary_congressional_8": 0
+        "hakeem_jeffries": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_congressional_8",
+      "winnerId": "hakeem_jeffries",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "hakeem_jeffries",
+          "name": "Hakeem Jeffries",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

@@ -19,12 +19,21 @@
   "results": {
     "6": {
       "votes": {
-        "uncontested_primary_council_6": 0
+        "gale_brewer": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_council_6",
+      "winnerId": "gale_brewer",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "gale_brewer",
+          "name": "Gale Brewer",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

@@ -19,12 +19,21 @@
   "results": {
     "28": {
       "votes": {
-        "uncontested_primary_senate_28": 0
+        "liz_krueger": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_senate_28",
+      "winnerId": "liz_krueger",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "liz_krueger",
+          "name": "Liz Krueger",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

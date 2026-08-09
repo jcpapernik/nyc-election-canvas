@@ -19,12 +19,21 @@
   "results": {
     "20": {
       "votes": {
-        "uncontested_primary_senate_20": 0
+        "zellnor_myrie": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_senate_20",
+      "winnerId": "zellnor_myrie",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "zellnor_myrie",
+          "name": "Zellnor Myrie",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

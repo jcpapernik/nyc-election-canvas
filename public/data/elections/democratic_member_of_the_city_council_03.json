@@ -19,12 +19,21 @@
   "results": {
     "3": {
       "votes": {
-        "uncontested_primary_council_3": 0
+        "carl_wilson": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_council_3",
+      "winnerId": "carl_wilson",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "carl_wilson",
+          "name": "Carl Wilson",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

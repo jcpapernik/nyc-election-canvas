@@ -19,12 +19,21 @@
   "results": {
     "49": {
       "votes": {
-        "uncontested_primary_assembly_49": 0
+        "lester_chang": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_assembly_49",
+      "winnerId": "lester_chang",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "lester_chang",
+          "name": "Lester Chang",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

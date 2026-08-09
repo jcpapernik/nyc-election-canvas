@@ -19,12 +19,21 @@
   "results": {
     "48": {
       "votes": {
-        "uncontested_primary_assembly_48": 0
+        "simcha_eichenstein": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_assembly_48",
+      "winnerId": "simcha_eichenstein",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "simcha_eichenstein",
+          "name": "Simcha Eichenstein",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

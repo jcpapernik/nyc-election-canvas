@@ -19,12 +19,21 @@
   "results": {
     "62": {
       "votes": {
-        "uncontested_primary_assembly_62": 0
+        "michael_reilly": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_assembly_62",
+      "winnerId": "michael_reilly",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "michael_reilly",
+          "name": "Michael Reilly",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

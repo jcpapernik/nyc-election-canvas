@@ -9,8 +9,8 @@
   "isUncontested": true,
   "candidates": [
     {
-      "id": "luis_r_sep\u00falveda",
-      "name": "Luis R. Sep\u00falveda",
+      "id": "luis_r_sepúlveda",
+      "name": "Luis R. Sepúlveda",
       "party": "Democratic",
       "isIncumbent": false,
       "color": "#2563eb"
@@ -19,12 +19,21 @@
   "results": {
     "32": {
       "votes": {
-        "uncontested_primary_senate_32": 0
+        "luis_r_sepúlveda": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_senate_32",
+      "winnerId": "luis_r_sepúlveda",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "luis_r_sepúlveda",
+          "name": "Luis R. Sepúlveda",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

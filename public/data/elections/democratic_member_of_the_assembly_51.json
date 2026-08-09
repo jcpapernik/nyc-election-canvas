@@ -19,12 +19,21 @@
   "results": {
     "51": {
       "votes": {
-        "uncontested_primary_assembly_51": 0
+        "marcela_mitaynes": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_assembly_51",
+      "winnerId": "marcela_mitaynes",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "marcela_mitaynes",
+          "name": "Marcela Mitaynes",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

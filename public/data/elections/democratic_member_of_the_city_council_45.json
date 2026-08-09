@@ -19,12 +19,21 @@
   "results": {
     "45": {
       "votes": {
-        "uncontested_primary_council_45": 0
+        "farah_louis": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_council_45",
+      "winnerId": "farah_louis",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "farah_louis",
+          "name": "Farah Louis",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

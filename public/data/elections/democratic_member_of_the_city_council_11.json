@@ -19,12 +19,21 @@
   "results": {
     "11": {
       "votes": {
-        "uncontested_primary_council_11": 0
+        "eric_dinowitz": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_council_11",
+      "winnerId": "eric_dinowitz",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "eric_dinowitz",
+          "name": "Eric Dinowitz",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

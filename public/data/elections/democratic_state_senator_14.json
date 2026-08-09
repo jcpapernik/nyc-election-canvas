@@ -19,12 +19,21 @@
   "results": {
     "14": {
       "votes": {
-        "uncontested_primary_senate_14": 0
+        "leroy_comrie": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_senate_14",
+      "winnerId": "leroy_comrie",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "leroy_comrie",
+          "name": "Leroy Comrie",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

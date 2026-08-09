@@ -19,12 +19,21 @@
   "results": {
     "78": {
       "votes": {
-        "uncontested_primary_assembly_78": 0
+        "george_alvarez": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_assembly_78",
+      "winnerId": "george_alvarez",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "george_alvarez",
+          "name": "George Alvarez",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

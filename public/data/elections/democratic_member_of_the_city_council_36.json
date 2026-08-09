@@ -9,8 +9,8 @@
   "isUncontested": true,
   "candidates": [
     {
-      "id": "chi_oss\u00e9",
-      "name": "Chi Oss\u00e9",
+      "id": "chi_ossé",
+      "name": "Chi Ossé",
       "party": "Democratic",
       "isIncumbent": false,
       "color": "#2563eb"
@@ -19,12 +19,21 @@
   "results": {
     "36": {
       "votes": {
-        "uncontested_primary_council_36": 0
+        "chi_ossé": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_council_36",
+      "winnerId": "chi_ossé",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "chi_ossé",
+          "name": "Chi Ossé",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

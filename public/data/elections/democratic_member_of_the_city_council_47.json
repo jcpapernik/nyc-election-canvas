@@ -19,12 +19,21 @@
   "results": {
     "47": {
       "votes": {
-        "uncontested_primary_council_47": 0
+        "kayla_santosuosso": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_council_47",
+      "winnerId": "kayla_santosuosso",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "kayla_santosuosso",
+          "name": "Kayla Santosuosso",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

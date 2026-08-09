@@ -19,12 +19,21 @@
   "results": {
     "66": {
       "votes": {
-        "uncontested_primary_assembly_66": 0
+        "deborah_j_glick": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_assembly_66",
+      "winnerId": "deborah_j_glick",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "deborah_j_glick",
+          "name": "Deborah J. Glick",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

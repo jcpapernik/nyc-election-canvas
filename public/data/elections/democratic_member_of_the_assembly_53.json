@@ -19,12 +19,21 @@
   "results": {
     "53": {
       "votes": {
-        "uncontested_primary_assembly_53": 0
+        "maritza_davila": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_assembly_53",
+      "winnerId": "maritza_davila",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "maritza_davila",
+          "name": "Maritza Davila",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

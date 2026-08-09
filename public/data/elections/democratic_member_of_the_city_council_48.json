@@ -19,12 +19,21 @@
   "results": {
     "48": {
       "votes": {
-        "uncontested_primary_council_48": 0
+        "inna_vernikov": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_council_48",
+      "winnerId": "inna_vernikov",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "inna_vernikov",
+          "name": "Inna Vernikov",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

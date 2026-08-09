@@ -19,12 +19,21 @@
   "results": {
     "35": {
       "votes": {
-        "uncontested_primary_council_35": 0
+        "crystal_hudson": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_council_35",
+      "winnerId": "crystal_hudson",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "crystal_hudson",
+          "name": "Crystal Hudson",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

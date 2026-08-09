@@ -19,12 +19,21 @@
   "results": {
     "29": {
       "votes": {
-        "uncontested_primary_council_29": 0
+        "lynn_schulman": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_council_29",
+      "winnerId": "lynn_schulman",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "lynn_schulman",
+          "name": "Lynn Schulman",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

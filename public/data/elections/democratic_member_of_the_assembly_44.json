@@ -19,12 +19,21 @@
   "results": {
     "44": {
       "votes": {
-        "uncontested_primary_assembly_44": 0
+        "robert_carroll": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_assembly_44",
+      "winnerId": "robert_carroll",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "robert_carroll",
+          "name": "Robert Carroll",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

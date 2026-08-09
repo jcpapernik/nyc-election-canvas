@@ -19,12 +19,21 @@
   "results": {
     "32": {
       "votes": {
-        "uncontested_primary_council_32": 0
+        "joann_ariola": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_council_32",
+      "winnerId": "joann_ariola",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "joann_ariola",
+          "name": "Joann Ariola",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

@@ -19,12 +19,21 @@
   "results": {
     "21": {
       "votes": {
-        "uncontested_primary_senate_21": 0
+        "kevin_parker": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_senate_21",
+      "winnerId": "kevin_parker",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "kevin_parker",
+          "name": "Kevin Parker",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

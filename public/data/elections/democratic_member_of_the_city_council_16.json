@@ -19,12 +19,21 @@
   "results": {
     "16": {
       "votes": {
-        "uncontested_primary_council_16": 0
+        "althea_stevens": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_council_16",
+      "winnerId": "althea_stevens",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "althea_stevens",
+          "name": "Althea Stevens",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

@@ -19,12 +19,21 @@
   "results": {
     "76": {
       "votes": {
-        "uncontested_primary_assembly_76": 0
+        "rebecca_seawright": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_assembly_76",
+      "winnerId": "rebecca_seawright",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "rebecca_seawright",
+          "name": "Rebecca Seawright",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}

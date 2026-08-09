@@ -19,12 +19,21 @@
   "results": {
     "24": {
       "votes": {
-        "uncontested_primary_senate_24": 0
+        "andrew_lanza": 0
       },
       "total": 0,
-      "winnerId": "uncontested_primary_senate_24",
+      "winnerId": "andrew_lanza",
       "margin": 100,
-      "isUncontested": true
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "andrew_lanza",
+          "name": "Andrew Lanza",
+          "party": "Democratic",
+          "isIncumbent": true,
+          "color": "#2563eb"
+        }
+      ]
     }
   },
   "edResults": {}
