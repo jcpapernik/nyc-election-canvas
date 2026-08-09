@@ -9,8 +9,8 @@
   "isUncontested": true,
   "candidates": [
     {
-      "id": "rob_lubin",
-      "name": "Rob Lubin",
+      "id": "patrick_halpin",
+      "name": "Patrick Halpin",
       "party": "Democratic",
       "isIncumbent": false,
       "color": "#3b82f6"
@@ -19,16 +19,16 @@
   "results": {
     "02": {
       "votes": {
-        "rob_lubin": 100
+        "patrick_halpin": 100
       },
       "total": 100,
-      "winnerId": "rob_lubin",
+      "winnerId": "patrick_halpin",
       "margin": 100,
       "isUncontested": true,
       "candidates": [
         {
-          "id": "rob_lubin",
-          "name": "Rob Lubin",
+          "id": "patrick_halpin",
+          "name": "Patrick Halpin",
           "party": "Democratic",
           "isIncumbent": false,
           "color": "#3b82f6"

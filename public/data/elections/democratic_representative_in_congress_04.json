@@ -12,7 +12,7 @@
       "id": "laura_gillen",
       "name": "Laura Gillen",
       "party": "Democratic",
-      "isIncumbent": false,
+      "isIncumbent": true,
       "color": "#3b82f6"
     }
   ],
@@ -30,7 +30,7 @@
           "id": "laura_gillen",
           "name": "Laura Gillen",
           "party": "Democratic",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#3b82f6"
         }
       ]

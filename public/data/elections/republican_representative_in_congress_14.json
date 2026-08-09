@@ -26,12 +26,13 @@
   "results": {
     "14": {
       "votes": {
-        "tina_forte": 1420,
-        "desi_cuellar": 980
+        "tina_forte": 2400,
+        "desi_cuellar": 1200
       },
-      "total": 2400,
+      "total": 3600,
       "winnerId": "tina_forte",
-      "margin": 18.3,
+      "margin": 28,
+      "isUncontested": false,
       "candidates": [
         {
           "id": "tina_forte",

@@ -9,8 +9,8 @@
   "isUncontested": true,
   "candidates": [
     {
-      "id": "john_avlon",
-      "name": "John Avlon",
+      "id": "christopher_gallant",
+      "name": "Christopher Gallant",
       "party": "Democratic",
       "isIncumbent": false,
       "color": "#3b82f6"
@@ -19,16 +19,16 @@
   "results": {
     "01": {
       "votes": {
-        "john_avlon": 100
+        "christopher_gallant": 100
       },
       "total": 100,
-      "winnerId": "john_avlon",
+      "winnerId": "christopher_gallant",
       "margin": 100,
       "isUncontested": true,
       "candidates": [
         {
-          "id": "john_avlon",
-          "name": "John Avlon",
+          "id": "christopher_gallant",
+          "name": "Christopher Gallant",
           "party": "Democratic",
           "isIncumbent": false,
           "color": "#3b82f6"

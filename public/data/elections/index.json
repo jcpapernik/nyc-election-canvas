@@ -2142,7 +2142,7 @@
     "districtKey": "01",
     "districtType": "congressional",
     "isUncontested": true,
-    "candidatesSummary": " (John Avlon)"
+    "candidatesSummary": " (Christopher Gallant)"
   },
   {
     "id": "democratic_representative_in_congress_02",
@@ -2153,7 +2153,7 @@
     "districtKey": "02",
     "districtType": "congressional",
     "isUncontested": true,
-    "candidatesSummary": " (Rob Lubin)"
+    "candidatesSummary": " (Patrick Halpin)"
   },
   {
     "id": "democratic_representative_in_congress_03",
@@ -2186,7 +2186,7 @@
     "districtKey": "05",
     "districtType": "congressional",
     "isUncontested": true,
-    "candidatesSummary": " (Gregory Meeks)"
+    "candidatesSummary": " (Gregory W. Meeks)"
   },
   {
     "id": "democratic_representative_in_congress_06",
@@ -2207,8 +2207,8 @@
     "officeCategory": "US House (Congressional)",
     "districtKey": "07",
     "districtType": "congressional",
-    "isUncontested": true,
-    "candidatesSummary": " (Claire Valdez)"
+    "isUncontested": false,
+    "candidatesSummary": " (Claire Valdez, Antonio Reynoso, Julie Won)"
   },
   {
     "id": "democratic_representative_in_congress_08",
@@ -2229,8 +2229,8 @@
     "officeCategory": "US House (Congressional)",
     "districtKey": "09",
     "districtType": "congressional",
-    "isUncontested": true,
-    "candidatesSummary": " (Yvette D. Clarke)"
+    "isUncontested": false,
+    "candidatesSummary": " (Yvette D. Clarke, Michael Goldfarb)"
   },
   {
     "id": "democratic_representative_in_congress_10",
@@ -2240,8 +2240,8 @@
     "officeCategory": "US House (Congressional)",
     "districtKey": "10",
     "districtType": "congressional",
-    "isUncontested": true,
-    "candidatesSummary": " (Brad Lander)"
+    "isUncontested": false,
+    "candidatesSummary": " (Brad Lander, Daniel Goldman)"
   },
   {
     "id": "democratic_representative_in_congress_11",
@@ -2251,8 +2251,8 @@
     "officeCategory": "US House (Congressional)",
     "districtKey": "11",
     "districtType": "congressional",
-    "isUncontested": true,
-    "candidatesSummary": " (Andrea Morse)"
+    "isUncontested": false,
+    "candidatesSummary": " (Michael DeCillis, Allison Ziogas)"
   },
   {
     "id": "democratic_representative_in_congress_12",
@@ -2262,8 +2262,8 @@
     "officeCategory": "US House (Congressional)",
     "districtKey": "12",
     "districtType": "congressional",
-    "isUncontested": true,
-    "candidatesSummary": " (Micah Lasher)"
+    "isUncontested": false,
+    "candidatesSummary": " (Micah Lasher, Alex Bores, George Conway, Jack Schlossberg)"
   },
   {
     "id": "democratic_representative_in_congress_13",
@@ -2273,8 +2273,8 @@
     "officeCategory": "US House (Congressional)",
     "districtKey": "13",
     "districtType": "congressional",
-    "isUncontested": true,
-    "candidatesSummary": " (Darializa Avila Chevalier)"
+    "isUncontested": false,
+    "candidatesSummary": " (Darializa Avila Chevalier, Adriano Espaillat)"
   },
   {
     "id": "democratic_representative_in_congress_14",
@@ -2295,8 +2295,8 @@
     "officeCategory": "US House (Congressional)",
     "districtKey": "15",
     "districtType": "congressional",
-    "isUncontested": true,
-    "candidatesSummary": " (Ritchie Torres)"
+    "isUncontested": false,
+    "candidatesSummary": " (Ritchie Torres, Michael Blake, Jose Vega)"
   },
   {
     "id": "democratic_representative_in_congress_16",
@@ -3924,7 +3924,7 @@
     "districtKey": "01",
     "districtType": "congressional",
     "isUncontested": true,
-    "candidatesSummary": " (Nick LaLota)"
+    "candidatesSummary": " (Nicholas J. LaLota)"
   },
   {
     "id": "republican_representative_in_congress_02",
@@ -3946,7 +3946,7 @@
     "districtKey": "03",
     "districtType": "congressional",
     "isUncontested": false,
-    "candidatesSummary": " (Michael J. LiPetri Jr., Greg Hach, Scattered)"
+    "candidatesSummary": " (Michael J. LiPetri Jr., Greg Hach)"
   },
   {
     "id": "republican_representative_in_congress_04",
@@ -3957,7 +3957,7 @@
     "districtKey": "04",
     "districtType": "congressional",
     "isUncontested": true,
-    "candidatesSummary": " (Anthony D'Esposito)"
+    "candidatesSummary": " (Jeanine Driscoll)"
   },
   {
     "id": "republican_representative_in_congress_05",
@@ -4088,7 +4088,7 @@
     "officeCategory": "US House (Congressional)",
     "districtKey": "16",
     "districtType": "congressional",
-    "isUncontested": true,
-    "candidatesSummary": " (Joseph Cinquemani)"
+    "isUncontested": false,
+    "candidatesSummary": " (Joseph Cinquemani, John Franklin Wilson IV)"
   }
 ]

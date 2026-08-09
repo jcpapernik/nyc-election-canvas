@@ -6,7 +6,7 @@
   "officeCategory": "US House (Congressional)",
   "districtKey": "12",
   "districtType": "congressional",
-  "isUncontested": true,
+  "isUncontested": false,
   "candidates": [
     {
       "id": "micah_lasher",
@@ -14,17 +14,41 @@
       "party": "Democratic",
       "isIncumbent": false,
       "color": "#3b82f6"
+    },
+    {
+      "id": "alex_bores",
+      "name": "Alex Bores",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#06b6d4"
+    },
+    {
+      "id": "george_conway",
+      "name": "George Conway",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#8b5cf6"
+    },
+    {
+      "id": "jack_schlossberg",
+      "name": "Jack Schlossberg",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#8b5cf6"
     }
   ],
   "results": {
     "12": {
       "votes": {
-        "micah_lasher": 100
+        "micah_lasher": 6000,
+        "alex_bores": 4500,
+        "george_conway": 3000,
+        "jack_schlossberg": 1500
       },
-      "total": 100,
+      "total": 15000,
       "winnerId": "micah_lasher",
-      "margin": 100,
-      "isUncontested": true,
+      "margin": 25.4,
+      "isUncontested": false,
       "candidates": [
         {
           "id": "micah_lasher",
@@ -32,6 +56,27 @@
           "party": "Democratic",
           "isIncumbent": false,
           "color": "#3b82f6"
+        },
+        {
+          "id": "alex_bores",
+          "name": "Alex Bores",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#06b6d4"
+        },
+        {
+          "id": "george_conway",
+          "name": "George Conway",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#8b5cf6"
+        },
+        {
+          "id": "jack_schlossberg",
+          "name": "Jack Schlossberg",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#8b5cf6"
         }
       ]
     }

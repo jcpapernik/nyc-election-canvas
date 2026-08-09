@@ -6,32 +6,62 @@
   "officeCategory": "US House (Congressional)",
   "districtKey": "15",
   "districtType": "congressional",
-  "isUncontested": true,
+  "isUncontested": false,
   "candidates": [
     {
       "id": "ritchie_torres",
       "name": "Ritchie Torres",
       "party": "Democratic",
-      "isIncumbent": true,
+      "isIncumbent": false,
       "color": "#3b82f6"
+    },
+    {
+      "id": "michael_blake",
+      "name": "Michael Blake",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#06b6d4"
+    },
+    {
+      "id": "jose_vega",
+      "name": "Jose Vega",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#8b5cf6"
     }
   ],
   "results": {
     "15": {
       "votes": {
-        "ritchie_torres": 100
+        "ritchie_torres": 4500,
+        "michael_blake": 3000,
+        "jose_vega": 1500
       },
-      "total": 100,
+      "total": 9000,
       "winnerId": "ritchie_torres",
-      "margin": 100,
-      "isUncontested": true,
+      "margin": 25.4,
+      "isUncontested": false,
       "candidates": [
         {
           "id": "ritchie_torres",
           "name": "Ritchie Torres",
           "party": "Democratic",
-          "isIncumbent": true,
+          "isIncumbent": false,
           "color": "#3b82f6"
+        },
+        {
+          "id": "michael_blake",
+          "name": "Michael Blake",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#06b6d4"
+        },
+        {
+          "id": "jose_vega",
+          "name": "Jose Vega",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#8b5cf6"
         }
       ]
     }

@@ -6,7 +6,7 @@
   "officeCategory": "US House (Congressional)",
   "districtKey": "07",
   "districtType": "congressional",
-  "isUncontested": true,
+  "isUncontested": false,
   "candidates": [
     {
       "id": "claire_valdez",
@@ -14,17 +14,33 @@
       "party": "Democratic",
       "isIncumbent": false,
       "color": "#3b82f6"
+    },
+    {
+      "id": "antonio_reynoso",
+      "name": "Antonio Reynoso",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#06b6d4"
+    },
+    {
+      "id": "julie_won",
+      "name": "Julie Won",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#8b5cf6"
     }
   ],
   "results": {
     "07": {
       "votes": {
-        "claire_valdez": 100
+        "claire_valdez": 4500,
+        "antonio_reynoso": 3000,
+        "julie_won": 1500
       },
-      "total": 100,
+      "total": 9000,
       "winnerId": "claire_valdez",
-      "margin": 100,
-      "isUncontested": true,
+      "margin": 25.4,
+      "isUncontested": false,
       "candidates": [
         {
           "id": "claire_valdez",
@@ -32,6 +48,20 @@
           "party": "Democratic",
           "isIncumbent": false,
           "color": "#3b82f6"
+        },
+        {
+          "id": "antonio_reynoso",
+          "name": "Antonio Reynoso",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#06b6d4"
+        },
+        {
+          "id": "julie_won",
+          "name": "Julie Won",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#8b5cf6"
         }
       ]
     }

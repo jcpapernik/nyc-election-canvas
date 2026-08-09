@@ -6,32 +6,47 @@
   "officeCategory": "US House (Congressional)",
   "districtKey": "11",
   "districtType": "congressional",
-  "isUncontested": true,
+  "isUncontested": false,
   "candidates": [
     {
-      "id": "andrea_morse",
-      "name": "Andrea Morse",
+      "id": "michael_decillis",
+      "name": "Michael DeCillis",
       "party": "Democratic",
       "isIncumbent": false,
       "color": "#3b82f6"
+    },
+    {
+      "id": "allison_ziogas",
+      "name": "Allison Ziogas",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#06b6d4"
     }
   ],
   "results": {
     "11": {
       "votes": {
-        "andrea_morse": 100
+        "michael_decillis": 3000,
+        "allison_ziogas": 1500
       },
-      "total": 100,
-      "winnerId": "andrea_morse",
-      "margin": 100,
-      "isUncontested": true,
+      "total": 4500,
+      "winnerId": "michael_decillis",
+      "margin": 25.4,
+      "isUncontested": false,
       "candidates": [
         {
-          "id": "andrea_morse",
-          "name": "Andrea Morse",
+          "id": "michael_decillis",
+          "name": "Michael DeCillis",
           "party": "Democratic",
           "isIncumbent": false,
           "color": "#3b82f6"
+        },
+        {
+          "id": "allison_ziogas",
+          "name": "Allison Ziogas",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#06b6d4"
         }
       ]
     }

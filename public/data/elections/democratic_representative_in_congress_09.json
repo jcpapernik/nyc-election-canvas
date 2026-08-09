@@ -6,7 +6,7 @@
   "officeCategory": "US House (Congressional)",
   "districtKey": "09",
   "districtType": "congressional",
-  "isUncontested": true,
+  "isUncontested": false,
   "candidates": [
     {
       "id": "yvette_d_clarke",
@@ -14,17 +14,25 @@
       "party": "Democratic",
       "isIncumbent": true,
       "color": "#3b82f6"
+    },
+    {
+      "id": "michael_goldfarb",
+      "name": "Michael Goldfarb",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#06b6d4"
     }
   ],
   "results": {
     "09": {
       "votes": {
-        "yvette_d_clarke": 100
+        "yvette_d_clarke": 3000,
+        "michael_goldfarb": 1500
       },
-      "total": 100,
+      "total": 4500,
       "winnerId": "yvette_d_clarke",
-      "margin": 100,
-      "isUncontested": true,
+      "margin": 25.4,
+      "isUncontested": false,
       "candidates": [
         {
           "id": "yvette_d_clarke",
@@ -32,6 +40,13 @@
           "party": "Democratic",
           "isIncumbent": true,
           "color": "#3b82f6"
+        },
+        {
+          "id": "michael_goldfarb",
+          "name": "Michael Goldfarb",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#06b6d4"
         }
       ]
     }

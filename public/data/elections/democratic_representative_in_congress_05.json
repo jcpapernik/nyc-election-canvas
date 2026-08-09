@@ -9,8 +9,8 @@
   "isUncontested": true,
   "candidates": [
     {
-      "id": "gregory_meeks",
-      "name": "Gregory Meeks",
+      "id": "gregory_w_meeks",
+      "name": "Gregory W. Meeks",
       "party": "Democratic",
       "isIncumbent": true,
       "color": "#3b82f6"
@@ -19,16 +19,16 @@
   "results": {
     "05": {
       "votes": {
-        "gregory_meeks": 100
+        "gregory_w_meeks": 100
       },
       "total": 100,
-      "winnerId": "gregory_meeks",
+      "winnerId": "gregory_w_meeks",
       "margin": 100,
       "isUncontested": true,
       "candidates": [
         {
-          "id": "gregory_meeks",
-          "name": "Gregory Meeks",
+          "id": "gregory_w_meeks",
+          "name": "Gregory W. Meeks",
           "party": "Democratic",
           "isIncumbent": true,
           "color": "#3b82f6"

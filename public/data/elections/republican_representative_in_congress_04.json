@@ -9,28 +9,28 @@
   "isUncontested": true,
   "candidates": [
     {
-      "id": "anthony_d_esposito",
-      "name": "Anthony D'Esposito",
+      "id": "jeanine_driscoll",
+      "name": "Jeanine Driscoll",
       "party": "Republican",
-      "isIncumbent": true,
+      "isIncumbent": false,
       "color": "#ef4444"
     }
   ],
   "results": {
     "04": {
       "votes": {
-        "anthony_d_esposito": 100
+        "jeanine_driscoll": 100
       },
       "total": 100,
-      "winnerId": "anthony_d_esposito",
+      "winnerId": "jeanine_driscoll",
       "margin": 100,
       "isUncontested": true,
       "candidates": [
         {
-          "id": "anthony_d_esposito",
-          "name": "Anthony D'Esposito",
+          "id": "jeanine_driscoll",
+          "name": "Jeanine Driscoll",
           "party": "Republican",
-          "isIncumbent": true,
+          "isIncumbent": false,
           "color": "#ef4444"
         }
       ]

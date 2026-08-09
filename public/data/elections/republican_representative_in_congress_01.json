@@ -9,8 +9,8 @@
   "isUncontested": true,
   "candidates": [
     {
-      "id": "nick_lalota",
-      "name": "Nick LaLota",
+      "id": "nicholas_j_lalota",
+      "name": "Nicholas J. LaLota",
       "party": "Republican",
       "isIncumbent": true,
       "color": "#ef4444"
@@ -19,16 +19,16 @@
   "results": {
     "01": {
       "votes": {
-        "nick_lalota": 100
+        "nicholas_j_lalota": 100
       },
       "total": 100,
-      "winnerId": "nick_lalota",
+      "winnerId": "nicholas_j_lalota",
       "margin": 100,
       "isUncontested": true,
       "candidates": [
         {
-          "id": "nick_lalota",
-          "name": "Nick LaLota",
+          "id": "nicholas_j_lalota",
+          "name": "Nicholas J. LaLota",
           "party": "Republican",
           "isIncumbent": true,
           "color": "#ef4444"
