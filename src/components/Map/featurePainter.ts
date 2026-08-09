@@ -122,6 +122,7 @@ export function paintRenderFeatures(
     const isZeroVotes = boundaryLayer === 'eds' && hasVotesInRace && totalVotes === 0 && !isUncontestedActiveRace && !props.isUncontested;
 
     const isOutsideParentDistrict = Boolean(props.isOutsideParentDistrict);
+    const isTargetParentCanvas = Boolean(props.isTargetParentCanvas);
 
     if (isOutsideParentDistrict) {
       renderFeature.properties.fillColor = '#475569';
@@ -134,11 +135,22 @@ export function paintRenderFeatures(
       delete renderFeature.properties.districtResultJson;
       delete renderFeature.properties.totalVotes;
       delete renderFeature.properties.voteDiff;
+    } else if (isTargetParentCanvas) {
+      renderFeature.properties.fillColor = '#ffffff';
+      renderFeature.properties.fillOpacity = 0.05;
+      renderFeature.properties.strokeWidth = 2.0;
+      renderFeature.properties.strokeColor = '#1e3a8a';
+      renderFeature.properties.strokeOpacity = 0.90;
+      renderFeature.properties.isDimmed = false;
+      renderFeature.properties.isZeroVotes = false;
+      delete renderFeature.properties.districtResultJson;
+      delete renderFeature.properties.totalVotes;
+      delete renderFeature.properties.voteDiff;
     } else if (hasVotesInRace && !isZeroVotes) {
       activeDistrictFeatures.push(renderFeature);
     }
 
-    if (hasVotesInRace && !isOutsideParentDistrict) {
+    if (hasVotesInRace && !isOutsideParentDistrict && !isTargetParentCanvas) {
       const candidatesList = (matchedResult && matchedResult.candidates && matchedResult.candidates.length > 0)
         ? matchedResult.candidates
         : (electionData?.candidates || []);
@@ -211,7 +223,7 @@ export function paintRenderFeatures(
 
     finalRenderFeatures.push(renderFeature);
 
-    if (labelText && hasVotesInRace && !isOutsideParentDistrict) {
+    if (labelText && hasVotesInRace && !isOutsideParentDistrict && !isTargetParentCanvas) {
       const labelKey = `${boundaryLayer}_${districtKey}`;
       if (!districtLabelMap.has(labelText)) {
         districtLabelMap.set(labelText, { feature: renderFeature, labelKey });

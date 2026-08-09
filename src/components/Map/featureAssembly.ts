@@ -151,13 +151,34 @@ export function assembleRenderFeatures(
 
     (parentDataset.features || []).forEach(macroFeature => {
       const props = macroFeature.properties || {};
-      outsideMacroDistricts.push({
-        ...macroFeature,
-        properties: {
-          ...props,
-          isOutsideParentDistrict: true
+      let isTargetParent = false;
+
+      for (const pName of parentPropNames) {
+        if (props[pName] !== undefined && normalizeDistrictKey(String(props[pName])) === normalizeDistrictKey(targetDistrictKey)) {
+          isTargetParent = true;
+          break;
         }
-      });
+      }
+
+      if (isTargetParent) {
+        outsideMacroDistricts.push({
+          ...macroFeature,
+          properties: {
+            ...props,
+            isOutsideParentDistrict: false,
+            isTargetParentCanvas: true
+          }
+        });
+      } else {
+        outsideMacroDistricts.push({
+          ...macroFeature,
+          properties: {
+            ...props,
+            isOutsideParentDistrict: true,
+            isTargetParentCanvas: false
+          }
+        });
+      }
     });
 
     renderRawFeatures = [...outsideMacroDistricts, ...insideSubDistricts];
