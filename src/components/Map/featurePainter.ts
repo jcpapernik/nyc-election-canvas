@@ -212,11 +212,21 @@ export function paintRenderFeatures(
         isZeroVotes: isZeroVotes,
         candidates: candidatesList
       });
-    } else {
-      renderFeature.properties.fillColor = '#475569';
-      renderFeature.properties.fillOpacity = 0.45;
-      renderFeature.properties.isDimmed = true;
-      renderFeature.properties.isZeroVotes = false;
+    } else if (!isOutsideParentDistrict && !isTargetParentCanvas) {
+      if (isCrossLayerSubBoundary) {
+        renderFeature.properties.fillColor = '#ffffff';
+        renderFeature.properties.fillOpacity = 0.01;
+        renderFeature.properties.strokeWidth = 0.8;
+        renderFeature.properties.strokeColor = '#2563eb';
+        renderFeature.properties.strokeOpacity = 0.60;
+        renderFeature.properties.isDimmed = false;
+        renderFeature.properties.isZeroVotes = false;
+      } else {
+        renderFeature.properties.fillColor = '#475569';
+        renderFeature.properties.fillOpacity = 0.45;
+        renderFeature.properties.isDimmed = true;
+        renderFeature.properties.isZeroVotes = false;
+      }
       delete renderFeature.properties.districtResultJson;
       delete renderFeature.properties.totalVotes;
     }
