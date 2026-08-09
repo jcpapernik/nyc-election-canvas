@@ -104,7 +104,13 @@ export function assembleRenderFeatures(
         }
 
         if (!isTargetParent) {
-          outsideMacroDistricts.push(macroFeature);
+          outsideMacroDistricts.push({
+            ...macroFeature,
+            properties: {
+              ...props,
+              isOutsideParentDistrict: true
+            }
+          });
         }
       });
     }
@@ -165,7 +171,13 @@ export function assembleRenderFeatures(
       }
 
       if (!isTargetParent) {
-        outsideMacroDistricts.push(macroFeature);
+        outsideMacroDistricts.push({
+          ...macroFeature,
+          properties: {
+            ...props,
+            isOutsideParentDistrict: true
+          }
+        });
       }
     });
 

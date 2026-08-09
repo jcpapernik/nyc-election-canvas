@@ -116,11 +116,24 @@ export function paintRenderFeatures(
     const isTie = totalVotes > 0 && top1 > 0 && top1 === top2;
     const isZeroVotes = boundaryLayer === 'eds' && hasVotesInRace && totalVotes === 0 && !isUncontestedActiveRace && !props.isUncontested;
 
-    if (hasVotesInRace && !isZeroVotes) {
+    const isOutsideParentDistrict = Boolean(props.isOutsideParentDistrict);
+
+    if (isOutsideParentDistrict) {
+      renderFeature.properties.fillColor = '#475569';
+      renderFeature.properties.fillOpacity = 0.45;
+      renderFeature.properties.strokeWidth = 1.0;
+      renderFeature.properties.strokeColor = '#1e3a8a';
+      renderFeature.properties.strokeOpacity = 0.70;
+      renderFeature.properties.isDimmed = true;
+      renderFeature.properties.isZeroVotes = false;
+      delete renderFeature.properties.districtResultJson;
+      delete renderFeature.properties.totalVotes;
+      delete renderFeature.properties.voteDiff;
+    } else if (hasVotesInRace && !isZeroVotes) {
       activeDistrictFeatures.push(renderFeature);
     }
 
-    if (hasVotesInRace) {
+    if (hasVotesInRace && !isOutsideParentDistrict) {
       const candidatesList = (matchedResult && matchedResult.candidates && matchedResult.candidates.length > 0)
         ? matchedResult.candidates
         : (electionData?.candidates || []);
@@ -193,7 +206,7 @@ export function paintRenderFeatures(
 
     finalRenderFeatures.push(renderFeature);
 
-    if (labelText && hasVotesInRace) {
+    if (labelText && hasVotesInRace && !isOutsideParentDistrict) {
       const labelKey = `${boundaryLayer}_${districtKey}`;
       if (!districtLabelMap.has(labelText)) {
         districtLabelMap.set(labelText, { feature: renderFeature, labelKey });
