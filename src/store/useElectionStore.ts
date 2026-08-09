@@ -64,6 +64,11 @@ interface ElectionStoreState {
   drillDownPath: string[];
   pinnedDistrict: PinnedDistrict | null;
 
+  // Live NYC Open Data / BOE API State
+  isLiveApiLoading: boolean;
+  liveApiError: string | null;
+  liveApiEndpoint: string | null;
+
   setActiveBoundaryLayer: (layer: BoundaryLayerType) => void;
   setMapViewMode: (mode: MapViewMode) => void;
   setThemeMode: (theme: ThemeMode) => void;
@@ -75,6 +80,7 @@ interface ElectionStoreState {
   setDrillDownParent: (parent: string | null, path?: string[]) => void;
   resetDrillDown: () => void;
   setPinnedDistrict: (pinned: PinnedDistrict | null) => void;
+  setLiveApiStatus: (loading: boolean, error?: string | null, endpoint?: string | null) => void;
 }
 
 export const useElectionStore = create<ElectionStoreState>((set) => ({
@@ -85,6 +91,10 @@ export const useElectionStore = create<ElectionStoreState>((set) => ({
   multiDistrictSummary: null,
   selectedElectionId: 'democratic_representative_in_congress_13',
   electionData: null,
+
+  isLiveApiLoading: false,
+  liveApiError: null,
+  liveApiEndpoint: null,
 
   drillDownParentDistrict: null,
   drillDownPath: ['Full Map'],
@@ -109,7 +119,12 @@ export const useElectionStore = create<ElectionStoreState>((set) => ({
 
   setDrillDownParent: (parent, path = ['Full Map']) => set({ drillDownParentDistrict: parent, drillDownPath: path }),
   resetDrillDown: () => set({ drillDownParentDistrict: null, drillDownPath: ['Full Map'], pinnedDistrict: null }),
-  setPinnedDistrict: (pinned) => set({ pinnedDistrict: pinned })
+  setPinnedDistrict: (pinned) => set({ pinnedDistrict: pinned }),
+  setLiveApiStatus: (loading, error = null, endpoint = null) => set({
+    isLiveApiLoading: loading,
+    liveApiError: error,
+    liveApiEndpoint: endpoint
+  })
 }));
 
 if (typeof window !== 'undefined') {
