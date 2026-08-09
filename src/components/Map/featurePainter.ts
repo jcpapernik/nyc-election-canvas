@@ -141,7 +141,7 @@ export function paintRenderFeatures(
       activeDistrictFeatures.push(renderFeature);
     }
 
-    if (hasVotesInRace && !isOutsideParentDistrict && !isTargetParentCanvas) {
+    if (hasVotesInRace && matchedResult) {
       const candidatesList = (matchedResult && matchedResult.candidates && matchedResult.candidates.length > 0)
         ? matchedResult.candidates
         : (electionData?.candidates || []);
@@ -163,12 +163,12 @@ export function paintRenderFeatures(
         fillColor = winnerCand.color;
       }
 
-      let fillOpacity = 0.60;
+      let fillOpacity = isCrossLayerSubBoundary ? 0.40 : 0.60;
       if (isZeroVotes) {
         fillOpacity = 0;
       } else if (isUncontestedActiveRace || matchedResult?.isUncontested) {
         fillOpacity = 0.72;
-      } else {
+      } else if (!isCrossLayerSubBoundary) {
         const clampedMargin = Math.min(Math.max(margin, 0), 50);
         const curveRatio = Math.sqrt(clampedMargin / 50.0);
         const minOpacity = 0.22;
@@ -199,26 +199,22 @@ export function paintRenderFeatures(
         isZeroVotes: isZeroVotes,
         candidates: candidatesList
       });
+    } else if (isCrossLayerSubBoundary) {
+      renderFeature.properties.fillColor = '#3b82f6';
+      renderFeature.properties.fillOpacity = 0.25;
+      renderFeature.properties.strokeWidth = 1.3;
+      renderFeature.properties.strokeColor = '#1e293b';
+      renderFeature.properties.strokeOpacity = 0.80;
+      renderFeature.properties.isDimmed = false;
+      renderFeature.properties.isZeroVotes = false;
     } else if (!isOutsideParentDistrict && !isTargetParentCanvas) {
-      if (isCrossLayerSubBoundary) {
-        renderFeature.properties.fillColor = '#ffffff';
-        renderFeature.properties.fillOpacity = 0.01;
-        renderFeature.properties.strokeWidth = 1.3;
-        renderFeature.properties.strokeColor = '#1e293b';
-        renderFeature.properties.strokeOpacity = 0.80;
-        renderFeature.properties.isDimmed = false;
-        renderFeature.properties.isZeroVotes = false;
-      } else {
-        renderFeature.properties.fillColor = '#475569';
-        renderFeature.properties.fillOpacity = 0.45;
-        renderFeature.properties.strokeWidth = 0.8;
-        renderFeature.properties.strokeColor = '#475569';
-        renderFeature.properties.strokeOpacity = 0.60;
-        renderFeature.properties.isDimmed = true;
-        renderFeature.properties.isZeroVotes = false;
-      }
-      delete renderFeature.properties.districtResultJson;
-      delete renderFeature.properties.totalVotes;
+      renderFeature.properties.fillColor = '#475569';
+      renderFeature.properties.fillOpacity = 0.45;
+      renderFeature.properties.strokeWidth = 0.8;
+      renderFeature.properties.strokeColor = '#475569';
+      renderFeature.properties.strokeOpacity = 0.60;
+      renderFeature.properties.isDimmed = true;
+      renderFeature.properties.isZeroVotes = false;
     }
 
     finalRenderFeatures.push(renderFeature);

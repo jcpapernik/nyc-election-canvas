@@ -140,7 +140,7 @@ export function attachMapEventHandlers(
 
     setPinnedDistrict({
       districtId: districtName,
-      districtName: currentLayer === 'eds' && props.elect_dist ? `ED ${districtName}` : (macroBoro || `${currentLayer.toUpperCase()} ${districtName}`),
+      districtName: currentLayer === 'eds' && props.elect_dist ? `ED ${districtName}` : `${currentLayer.toUpperCase()} ${districtName}`,
       layerType: currentLayer,
       result: districtResult
     });
