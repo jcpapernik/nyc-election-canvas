@@ -33,21 +33,26 @@ export const RaceSelectorModal: React.FC<RaceSelectorModalProps> = ({
 }) => {
   const [selectedParty, setSelectedParty] = useState<'Democratic' | 'Republican'>('Democratic');
   const [activeCategory, setActiveCategory] = useState<string>('US House (Congressional)');
+  const [statusFilter, setStatusFilter] = useState<'All' | 'Contested' | 'Uncontested'>('All');
   const [searchQuery, setSearchQuery] = useState<string>('');
 
   const filteredRaces = useMemo(() => {
     return racesIndex.filter(r => {
       const partyMatch = r.party.toLowerCase() === selectedParty.toLowerCase();
       const catMatch = activeCategory === 'All' || r.officeCategory === activeCategory;
+      const statusMatch = statusFilter === 'All' ||
+        (statusFilter === 'Contested' && !r.isUncontested) ||
+        (statusFilter === 'Uncontested' && r.isUncontested);
+
       const q = searchQuery.trim().toLowerCase();
       const searchMatch = !q ||
         r.name.toLowerCase().includes(q) ||
         (r.candidatesSummary || '').toLowerCase().includes(q) ||
         r.districtKey.toLowerCase().includes(q);
 
-      return partyMatch && catMatch && searchMatch;
+      return partyMatch && catMatch && statusMatch && searchMatch;
     });
-  }, [racesIndex, selectedParty, activeCategory, searchQuery]);
+  }, [racesIndex, selectedParty, activeCategory, statusFilter, searchQuery]);
 
   if (!isOpen) return null;
 
@@ -110,9 +115,9 @@ export const RaceSelectorModal: React.FC<RaceSelectorModalProps> = ({
           </div>
         </div>
 
-        {/* Modal Search Bar */}
-        <div className="px-6 py-3 border-b border-slate-200 dark:border-slate-800/80 bg-slate-50/50 dark:bg-slate-900/50">
-          <div className={`flex items-center rounded-xl border px-3.5 py-2 transition-all ${
+        {/* Modal Search & Status Filter Bar */}
+        <div className="px-6 py-3 border-b border-slate-200 dark:border-slate-800/80 bg-slate-50/50 dark:bg-slate-900/50 flex flex-col md:flex-row items-center justify-between gap-3">
+          <div className={`flex items-center rounded-xl border px-3.5 py-2 transition-all w-full md:w-auto flex-1 ${
             isDark
               ? 'bg-slate-800 border-slate-700 text-white focus-within:border-blue-500'
               : 'bg-white border-slate-300 text-slate-900 focus-within:border-blue-500 shadow-sm'
@@ -133,6 +138,40 @@ export const RaceSelectorModal: React.FC<RaceSelectorModalProps> = ({
                 Clear
               </button>
             )}
+          </div>
+
+          {/* Status Filter Buttons */}
+          <div className="flex items-center space-x-1.5 shrink-0 bg-slate-200/60 dark:bg-slate-800/80 p-1 rounded-xl text-xs font-bold">
+            <button
+              onClick={() => setStatusFilter('All')}
+              className={`px-2.5 py-1 rounded-lg transition-all ${
+                statusFilter === 'All'
+                  ? 'bg-white dark:bg-slate-700 text-slate-900 dark:text-white shadow-sm font-extrabold'
+                  : 'text-slate-600 dark:text-slate-400 hover:text-slate-900'
+              }`}
+            >
+              All Contests ({racesIndex.filter(r => r.party.toLowerCase() === selectedParty.toLowerCase()).length})
+            </button>
+            <button
+              onClick={() => setStatusFilter('Contested')}
+              className={`px-2.5 py-1 rounded-lg transition-all ${
+                statusFilter === 'Contested'
+                  ? 'bg-amber-500 text-white shadow-sm font-extrabold'
+                  : 'text-slate-600 dark:text-slate-400 hover:text-slate-900'
+              }`}
+            >
+              Contested
+            </button>
+            <button
+              onClick={() => setStatusFilter('Uncontested')}
+              className={`px-2.5 py-1 rounded-lg transition-all ${
+                statusFilter === 'Uncontested'
+                  ? 'bg-slate-700 text-white shadow-sm font-extrabold'
+                  : 'text-slate-600 dark:text-slate-400 hover:text-slate-900'
+              }`}
+            >
+              Uncontested
+            </button>
           </div>
         </div>
 
@@ -181,10 +220,19 @@ export const RaceSelectorModal: React.FC<RaceSelectorModalProps> = ({
                       }`}
                     >
                       <div>
-                        <div className="flex items-center justify-between mb-1.5">
-                          <span className="px-2 py-0.5 rounded-md text-[10px] font-extrabold uppercase bg-blue-100 text-blue-800 dark:bg-blue-900/60 dark:text-blue-300">
-                            {race.districtKey !== 'NYC' ? `District ${race.districtKey}` : 'Citywide'}
-                          </span>
+                        <div className="flex items-center justify-between mb-1.5 gap-2">
+                          <div className="flex items-center space-x-1.5">
+                            <span className="px-2 py-0.5 rounded-md text-[10px] font-extrabold uppercase bg-blue-100 text-blue-800 dark:bg-blue-900/60 dark:text-blue-300">
+                              {race.districtKey !== 'NYC' ? `District ${race.districtKey}` : 'Citywide'}
+                            </span>
+                            <span className={`px-2 py-0.5 rounded-md text-[10px] font-bold uppercase ${
+                              race.isUncontested
+                                ? 'bg-slate-100 text-slate-700 dark:bg-slate-800 dark:text-slate-300'
+                                : 'bg-amber-100 text-amber-800 dark:bg-amber-900/40 dark:text-amber-300'
+                            }`}>
+                              {race.isUncontested ? 'Uncontested' : 'Contested'}
+                            </span>
+                          </div>
                           {isSelected && (
                             <span className="flex items-center space-x-1 text-[11px] font-extrabold text-blue-600 dark:text-blue-400">
                               <Check className="w-3.5 h-3.5" />

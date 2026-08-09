@@ -13,6 +13,7 @@ export interface IndexRaceItem {
   party: string;
   officeCategory: string;
   districtKey: string;
+  isUncontested?: boolean;
   voteCount: number;
   candidatesSummary?: string;
 }
