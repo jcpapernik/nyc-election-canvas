@@ -11,6 +11,8 @@ import { ElectionMapRefHandle } from '@/components/Map/ElectionMap';
 
 import { setupUrlStateSync } from '@/lib/urlStateSync';
 
+import { RcvRoundSlider } from '@/components/Controls/RcvRoundSlider';
+
 const ElectionMapClient = dynamic(
   () => import('@/components/Map/ElectionMap').then(mod => mod.ElectionMap),
   { ssr: false }
@@ -57,6 +59,9 @@ export default function Home() {
 
       {/* 2026 Midterm Election Analytics & Pinned Inspector Card */}
       <ElectionMetricsCard />
+
+      {/* Interactive RCV Round Stepper for RCV Contests */}
+      <RcvRoundSlider />
     </main>
   );
 }

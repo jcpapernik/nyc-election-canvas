@@ -10,7 +10,7 @@
   "candidates": [
     {
       "id": "republican_nominee_ad_36",
-      "name": "Republican Nominee (AD-36)",
+      "name": "No Nominee",
       "party": "Republican",
       "isIncumbent": false,
       "color": "#ef4444"
@@ -28,13 +28,15 @@
       "candidates": [
         {
           "id": "republican_nominee_ad_36",
-          "name": "Republican Nominee (AD-36)",
+          "name": "No Nominee",
           "party": "Republican",
           "isIncumbent": false,
           "color": "#ef4444"
         }
-      ]
+      ],
+      "isNoNominee": true
     }
   },
-  "edResults": {}
+  "edResults": {},
+  "isNoNominee": true
 }

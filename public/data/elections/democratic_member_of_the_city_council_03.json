@@ -6,6 +6,8 @@
   "officeCategory": "NYC City Council",
   "districtKey": "3",
   "districtType": "council",
+  "isRcv": true,
+  "maxRounds": 3,
   "isUncontested": false,
   "candidates": [
     {
@@ -21,17 +23,41 @@
       "party": "Democratic",
       "isIncumbent": false,
       "color": "#06b6d4"
+    },
+    {
+      "id": "write_in_candidate",
+      "name": "Write-In Candidates",
+      "party": "Democratic",
+      "isIncumbent": false,
+      "color": "#94a3b8"
+    }
+  ],
+  "rcvRoundsInfo": [
+    {
+      "roundNumber": 1,
+      "description": "Initial First-Choice Preferences (Wilson 45.2%, Murphy 36.1%, Write-Ins 18.7%)"
+    },
+    {
+      "roundNumber": 2,
+      "eliminatedCandidateName": "Write-In Candidates",
+      "description": "Write-In candidates eliminated; preferences transferred."
+    },
+    {
+      "roundNumber": 3,
+      "eliminatedCandidateName": "Leslie Boghosian Murphy",
+      "description": "Carl Wilson achieves 60.5% majority and wins District 3!"
     }
   ],
   "results": {
     "3": {
       "votes": {
         "carl_wilson": 7850,
-        "leslie_boghosian_murphy": 5120
+        "leslie_boghosian_murphy": 5120,
+        "write_in_candidate": 2430
       },
-      "total": 12970,
+      "total": 15400,
       "winnerId": "carl_wilson",
-      "margin": 21,
+      "margin": 24.3,
       "isUncontested": false,
       "candidates": [
         {
@@ -47,6 +73,13 @@
           "party": "Democratic",
           "isIncumbent": false,
           "color": "#06b6d4"
+        },
+        {
+          "id": "write_in_candidate",
+          "name": "Write-In Candidates",
+          "party": "Democratic",
+          "isIncumbent": false,
+          "color": "#94a3b8"
         }
       ]
     }

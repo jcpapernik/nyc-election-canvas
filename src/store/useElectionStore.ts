@@ -36,6 +36,9 @@ export interface ElectionData {
   districtKey?: string;
   districtType: BoundaryLayerType;
   isUncontested?: boolean;
+  isRcv?: boolean;
+  maxRounds?: number;
+  rcvRoundsInfo?: Array<{ roundNumber: number; eliminatedCandidateName?: string; description: string }>;
   candidates: ElectionCandidate[];
   results: Record<string, DistrictElectionResult>;
   edResults?: Record<string, DistrictElectionResult>;
@@ -75,6 +78,9 @@ interface ElectionStoreState {
   setDrillDownParent: (parent: string | null, path?: string[]) => void;
   resetDrillDown: () => void;
   setPinnedDistrict: (pinned: PinnedDistrict | null) => void;
+  // RCV State
+  selectedRcvRound: number;
+  setSelectedRcvRound: (round: number) => void;
 }
 
 export const useElectionStore = create<ElectionStoreState>((set) => ({
@@ -85,6 +91,7 @@ export const useElectionStore = create<ElectionStoreState>((set) => ({
   multiDistrictSummary: null,
   selectedElectionId: 'democratic_representative_in_congress_13',
   electionData: null,
+  selectedRcvRound: 1,
 
   drillDownParentDistrict: null,
   drillDownPath: ['Full Map'],
@@ -100,16 +107,19 @@ export const useElectionStore = create<ElectionStoreState>((set) => ({
     selectedElectionId: id, 
     drillDownParentDistrict: null, 
     pinnedDistrict: null,
-    electionData: null
+    electionData: null,
+    selectedRcvRound: 1
   }),
   setElectionData: (data) => set((state) => ({ 
     electionData: data,
-    activeBoundaryLayer: state.activeBoundaryLayer || (data ? data.districtType : 'congressional')
+    activeBoundaryLayer: state.activeBoundaryLayer || (data ? data.districtType : 'congressional'),
+    selectedRcvRound: 1
   })),
 
   setDrillDownParent: (parent, path = ['Full Map']) => set({ drillDownParentDistrict: parent, drillDownPath: path }),
   resetDrillDown: () => set({ drillDownParentDistrict: null, drillDownPath: ['Full Map'], pinnedDistrict: null }),
-  setPinnedDistrict: (pinned) => set({ pinnedDistrict: pinned })
+  setPinnedDistrict: (pinned) => set({ pinnedDistrict: pinned }),
+  setSelectedRcvRound: (round) => set({ selectedRcvRound: round })
 }));
 
 if (typeof window !== 'undefined') {
