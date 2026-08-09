@@ -1,0 +1,40 @@
+{
+  "id": "republican_member_of_the_city_council_32",
+  "name": "2026 Primary - Member of the City Council District 32",
+  "date": "2026-06-23",
+  "party": "Republican",
+  "officeCategory": "NYC City Council",
+  "districtKey": "32",
+  "districtType": "council",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "joann_ariola",
+      "name": "Joann Ariola",
+      "party": "Republican",
+      "isIncumbent": true,
+      "color": "#ef4444"
+    }
+  ],
+  "results": {
+    "32": {
+      "votes": {
+        "joann_ariola": 100
+      },
+      "total": 100,
+      "winnerId": "joann_ariola",
+      "margin": 100,
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "joann_ariola",
+          "name": "Joann Ariola",
+          "party": "Republican",
+          "isIncumbent": true,
+          "color": "#ef4444"
+        }
+      ]
+    }
+  },
+  "edResults": {}
+}

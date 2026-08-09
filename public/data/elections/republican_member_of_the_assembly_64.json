@@ -1,0 +1,40 @@
+{
+  "id": "republican_member_of_the_assembly_64",
+  "name": "2026 Primary - Member of the Assembly District 64",
+  "date": "2026-06-23",
+  "party": "Republican",
+  "officeCategory": "NY State Assembly",
+  "districtKey": "64",
+  "districtType": "assembly",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "michael_tannousis",
+      "name": "Michael Tannousis",
+      "party": "Republican",
+      "isIncumbent": true,
+      "color": "#dc2626"
+    }
+  ],
+  "results": {
+    "64": {
+      "votes": {
+        "michael_tannousis": 100
+      },
+      "total": 100,
+      "winnerId": "michael_tannousis",
+      "margin": 100,
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "michael_tannousis",
+          "name": "Michael Tannousis",
+          "party": "Republican",
+          "isIncumbent": true,
+          "color": "#dc2626"
+        }
+      ]
+    }
+  },
+  "edResults": {}
+}

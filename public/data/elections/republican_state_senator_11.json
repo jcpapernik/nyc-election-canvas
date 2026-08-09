@@ -1,0 +1,40 @@
+{
+  "id": "republican_state_senator_11",
+  "name": "2026 Primary - State Senator District 11",
+  "date": "2026-06-23",
+  "party": "Republican",
+  "officeCategory": "NY State Senate",
+  "districtKey": "11",
+  "districtType": "senate",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "vickie_paladino",
+      "name": "Vickie Paladino",
+      "party": "Republican",
+      "isIncumbent": true,
+      "color": "#dc2626"
+    }
+  ],
+  "results": {
+    "11": {
+      "votes": {
+        "vickie_paladino": 100
+      },
+      "total": 100,
+      "winnerId": "vickie_paladino",
+      "margin": 100,
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "vickie_paladino",
+          "name": "Vickie Paladino",
+          "party": "Republican",
+          "isIncumbent": true,
+          "color": "#dc2626"
+        }
+      ]
+    }
+  },
+  "edResults": {}
+}

@@ -1,0 +1,54 @@
+{
+  "id": "republican_representative_in_congress_14",
+  "name": "2026 Primary - Representative in Congress District 14",
+  "date": "2026-06-23",
+  "party": "Republican",
+  "officeCategory": "US House (Congressional)",
+  "districtKey": "14",
+  "districtType": "congressional",
+  "isUncontested": false,
+  "candidates": [
+    {
+      "id": "tina_forte",
+      "name": "Tina Forte",
+      "party": "Republican",
+      "isIncumbent": false,
+      "color": "#ef4444"
+    },
+    {
+      "id": "desi_cuellar",
+      "name": "Desi Cuellar",
+      "party": "Republican",
+      "isIncumbent": false,
+      "color": "#f97316"
+    }
+  ],
+  "results": {
+    "14": {
+      "votes": {
+        "tina_forte": 1420,
+        "desi_cuellar": 980
+      },
+      "total": 2400,
+      "winnerId": "tina_forte",
+      "margin": 18.3,
+      "candidates": [
+        {
+          "id": "tina_forte",
+          "name": "Tina Forte",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#ef4444"
+        },
+        {
+          "id": "desi_cuellar",
+          "name": "Desi Cuellar",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#f97316"
+        }
+      ]
+    }
+  },
+  "edResults": {}
+}

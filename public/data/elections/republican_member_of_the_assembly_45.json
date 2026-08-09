@@ -1,0 +1,40 @@
+{
+  "id": "republican_member_of_the_assembly_45",
+  "name": "2026 Primary - Member of the Assembly District 45",
+  "date": "2026-06-23",
+  "party": "Republican",
+  "officeCategory": "NY State Assembly",
+  "districtKey": "45",
+  "districtType": "assembly",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "michael_novakhov",
+      "name": "Michael Novakhov",
+      "party": "Republican",
+      "isIncumbent": true,
+      "color": "#b91c1c"
+    }
+  ],
+  "results": {
+    "45": {
+      "votes": {
+        "michael_novakhov": 100
+      },
+      "total": 100,
+      "winnerId": "michael_novakhov",
+      "margin": 100,
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "michael_novakhov",
+          "name": "Michael Novakhov",
+          "party": "Republican",
+          "isIncumbent": true,
+          "color": "#b91c1c"
+        }
+      ]
+    }
+  },
+  "edResults": {}
+}

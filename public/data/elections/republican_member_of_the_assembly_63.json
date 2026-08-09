@@ -1,0 +1,40 @@
+{
+  "id": "republican_member_of_the_assembly_63",
+  "name": "2026 Primary - Member of the Assembly District 63",
+  "date": "2026-06-23",
+  "party": "Republican",
+  "officeCategory": "NY State Assembly",
+  "districtKey": "63",
+  "districtType": "assembly",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "sam_pirozzolo",
+      "name": "Sam Pirozzolo",
+      "party": "Republican",
+      "isIncumbent": true,
+      "color": "#f97316"
+    }
+  ],
+  "results": {
+    "63": {
+      "votes": {
+        "sam_pirozzolo": 100
+      },
+      "total": 100,
+      "winnerId": "sam_pirozzolo",
+      "margin": 100,
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "sam_pirozzolo",
+          "name": "Sam Pirozzolo",
+          "party": "Republican",
+          "isIncumbent": true,
+          "color": "#f97316"
+        }
+      ]
+    }
+  },
+  "edResults": {}
+}

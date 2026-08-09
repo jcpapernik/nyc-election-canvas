@@ -1,0 +1,40 @@
+{
+  "id": "republican_member_of_the_assembly_46",
+  "name": "2026 Primary - Member of the Assembly District 46",
+  "date": "2026-06-23",
+  "party": "Republican",
+  "officeCategory": "NY State Assembly",
+  "districtKey": "46",
+  "districtType": "assembly",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "alec_brook_krasny",
+      "name": "Alec Brook-Krasny",
+      "party": "Republican",
+      "isIncumbent": true,
+      "color": "#ef4444"
+    }
+  ],
+  "results": {
+    "46": {
+      "votes": {
+        "alec_brook_krasny": 100
+      },
+      "total": 100,
+      "winnerId": "alec_brook_krasny",
+      "margin": 100,
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "alec_brook_krasny",
+          "name": "Alec Brook-Krasny",
+          "party": "Republican",
+          "isIncumbent": true,
+          "color": "#ef4444"
+        }
+      ]
+    }
+  },
+  "edResults": {}
+}

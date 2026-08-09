@@ -1,0 +1,40 @@
+{
+  "id": "republican_state_senator_24",
+  "name": "2026 Primary - State Senator District 24",
+  "date": "2026-06-23",
+  "party": "Republican",
+  "officeCategory": "NY State Senate",
+  "districtKey": "24",
+  "districtType": "senate",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "andrew_lanza",
+      "name": "Andrew Lanza",
+      "party": "Republican",
+      "isIncumbent": true,
+      "color": "#ef4444"
+    }
+  ],
+  "results": {
+    "24": {
+      "votes": {
+        "andrew_lanza": 100
+      },
+      "total": 100,
+      "winnerId": "andrew_lanza",
+      "margin": 100,
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "andrew_lanza",
+          "name": "Andrew Lanza",
+          "party": "Republican",
+          "isIncumbent": true,
+          "color": "#ef4444"
+        }
+      ]
+    }
+  },
+  "edResults": {}
+}

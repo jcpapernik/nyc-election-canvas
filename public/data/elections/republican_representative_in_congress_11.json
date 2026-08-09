@@ -1,0 +1,40 @@
+{
+  "id": "republican_representative_in_congress_11",
+  "name": "2026 Primary - Representative in Congress District 11",
+  "date": "2026-06-23",
+  "party": "Republican",
+  "officeCategory": "US House (Congressional)",
+  "districtKey": "11",
+  "districtType": "congressional",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "nicole_malliotakis",
+      "name": "Nicole Malliotakis",
+      "party": "Republican",
+      "isIncumbent": true,
+      "color": "#ef4444"
+    }
+  ],
+  "results": {
+    "11": {
+      "votes": {
+        "nicole_malliotakis": 100
+      },
+      "total": 100,
+      "winnerId": "nicole_malliotakis",
+      "margin": 100,
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "nicole_malliotakis",
+          "name": "Nicole Malliotakis",
+          "party": "Republican",
+          "isIncumbent": true,
+          "color": "#ef4444"
+        }
+      ]
+    }
+  },
+  "edResults": {}
+}

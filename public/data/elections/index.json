@@ -195,7 +195,7 @@
     "districtKey": "18",
     "districtType": "council",
     "isUncontested": true,
-    "candidatesSummary": " (Amanda Far\u00edas)"
+    "candidatesSummary": " (Amanda Farías)"
   },
   {
     "id": "democratic_member_of_the_city_council_19",
@@ -239,7 +239,7 @@
     "districtKey": "22",
     "districtType": "council",
     "isUncontested": true,
-    "candidatesSummary": " (Tiffany Cab\u00e1n)"
+    "candidatesSummary": " (Tiffany Cabán)"
   },
   {
     "id": "democratic_member_of_the_city_council_23",
@@ -371,7 +371,7 @@
     "districtKey": "34",
     "districtType": "council",
     "isUncontested": true,
-    "candidatesSummary": " (Jennifer Guti\u00e9rrez)"
+    "candidatesSummary": " (Jennifer Gutiérrez)"
   },
   {
     "id": "democratic_member_of_the_city_council_35",
@@ -393,7 +393,7 @@
     "districtKey": "36",
     "districtType": "council",
     "isUncontested": true,
-    "candidatesSummary": " (Chi Oss\u00e9)"
+    "candidatesSummary": " (Chi Ossé)"
   },
   {
     "id": "democratic_member_of_the_city_council_37",
@@ -415,7 +415,7 @@
     "districtKey": "38",
     "districtType": "council",
     "isUncontested": true,
-    "candidatesSummary": " (Alexa Avil\u00e9s)"
+    "candidatesSummary": " (Alexa Avilés)"
   },
   {
     "id": "democratic_member_of_the_city_council_39",
@@ -583,17 +583,6 @@
     "candidatesSummary": " (Edmond Wong, Julie M. Milner, Edward Irizarry, John J. Ciafone, Scattered)"
   },
   {
-    "id": "democratic_state_committee_24",
-    "name": "2026 Primary - State Committee District 24",
-    "cycle": "2026 Primary",
-    "party": "Democratic",
-    "officeCategory": "Judicial & Party Offices",
-    "districtKey": "24",
-    "districtType": "congressional",
-    "isUncontested": false,
-    "candidatesSummary": " (Jamilla A. Uddin (F), Imran I. Rahman (M), Albert Baldeo (M), Usha I. Raghunath (F), Scattered)"
-  },
-  {
     "id": "democratic_delegate_to_judicial_convention_24",
     "name": "2026 Primary - Delegate to Judicial Convention District 24",
     "cycle": "2026 Primary",
@@ -603,6 +592,17 @@
     "districtType": "congressional",
     "isUncontested": false,
     "candidatesSummary": " (David I. Weprin, Martha Taylor, Mark S. Weprin, Rhonda S. Binda, Jonathan B. Taylor, John P. Albert, Albert Baldeo, Ahnaf Alam, Usha I. Raghunath, Scattered)"
+  },
+  {
+    "id": "democratic_state_committee_24",
+    "name": "2026 Primary - State Committee District 24",
+    "cycle": "2026 Primary",
+    "party": "Democratic",
+    "officeCategory": "Judicial & Party Offices",
+    "districtKey": "24",
+    "districtType": "congressional",
+    "isUncontested": false,
+    "candidatesSummary": " (Jamilla A. Uddin (F), Imran I. Rahman (M), Albert Baldeo (M), Usha I. Raghunath (F), Scattered)"
   },
   {
     "id": "democratic_district_leader_28b",
@@ -781,17 +781,6 @@
     "candidatesSummary": " (Fannie Ip (F), Grauven Olivares (F), Morton Minsley (M), Scattered)"
   },
   {
-    "id": "democratic_delegate_to_judicial_convention_66",
-    "name": "2026 Primary - Delegate to Judicial Convention District 66",
-    "cycle": "2026 Primary",
-    "party": "Democratic",
-    "officeCategory": "Judicial & Party Offices",
-    "districtKey": "66",
-    "districtType": "congressional",
-    "isUncontested": false,
-    "candidatesSummary": " (Erik D. Bottcher, Kathryn Freed, Jill Goodkind, Linda E. Jacobson, Melissa M. Carty, Sheila R. Rule, Kathy Slawinski, Anthony S. Hoffmann, Allen N. Roskoff, Dennis Gault, Daniel L. Palmisano, Richard Corman, Samuel Chiera, Jonathan L. Geballe, Morton Minsley, Susan Lee, Vanessa Warren, Norma Ramirez, Maria Passanente-Derr, Erin Hussein, Mark Fiedler, Alix Fredrika Kucker, Scattered)"
-  },
-  {
     "id": "democratic_alternate_delegate_to_the_judicial_convention_66",
     "name": "2026 Primary - Alternate Delegate to the Judicial Convention District 66",
     "cycle": "2026 Primary",
@@ -801,6 +790,17 @@
     "districtType": "congressional",
     "isUncontested": false,
     "candidatesSummary": " (Karla Moskowitz, Judith A. Jacobson, Megan E. Pascarella, Patricia A. Laraia, Lois A. Rakoff, Frances Curtis, Ritu R. Chattree, Richard F. Braun, Robert G. Rosenthal, Jason Gerson, Jasper Price, Alfred R. Fuente, Michael Levario, Thomas Smoot Jr., Carmin Gonzalez, Shelly Warwick, Deborah Finston, Alan Ross, Mark Fraiden, Raymond W. Cline, Scattered)"
+  },
+  {
+    "id": "democratic_delegate_to_judicial_convention_66",
+    "name": "2026 Primary - Delegate to Judicial Convention District 66",
+    "cycle": "2026 Primary",
+    "party": "Democratic",
+    "officeCategory": "Judicial & Party Offices",
+    "districtKey": "66",
+    "districtType": "congressional",
+    "isUncontested": false,
+    "candidatesSummary": " (Erik D. Bottcher, Kathryn Freed, Jill Goodkind, Linda E. Jacobson, Melissa M. Carty, Sheila R. Rule, Kathy Slawinski, Anthony S. Hoffmann, Allen N. Roskoff, Dennis Gault, Daniel L. Palmisano, Richard Corman, Samuel Chiera, Jonathan L. Geballe, Morton Minsley, Susan Lee, Vanessa Warren, Norma Ramirez, Maria Passanente-Derr, Erin Hussein, Mark Fiedler, Alix Fredrika Kucker, Scattered)"
   },
   {
     "id": "democratic_state_committee_68",
@@ -814,6 +814,17 @@
     "candidatesSummary": " (Rosa G. Diaz (X), Stephanie Arroyo (F), Saundrea I. Coleman (F), Joannie Acevedo (F), James D. Gray (M), Lance Blake (M), Mildred Maneiro (F), Scattered)"
   },
   {
+    "id": "democratic_delegate_to_judicial_convention_71",
+    "name": "2026 Primary - Delegate to Judicial Convention District 71",
+    "cycle": "2026 Primary",
+    "party": "Democratic",
+    "officeCategory": "Judicial & Party Offices",
+    "districtKey": "71",
+    "districtType": "congressional",
+    "isUncontested": false,
+    "candidatesSummary": " (Maria A. Luna, Rita Miller, Nancy Brown, Jackie Rowe Adams, Minerva Roman-Luna, Johanna Garcia, Earnestine Bell Temple, Julien Segura, Carmen I. Grullon De Rojas, Dolores Leito, Susan Southwell, Juana H. Luna, Maybelline Evelyn Boyer, Heather Zicko, Anthony R. Viola, Orlando Nunez, Matthew Robert Miller, Joseph M. Morales, Philippe Segura, James E. Behr, Michael S. Hano, Theo Bruce Chino-Tavarez, Garret D. Sokoloff, Scattered)"
+  },
+  {
     "id": "democratic_state_committee_71",
     "name": "2026 Primary - State Committee District 71",
     "cycle": "2026 Primary",
@@ -825,15 +836,15 @@
     "candidatesSummary": " (Maria A. Luna (F), Minerva Roman-Luna (F), Nobles Crawford (M), Scattered)"
   },
   {
-    "id": "democratic_delegate_to_judicial_convention_71",
-    "name": "2026 Primary - Delegate to Judicial Convention District 71",
+    "id": "democratic_alternate_delegate_to_the_judicial_convention_72",
+    "name": "2026 Primary - Alternate Delegate to the Judicial Convention District 72",
     "cycle": "2026 Primary",
     "party": "Democratic",
     "officeCategory": "Judicial & Party Offices",
-    "districtKey": "71",
+    "districtKey": "72",
     "districtType": "congressional",
     "isUncontested": false,
-    "candidatesSummary": " (Maria A. Luna, Rita Miller, Nancy Brown, Jackie Rowe Adams, Minerva Roman-Luna, Johanna Garcia, Earnestine Bell Temple, Julien Segura, Carmen I. Grullon De Rojas, Dolores Leito, Susan Southwell, Juana H. Luna, Maybelline Evelyn Boyer, Heather Zicko, Anthony R. Viola, Orlando Nunez, Matthew Robert Miller, Joseph M. Morales, Philippe Segura, James E. Behr, Michael S. Hano, Theo Bruce Chino-Tavarez, Garret D. Sokoloff, Scattered)"
+    "candidatesSummary": " (Paloma Lara, Elizabeth Balaguer, Barbara M. Frazier, Hector Vasquez, Iris Baltazar, Micaela Lugo, Mariam James, Maurice A. Edwards, Edgar Tavarez, Erwin Fernandez, Patricia Anderton, Carolyn Murtaugh, Carole G. Mulligan, Danette Lipten, Christopher Hazeltine, Quann D. Boyd, Scattered)"
   },
   {
     "id": "democratic_delegate_to_judicial_convention_72",
@@ -858,15 +869,15 @@
     "candidatesSummary": " (Dayana Pichardo (F), Francesca Castellanos (F), Rosendo Mejia Dominguez (M), Edgar Tavarez (M), Vicente Paulino (M), Scattered)"
   },
   {
-    "id": "democratic_alternate_delegate_to_the_judicial_convention_72",
-    "name": "2026 Primary - Alternate Delegate to the Judicial Convention District 72",
+    "id": "democratic_district_leader_81",
+    "name": "2026 Primary - District Leader District 81",
     "cycle": "2026 Primary",
     "party": "Democratic",
     "officeCategory": "Judicial & Party Offices",
-    "districtKey": "72",
+    "districtKey": "81",
     "districtType": "congressional",
     "isUncontested": false,
-    "candidatesSummary": " (Paloma Lara, Elizabeth Balaguer, Barbara M. Frazier, Hector Vasquez, Iris Baltazar, Micaela Lugo, Mariam James, Maurice A. Edwards, Edgar Tavarez, Erwin Fernandez, Patricia Anderton, Carolyn Murtaugh, Carole G. Mulligan, Danette Lipten, Christopher Hazeltine, Quann D. Boyd, Scattered)"
+    "candidatesSummary": " (Abigail Martin (F), Ben Jackson (M), Virginia Krompinger (F), Izaiah Zeek Barrow (M), Scattered)"
   },
   {
     "id": "democratic_state_committee_81",
@@ -878,17 +889,6 @@
     "districtType": "congressional",
     "isUncontested": false,
     "candidatesSummary": " (Johanna Edmondson (F), Michael Heller (M), Betsey Knapp (F), Bereket Ghebremedhin (M), Scattered)"
-  },
-  {
-    "id": "democratic_district_leader_81",
-    "name": "2026 Primary - District Leader District 81",
-    "cycle": "2026 Primary",
-    "party": "Democratic",
-    "officeCategory": "Judicial & Party Offices",
-    "districtKey": "81",
-    "districtType": "congressional",
-    "isUncontested": false,
-    "candidatesSummary": " (Abigail Martin (F), Ben Jackson (M), Virginia Krompinger (F), Izaiah Zeek Barrow (M), Scattered)"
   },
   {
     "id": "democratic_district_leader_84",
@@ -1406,28 +1406,6 @@
     "districtType": "assembly",
     "isUncontested": false,
     "candidatesSummary": " (Karines Reyes, Zakir Choudhury, Scattered)"
-  },
-  {
-    "id": "republican_member_of_the_assembly_26",
-    "name": "2026 Primary - Member of the Assembly District 26",
-    "cycle": "2026 Primary",
-    "party": "Republican",
-    "officeCategory": "NY State Assembly",
-    "districtKey": "26",
-    "districtType": "assembly",
-    "isUncontested": false,
-    "candidatesSummary": " (Robert J. Speranza, Philip Sean Grillo, Scattered)"
-  },
-  {
-    "id": "republican_member_of_the_assembly_86",
-    "name": "2026 Primary - Member of the Assembly District 86",
-    "cycle": "2026 Primary",
-    "party": "Republican",
-    "officeCategory": "NY State Assembly",
-    "districtKey": "86",
-    "districtType": "assembly",
-    "isUncontested": false,
-    "candidatesSummary": " (Maria Diaz, Shery A. Olivo, Scattered)"
   },
   {
     "id": "democratic_state_senator_12",
@@ -2087,7 +2065,7 @@
     "districtKey": "32",
     "districtType": "senate",
     "isUncontested": true,
-    "candidatesSummary": " (Luis R. Sep\u00falveda)"
+    "candidatesSummary": " (Luis R. Sepúlveda)"
   },
   {
     "id": "democratic_state_senator_33",
@@ -2288,6 +2266,149 @@
     "candidatesSummary": " (George Latimer)"
   },
   {
+    "id": "republican_member_of_the_assembly_26",
+    "name": "2026 Primary - Member of the Assembly District 26",
+    "cycle": "2026 Primary",
+    "party": "Republican",
+    "officeCategory": "NY State Assembly",
+    "districtKey": "26",
+    "districtType": "assembly",
+    "isUncontested": false,
+    "candidatesSummary": " (Robert J. Speranza, Philip Sean Grillo, Scattered)"
+  },
+  {
+    "id": "republican_member_of_the_assembly_45",
+    "name": "2026 Primary - Member of the Assembly District 45",
+    "cycle": "2026 Primary",
+    "party": "Republican",
+    "officeCategory": "NY State Assembly",
+    "districtKey": "45",
+    "districtType": "assembly",
+    "isUncontested": true,
+    "candidatesSummary": " (Michael Novakhov)"
+  },
+  {
+    "id": "republican_member_of_the_assembly_46",
+    "name": "2026 Primary - Member of the Assembly District 46",
+    "cycle": "2026 Primary",
+    "party": "Republican",
+    "officeCategory": "NY State Assembly",
+    "districtKey": "46",
+    "districtType": "assembly",
+    "isUncontested": true,
+    "candidatesSummary": " (Alec Brook-Krasny)"
+  },
+  {
+    "id": "republican_member_of_the_assembly_62",
+    "name": "2026 Primary - Member of the Assembly District 62",
+    "cycle": "2026 Primary",
+    "party": "Republican",
+    "officeCategory": "NY State Assembly",
+    "districtKey": "62",
+    "districtType": "assembly",
+    "isUncontested": true,
+    "candidatesSummary": " (Michael Reilly)"
+  },
+  {
+    "id": "republican_member_of_the_assembly_63",
+    "name": "2026 Primary - Member of the Assembly District 63",
+    "cycle": "2026 Primary",
+    "party": "Republican",
+    "officeCategory": "NY State Assembly",
+    "districtKey": "63",
+    "districtType": "assembly",
+    "isUncontested": true,
+    "candidatesSummary": " (Sam Pirozzolo)"
+  },
+  {
+    "id": "republican_member_of_the_assembly_64",
+    "name": "2026 Primary - Member of the Assembly District 64",
+    "cycle": "2026 Primary",
+    "party": "Republican",
+    "officeCategory": "NY State Assembly",
+    "districtKey": "64",
+    "districtType": "assembly",
+    "isUncontested": true,
+    "candidatesSummary": " (Michael Tannousis)"
+  },
+  {
+    "id": "republican_member_of_the_assembly_86",
+    "name": "2026 Primary - Member of the Assembly District 86",
+    "cycle": "2026 Primary",
+    "party": "Republican",
+    "officeCategory": "NY State Assembly",
+    "districtKey": "86",
+    "districtType": "assembly",
+    "isUncontested": false,
+    "candidatesSummary": " (Maria Diaz, Shery A. Olivo, Scattered)"
+  },
+  {
+    "id": "republican_state_senator_11",
+    "name": "2026 Primary - State Senator District 11",
+    "cycle": "2026 Primary",
+    "party": "Republican",
+    "officeCategory": "NY State Senate",
+    "districtKey": "11",
+    "districtType": "senate",
+    "isUncontested": true,
+    "candidatesSummary": " (Vickie Paladino)"
+  },
+  {
+    "id": "republican_state_senator_24",
+    "name": "2026 Primary - State Senator District 24",
+    "cycle": "2026 Primary",
+    "party": "Republican",
+    "officeCategory": "NY State Senate",
+    "districtKey": "24",
+    "districtType": "senate",
+    "isUncontested": true,
+    "candidatesSummary": " (Andrew Lanza)"
+  },
+  {
+    "id": "republican_member_of_the_city_council_32",
+    "name": "2026 Primary - Member of the City Council District 32",
+    "cycle": "2026 Primary",
+    "party": "Republican",
+    "officeCategory": "NYC City Council",
+    "districtKey": "32",
+    "districtType": "council",
+    "isUncontested": true,
+    "candidatesSummary": " (Joann Ariola)"
+  },
+  {
+    "id": "republican_member_of_the_city_council_48",
+    "name": "2026 Primary - Member of the City Council District 48",
+    "cycle": "2026 Primary",
+    "party": "Republican",
+    "officeCategory": "NYC City Council",
+    "districtKey": "48",
+    "districtType": "council",
+    "isUncontested": true,
+    "candidatesSummary": " (Inna Vernikov)"
+  },
+  {
+    "id": "republican_member_of_the_city_council_50",
+    "name": "2026 Primary - Member of the City Council District 50",
+    "cycle": "2026 Primary",
+    "party": "Republican",
+    "officeCategory": "NYC City Council",
+    "districtKey": "50",
+    "districtType": "council",
+    "isUncontested": true,
+    "candidatesSummary": " (David Carr)"
+  },
+  {
+    "id": "republican_member_of_the_city_council_51",
+    "name": "2026 Primary - Member of the City Council District 51",
+    "cycle": "2026 Primary",
+    "party": "Republican",
+    "officeCategory": "NYC City Council",
+    "districtKey": "51",
+    "districtType": "council",
+    "isUncontested": true,
+    "candidatesSummary": " (Joseph Borelli)"
+  },
+  {
     "id": "republican_representative_in_congress_03",
     "name": "2026 Primary - Representative in Congress District 03",
     "cycle": "2026 Primary",
@@ -2297,5 +2418,27 @@
     "districtType": "congressional",
     "isUncontested": false,
     "candidatesSummary": " (Michael J. LiPetri Jr., Greg Hach, Scattered)"
+  },
+  {
+    "id": "republican_representative_in_congress_11",
+    "name": "2026 Primary - Representative in Congress District 11",
+    "cycle": "2026 Primary",
+    "party": "Republican",
+    "officeCategory": "US House (Congressional)",
+    "districtKey": "11",
+    "districtType": "congressional",
+    "isUncontested": true,
+    "candidatesSummary": " (Nicole Malliotakis)"
+  },
+  {
+    "id": "republican_representative_in_congress_14",
+    "name": "2026 Primary - Representative in Congress District 14",
+    "cycle": "2026 Primary",
+    "party": "Republican",
+    "officeCategory": "US House (Congressional)",
+    "districtKey": "14",
+    "districtType": "congressional",
+    "isUncontested": false,
+    "candidatesSummary": " (Tina Forte, Desi Cuellar)"
   }
 ]

@@ -1,0 +1,40 @@
+{
+  "id": "republican_member_of_the_assembly_62",
+  "name": "2026 Primary - Member of the Assembly District 62",
+  "date": "2026-06-23",
+  "party": "Republican",
+  "officeCategory": "NY State Assembly",
+  "districtKey": "62",
+  "districtType": "assembly",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "michael_reilly",
+      "name": "Michael Reilly",
+      "party": "Republican",
+      "isIncumbent": true,
+      "color": "#ef4444"
+    }
+  ],
+  "results": {
+    "62": {
+      "votes": {
+        "michael_reilly": 100
+      },
+      "total": 100,
+      "winnerId": "michael_reilly",
+      "margin": 100,
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "michael_reilly",
+          "name": "Michael Reilly",
+          "party": "Republican",
+          "isIncumbent": true,
+          "color": "#ef4444"
+        }
+      ]
+    }
+  },
+  "edResults": {}
+}
