@@ -195,7 +195,7 @@ export function processAndRenderBoundaryData(
 
   const mapViewMode = useElectionStore.getState().mapViewMode;
 
-  // Sync layer opacities based on mapViewMode ('choropleth' | 'bubbles' | 'hybrid')
+  // Sync layer opacities based on mapViewMode ('choropleth' | 'bubbles')
   if (map.getLayer('boundary-fill')) {
     if (mapViewMode === 'bubbles') {
       map.setPaintProperty('boundary-fill', 'fill-opacity', [
@@ -203,14 +203,6 @@ export function processAndRenderBoundaryData(
         ['boolean', ['get', 'isDimmed'], false], 0.35,
         ['boolean', ['feature-state', 'hover'], false], 0.15,
         0.04
-      ]);
-    } else if (mapViewMode === 'hybrid') {
-      map.setPaintProperty('boundary-fill', 'fill-opacity', [
-        'case',
-        ['boolean', ['get', 'isDimmed'], false], 0.40,
-        ['boolean', ['feature-state', 'hover'], false], 0.85,
-        ['has', 'fillOpacity'], ['*', ['get', 'fillOpacity'], 0.45],
-        0.30
       ]);
     } else {
       map.setPaintProperty('boundary-fill', 'fill-opacity', [

@@ -116,16 +116,9 @@ export const ControlHeader: React.FC<ControlHeaderProps> = ({ onSearchSelect }) 
             <button
               onClick={() => setMapViewMode('bubbles')}
               className={`px-2.5 py-1 rounded-lg transition-all ${mapViewMode === 'bubbles' ? 'bg-white text-blue-700 shadow-sm font-extrabold' : 'hover:text-slate-900'}`}
-              title="NYT-Style Proportional Net Vote Difference Bubbles"
+              title="NYT-Style Proportional Circles (Vote Margin Size)"
             >
               Bubbles
-            </button>
-            <button
-              onClick={() => setMapViewMode('hybrid')}
-              className={`px-2.5 py-1 rounded-lg transition-all ${mapViewMode === 'hybrid' ? 'bg-white text-blue-700 shadow-sm font-extrabold' : 'hover:text-slate-900'}`}
-              title="Soft Shading + Proportional Bubbles Overlay"
-            >
-              Hybrid
             </button>
           </div>
 

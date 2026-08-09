@@ -1,7 +1,7 @@
 import { BoundaryLayerType, MapViewMode, useElectionStore } from '@/store/useElectionStore';
 
 const VALID_LAYERS: BoundaryLayerType[] = ['citywide', 'boroughs', 'council', 'eds', 'assembly', 'senate', 'congressional'];
-const VALID_MODES: MapViewMode[] = ['choropleth', 'bubbles', 'hybrid'];
+const VALID_MODES: MapViewMode[] = ['choropleth', 'bubbles'];
 
 export function syncStateToUrl() {
   if (typeof window === 'undefined') return;

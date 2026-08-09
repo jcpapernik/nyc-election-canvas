@@ -8,8 +8,8 @@ export function computeProportionalBubbleRadius(
   if (voteDiff <= 0 || maxVoteDiffInRace <= 0) return 0;
 
   const isEdLayer = boundaryLayer === 'eds';
-  const minRadius = isEdLayer ? 4.0 : 8.0;
-  const maxRadius = isEdLayer ? 24.0 : 54.0;
+  const minRadius = isEdLayer ? 2.5 : 5.0;
+  const maxRadius = isEdLayer ? 14.0 : 30.0;
 
   // New York Times Square-root area proportionality formula: r = r_min + (r_max - r_min) * sqrt(diff / max_diff)
   const ratio = Math.sqrt(Math.min(Math.max(voteDiff / maxVoteDiffInRace, 0), 1.0));
@@ -23,10 +23,11 @@ export function generateBubbleFeatures(
 ): GeoJSON.Feature[] {
   let maxVoteDiffInRace = 0;
 
-  // 1. Pass 1: Find maximum net vote difference across active districts
+  // 1. Pass 1: Find maximum net vote difference across active non-tied districts
   districtLabelMap.forEach(({ feature }) => {
     const props = feature.properties || {};
-    const voteDiff = props.voteDiff !== undefined ? Number(props.voteDiff) : 0;
+    const isTie = Boolean(props.isTie);
+    const voteDiff = (!isTie && props.voteDiff !== undefined) ? Number(props.voteDiff) : 0;
     if (voteDiff > maxVoteDiffInRace) {
       maxVoteDiffInRace = voteDiff;
     }
@@ -39,14 +40,21 @@ export function generateBubbleFeatures(
   // 2. Pass 2: Build circle features with square-root proportional radius values
   districtLabelMap.forEach(({ feature, labelKey }, labelText) => {
     const props = feature.properties || {};
+    const isTie = Boolean(props.isTie);
+
+    // NYT Standard: When tied, neither candidate has a vote lead, so no lead bubble is rendered.
+    if (isTie) return;
+
     const voteDiff = props.voteDiff !== undefined ? Number(props.voteDiff) : 0;
+    if (voteDiff <= 0) return;
 
     const centerPt = getPoleOfInaccessibilityFast(feature, labelKey);
     if (!centerPt) return;
 
     const bubbleRadius = computeProportionalBubbleRadius(voteDiff, maxVoteDiffInRace, boundaryLayer);
+    if (bubbleRadius <= 0) return;
+
     const fillColor = props.fillColor || '#3b82f6';
-    const isTie = Boolean(props.isTie);
 
     bubbleFeatures.push({
       id: bubbleFeatures.length + 1,
@@ -55,9 +63,9 @@ export function generateBubbleFeatures(
         labelText,
         districtId: props.districtId || labelText,
         voteDiff,
-        bubbleRadius: isTie ? 6.0 : bubbleRadius,
+        bubbleRadius,
         fillColor,
-        isTie,
+        isTie: false,
         ...props
       },
       geometry: {

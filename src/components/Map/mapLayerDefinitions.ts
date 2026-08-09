@@ -34,8 +34,8 @@ export function initMapSourcesAndLayers(map: maplibregl.Map) {
       source: 'boundary-source',
       paint: {
         'line-color': ['case', ['boolean', ['feature-state', 'hover'], false], '#000000', ['boolean', ['get', 'isDimmed'], false], '#475569', ['has', 'strokeColor'], ['get', 'strokeColor'], '#1e3a8a'],
-        'line-width': ['case', ['boolean', ['feature-state', 'hover'], false], 2.5, ['boolean', ['get', 'isDimmed'], false], 0.5, ['has', 'strokeWidth'], ['get', 'strokeWidth'], 0.8],
-        'line-opacity': ['case', ['boolean', ['get', 'isZeroVotes'], false], 0, ['boolean', ['feature-state', 'hover'], false], 1.0, ['boolean', ['get', 'isDimmed'], false], 0.35, ['has', 'strokeOpacity'], ['get', 'strokeOpacity'], 0.60]
+        'line-width': ['case', ['boolean', ['feature-state', 'hover'], false], 2.5, ['boolean', ['get', 'isDimmed'], false], 0.6, ['has', 'strokeWidth'], ['get', 'strokeWidth'], 1.0],
+        'line-opacity': ['case', ['boolean', ['get', 'isZeroVotes'], false], 0, ['boolean', ['feature-state', 'hover'], false], 1.0, ['boolean', ['get', 'isDimmed'], false], 0.45, ['has', 'strokeOpacity'], ['get', 'strokeOpacity'], 0.75]
       }
     });
   }
@@ -53,10 +53,10 @@ export function initMapSourcesAndLayers(map: maplibregl.Map) {
           ['case', ['has', 'bubbleRadius'], ['get', 'bubbleRadius'], 0]
         ],
         'circle-color': ['case', ['has', 'fillColor'], ['get', 'fillColor'], '#3b82f6'],
-        'circle-opacity': ['case', ['boolean', ['feature-state', 'hover'], false], 0.95, 0.65],
+        'circle-opacity': ['case', ['boolean', ['feature-state', 'hover'], false], 0.92, 0.58],
         'circle-stroke-width': ['case', ['boolean', ['feature-state', 'hover'], false], 3.0, 1.5],
-        'circle-stroke-color': ['case', ['boolean', ['feature-state', 'hover'], false], '#0f172a', ['case', ['has', 'fillColor'], ['get', 'fillColor'], '#1e3a8a']],
-        'circle-stroke-opacity': 1.0
+        'circle-stroke-color': ['case', ['boolean', ['feature-state', 'hover'], false], '#0f172a', '#1e293b'],
+        'circle-stroke-opacity': 0.85
       }
     });
   }

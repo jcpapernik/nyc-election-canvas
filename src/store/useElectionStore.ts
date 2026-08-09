@@ -41,7 +41,7 @@ export interface ElectionData {
   edResults?: Record<string, DistrictElectionResult>;
 }
 
-export type MapViewMode = 'choropleth' | 'bubbles' | 'hybrid';
+export type MapViewMode = 'choropleth' | 'bubbles';
 
 export interface PinnedDistrict {
   districtId: string;
