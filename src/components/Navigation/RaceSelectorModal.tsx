@@ -14,6 +14,7 @@ interface RaceSelectorModalProps {
 }
 
 const CATEGORIES = [
+  { id: 'All', label: 'All Offices' },
   { id: 'US House (Congressional)', label: 'US House (Congressional)' },
   { id: 'NY State Senate', label: 'NY State Senate' },
   { id: 'NY State Assembly', label: 'NY State Assembly' },
