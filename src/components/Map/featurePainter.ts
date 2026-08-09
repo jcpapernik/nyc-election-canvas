@@ -85,7 +85,25 @@ export function paintRenderFeatures(
       insideEdsSet.has(f)
     );
 
-    if (!matchedResult && isUncontestedActiveRace) {
+    const raceDistKey = normalizeDistrictKey((electionData as any)?.districtKey || '');
+    const featureDistKey = normalizeDistrictKey(
+      String(
+        props.cong_dist || props.congressional_district ||
+        props.st_sen_dist || props.senate_district ||
+        props.assembly_district || props.assem_dist ||
+        props.coundist || props.council_district ||
+        props.districtId || props.name || props.borough || ''
+      )
+    );
+
+    const isDistrictMatch = Boolean(
+      raceDistKey && (
+        featureDistKey === raceDistKey ||
+        featureDistKey.padStart(2, '0') === raceDistKey.padStart(2, '0')
+      )
+    );
+
+    if (!matchedResult && isUncontestedActiveRace && (isDistrictMatch || isInsideActiveEds)) {
       const topCand = electionData?.candidates?.[0];
       if (topCand) {
         matchedResult = {
@@ -101,7 +119,7 @@ export function paintRenderFeatures(
 
     const hasVotesInRace = Boolean(
       matchedResult && (matchedResult.total > 0 || matchedResult.winnerId || (matchedResult.votes && Object.values(matchedResult.votes).some((v: any) => v > 0)))
-    ) || isInsideActiveEds || isUncontestedActiveRace;
+    );
 
     const totalVotes = matchedResult?.total || 0;
     const votesMap = matchedResult?.votes || {};
