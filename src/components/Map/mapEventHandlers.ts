@@ -48,7 +48,10 @@ export function attachMapEventHandlers(
     if (districtName && currentLayer !== 'eds' && currentLayer !== 'boroughs') {
       const normKey = normalizeDistrictKey(districtName);
       const paddedKey = normKey.padStart(2, '0');
-      const normParty = normalizeParty(currentElection?.party);
+      const activeRaceId = useElectionStore.getState().selectedElectionId || '';
+      const isRep = activeRaceId.startsWith('republican') || currentElection?.party === 'Republican' || currentElection?.party === 'REP';
+      const normParty = isRep ? 'republican' : 'democratic';
+
       const categorySlugMap: Record<string, string> = {
         'congressional': 'representative_in_congress',
         'senate': 'state_senator',
@@ -60,9 +63,9 @@ export function attachMapEventHandlers(
       const candidateId2 = `${normParty}_${slug}_${normKey}`;
 
       const indexList = electionIndexRef.current || [];
-      const match = indexList.find(r => r.id === candidateId1 || r.id === candidateId2);
+      const match = indexList.find(r => (r.id === candidateId1 || r.id === candidateId2) && normalizeParty(r.party) === normParty);
 
-      if (match) {
+      if (match && match.id !== activeRaceId) {
         lastFittedRaceIdRef.current = null;
         setSelectedElectionId(match.id);
       }
