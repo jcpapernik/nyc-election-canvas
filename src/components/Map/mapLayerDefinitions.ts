@@ -33,9 +33,9 @@ export function initMapSourcesAndLayers(map: maplibregl.Map) {
       type: 'line',
       source: 'boundary-source',
       paint: {
-        'line-color': ['case', ['boolean', ['feature-state', 'hover'], false], '#000000', ['boolean', ['get', 'isDimmed'], false], '#475569', ['has', 'strokeColor'], ['get', 'strokeColor'], '#1e3a8a'],
-        'line-width': ['case', ['boolean', ['feature-state', 'hover'], false], 2.5, ['boolean', ['get', 'isDimmed'], false], 0.6, ['has', 'strokeWidth'], ['get', 'strokeWidth'], 1.0],
-        'line-opacity': ['case', ['boolean', ['get', 'isZeroVotes'], false], 0, ['boolean', ['feature-state', 'hover'], false], 1.0, ['boolean', ['get', 'isDimmed'], false], 0.45, ['has', 'strokeOpacity'], ['get', 'strokeOpacity'], 0.75]
+        'line-color': ['case', ['boolean', ['feature-state', 'hover'], false], '#000000', ['boolean', ['get', 'isDimmed'], false], '#475569', ['has', 'strokeColor'], ['get', 'strokeColor'], '#1e293b'],
+        'line-width': ['case', ['boolean', ['feature-state', 'hover'], false], 2.5, ['boolean', ['get', 'isDimmed'], false], 0.5, ['has', 'strokeWidth'], ['get', 'strokeWidth'], 1.3],
+        'line-opacity': ['case', ['boolean', ['get', 'isZeroVotes'], false], 0, ['boolean', ['feature-state', 'hover'], false], 1.0, ['boolean', ['get', 'isDimmed'], false], 0.40, ['has', 'strokeOpacity'], ['get', 'strokeOpacity'], 0.80]
       }
     });
   }

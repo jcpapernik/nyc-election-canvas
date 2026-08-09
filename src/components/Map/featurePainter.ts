@@ -118,9 +118,9 @@ export function paintRenderFeatures(
     if (isOutsideParentDistrict) {
       renderFeature.properties.fillColor = '#475569';
       renderFeature.properties.fillOpacity = 0.45;
-      renderFeature.properties.strokeWidth = 1.2;
-      renderFeature.properties.strokeColor = '#334155';
-      renderFeature.properties.strokeOpacity = 0.80;
+      renderFeature.properties.strokeWidth = 0.8;
+      renderFeature.properties.strokeColor = '#475569';
+      renderFeature.properties.strokeOpacity = 0.60;
       renderFeature.properties.isDimmed = true;
       renderFeature.properties.isZeroVotes = false;
       delete renderFeature.properties.districtResultJson;
@@ -129,9 +129,9 @@ export function paintRenderFeatures(
     } else if (isTargetParentCanvas) {
       renderFeature.properties.fillColor = '#ffffff';
       renderFeature.properties.fillOpacity = 0.05;
-      renderFeature.properties.strokeWidth = 3.0;
-      renderFeature.properties.strokeColor = '#1d4ed8';
-      renderFeature.properties.strokeOpacity = 1.0;
+      renderFeature.properties.strokeWidth = 2.2;
+      renderFeature.properties.strokeColor = '#2563eb';
+      renderFeature.properties.strokeOpacity = 0.90;
       renderFeature.properties.isDimmed = false;
       renderFeature.properties.isZeroVotes = false;
       delete renderFeature.properties.districtResultJson;
@@ -177,9 +177,9 @@ export function paintRenderFeatures(
       }
 
       const isEdLayer = boundaryLayer === 'eds';
-      renderFeature.properties.strokeWidth = isEdLayer ? 1.0 : 1.8;
-      renderFeature.properties.strokeColor = isEdLayer ? '#334155' : '#0f172a';
-      renderFeature.properties.strokeOpacity = isEdLayer ? 0.75 : 0.95;
+      renderFeature.properties.strokeWidth = isEdLayer ? 0.55 : 1.3;
+      renderFeature.properties.strokeColor = isEdLayer ? '#475569' : '#1e293b';
+      renderFeature.properties.strokeOpacity = isEdLayer ? 0.50 : 0.80;
 
       const voteDiff = Math.max(0, top1 - top2);
 
@@ -203,17 +203,17 @@ export function paintRenderFeatures(
       if (isCrossLayerSubBoundary) {
         renderFeature.properties.fillColor = '#ffffff';
         renderFeature.properties.fillOpacity = 0.01;
-        renderFeature.properties.strokeWidth = 1.5;
+        renderFeature.properties.strokeWidth = 1.3;
         renderFeature.properties.strokeColor = '#1e293b';
-        renderFeature.properties.strokeOpacity = 0.85;
+        renderFeature.properties.strokeOpacity = 0.80;
         renderFeature.properties.isDimmed = false;
         renderFeature.properties.isZeroVotes = false;
       } else {
         renderFeature.properties.fillColor = '#475569';
         renderFeature.properties.fillOpacity = 0.45;
-        renderFeature.properties.strokeWidth = 1.2;
-        renderFeature.properties.strokeColor = '#334155';
-        renderFeature.properties.strokeOpacity = 0.80;
+        renderFeature.properties.strokeWidth = 0.8;
+        renderFeature.properties.strokeColor = '#475569';
+        renderFeature.properties.strokeOpacity = 0.60;
         renderFeature.properties.isDimmed = true;
         renderFeature.properties.isZeroVotes = false;
       }
