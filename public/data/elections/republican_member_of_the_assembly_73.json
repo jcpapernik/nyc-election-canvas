@@ -9,8 +9,8 @@
   "isUncontested": true,
   "candidates": [
     {
-      "id": "republican_candidate_ad_73",
-      "name": "Republican Candidate AD-73",
+      "id": "republican_nominee_ad_73",
+      "name": "Republican Nominee (AD-73)",
       "party": "Republican",
       "isIncumbent": false,
       "color": "#ef4444"
@@ -19,16 +19,16 @@
   "results": {
     "73": {
       "votes": {
-        "republican_candidate_ad_73": 100
+        "republican_nominee_ad_73": 100
       },
       "total": 100,
-      "winnerId": "republican_candidate_ad_73",
+      "winnerId": "republican_nominee_ad_73",
       "margin": 100,
       "isUncontested": true,
       "candidates": [
         {
-          "id": "republican_candidate_ad_73",
-          "name": "Republican Candidate AD-73",
+          "id": "republican_nominee_ad_73",
+          "name": "Republican Nominee (AD-73)",
           "party": "Republican",
           "isIncumbent": false,
           "color": "#ef4444"

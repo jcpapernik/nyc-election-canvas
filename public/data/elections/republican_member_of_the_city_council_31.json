@@ -9,8 +9,8 @@
   "isUncontested": true,
   "candidates": [
     {
-      "id": "republican_candidate_cd_31",
-      "name": "Republican Candidate CD-31",
+      "id": "republican_nominee_cd_31",
+      "name": "Republican Nominee (CD-31)",
       "party": "Republican",
       "isIncumbent": false,
       "color": "#ef4444"
@@ -19,16 +19,16 @@
   "results": {
     "31": {
       "votes": {
-        "republican_candidate_cd_31": 100
+        "republican_nominee_cd_31": 100
       },
       "total": 100,
-      "winnerId": "republican_candidate_cd_31",
+      "winnerId": "republican_nominee_cd_31",
       "margin": 100,
       "isUncontested": true,
       "candidates": [
         {
-          "id": "republican_candidate_cd_31",
-          "name": "Republican Candidate CD-31",
+          "id": "republican_nominee_cd_31",
+          "name": "Republican Nominee (CD-31)",
           "party": "Republican",
           "isIncumbent": false,
           "color": "#ef4444"

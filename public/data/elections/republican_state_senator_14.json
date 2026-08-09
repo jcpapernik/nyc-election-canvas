@@ -9,8 +9,8 @@
   "isUncontested": true,
   "candidates": [
     {
-      "id": "republican_candidate_sd_14",
-      "name": "Republican Candidate SD-14",
+      "id": "republican_nominee_sd_14",
+      "name": "Republican Nominee (SD-14)",
       "party": "Republican",
       "isIncumbent": false,
       "color": "#ef4444"
@@ -19,16 +19,16 @@
   "results": {
     "14": {
       "votes": {
-        "republican_candidate_sd_14": 100
+        "republican_nominee_sd_14": 100
       },
       "total": 100,
-      "winnerId": "republican_candidate_sd_14",
+      "winnerId": "republican_nominee_sd_14",
       "margin": 100,
       "isUncontested": true,
       "candidates": [
         {
-          "id": "republican_candidate_sd_14",
-          "name": "Republican Candidate SD-14",
+          "id": "republican_nominee_sd_14",
+          "name": "Republican Nominee (SD-14)",
           "party": "Republican",
           "isIncumbent": false,
           "color": "#ef4444"
