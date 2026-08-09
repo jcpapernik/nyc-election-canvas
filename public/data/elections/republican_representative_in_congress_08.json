@@ -9,8 +9,8 @@
   "isUncontested": true,
   "candidates": [
     {
-      "id": "yuri_dashevsky",
-      "name": "Yuri Dashevsky",
+      "id": "lewis_mizrahi",
+      "name": "Lewis Mizrahi",
       "party": "Republican",
       "isIncumbent": false,
       "color": "#ef4444"
@@ -19,16 +19,16 @@
   "results": {
     "08": {
       "votes": {
-        "yuri_dashevsky": 100
+        "lewis_mizrahi": 100
       },
       "total": 100,
-      "winnerId": "yuri_dashevsky",
+      "winnerId": "lewis_mizrahi",
       "margin": 100,
       "isUncontested": true,
       "candidates": [
         {
-          "id": "yuri_dashevsky",
-          "name": "Yuri Dashevsky",
+          "id": "lewis_mizrahi",
+          "name": "Lewis Mizrahi",
           "party": "Republican",
           "isIncumbent": false,
           "color": "#ef4444"

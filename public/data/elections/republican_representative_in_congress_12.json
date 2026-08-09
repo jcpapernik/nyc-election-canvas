@@ -9,8 +9,8 @@
   "isUncontested": true,
   "candidates": [
     {
-      "id": "mike_zumbluskas",
-      "name": "Mike Zumbluskas",
+      "id": "caroline_shinkle",
+      "name": "Caroline Shinkle",
       "party": "Republican",
       "isIncumbent": false,
       "color": "#ef4444"
@@ -19,16 +19,16 @@
   "results": {
     "12": {
       "votes": {
-        "mike_zumbluskas": 100
+        "caroline_shinkle": 100
       },
       "total": 100,
-      "winnerId": "mike_zumbluskas",
+      "winnerId": "caroline_shinkle",
       "margin": 100,
       "isUncontested": true,
       "candidates": [
         {
-          "id": "mike_zumbluskas",
-          "name": "Mike Zumbluskas",
+          "id": "caroline_shinkle",
+          "name": "Caroline Shinkle",
           "party": "Republican",
           "isIncumbent": false,
           "color": "#ef4444"

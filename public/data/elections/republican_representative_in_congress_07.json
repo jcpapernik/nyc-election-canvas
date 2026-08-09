@@ -9,8 +9,8 @@
   "isUncontested": true,
   "candidates": [
     {
-      "id": "bill_kregler",
-      "name": "Bill Kregler",
+      "id": "melvin_rivera",
+      "name": "Melvin Rivera",
       "party": "Republican",
       "isIncumbent": false,
       "color": "#ef4444"
@@ -19,16 +19,16 @@
   "results": {
     "07": {
       "votes": {
-        "bill_kregler": 100
+        "melvin_rivera": 100
       },
       "total": 100,
-      "winnerId": "bill_kregler",
+      "winnerId": "melvin_rivera",
       "margin": 100,
       "isUncontested": true,
       "candidates": [
         {
-          "id": "bill_kregler",
-          "name": "Bill Kregler",
+          "id": "melvin_rivera",
+          "name": "Melvin Rivera",
           "party": "Republican",
           "isIncumbent": false,
           "color": "#ef4444"

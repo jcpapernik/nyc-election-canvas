@@ -9,8 +9,8 @@
   "isUncontested": true,
   "candidates": [
     {
-      "id": "thomas_zmich",
-      "name": "Thomas Zmich",
+      "id": "joseph_chou",
+      "name": "Joseph Chou",
       "party": "Republican",
       "isIncumbent": false,
       "color": "#ef4444"
@@ -19,16 +19,16 @@
   "results": {
     "06": {
       "votes": {
-        "thomas_zmich": 100
+        "joseph_chou": 100
       },
       "total": 100,
-      "winnerId": "thomas_zmich",
+      "winnerId": "joseph_chou",
       "margin": 100,
       "isUncontested": true,
       "candidates": [
         {
-          "id": "thomas_zmich",
-          "name": "Thomas Zmich",
+          "id": "joseph_chou",
+          "name": "Joseph Chou",
           "party": "Republican",
           "isIncumbent": false,
           "color": "#ef4444"

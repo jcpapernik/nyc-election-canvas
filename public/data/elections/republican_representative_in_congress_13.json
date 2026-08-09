@@ -9,8 +9,8 @@
   "isUncontested": true,
   "candidates": [
     {
-      "id": "republican_nominee_district_13",
-      "name": "Republican Nominee (District 13)",
+      "id": "jomo_m_williams",
+      "name": "Jomo M. Williams",
       "party": "Republican",
       "isIncumbent": false,
       "color": "#ef4444"
@@ -19,16 +19,16 @@
   "results": {
     "13": {
       "votes": {
-        "republican_nominee_district_13": 100
+        "jomo_m_williams": 100
       },
       "total": 100,
-      "winnerId": "republican_nominee_district_13",
+      "winnerId": "jomo_m_williams",
       "margin": 100,
       "isUncontested": true,
       "candidates": [
         {
-          "id": "republican_nominee_district_13",
-          "name": "Republican Nominee (District 13)",
+          "id": "jomo_m_williams",
+          "name": "Jomo M. Williams",
           "party": "Republican",
           "isIncumbent": false,
           "color": "#ef4444"

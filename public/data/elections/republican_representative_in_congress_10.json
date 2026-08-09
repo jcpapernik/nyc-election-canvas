@@ -9,8 +9,8 @@
   "isUncontested": true,
   "candidates": [
     {
-      "id": "alexei_kovalev",
-      "name": "Alexei Kovalev",
+      "id": "jennifer_moore",
+      "name": "Jennifer Moore",
       "party": "Republican",
       "isIncumbent": false,
       "color": "#ef4444"
@@ -19,16 +19,16 @@
   "results": {
     "10": {
       "votes": {
-        "alexei_kovalev": 100
+        "jennifer_moore": 100
       },
       "total": 100,
-      "winnerId": "alexei_kovalev",
+      "winnerId": "jennifer_moore",
       "margin": 100,
       "isUncontested": true,
       "candidates": [
         {
-          "id": "alexei_kovalev",
-          "name": "Alexei Kovalev",
+          "id": "jennifer_moore",
+          "name": "Jennifer Moore",
           "party": "Republican",
           "isIncumbent": false,
           "color": "#ef4444"
