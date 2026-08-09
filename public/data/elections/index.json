@@ -1,14 +1,36 @@
 [
   {
-    "id": "democratic_state_comptroller_nyc",
-    "name": "2026 Primary - State Comptroller Citywide",
+    "id": "democratic_attorney_general_2026",
+    "name": "2026 Primary - Attorney General Democratic Primary",
     "cycle": "2026 Primary",
     "party": "Democratic",
     "officeCategory": "Citywide / Statewide",
     "districtKey": "NYC",
-    "districtType": "boroughs",
+    "districtType": "citywide",
+    "isUncontested": true,
+    "candidatesSummary": " (Letitia James)"
+  },
+  {
+    "id": "democratic_governor_2026",
+    "name": "2026 Primary - Governor of New York Democratic Primary",
+    "cycle": "2026 Primary",
+    "party": "Democratic",
+    "officeCategory": "Citywide / Statewide",
+    "districtKey": "NYC",
+    "districtType": "citywide",
+    "isUncontested": true,
+    "candidatesSummary": " (Kathy Hochul)"
+  },
+  {
+    "id": "democratic_state_comptroller_nyc",
+    "name": "2026 Primary - New York State Comptroller Democratic Primary",
+    "cycle": "2026 Primary",
+    "party": "Democratic",
+    "officeCategory": "Citywide / Statewide",
+    "districtKey": "NYC",
+    "districtType": "citywide",
     "isUncontested": false,
-    "candidatesSummary": " (Thomas P. DiNapoli, Drew Warshaw, Raj Goyle, Scattered)"
+    "candidatesSummary": " (Thomas P. DiNapoli, Drew Warshaw, Raj Goyle)"
   },
   {
     "id": "democratic_judge_of_the_civil_court_county_13",
@@ -2152,8 +2174,8 @@
     "officeCategory": "US House (Congressional)",
     "districtKey": "06",
     "districtType": "congressional",
-    "isUncontested": false,
-    "candidatesSummary": " (Grace Meng, Chuck Park, Scattered)"
+    "isUncontested": true,
+    "candidatesSummary": " (Grace Meng)"
   },
   {
     "id": "democratic_representative_in_congress_07",
@@ -2164,7 +2186,7 @@
     "districtKey": "07",
     "districtType": "congressional",
     "isUncontested": false,
-    "candidatesSummary": " (Claire Valdez, Antonio Reynoso, Julie Won, Vichal Kumar, Scattered)"
+    "candidatesSummary": " (Claire Valdez, Antonio Reynoso, Julie Won)"
   },
   {
     "id": "democratic_representative_in_congress_08",
@@ -2172,7 +2194,7 @@
     "cycle": "2026 Primary",
     "party": "Democratic",
     "officeCategory": "US House (Congressional)",
-    "districtKey": "8",
+    "districtKey": "08",
     "districtType": "congressional",
     "isUncontested": true,
     "candidatesSummary": " (Hakeem Jeffries)"
@@ -2186,7 +2208,7 @@
     "districtKey": "09",
     "districtType": "congressional",
     "isUncontested": false,
-    "candidatesSummary": " (Yvette D. Clarke, Mike Goldfarb, Joshua A. Bristol, Scattered)"
+    "candidatesSummary": " (Yvette D. Clarke, Michael Goldfarb)"
   },
   {
     "id": "democratic_representative_in_congress_10",
@@ -2197,7 +2219,7 @@
     "districtKey": "10",
     "districtType": "congressional",
     "isUncontested": false,
-    "candidatesSummary": " (Brad Lander, Dan Goldman, Scattered)"
+    "candidatesSummary": " (Brad Lander, Daniel Goldman)"
   },
   {
     "id": "democratic_representative_in_congress_11",
@@ -2219,7 +2241,7 @@
     "districtKey": "12",
     "districtType": "congressional",
     "isUncontested": false,
-    "candidatesSummary": " (Micah C. Lasher, Alex Bores, Jack Kennedy Schlossberg, Nina Schwalbe, George Conway, Laura Dunn, Patrick Timmins, Chris Diep, Scattered)"
+    "candidatesSummary": " (Micah Lasher, Alex Bores, George Conway, Jack Schlossberg)"
   },
   {
     "id": "democratic_representative_in_congress_13",
@@ -2230,7 +2252,7 @@
     "districtKey": "13",
     "districtType": "congressional",
     "isUncontested": false,
-    "candidatesSummary": " (Darializa Avila Chevalier, Adriano Espaillat, Oscar J. Romero Jr., Theo Bruce Chino-Tavarez, Scattered)"
+    "candidatesSummary": " (Darializa Avila Chevalier, Adriano Espaillat)"
   },
   {
     "id": "democratic_representative_in_congress_14",
@@ -2264,6 +2286,39 @@
     "districtType": "congressional",
     "isUncontested": true,
     "candidatesSummary": " (George Latimer)"
+  },
+  {
+    "id": "republican_attorney_general_2026",
+    "name": "2026 Primary - Attorney General Republican Primary",
+    "cycle": "2026 Primary",
+    "party": "Republican",
+    "officeCategory": "Citywide / Statewide",
+    "districtKey": "NYC",
+    "districtType": "citywide",
+    "isUncontested": true,
+    "candidatesSummary": " (Saritha Komatireddy)"
+  },
+  {
+    "id": "republican_governor_2026",
+    "name": "2026 Primary - Governor of New York Republican Primary",
+    "cycle": "2026 Primary",
+    "party": "Republican",
+    "officeCategory": "Citywide / Statewide",
+    "districtKey": "NYC",
+    "districtType": "citywide",
+    "isUncontested": false,
+    "candidatesSummary": " (Bruce Blakeman, Pat Hahn, Larry Sharpe)"
+  },
+  {
+    "id": "republican_state_comptroller_nyc",
+    "name": "2026 Primary - New York State Comptroller Republican Primary",
+    "cycle": "2026 Primary",
+    "party": "Republican",
+    "officeCategory": "Citywide / Statewide",
+    "districtKey": "NYC",
+    "districtType": "citywide",
+    "isUncontested": true,
+    "candidatesSummary": " (Joseph Hernandez)"
   },
   {
     "id": "republican_member_of_the_assembly_23",
@@ -4011,7 +4066,7 @@
     "officeCategory": "US House (Congressional)",
     "districtKey": "16",
     "districtType": "congressional",
-    "isUncontested": true,
-    "candidatesSummary": " (Miriam Flisser)"
+    "isUncontested": false,
+    "candidatesSummary": " (Joseph Cinquemani, John Franklin Wilson IV)"
   }
 ]

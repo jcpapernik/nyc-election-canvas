@@ -1,34 +1,34 @@
 {
-  "id": "democratic_representative_in_congress_06",
-  "name": "2026 Primary - Representative in Congress District 06",
+  "id": "democratic_attorney_general_2026",
+  "name": "2026 Primary - Attorney General Democratic Primary",
   "date": "2026-06-23",
   "party": "Democratic",
-  "officeCategory": "US House (Congressional)",
-  "districtKey": "06",
-  "districtType": "congressional",
+  "officeCategory": "Citywide / Statewide",
+  "districtKey": "NYC",
+  "districtType": "citywide",
   "isUncontested": true,
   "candidates": [
     {
-      "id": "grace_meng",
-      "name": "Grace Meng",
+      "id": "letitia_james",
+      "name": "Letitia James",
       "party": "Democratic",
       "isIncumbent": true,
       "color": "#3b82f6"
     }
   ],
   "results": {
-    "06": {
+    "2026": {
       "votes": {
-        "grace_meng": 100
+        "letitia_james": 100
       },
       "total": 100,
-      "winnerId": "grace_meng",
+      "winnerId": "letitia_james",
       "margin": 100,
       "isUncontested": true,
       "candidates": [
         {
-          "id": "grace_meng",
-          "name": "Grace Meng",
+          "id": "letitia_james",
+          "name": "Letitia James",
           "party": "Democratic",
           "isIncumbent": true,
           "color": "#3b82f6"

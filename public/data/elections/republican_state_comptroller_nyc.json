@@ -1,0 +1,40 @@
+{
+  "id": "republican_state_comptroller_nyc",
+  "name": "2026 Primary - New York State Comptroller Republican Primary",
+  "date": "2026-06-23",
+  "party": "Republican",
+  "officeCategory": "Citywide / Statewide",
+  "districtKey": "NYC",
+  "districtType": "citywide",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "joseph_hernandez",
+      "name": "Joseph Hernandez",
+      "party": "Republican",
+      "isIncumbent": false,
+      "color": "#ef4444"
+    }
+  ],
+  "results": {
+    "nyc": {
+      "votes": {
+        "joseph_hernandez": 100
+      },
+      "total": 100,
+      "winnerId": "joseph_hernandez",
+      "margin": 100,
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "joseph_hernandez",
+          "name": "Joseph Hernandez",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#ef4444"
+        }
+      ]
+    }
+  },
+  "edResults": {}
+}

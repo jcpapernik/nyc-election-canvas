@@ -4,7 +4,7 @@
   "date": "2026-06-23",
   "party": "Democratic",
   "officeCategory": "US House (Congressional)",
-  "districtKey": "8",
+  "districtKey": "08",
   "districtType": "congressional",
   "isUncontested": true,
   "candidates": [
@@ -13,15 +13,15 @@
       "name": "Hakeem Jeffries",
       "party": "Democratic",
       "isIncumbent": true,
-      "color": "#2563eb"
+      "color": "#3b82f6"
     }
   ],
   "results": {
-    "8": {
+    "08": {
       "votes": {
-        "hakeem_jeffries": 0
+        "hakeem_jeffries": 100
       },
-      "total": 0,
+      "total": 100,
       "winnerId": "hakeem_jeffries",
       "margin": 100,
       "isUncontested": true,
@@ -31,7 +31,7 @@
           "name": "Hakeem Jeffries",
           "party": "Democratic",
           "isIncumbent": true,
-          "color": "#2563eb"
+          "color": "#3b82f6"
         }
       ]
     }

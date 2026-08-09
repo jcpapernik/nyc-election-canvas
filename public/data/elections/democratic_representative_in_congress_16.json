@@ -13,15 +13,15 @@
       "name": "George Latimer",
       "party": "Democratic",
       "isIncumbent": true,
-      "color": "#2563eb"
+      "color": "#3b82f6"
     }
   ],
   "results": {
     "16": {
       "votes": {
-        "george_latimer": 0
+        "george_latimer": 100
       },
-      "total": 0,
+      "total": 100,
       "winnerId": "george_latimer",
       "margin": 100,
       "isUncontested": true,
@@ -31,7 +31,7 @@
           "name": "George Latimer",
           "party": "Democratic",
           "isIncumbent": true,
-          "color": "#2563eb"
+          "color": "#3b82f6"
         }
       ]
     }

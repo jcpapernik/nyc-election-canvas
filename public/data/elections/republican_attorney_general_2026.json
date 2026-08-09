@@ -1,0 +1,40 @@
+{
+  "id": "republican_attorney_general_2026",
+  "name": "2026 Primary - Attorney General Republican Primary",
+  "date": "2026-06-23",
+  "party": "Republican",
+  "officeCategory": "Citywide / Statewide",
+  "districtKey": "NYC",
+  "districtType": "citywide",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "saritha_komatireddy",
+      "name": "Saritha Komatireddy",
+      "party": "Republican",
+      "isIncumbent": false,
+      "color": "#ef4444"
+    }
+  ],
+  "results": {
+    "2026": {
+      "votes": {
+        "saritha_komatireddy": 100
+      },
+      "total": 100,
+      "winnerId": "saritha_komatireddy",
+      "margin": 100,
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "saritha_komatireddy",
+          "name": "Saritha Komatireddy",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#ef4444"
+        }
+      ]
+    }
+  },
+  "edResults": {}
+}

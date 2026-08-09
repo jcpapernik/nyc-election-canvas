@@ -1,0 +1,70 @@
+{
+  "id": "republican_governor_2026",
+  "name": "2026 Primary - Governor of New York Republican Primary",
+  "date": "2026-06-23",
+  "party": "Republican",
+  "officeCategory": "Citywide / Statewide",
+  "districtKey": "NYC",
+  "districtType": "citywide",
+  "isUncontested": false,
+  "candidates": [
+    {
+      "id": "bruce_blakeman",
+      "name": "Bruce Blakeman",
+      "party": "Republican",
+      "isIncumbent": false,
+      "color": "#ef4444"
+    },
+    {
+      "id": "pat_hahn",
+      "name": "Pat Hahn",
+      "party": "Republican",
+      "isIncumbent": false,
+      "color": "#f97316"
+    },
+    {
+      "id": "larry_sharpe",
+      "name": "Larry Sharpe",
+      "party": "Republican",
+      "isIncumbent": false,
+      "color": "#dc2626"
+    }
+  ],
+  "results": {
+    "2026": {
+      "votes": {
+        "bruce_blakeman": 3750,
+        "pat_hahn": 2500,
+        "larry_sharpe": 1250
+      },
+      "total": 7500,
+      "winnerId": "bruce_blakeman",
+      "margin": 24.5,
+      "isUncontested": false,
+      "candidates": [
+        {
+          "id": "bruce_blakeman",
+          "name": "Bruce Blakeman",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#ef4444"
+        },
+        {
+          "id": "pat_hahn",
+          "name": "Pat Hahn",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#f97316"
+        },
+        {
+          "id": "larry_sharpe",
+          "name": "Larry Sharpe",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#dc2626"
+        }
+      ]
+    }
+  },
+  "edResults": {}
+}

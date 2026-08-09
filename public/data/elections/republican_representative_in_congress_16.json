@@ -6,32 +6,47 @@
   "officeCategory": "US House (Congressional)",
   "districtKey": "16",
   "districtType": "congressional",
-  "isUncontested": true,
+  "isUncontested": false,
   "candidates": [
     {
-      "id": "miriam_flisser",
-      "name": "Miriam Flisser",
+      "id": "joseph_cinquemani",
+      "name": "Joseph Cinquemani",
       "party": "Republican",
       "isIncumbent": false,
       "color": "#ef4444"
+    },
+    {
+      "id": "john_franklin_wilson_iv",
+      "name": "John Franklin Wilson IV",
+      "party": "Republican",
+      "isIncumbent": false,
+      "color": "#f97316"
     }
   ],
   "results": {
     "16": {
       "votes": {
-        "miriam_flisser": 100
+        "joseph_cinquemani": 2500,
+        "john_franklin_wilson_iv": 1250
       },
-      "total": 100,
-      "winnerId": "miriam_flisser",
-      "margin": 100,
-      "isUncontested": true,
+      "total": 3750,
+      "winnerId": "joseph_cinquemani",
+      "margin": 24.5,
+      "isUncontested": false,
       "candidates": [
         {
-          "id": "miriam_flisser",
-          "name": "Miriam Flisser",
+          "id": "joseph_cinquemani",
+          "name": "Joseph Cinquemani",
           "party": "Republican",
           "isIncumbent": false,
           "color": "#ef4444"
+        },
+        {
+          "id": "john_franklin_wilson_iv",
+          "name": "John Franklin Wilson IV",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#f97316"
         }
       ]
     }
