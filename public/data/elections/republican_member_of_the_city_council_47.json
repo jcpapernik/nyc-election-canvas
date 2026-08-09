@@ -1,0 +1,40 @@
+{
+  "id": "republican_member_of_the_city_council_47",
+  "name": "2026 Primary - Member of the City Council District 47",
+  "date": "2026-06-23",
+  "party": "Republican",
+  "officeCategory": "NYC City Council",
+  "districtKey": "47",
+  "districtType": "council",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "republican_candidate_cd_47",
+      "name": "Republican Candidate CD-47",
+      "party": "Republican",
+      "isIncumbent": false,
+      "color": "#ef4444"
+    }
+  ],
+  "results": {
+    "47": {
+      "votes": {
+        "republican_candidate_cd_47": 100
+      },
+      "total": 100,
+      "winnerId": "republican_candidate_cd_47",
+      "margin": 100,
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "republican_candidate_cd_47",
+          "name": "Republican Candidate CD-47",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#ef4444"
+        }
+      ]
+    }
+  },
+  "edResults": {}
+}

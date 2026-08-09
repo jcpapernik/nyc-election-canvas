@@ -1,0 +1,40 @@
+{
+  "id": "republican_representative_in_congress_15",
+  "name": "2026 Primary - Representative in Congress District 15",
+  "date": "2026-06-23",
+  "party": "Republican",
+  "officeCategory": "US House (Congressional)",
+  "districtKey": "15",
+  "districtType": "congressional",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "gonzalo_duran",
+      "name": "Gonzalo Duran",
+      "party": "Republican",
+      "isIncumbent": false,
+      "color": "#b91c1c"
+    }
+  ],
+  "results": {
+    "15": {
+      "votes": {
+        "gonzalo_duran": 100
+      },
+      "total": 100,
+      "winnerId": "gonzalo_duran",
+      "margin": 100,
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "gonzalo_duran",
+          "name": "Gonzalo Duran",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#b91c1c"
+        }
+      ]
+    }
+  },
+  "edResults": {}
+}

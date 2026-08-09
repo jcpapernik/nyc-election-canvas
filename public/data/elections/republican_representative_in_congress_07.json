@@ -1,0 +1,40 @@
+{
+  "id": "republican_representative_in_congress_07",
+  "name": "2026 Primary - Representative in Congress District 07",
+  "date": "2026-06-23",
+  "party": "Republican",
+  "officeCategory": "US House (Congressional)",
+  "districtKey": "07",
+  "districtType": "congressional",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "bill_kregler",
+      "name": "Bill Kregler",
+      "party": "Republican",
+      "isIncumbent": false,
+      "color": "#dc2626"
+    }
+  ],
+  "results": {
+    "07": {
+      "votes": {
+        "bill_kregler": 100
+      },
+      "total": 100,
+      "winnerId": "bill_kregler",
+      "margin": 100,
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "bill_kregler",
+          "name": "Bill Kregler",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#dc2626"
+        }
+      ]
+    }
+  },
+  "edResults": {}
+}

@@ -1,0 +1,40 @@
+{
+  "id": "republican_representative_in_congress_02",
+  "name": "2026 Primary - Representative in Congress District 02",
+  "date": "2026-06-23",
+  "party": "Republican",
+  "officeCategory": "US House (Congressional)",
+  "districtKey": "02",
+  "districtType": "congressional",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "andrew_garbarino",
+      "name": "Andrew Garbarino",
+      "party": "Republican",
+      "isIncumbent": false,
+      "color": "#ef4444"
+    }
+  ],
+  "results": {
+    "02": {
+      "votes": {
+        "andrew_garbarino": 100
+      },
+      "total": 100,
+      "winnerId": "andrew_garbarino",
+      "margin": 100,
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "andrew_garbarino",
+          "name": "Andrew Garbarino",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#ef4444"
+        }
+      ]
+    }
+  },
+  "edResults": {}
+}

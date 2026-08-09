@@ -1,0 +1,40 @@
+{
+  "id": "republican_representative_in_congress_13",
+  "name": "2026 Primary - Representative in Congress District 13",
+  "date": "2026-06-23",
+  "party": "Republican",
+  "officeCategory": "US House (Congressional)",
+  "districtKey": "13",
+  "districtType": "congressional",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "ruben_vargas",
+      "name": "Ruben Vargas",
+      "party": "Republican",
+      "isIncumbent": false,
+      "color": "#ef4444"
+    }
+  ],
+  "results": {
+    "13": {
+      "votes": {
+        "ruben_vargas": 100
+      },
+      "total": 100,
+      "winnerId": "ruben_vargas",
+      "margin": 100,
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "ruben_vargas",
+          "name": "Ruben Vargas",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#ef4444"
+        }
+      ]
+    }
+  },
+  "edResults": {}
+}

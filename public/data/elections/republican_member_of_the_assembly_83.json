@@ -1,0 +1,40 @@
+{
+  "id": "republican_member_of_the_assembly_83",
+  "name": "2026 Primary - Member of the Assembly District 83",
+  "date": "2026-06-23",
+  "party": "Republican",
+  "officeCategory": "NY State Assembly",
+  "districtKey": "83",
+  "districtType": "assembly",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "republican_candidate_ad_83",
+      "name": "Republican Candidate AD-83",
+      "party": "Republican",
+      "isIncumbent": false,
+      "color": "#ef4444"
+    }
+  ],
+  "results": {
+    "83": {
+      "votes": {
+        "republican_candidate_ad_83": 100
+      },
+      "total": 100,
+      "winnerId": "republican_candidate_ad_83",
+      "margin": 100,
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "republican_candidate_ad_83",
+          "name": "Republican Candidate AD-83",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#ef4444"
+        }
+      ]
+    }
+  },
+  "edResults": {}
+}

@@ -1,0 +1,40 @@
+{
+  "id": "republican_member_of_the_assembly_30",
+  "name": "2026 Primary - Member of the Assembly District 30",
+  "date": "2026-06-23",
+  "party": "Republican",
+  "officeCategory": "NY State Assembly",
+  "districtKey": "30",
+  "districtType": "assembly",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "republican_candidate_ad_30",
+      "name": "Republican Candidate AD-30",
+      "party": "Republican",
+      "isIncumbent": false,
+      "color": "#ef4444"
+    }
+  ],
+  "results": {
+    "30": {
+      "votes": {
+        "republican_candidate_ad_30": 100
+      },
+      "total": 100,
+      "winnerId": "republican_candidate_ad_30",
+      "margin": 100,
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "republican_candidate_ad_30",
+          "name": "Republican Candidate AD-30",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#ef4444"
+        }
+      ]
+    }
+  },
+  "edResults": {}
+}

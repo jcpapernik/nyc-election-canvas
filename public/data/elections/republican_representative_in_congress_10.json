@@ -1,0 +1,40 @@
+{
+  "id": "republican_representative_in_congress_10",
+  "name": "2026 Primary - Representative in Congress District 10",
+  "date": "2026-06-23",
+  "party": "Republican",
+  "officeCategory": "US House (Congressional)",
+  "districtKey": "10",
+  "districtType": "congressional",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "alexei_kovalev",
+      "name": "Alexei Kovalev",
+      "party": "Republican",
+      "isIncumbent": false,
+      "color": "#f97316"
+    }
+  ],
+  "results": {
+    "10": {
+      "votes": {
+        "alexei_kovalev": 100
+      },
+      "total": 100,
+      "winnerId": "alexei_kovalev",
+      "margin": 100,
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "alexei_kovalev",
+          "name": "Alexei Kovalev",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#f97316"
+        }
+      ]
+    }
+  },
+  "edResults": {}
+}

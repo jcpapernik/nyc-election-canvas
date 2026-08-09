@@ -1,0 +1,40 @@
+{
+  "id": "republican_member_of_the_city_council_28",
+  "name": "2026 Primary - Member of the City Council District 28",
+  "date": "2026-06-23",
+  "party": "Republican",
+  "officeCategory": "NYC City Council",
+  "districtKey": "28",
+  "districtType": "council",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "republican_candidate_cd_28",
+      "name": "Republican Candidate CD-28",
+      "party": "Republican",
+      "isIncumbent": false,
+      "color": "#ef4444"
+    }
+  ],
+  "results": {
+    "28": {
+      "votes": {
+        "republican_candidate_cd_28": 100
+      },
+      "total": 100,
+      "winnerId": "republican_candidate_cd_28",
+      "margin": 100,
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "republican_candidate_cd_28",
+          "name": "Republican Candidate CD-28",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#ef4444"
+        }
+      ]
+    }
+  },
+  "edResults": {}
+}

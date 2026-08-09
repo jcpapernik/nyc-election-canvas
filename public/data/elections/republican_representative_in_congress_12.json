@@ -1,0 +1,40 @@
+{
+  "id": "republican_representative_in_congress_12",
+  "name": "2026 Primary - Representative in Congress District 12",
+  "date": "2026-06-23",
+  "party": "Republican",
+  "officeCategory": "US House (Congressional)",
+  "districtKey": "12",
+  "districtType": "congressional",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "mike_zumbluskas",
+      "name": "Mike Zumbluskas",
+      "party": "Republican",
+      "isIncumbent": false,
+      "color": "#dc2626"
+    }
+  ],
+  "results": {
+    "12": {
+      "votes": {
+        "mike_zumbluskas": 100
+      },
+      "total": 100,
+      "winnerId": "mike_zumbluskas",
+      "margin": 100,
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "mike_zumbluskas",
+          "name": "Mike Zumbluskas",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#dc2626"
+        }
+      ]
+    }
+  },
+  "edResults": {}
+}

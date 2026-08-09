@@ -1,0 +1,40 @@
+{
+  "id": "republican_representative_in_congress_09",
+  "name": "2026 Primary - Representative in Congress District 09",
+  "date": "2026-06-23",
+  "party": "Republican",
+  "officeCategory": "US House (Congressional)",
+  "districtKey": "09",
+  "districtType": "congressional",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "menachem_raitport",
+      "name": "Menachem Raitport",
+      "party": "Republican",
+      "isIncumbent": false,
+      "color": "#ef4444"
+    }
+  ],
+  "results": {
+    "09": {
+      "votes": {
+        "menachem_raitport": 100
+      },
+      "total": 100,
+      "winnerId": "menachem_raitport",
+      "margin": 100,
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "menachem_raitport",
+          "name": "Menachem Raitport",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#ef4444"
+        }
+      ]
+    }
+  },
+  "edResults": {}
+}

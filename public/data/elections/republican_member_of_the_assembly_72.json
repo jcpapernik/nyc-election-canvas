@@ -1,0 +1,40 @@
+{
+  "id": "republican_member_of_the_assembly_72",
+  "name": "2026 Primary - Member of the Assembly District 72",
+  "date": "2026-06-23",
+  "party": "Republican",
+  "officeCategory": "NY State Assembly",
+  "districtKey": "72",
+  "districtType": "assembly",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "republican_candidate_ad_72",
+      "name": "Republican Candidate AD-72",
+      "party": "Republican",
+      "isIncumbent": false,
+      "color": "#ef4444"
+    }
+  ],
+  "results": {
+    "72": {
+      "votes": {
+        "republican_candidate_ad_72": 100
+      },
+      "total": 100,
+      "winnerId": "republican_candidate_ad_72",
+      "margin": 100,
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "republican_candidate_ad_72",
+          "name": "Republican Candidate AD-72",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#ef4444"
+        }
+      ]
+    }
+  },
+  "edResults": {}
+}

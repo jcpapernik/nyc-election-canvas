@@ -1,0 +1,40 @@
+{
+  "id": "republican_member_of_the_assembly_66",
+  "name": "2026 Primary - Member of the Assembly District 66",
+  "date": "2026-06-23",
+  "party": "Republican",
+  "officeCategory": "NY State Assembly",
+  "districtKey": "66",
+  "districtType": "assembly",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "republican_candidate_ad_66",
+      "name": "Republican Candidate AD-66",
+      "party": "Republican",
+      "isIncumbent": false,
+      "color": "#ef4444"
+    }
+  ],
+  "results": {
+    "66": {
+      "votes": {
+        "republican_candidate_ad_66": 100
+      },
+      "total": 100,
+      "winnerId": "republican_candidate_ad_66",
+      "margin": 100,
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "republican_candidate_ad_66",
+          "name": "Republican Candidate AD-66",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#ef4444"
+        }
+      ]
+    }
+  },
+  "edResults": {}
+}

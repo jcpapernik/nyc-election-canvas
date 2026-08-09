@@ -1,0 +1,40 @@
+{
+  "id": "republican_state_senator_14",
+  "name": "2026 Primary - State Senator District 14",
+  "date": "2026-06-23",
+  "party": "Republican",
+  "officeCategory": "NY State Senate",
+  "districtKey": "14",
+  "districtType": "senate",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "republican_candidate_sd_14",
+      "name": "Republican Candidate SD-14",
+      "party": "Republican",
+      "isIncumbent": false,
+      "color": "#ef4444"
+    }
+  ],
+  "results": {
+    "14": {
+      "votes": {
+        "republican_candidate_sd_14": 100
+      },
+      "total": 100,
+      "winnerId": "republican_candidate_sd_14",
+      "margin": 100,
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "republican_candidate_sd_14",
+          "name": "Republican Candidate SD-14",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#ef4444"
+        }
+      ]
+    }
+  },
+  "edResults": {}
+}

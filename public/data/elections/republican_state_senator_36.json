@@ -1,0 +1,40 @@
+{
+  "id": "republican_state_senator_36",
+  "name": "2026 Primary - State Senator District 36",
+  "date": "2026-06-23",
+  "party": "Republican",
+  "officeCategory": "NY State Senate",
+  "districtKey": "36",
+  "districtType": "senate",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "republican_candidate_sd_36",
+      "name": "Republican Candidate SD-36",
+      "party": "Republican",
+      "isIncumbent": false,
+      "color": "#ef4444"
+    }
+  ],
+  "results": {
+    "36": {
+      "votes": {
+        "republican_candidate_sd_36": 100
+      },
+      "total": 100,
+      "winnerId": "republican_candidate_sd_36",
+      "margin": 100,
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "republican_candidate_sd_36",
+          "name": "Republican Candidate SD-36",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#ef4444"
+        }
+      ]
+    }
+  },
+  "edResults": {}
+}

@@ -1,0 +1,40 @@
+{
+  "id": "republican_representative_in_congress_08",
+  "name": "2026 Primary - Representative in Congress District 08",
+  "date": "2026-06-23",
+  "party": "Republican",
+  "officeCategory": "US House (Congressional)",
+  "districtKey": "08",
+  "districtType": "congressional",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "yuri_dashevsky",
+      "name": "Yuri Dashevsky",
+      "party": "Republican",
+      "isIncumbent": false,
+      "color": "#b91c1c"
+    }
+  ],
+  "results": {
+    "08": {
+      "votes": {
+        "yuri_dashevsky": 100
+      },
+      "total": 100,
+      "winnerId": "yuri_dashevsky",
+      "margin": 100,
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "yuri_dashevsky",
+          "name": "Yuri Dashevsky",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#b91c1c"
+        }
+      ]
+    }
+  },
+  "edResults": {}
+}

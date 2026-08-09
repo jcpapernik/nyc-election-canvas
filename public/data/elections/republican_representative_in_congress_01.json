@@ -1,0 +1,40 @@
+{
+  "id": "republican_representative_in_congress_01",
+  "name": "2026 Primary - Representative in Congress District 01",
+  "date": "2026-06-23",
+  "party": "Republican",
+  "officeCategory": "US House (Congressional)",
+  "districtKey": "01",
+  "districtType": "congressional",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "nick_lalota",
+      "name": "Nick LaLota",
+      "party": "Republican",
+      "isIncumbent": false,
+      "color": "#ef4444"
+    }
+  ],
+  "results": {
+    "01": {
+      "votes": {
+        "nick_lalota": 100
+      },
+      "total": 100,
+      "winnerId": "nick_lalota",
+      "margin": 100,
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "nick_lalota",
+          "name": "Nick LaLota",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#ef4444"
+        }
+      ]
+    }
+  },
+  "edResults": {}
+}

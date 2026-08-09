@@ -1,0 +1,40 @@
+{
+  "id": "republican_representative_in_congress_06",
+  "name": "2026 Primary - Representative in Congress District 06",
+  "date": "2026-06-23",
+  "party": "Republican",
+  "officeCategory": "US House (Congressional)",
+  "districtKey": "06",
+  "districtType": "congressional",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "thomas_zmich",
+      "name": "Thomas Zmich",
+      "party": "Republican",
+      "isIncumbent": false,
+      "color": "#ef4444"
+    }
+  ],
+  "results": {
+    "06": {
+      "votes": {
+        "thomas_zmich": 100
+      },
+      "total": 100,
+      "winnerId": "thomas_zmich",
+      "margin": 100,
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "thomas_zmich",
+          "name": "Thomas Zmich",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#ef4444"
+        }
+      ]
+    }
+  },
+  "edResults": {}
+}

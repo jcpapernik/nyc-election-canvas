@@ -1,0 +1,40 @@
+{
+  "id": "republican_member_of_the_assembly_52",
+  "name": "2026 Primary - Member of the Assembly District 52",
+  "date": "2026-06-23",
+  "party": "Republican",
+  "officeCategory": "NY State Assembly",
+  "districtKey": "52",
+  "districtType": "assembly",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "republican_candidate_ad_52",
+      "name": "Republican Candidate AD-52",
+      "party": "Republican",
+      "isIncumbent": false,
+      "color": "#ef4444"
+    }
+  ],
+  "results": {
+    "52": {
+      "votes": {
+        "republican_candidate_ad_52": 100
+      },
+      "total": 100,
+      "winnerId": "republican_candidate_ad_52",
+      "margin": 100,
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "republican_candidate_ad_52",
+          "name": "Republican Candidate AD-52",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#ef4444"
+        }
+      ]
+    }
+  },
+  "edResults": {}
+}

@@ -1,0 +1,40 @@
+{
+  "id": "republican_member_of_the_city_council_12",
+  "name": "2026 Primary - Member of the City Council District 12",
+  "date": "2026-06-23",
+  "party": "Republican",
+  "officeCategory": "NYC City Council",
+  "districtKey": "12",
+  "districtType": "council",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "republican_candidate_cd_12",
+      "name": "Republican Candidate CD-12",
+      "party": "Republican",
+      "isIncumbent": false,
+      "color": "#ef4444"
+    }
+  ],
+  "results": {
+    "12": {
+      "votes": {
+        "republican_candidate_cd_12": 100
+      },
+      "total": 100,
+      "winnerId": "republican_candidate_cd_12",
+      "margin": 100,
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "republican_candidate_cd_12",
+          "name": "Republican Candidate CD-12",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#ef4444"
+        }
+      ]
+    }
+  },
+  "edResults": {}
+}

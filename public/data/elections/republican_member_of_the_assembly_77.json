@@ -1,0 +1,40 @@
+{
+  "id": "republican_member_of_the_assembly_77",
+  "name": "2026 Primary - Member of the Assembly District 77",
+  "date": "2026-06-23",
+  "party": "Republican",
+  "officeCategory": "NY State Assembly",
+  "districtKey": "77",
+  "districtType": "assembly",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "republican_candidate_ad_77",
+      "name": "Republican Candidate AD-77",
+      "party": "Republican",
+      "isIncumbent": false,
+      "color": "#ef4444"
+    }
+  ],
+  "results": {
+    "77": {
+      "votes": {
+        "republican_candidate_ad_77": 100
+      },
+      "total": 100,
+      "winnerId": "republican_candidate_ad_77",
+      "margin": 100,
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "republican_candidate_ad_77",
+          "name": "Republican Candidate AD-77",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#ef4444"
+        }
+      ]
+    }
+  },
+  "edResults": {}
+}

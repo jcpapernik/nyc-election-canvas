@@ -1,0 +1,40 @@
+{
+  "id": "republican_state_senator_28",
+  "name": "2026 Primary - State Senator District 28",
+  "date": "2026-06-23",
+  "party": "Republican",
+  "officeCategory": "NY State Senate",
+  "districtKey": "28",
+  "districtType": "senate",
+  "isUncontested": true,
+  "candidates": [
+    {
+      "id": "republican_candidate_sd_28",
+      "name": "Republican Candidate SD-28",
+      "party": "Republican",
+      "isIncumbent": false,
+      "color": "#ef4444"
+    }
+  ],
+  "results": {
+    "28": {
+      "votes": {
+        "republican_candidate_sd_28": 100
+      },
+      "total": 100,
+      "winnerId": "republican_candidate_sd_28",
+      "margin": 100,
+      "isUncontested": true,
+      "candidates": [
+        {
+          "id": "republican_candidate_sd_28",
+          "name": "Republican Candidate SD-28",
+          "party": "Republican",
+          "isIncumbent": false,
+          "color": "#ef4444"
+        }
+      ]
+    }
+  },
+  "edResults": {}
+}
