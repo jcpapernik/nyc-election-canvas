@@ -9,8 +9,8 @@
   "isUncontested": true,
   "candidates": [
     {
-      "id": "gonzalo_duran",
-      "name": "Gonzalo Duran",
+      "id": "stylo_a_sapaskis",
+      "name": "Stylo A. Sapaskis",
       "party": "Republican",
       "isIncumbent": false,
       "color": "#ef4444"
@@ -19,16 +19,16 @@
   "results": {
     "15": {
       "votes": {
-        "gonzalo_duran": 100
+        "stylo_a_sapaskis": 100
       },
       "total": 100,
-      "winnerId": "gonzalo_duran",
+      "winnerId": "stylo_a_sapaskis",
       "margin": 100,
       "isUncontested": true,
       "candidates": [
         {
-          "id": "gonzalo_duran",
-          "name": "Gonzalo Duran",
+          "id": "stylo_a_sapaskis",
+          "name": "Stylo A. Sapaskis",
           "party": "Republican",
           "isIncumbent": false,
           "color": "#ef4444"
