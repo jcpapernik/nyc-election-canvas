@@ -45,6 +45,29 @@ export function attachMapEventHandlers(
       } else if (macroBoro) districtName = macroBoro;
     }
 
+    if (districtName && currentLayer !== 'eds' && currentLayer !== 'boroughs') {
+      const normKey = normalizeDistrictKey(districtName);
+      const paddedKey = normKey.padStart(2, '0');
+      const normParty = normalizeParty(currentElection?.party);
+      const categorySlugMap: Record<string, string> = {
+        'congressional': 'representative_in_congress',
+        'senate': 'state_senator',
+        'assembly': 'member_of_the_assembly',
+        'council': 'member_of_the_city_council'
+      };
+      const slug = categorySlugMap[currentLayer] || currentLayer;
+      const candidateId1 = `${normParty}_${slug}_${paddedKey}`;
+      const candidateId2 = `${normParty}_${slug}_${normKey}`;
+
+      const indexList = electionIndexRef.current || [];
+      const match = indexList.find(r => r.id === candidateId1 || r.id === candidateId2);
+
+      if (match) {
+        lastFittedRaceIdRef.current = null;
+        setSelectedElectionId(match.id);
+      }
+    }
+
     try {
       const bbox = turf.bbox(feature as any);
       map.fitBounds(bbox as [number, number, number, number], { padding: { top: 100, bottom: 40, left: 320, right: 440 }, duration: 1500 });

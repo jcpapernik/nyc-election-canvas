@@ -73,9 +73,9 @@ export function normalizeDistrictKey(key: string): string {
 }
 
 export function normalizeParty(p?: string): string {
-  if (!p) return 'democrat';
+  if (!p) return 'democratic';
   const s = p.toLowerCase();
-  if (s.includes('dem')) return 'democrat';
+  if (s.includes('dem')) return 'democratic';
   if (s.includes('rep')) return 'republican';
   return s;
 }
