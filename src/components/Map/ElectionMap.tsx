@@ -6,7 +6,7 @@ import { useElectionStore } from '@/store/useElectionStore';
 import { lookupAllDistrictsAtPoint } from '@/lib/districtLookup';
 import { BASEMAP_STYLE_LIGHT, BOUNDARY_FILE_MAP } from './mapHelpers';
 import { setupMapLayers } from './mapLayersSetup';
-import { updateBoundaryDataOnMap } from './mapDataProcessor';
+import { updateBoundaryDataOnMap } from './mapBoundaryUpdater';
 import { fetchJsonCached } from '@/lib/fetchCache';
 
 export interface ElectionMapRefHandle {

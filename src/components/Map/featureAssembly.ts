@@ -111,10 +111,11 @@ export function assembleRenderFeatures(
 
     insideEds.forEach(f => insideEdsSet.add(f));
     renderRawFeatures = [...insideEds, ...outsideMacroDistricts];
-  } else if (isCrossLayerSubBoundaryMode && parentDataset) {
+  } else if (isCrossLayerSubBoundaryMode && parentDataset && targetMacroFeature) {
     const propNames = BOUNDARY_PROP_NAMES[boundaryLayer];
     const insideSubDistricts: GeoJSON.Feature[] = [];
     const outsideMacroDistricts: GeoJSON.Feature[] = [];
+    const targetBbox = turf.bbox(targetMacroFeature as any);
 
     (data.features || []).forEach((subFeat: any) => {
       const props = subFeat.properties || {};
@@ -126,15 +127,27 @@ export function assembleRenderFeatures(
         }
       }
       const normSubKey = normalizeDistrictKey(subKey);
-      if (resultsMap[subKey] || resultsMap[normSubKey]) {
-        try {
+      const hasDirectResult = Boolean(resultsMap[subKey] || resultsMap[normSubKey]);
+
+      try {
+        const subBbox = turf.bbox(subFeat);
+        const bboxOverlaps = !(
+          subBbox[0] > targetBbox[2] ||
+          subBbox[2] < targetBbox[0] ||
+          subBbox[1] > targetBbox[3] ||
+          subBbox[3] < targetBbox[1]
+        );
+
+        if (hasDirectResult || bboxOverlaps) {
           const clipped = turf.intersect(turf.featureCollection([subFeat, targetMacroFeature as any]));
           if (clipped && clipped.geometry) {
             insideSubDistricts.push({ ...subFeat, geometry: clipped.geometry });
-          } else {
+          } else if (bboxOverlaps) {
             insideSubDistricts.push(subFeat);
           }
-        } catch (e) {
+        }
+      } catch (e) {
+        if (hasDirectResult) {
           insideSubDistricts.push(subFeat);
         }
       }
