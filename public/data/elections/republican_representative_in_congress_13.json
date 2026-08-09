@@ -9,8 +9,8 @@
   "isUncontested": true,
   "candidates": [
     {
-      "id": "ruben_vargas",
-      "name": "Ruben Vargas",
+      "id": "republican_candidate_ny_13",
+      "name": "Republican Candidate NY-13",
       "party": "Republican",
       "isIncumbent": false,
       "color": "#ef4444"
@@ -19,16 +19,16 @@
   "results": {
     "13": {
       "votes": {
-        "ruben_vargas": 100
+        "republican_candidate_ny_13": 100
       },
       "total": 100,
-      "winnerId": "ruben_vargas",
+      "winnerId": "republican_candidate_ny_13",
       "margin": 100,
       "isUncontested": true,
       "candidates": [
         {
-          "id": "ruben_vargas",
-          "name": "Ruben Vargas",
+          "id": "republican_candidate_ny_13",
+          "name": "Republican Candidate NY-13",
           "party": "Republican",
           "isIncumbent": false,
           "color": "#ef4444"

@@ -12,7 +12,7 @@
       "id": "andrew_garbarino",
       "name": "Andrew Garbarino",
       "party": "Republican",
-      "isIncumbent": false,
+      "isIncumbent": true,
       "color": "#ef4444"
     }
   ],
@@ -30,7 +30,7 @@
           "id": "andrew_garbarino",
           "name": "Andrew Garbarino",
           "party": "Republican",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#ef4444"
         }
       ]

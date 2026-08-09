@@ -12,7 +12,7 @@
       "id": "anthony_d_esposito",
       "name": "Anthony D'Esposito",
       "party": "Republican",
-      "isIncumbent": false,
+      "isIncumbent": true,
       "color": "#ef4444"
     }
   ],
@@ -30,7 +30,7 @@
           "id": "anthony_d_esposito",
           "name": "Anthony D'Esposito",
           "party": "Republican",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#ef4444"
         }
       ]

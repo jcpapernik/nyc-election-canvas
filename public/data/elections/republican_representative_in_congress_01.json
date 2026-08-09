@@ -12,7 +12,7 @@
       "id": "nick_lalota",
       "name": "Nick LaLota",
       "party": "Republican",
-      "isIncumbent": false,
+      "isIncumbent": true,
       "color": "#ef4444"
     }
   ],
@@ -30,7 +30,7 @@
           "id": "nick_lalota",
           "name": "Nick LaLota",
           "party": "Republican",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#ef4444"
         }
       ]
