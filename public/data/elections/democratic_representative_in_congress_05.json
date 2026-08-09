@@ -4,7 +4,7 @@
   "date": "2026-06-23",
   "party": "Democratic",
   "officeCategory": "US House (Congressional)",
-  "districtKey": "5",
+  "districtKey": "05",
   "districtType": "congressional",
   "isUncontested": true,
   "candidates": [
@@ -13,15 +13,15 @@
       "name": "Gregory Meeks",
       "party": "Democratic",
       "isIncumbent": true,
-      "color": "#2563eb"
+      "color": "#3b82f6"
     }
   ],
   "results": {
-    "5": {
+    "05": {
       "votes": {
-        "gregory_meeks": 0
+        "gregory_meeks": 100
       },
-      "total": 0,
+      "total": 100,
       "winnerId": "gregory_meeks",
       "margin": 100,
       "isUncontested": true,
@@ -31,7 +31,7 @@
           "name": "Gregory Meeks",
           "party": "Democratic",
           "isIncumbent": true,
-          "color": "#2563eb"
+          "color": "#3b82f6"
         }
       ]
     }

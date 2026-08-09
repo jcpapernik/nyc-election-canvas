@@ -3,35 +3,35 @@
   "name": "2026 Primary - State Senator District 22",
   "date": "2026-06-23",
   "party": "Democratic",
-  "officeCategory": "NY State Senate",
+  "officeCategory": "State Senate",
   "districtKey": "22",
   "districtType": "senate",
   "isUncontested": true,
   "candidates": [
     {
-      "id": "sam_sutton",
-      "name": "Sam Sutton",
+      "id": "simcha_felder",
+      "name": "Simcha Felder",
       "party": "Democratic",
-      "isIncumbent": false,
-      "color": "#2563eb"
+      "isIncumbent": true,
+      "color": "#3b82f6"
     }
   ],
   "results": {
     "22": {
       "votes": {
-        "sam_sutton": 0
+        "simcha_felder": 100
       },
-      "total": 0,
-      "winnerId": "sam_sutton",
+      "total": 100,
+      "winnerId": "simcha_felder",
       "margin": 100,
       "isUncontested": true,
       "candidates": [
         {
-          "id": "sam_sutton",
-          "name": "Sam Sutton",
+          "id": "simcha_felder",
+          "name": "Simcha Felder",
           "party": "Democratic",
-          "isIncumbent": false,
-          "color": "#2563eb"
+          "isIncumbent": true,
+          "color": "#3b82f6"
         }
       ]
     }

@@ -1,34 +1,34 @@
 {
-  "id": "democratic_representative_in_congress_07",
-  "name": "2026 Primary - Representative in Congress District 07",
+  "id": "democratic_representative_in_congress_01",
+  "name": "2026 Primary - Representative in Congress District 01",
   "date": "2026-06-23",
   "party": "Democratic",
   "officeCategory": "US House (Congressional)",
-  "districtKey": "07",
+  "districtKey": "01",
   "districtType": "congressional",
   "isUncontested": true,
   "candidates": [
     {
-      "id": "claire_valdez",
-      "name": "Claire Valdez",
+      "id": "john_avlon",
+      "name": "John Avlon",
       "party": "Democratic",
       "isIncumbent": false,
       "color": "#3b82f6"
     }
   ],
   "results": {
-    "07": {
+    "01": {
       "votes": {
-        "claire_valdez": 100
+        "john_avlon": 100
       },
       "total": 100,
-      "winnerId": "claire_valdez",
+      "winnerId": "john_avlon",
       "margin": 100,
       "isUncontested": true,
       "candidates": [
         {
-          "id": "claire_valdez",
-          "name": "Claire Valdez",
+          "id": "john_avlon",
+          "name": "John Avlon",
           "party": "Democratic",
           "isIncumbent": false,
           "color": "#3b82f6"

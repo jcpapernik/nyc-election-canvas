@@ -3,14 +3,14 @@
   "name": "2026 Primary - State Senator District 13",
   "date": "2026-06-23",
   "party": "Republican",
-  "officeCategory": "NY State Senate",
+  "officeCategory": "State Senate",
   "districtKey": "13",
   "districtType": "senate",
   "isUncontested": true,
   "candidates": [
     {
       "id": "republican_nominee_sd_13",
-      "name": "Republican Nominee (SD-13)",
+      "name": "Republican Nominee SD-13",
       "party": "Republican",
       "isIncumbent": false,
       "color": "#ef4444"
@@ -28,7 +28,7 @@
       "candidates": [
         {
           "id": "republican_nominee_sd_13",
-          "name": "Republican Nominee (SD-13)",
+          "name": "Republican Nominee SD-13",
           "party": "Republican",
           "isIncumbent": false,
           "color": "#ef4444"

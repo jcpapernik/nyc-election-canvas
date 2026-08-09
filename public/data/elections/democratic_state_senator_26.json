@@ -3,7 +3,7 @@
   "name": "2026 Primary - State Senator District 26",
   "date": "2026-06-23",
   "party": "Democratic",
-  "officeCategory": "NY State Senate",
+  "officeCategory": "State Senate",
   "districtKey": "26",
   "districtType": "senate",
   "isUncontested": true,
@@ -13,15 +13,15 @@
       "name": "Andrew Gounardes",
       "party": "Democratic",
       "isIncumbent": true,
-      "color": "#2563eb"
+      "color": "#3b82f6"
     }
   ],
   "results": {
     "26": {
       "votes": {
-        "andrew_gounardes": 0
+        "andrew_gounardes": 100
       },
-      "total": 0,
+      "total": 100,
       "winnerId": "andrew_gounardes",
       "margin": 100,
       "isUncontested": true,
@@ -31,7 +31,7 @@
           "name": "Andrew Gounardes",
           "party": "Democratic",
           "isIncumbent": true,
-          "color": "#2563eb"
+          "color": "#3b82f6"
         }
       ]
     }

@@ -4,7 +4,7 @@
   "date": "2026-06-23",
   "party": "Democratic",
   "officeCategory": "US House (Congressional)",
-  "districtKey": "4",
+  "districtKey": "04",
   "districtType": "congressional",
   "isUncontested": true,
   "candidates": [
@@ -13,15 +13,15 @@
       "name": "Laura Gillen",
       "party": "Democratic",
       "isIncumbent": false,
-      "color": "#2563eb"
+      "color": "#3b82f6"
     }
   ],
   "results": {
-    "4": {
+    "04": {
       "votes": {
-        "laura_gillen": 0
+        "laura_gillen": 100
       },
-      "total": 0,
+      "total": 100,
       "winnerId": "laura_gillen",
       "margin": 100,
       "isUncontested": true,
@@ -31,7 +31,7 @@
           "name": "Laura Gillen",
           "party": "Democratic",
           "isIncumbent": false,
-          "color": "#2563eb"
+          "color": "#3b82f6"
         }
       ]
     }

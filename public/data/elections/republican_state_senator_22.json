@@ -3,34 +3,34 @@
   "name": "2026 Primary - State Senator District 22",
   "date": "2026-06-23",
   "party": "Republican",
-  "officeCategory": "NY State Senate",
+  "officeCategory": "State Senate",
   "districtKey": "22",
   "districtType": "senate",
   "isUncontested": true,
   "candidates": [
     {
-      "id": "republican_nominee_sd_22",
-      "name": "Republican Nominee (SD-22)",
+      "id": "simcha_felder",
+      "name": "Simcha Felder",
       "party": "Republican",
-      "isIncumbent": false,
+      "isIncumbent": true,
       "color": "#ef4444"
     }
   ],
   "results": {
     "22": {
       "votes": {
-        "republican_nominee_sd_22": 100
+        "simcha_felder": 100
       },
       "total": 100,
-      "winnerId": "republican_nominee_sd_22",
+      "winnerId": "simcha_felder",
       "margin": 100,
       "isUncontested": true,
       "candidates": [
         {
-          "id": "republican_nominee_sd_22",
-          "name": "Republican Nominee (SD-22)",
+          "id": "simcha_felder",
+          "name": "Simcha Felder",
           "party": "Republican",
-          "isIncumbent": false,
+          "isIncumbent": true,
           "color": "#ef4444"
         }
       ]

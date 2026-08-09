@@ -3,35 +3,35 @@
   "name": "2026 Primary - State Senator District 16",
   "date": "2026-06-23",
   "party": "Democratic",
-  "officeCategory": "NY State Senate",
+  "officeCategory": "State Senate",
   "districtKey": "16",
   "districtType": "senate",
   "isUncontested": true,
   "candidates": [
     {
-      "id": "john_liu",
-      "name": "John Liu",
+      "id": "toby_ann_stavisky",
+      "name": "Toby Ann Stavisky",
       "party": "Democratic",
       "isIncumbent": true,
-      "color": "#2563eb"
+      "color": "#3b82f6"
     }
   ],
   "results": {
     "16": {
       "votes": {
-        "john_liu": 0
+        "toby_ann_stavisky": 100
       },
-      "total": 0,
-      "winnerId": "john_liu",
+      "total": 100,
+      "winnerId": "toby_ann_stavisky",
       "margin": 100,
       "isUncontested": true,
       "candidates": [
         {
-          "id": "john_liu",
-          "name": "John Liu",
+          "id": "toby_ann_stavisky",
+          "name": "Toby Ann Stavisky",
           "party": "Democratic",
           "isIncumbent": true,
-          "color": "#2563eb"
+          "color": "#3b82f6"
         }
       ]
     }

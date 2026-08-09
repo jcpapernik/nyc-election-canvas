@@ -3,35 +3,35 @@
   "name": "2026 Primary - State Senator District 36",
   "date": "2026-06-23",
   "party": "Democratic",
-  "officeCategory": "NY State Senate",
+  "officeCategory": "State Senate",
   "districtKey": "36",
   "districtType": "senate",
   "isUncontested": true,
   "candidates": [
     {
-      "id": "jamaal_bailey",
-      "name": "Jamaal Bailey",
+      "id": "jamal_bailey",
+      "name": "Jamal Bailey",
       "party": "Democratic",
       "isIncumbent": true,
-      "color": "#2563eb"
+      "color": "#3b82f6"
     }
   ],
   "results": {
     "36": {
       "votes": {
-        "jamaal_bailey": 0
+        "jamal_bailey": 100
       },
-      "total": 0,
-      "winnerId": "jamaal_bailey",
+      "total": 100,
+      "winnerId": "jamal_bailey",
       "margin": 100,
       "isUncontested": true,
       "candidates": [
         {
-          "id": "jamaal_bailey",
-          "name": "Jamaal Bailey",
+          "id": "jamal_bailey",
+          "name": "Jamal Bailey",
           "party": "Democratic",
           "isIncumbent": true,
-          "color": "#2563eb"
+          "color": "#3b82f6"
         }
       ]
     }

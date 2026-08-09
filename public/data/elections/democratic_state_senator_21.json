@@ -3,7 +3,7 @@
   "name": "2026 Primary - State Senator District 21",
   "date": "2026-06-23",
   "party": "Democratic",
-  "officeCategory": "NY State Senate",
+  "officeCategory": "State Senate",
   "districtKey": "21",
   "districtType": "senate",
   "isUncontested": true,
@@ -13,15 +13,15 @@
       "name": "Kevin Parker",
       "party": "Democratic",
       "isIncumbent": true,
-      "color": "#2563eb"
+      "color": "#3b82f6"
     }
   ],
   "results": {
     "21": {
       "votes": {
-        "kevin_parker": 0
+        "kevin_parker": 100
       },
-      "total": 0,
+      "total": 100,
       "winnerId": "kevin_parker",
       "margin": 100,
       "isUncontested": true,
@@ -31,7 +31,7 @@
           "name": "Kevin Parker",
           "party": "Democratic",
           "isIncumbent": true,
-          "color": "#2563eb"
+          "color": "#3b82f6"
         }
       ]
     }

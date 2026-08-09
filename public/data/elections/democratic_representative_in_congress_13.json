@@ -6,7 +6,7 @@
   "officeCategory": "US House (Congressional)",
   "districtKey": "13",
   "districtType": "congressional",
-  "isUncontested": false,
+  "isUncontested": true,
   "candidates": [
     {
       "id": "darializa_avila_chevalier",
@@ -14,25 +14,17 @@
       "party": "Democratic",
       "isIncumbent": false,
       "color": "#3b82f6"
-    },
-    {
-      "id": "adriano_espaillat",
-      "name": "Adriano Espaillat",
-      "party": "Democratic",
-      "isIncumbent": true,
-      "color": "#06b6d4"
     }
   ],
   "results": {
     "13": {
       "votes": {
-        "darializa_avila_chevalier": 2500,
-        "adriano_espaillat": 1250
+        "darializa_avila_chevalier": 100
       },
-      "total": 3750,
+      "total": 100,
       "winnerId": "darializa_avila_chevalier",
-      "margin": 24.5,
-      "isUncontested": false,
+      "margin": 100,
+      "isUncontested": true,
       "candidates": [
         {
           "id": "darializa_avila_chevalier",
@@ -40,13 +32,6 @@
           "party": "Democratic",
           "isIncumbent": false,
           "color": "#3b82f6"
-        },
-        {
-          "id": "adriano_espaillat",
-          "name": "Adriano Espaillat",
-          "party": "Democratic",
-          "isIncumbent": true,
-          "color": "#06b6d4"
         }
       ]
     }

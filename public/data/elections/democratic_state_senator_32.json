@@ -3,35 +3,35 @@
   "name": "2026 Primary - State Senator District 32",
   "date": "2026-06-23",
   "party": "Democratic",
-  "officeCategory": "NY State Senate",
+  "officeCategory": "State Senate",
   "districtKey": "32",
   "districtType": "senate",
   "isUncontested": true,
   "candidates": [
     {
-      "id": "luis_r_sepúlveda",
+      "id": "luis_r_sep_lveda",
       "name": "Luis R. Sepúlveda",
       "party": "Democratic",
-      "isIncumbent": false,
-      "color": "#2563eb"
+      "isIncumbent": true,
+      "color": "#3b82f6"
     }
   ],
   "results": {
     "32": {
       "votes": {
-        "luis_r_sepúlveda": 0
+        "luis_r_sep_lveda": 100
       },
-      "total": 0,
-      "winnerId": "luis_r_sepúlveda",
+      "total": 100,
+      "winnerId": "luis_r_sep_lveda",
       "margin": 100,
       "isUncontested": true,
       "candidates": [
         {
-          "id": "luis_r_sepúlveda",
+          "id": "luis_r_sep_lveda",
           "name": "Luis R. Sepúlveda",
           "party": "Democratic",
-          "isIncumbent": false,
-          "color": "#2563eb"
+          "isIncumbent": true,
+          "color": "#3b82f6"
         }
       ]
     }

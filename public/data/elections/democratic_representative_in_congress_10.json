@@ -6,7 +6,7 @@
   "officeCategory": "US House (Congressional)",
   "districtKey": "10",
   "districtType": "congressional",
-  "isUncontested": false,
+  "isUncontested": true,
   "candidates": [
     {
       "id": "brad_lander",
@@ -14,25 +14,17 @@
       "party": "Democratic",
       "isIncumbent": false,
       "color": "#3b82f6"
-    },
-    {
-      "id": "daniel_goldman",
-      "name": "Daniel Goldman",
-      "party": "Democratic",
-      "isIncumbent": true,
-      "color": "#06b6d4"
     }
   ],
   "results": {
     "10": {
       "votes": {
-        "brad_lander": 2500,
-        "daniel_goldman": 1250
+        "brad_lander": 100
       },
-      "total": 3750,
+      "total": 100,
       "winnerId": "brad_lander",
-      "margin": 24.5,
-      "isUncontested": false,
+      "margin": 100,
+      "isUncontested": true,
       "candidates": [
         {
           "id": "brad_lander",
@@ -40,13 +32,6 @@
           "party": "Democratic",
           "isIncumbent": false,
           "color": "#3b82f6"
-        },
-        {
-          "id": "daniel_goldman",
-          "name": "Daniel Goldman",
-          "party": "Democratic",
-          "isIncumbent": true,
-          "color": "#06b6d4"
         }
       ]
     }

@@ -6,7 +6,7 @@
   "officeCategory": "US House (Congressional)",
   "districtKey": "16",
   "districtType": "congressional",
-  "isUncontested": false,
+  "isUncontested": true,
   "candidates": [
     {
       "id": "joseph_cinquemani",
@@ -14,25 +14,17 @@
       "party": "Republican",
       "isIncumbent": false,
       "color": "#ef4444"
-    },
-    {
-      "id": "john_franklin_wilson_iv",
-      "name": "John Franklin Wilson IV",
-      "party": "Republican",
-      "isIncumbent": false,
-      "color": "#f97316"
     }
   ],
   "results": {
     "16": {
       "votes": {
-        "joseph_cinquemani": 2500,
-        "john_franklin_wilson_iv": 1250
+        "joseph_cinquemani": 100
       },
-      "total": 3750,
+      "total": 100,
       "winnerId": "joseph_cinquemani",
-      "margin": 24.5,
-      "isUncontested": false,
+      "margin": 100,
+      "isUncontested": true,
       "candidates": [
         {
           "id": "joseph_cinquemani",
@@ -40,13 +32,6 @@
           "party": "Republican",
           "isIncumbent": false,
           "color": "#ef4444"
-        },
-        {
-          "id": "john_franklin_wilson_iv",
-          "name": "John Franklin Wilson IV",
-          "party": "Republican",
-          "isIncumbent": false,
-          "color": "#f97316"
         }
       ]
     }

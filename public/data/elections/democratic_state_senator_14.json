@@ -3,7 +3,7 @@
   "name": "2026 Primary - State Senator District 14",
   "date": "2026-06-23",
   "party": "Democratic",
-  "officeCategory": "NY State Senate",
+  "officeCategory": "State Senate",
   "districtKey": "14",
   "districtType": "senate",
   "isUncontested": true,
@@ -13,15 +13,15 @@
       "name": "Leroy Comrie",
       "party": "Democratic",
       "isIncumbent": true,
-      "color": "#2563eb"
+      "color": "#3b82f6"
     }
   ],
   "results": {
     "14": {
       "votes": {
-        "leroy_comrie": 0
+        "leroy_comrie": 100
       },
-      "total": 0,
+      "total": 100,
       "winnerId": "leroy_comrie",
       "margin": 100,
       "isUncontested": true,
@@ -31,7 +31,7 @@
           "name": "Leroy Comrie",
           "party": "Democratic",
           "isIncumbent": true,
-          "color": "#2563eb"
+          "color": "#3b82f6"
         }
       ]
     }

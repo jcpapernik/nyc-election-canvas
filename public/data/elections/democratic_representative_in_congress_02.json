@@ -1,34 +1,34 @@
 {
-  "id": "democratic_representative_in_congress_07",
-  "name": "2026 Primary - Representative in Congress District 07",
+  "id": "democratic_representative_in_congress_02",
+  "name": "2026 Primary - Representative in Congress District 02",
   "date": "2026-06-23",
   "party": "Democratic",
   "officeCategory": "US House (Congressional)",
-  "districtKey": "07",
+  "districtKey": "02",
   "districtType": "congressional",
   "isUncontested": true,
   "candidates": [
     {
-      "id": "claire_valdez",
-      "name": "Claire Valdez",
+      "id": "rob_lubin",
+      "name": "Rob Lubin",
       "party": "Democratic",
       "isIncumbent": false,
       "color": "#3b82f6"
     }
   ],
   "results": {
-    "07": {
+    "02": {
       "votes": {
-        "claire_valdez": 100
+        "rob_lubin": 100
       },
       "total": 100,
-      "winnerId": "claire_valdez",
+      "winnerId": "rob_lubin",
       "margin": 100,
       "isUncontested": true,
       "candidates": [
         {
-          "id": "claire_valdez",
-          "name": "Claire Valdez",
+          "id": "rob_lubin",
+          "name": "Rob Lubin",
           "party": "Democratic",
           "isIncumbent": false,
           "color": "#3b82f6"

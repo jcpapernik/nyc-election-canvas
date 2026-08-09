@@ -3,35 +3,35 @@
   "name": "2026 Primary - State Senator District 19",
   "date": "2026-06-23",
   "party": "Democratic",
-  "officeCategory": "NY State Senate",
+  "officeCategory": "State Senate",
   "districtKey": "19",
   "districtType": "senate",
   "isUncontested": true,
   "candidates": [
     {
-      "id": "roxanne_persaud",
-      "name": "Roxanne Persaud",
+      "id": "roxanne_j_persaud",
+      "name": "Roxanne J. Persaud",
       "party": "Democratic",
       "isIncumbent": true,
-      "color": "#2563eb"
+      "color": "#3b82f6"
     }
   ],
   "results": {
     "19": {
       "votes": {
-        "roxanne_persaud": 0
+        "roxanne_j_persaud": 100
       },
-      "total": 0,
-      "winnerId": "roxanne_persaud",
+      "total": 100,
+      "winnerId": "roxanne_j_persaud",
       "margin": 100,
       "isUncontested": true,
       "candidates": [
         {
-          "id": "roxanne_persaud",
-          "name": "Roxanne Persaud",
+          "id": "roxanne_j_persaud",
+          "name": "Roxanne J. Persaud",
           "party": "Democratic",
           "isIncumbent": true,
-          "color": "#2563eb"
+          "color": "#3b82f6"
         }
       ]
     }

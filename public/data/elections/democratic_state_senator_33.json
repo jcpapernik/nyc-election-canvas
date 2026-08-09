@@ -3,7 +3,7 @@
   "name": "2026 Primary - State Senator District 33",
   "date": "2026-06-23",
   "party": "Democratic",
-  "officeCategory": "NY State Senate",
+  "officeCategory": "State Senate",
   "districtKey": "33",
   "districtType": "senate",
   "isUncontested": true,
@@ -13,15 +13,15 @@
       "name": "Gustavo Rivera",
       "party": "Democratic",
       "isIncumbent": true,
-      "color": "#2563eb"
+      "color": "#3b82f6"
     }
   ],
   "results": {
     "33": {
       "votes": {
-        "gustavo_rivera": 0
+        "gustavo_rivera": 100
       },
-      "total": 0,
+      "total": 100,
       "winnerId": "gustavo_rivera",
       "margin": 100,
       "isUncontested": true,
@@ -31,7 +31,7 @@
           "name": "Gustavo Rivera",
           "party": "Democratic",
           "isIncumbent": true,
-          "color": "#2563eb"
+          "color": "#3b82f6"
         }
       ]
     }

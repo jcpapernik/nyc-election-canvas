@@ -3,14 +3,14 @@
   "name": "2026 Primary - State Senator District 25",
   "date": "2026-06-23",
   "party": "Republican",
-  "officeCategory": "NY State Senate",
+  "officeCategory": "State Senate",
   "districtKey": "25",
   "districtType": "senate",
   "isUncontested": true,
   "candidates": [
     {
       "id": "republican_nominee_sd_25",
-      "name": "Republican Nominee (SD-25)",
+      "name": "Republican Nominee SD-25",
       "party": "Republican",
       "isIncumbent": false,
       "color": "#ef4444"
@@ -28,7 +28,7 @@
       "candidates": [
         {
           "id": "republican_nominee_sd_25",
-          "name": "Republican Nominee (SD-25)",
+          "name": "Republican Nominee SD-25",
           "party": "Republican",
           "isIncumbent": false,
           "color": "#ef4444"

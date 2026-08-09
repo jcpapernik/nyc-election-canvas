@@ -3,7 +3,7 @@
   "name": "2026 Primary - State Senator District 20",
   "date": "2026-06-23",
   "party": "Democratic",
-  "officeCategory": "NY State Senate",
+  "officeCategory": "State Senate",
   "districtKey": "20",
   "districtType": "senate",
   "isUncontested": true,
@@ -13,15 +13,15 @@
       "name": "Zellnor Myrie",
       "party": "Democratic",
       "isIncumbent": true,
-      "color": "#2563eb"
+      "color": "#3b82f6"
     }
   ],
   "results": {
     "20": {
       "votes": {
-        "zellnor_myrie": 0
+        "zellnor_myrie": 100
       },
-      "total": 0,
+      "total": 100,
       "winnerId": "zellnor_myrie",
       "margin": 100,
       "isUncontested": true,
@@ -31,7 +31,7 @@
           "name": "Zellnor Myrie",
           "party": "Democratic",
           "isIncumbent": true,
-          "color": "#2563eb"
+          "color": "#3b82f6"
         }
       ]
     }

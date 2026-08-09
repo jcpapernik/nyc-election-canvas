@@ -3,14 +3,14 @@
   "name": "2026 Primary - State Senator District 26",
   "date": "2026-06-23",
   "party": "Republican",
-  "officeCategory": "NY State Senate",
+  "officeCategory": "State Senate",
   "districtKey": "26",
   "districtType": "senate",
   "isUncontested": true,
   "candidates": [
     {
-      "id": "republican_nominee_sd_26",
-      "name": "Republican Nominee (SD-26)",
+      "id": "brian_fox",
+      "name": "Brian Fox",
       "party": "Republican",
       "isIncumbent": false,
       "color": "#ef4444"
@@ -19,16 +19,16 @@
   "results": {
     "26": {
       "votes": {
-        "republican_nominee_sd_26": 100
+        "brian_fox": 100
       },
       "total": 100,
-      "winnerId": "republican_nominee_sd_26",
+      "winnerId": "brian_fox",
       "margin": 100,
       "isUncontested": true,
       "candidates": [
         {
-          "id": "republican_nominee_sd_26",
-          "name": "Republican Nominee (SD-26)",
+          "id": "brian_fox",
+          "name": "Brian Fox",
           "party": "Republican",
           "isIncumbent": false,
           "color": "#ef4444"
