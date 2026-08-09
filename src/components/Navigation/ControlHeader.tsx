@@ -61,6 +61,9 @@ export const ControlHeader: React.FC<ControlHeaderProps> = ({ onSearchSelect }) 
   }, [selectedElectionId]);
 
   const activeRaceItem = racesIndex.find(r => r.id === selectedElectionId);
+  const electionData = useElectionStore(s => s.electionData);
+  const isRepublican = selectedElectionId?.startsWith('republican') || activeRaceItem?.party === 'Republican' || electionData?.party === 'Republican' || electionData?.party === 'REP';
+
   const raceButtonLabel = activeRaceItem
     ? `${activeRaceItem.name.replace('2026 Primary - ', '')}`
     : 'Select Election Race';
@@ -80,9 +83,13 @@ export const ControlHeader: React.FC<ControlHeaderProps> = ({ onSearchSelect }) 
 
   return (
     <>
-      <header className="fixed top-0 left-0 right-0 z-30 border-b border-slate-200 bg-white/95 text-slate-900 px-5 py-3 flex flex-col md:flex-row items-center justify-between gap-3 shadow-sm backdrop-blur-md">
+      <header className={`fixed top-0 left-0 right-0 z-30 border-b px-5 py-3 flex flex-col md:flex-row items-center justify-between gap-3 shadow-md backdrop-blur-md transition-colors duration-300 ${
+        isRepublican ? 'border-red-200 bg-red-50/90 text-red-950' : 'border-blue-200 bg-blue-50/90 text-blue-950'
+      }`}>
         <div className="flex items-center space-x-3 shrink-0">
-          <div className="p-2 rounded-xl bg-blue-600 text-white shadow-md flex items-center justify-center">
+          <div className={`p-2 rounded-xl text-white shadow-md flex items-center justify-center transition-colors ${
+            isRepublican ? 'bg-red-600 shadow-red-500/30' : 'bg-blue-600 shadow-blue-500/30'
+          }`}>
             <MapIcon className="w-5 h-5" />
           </div>
           <div>
@@ -90,12 +97,14 @@ export const ControlHeader: React.FC<ControlHeaderProps> = ({ onSearchSelect }) 
               <h1 className="font-extrabold text-base tracking-tight text-slate-900">
                 NYC ELECTION CANVAS
               </h1>
-              <span className="px-2 py-0.5 rounded-md text-[10px] font-bold bg-blue-50 text-blue-700 border border-blue-200 flex items-center gap-1">
-                <ShieldCheck className="w-3 h-3 text-blue-600" />
-                LIVE VOTE.NYC DATA FEED
+              <span className={`px-2.5 py-0.5 rounded-lg text-[11px] font-black uppercase tracking-wider text-white shadow-sm flex items-center gap-1.5 transition-colors ${
+                isRepublican ? 'bg-red-600 border border-red-700 shadow-red-500/20' : 'bg-blue-600 border border-blue-700 shadow-blue-500/20'
+              }`}>
+                <ShieldCheck className="w-3.5 h-3.5" />
+                {isRepublican ? 'REPUBLICAN PRIMARY' : 'DEMOCRATIC PRIMARY'}
               </span>
             </div>
-            <p className="text-xs text-slate-600 font-medium">
+            <p className="text-xs font-semibold text-slate-600">
               2D Spatial Election Map & Precinct Inspector
             </p>
           </div>
@@ -104,18 +113,26 @@ export const ControlHeader: React.FC<ControlHeaderProps> = ({ onSearchSelect }) 
         <AddressSearchBox onSearchSelect={onSearchSelect} />
 
         <div className="flex items-center space-x-2 shrink-0">
-          {/* Map View Mode Segmented Control (Choropleth vs Bubbles vs Hybrid) */}
-          <div className="flex items-center p-0.5 rounded-xl border border-slate-200 bg-slate-100 text-slate-700 text-xs font-bold">
+          {/* Map View Mode Segmented Control */}
+          <div className="flex items-center p-0.5 rounded-xl border border-slate-200 bg-white/80 text-slate-700 text-xs font-bold shadow-sm">
             <button
               onClick={() => setMapViewMode('choropleth')}
-              className={`px-2.5 py-1 rounded-lg transition-all ${mapViewMode === 'choropleth' ? 'bg-white text-blue-700 shadow-sm font-extrabold' : 'hover:text-slate-900'}`}
+              className={`px-2.5 py-1 rounded-lg transition-all ${
+                mapViewMode === 'choropleth'
+                  ? (isRepublican ? 'bg-red-600 text-white shadow-sm font-extrabold' : 'bg-blue-600 text-white shadow-sm font-extrabold')
+                  : 'hover:text-slate-900'
+              }`}
               title="Standard Shaded Map"
             >
               Choropleth
             </button>
             <button
               onClick={() => setMapViewMode('bubbles')}
-              className={`px-2.5 py-1 rounded-lg transition-all ${mapViewMode === 'bubbles' ? 'bg-white text-blue-700 shadow-sm font-extrabold' : 'hover:text-slate-900'}`}
+              className={`px-2.5 py-1 rounded-lg transition-all ${
+                mapViewMode === 'bubbles'
+                  ? (isRepublican ? 'bg-red-600 text-white shadow-sm font-extrabold' : 'bg-blue-600 text-white shadow-sm font-extrabold')
+                  : 'hover:text-slate-900'
+              }`}
               title="NYT-Style Proportional Circles (Vote Margin Size)"
             >
               Bubbles
@@ -125,11 +142,15 @@ export const ControlHeader: React.FC<ControlHeaderProps> = ({ onSearchSelect }) 
           {/* Race Selector Modal Trigger Button */}
           <button
             onClick={() => setIsModalOpen(true)}
-            className="flex items-center space-x-2 rounded-xl px-3 py-1.5 border border-blue-300 bg-blue-50 text-blue-950 hover:bg-blue-100 text-xs font-extrabold shadow-sm transition-all"
+            className={`flex items-center space-x-2 rounded-xl px-3 py-1.5 border text-xs font-extrabold shadow-sm transition-all ${
+              isRepublican
+                ? 'border-red-300 bg-white text-red-950 hover:bg-red-100/80'
+                : 'border-blue-300 bg-white text-blue-950 hover:bg-blue-100/80'
+            }`}
           >
-            <Vote className="w-4 h-4 text-blue-600 shrink-0" />
+            <Vote className={`w-4 h-4 shrink-0 ${isRepublican ? 'text-red-600' : 'text-blue-600'}`} />
             <span className="max-w-[160px] truncate">{raceButtonLabel}</span>
-            <ChevronDown className="w-3.5 h-3.5 text-blue-600 shrink-0" />
+            <ChevronDown className={`w-3.5 h-3.5 shrink-0 ${isRepublican ? 'text-red-600' : 'text-blue-600'}`} />
           </button>
 
           {/* Boundary Layer Dropdown */}

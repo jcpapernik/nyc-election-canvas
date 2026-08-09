@@ -84,6 +84,28 @@ export function processAndRenderBoundaryData(
         'Brooklyn': citywideRes,
         'Manhattan': citywideRes
       };
+    } else if (electionData.isUncontested) {
+      const topCand = electionData.candidates?.[0];
+      const uncontestedRes = {
+        votes: topCand ? { [topCand.id]: 100 } : {},
+        total: 100,
+        winnerId: topCand?.id || '',
+        margin: 100,
+        isUncontested: true,
+        candidates: electionData.candidates
+      };
+
+      const distKey = String((electionData as any).districtKey || '');
+      const normDKey = normalizeDistrictKey(distKey);
+      const paddedDKey = distKey.length === 1 ? `0${distKey}` : distKey;
+
+      resultsMap = {
+        [distKey]: uncontestedRes,
+        [normDKey]: uncontestedRes,
+        [paddedDKey]: uncontestedRes,
+        ...(electionData.results || {}),
+        ...(electionData.edResults || {})
+      };
     } else if (boundaryLayer === 'eds' && electionData.edResults) {
       resultsMap = electionData.edResults;
     } else if (boundaryLayer === electionData.districtType) {
